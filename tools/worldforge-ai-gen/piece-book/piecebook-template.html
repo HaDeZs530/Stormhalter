@@ -25,6 +25,7 @@ button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-vis
 .sprite{width:100px;height:100px;background:#55555f;border-radius:4px;image-rendering:pixelated}
 .hd{min-width:0}
 .hd .nm{font-weight:600;word-break:break-word}
+.use{color:var(--accent)}
 .hd .meta{font:11px var(--mono);color:var(--muted);margin-top:2px;word-break:break-word}
 .fields{grid-column:1/-1;display:grid;gap:5px;min-width:0}
 .f{display:grid;grid-template-columns:76px 1fr;gap:6px;align-items:start;font-size:12px}
@@ -78,7 +79,7 @@ function card(p){
   const d=document.createElement('div'); d.className='card'; d.dataset.n=p.n;
   d.appendChild(spriteCanvas(p.id));
   const hd=document.createElement('div'); hd.className='hd';
-  hd.innerHTML=`<div class="nm">${esc(p.name||'(no palette name)')}</div><div class="meta">id ${p.id} · #${p.n}<br>${esc(p.type.replace('Component',''))} · ${esc(p.category)}${p.props&&Object.keys(p.props).length?'<br>'+esc(Object.entries(p.props).filter(([k])=>!['name'].includes(k)).map(([k,v])=>k+' '+v).join(' · ')):''}</div>`;
+  hd.innerHTML=`<div class="nm">${esc(p.name||'(no palette name)')}</div><div class="meta">id ${p.id} · #${p.n}<br>${esc(p.type.replace('Component',''))} · ${esc(p.category)}${p.props&&Object.keys(p.props).length?'<br>'+esc(Object.entries(p.props).filter(([k])=>!['name'].includes(k)).map(([k,v])=>k+' '+v).join(' · ')):''}${p.usage?'<br><span class="use">used: '+esc(p.usage)+'</span>':''}</div>`;
   d.appendChild(hd);
   const fs=document.createElement('div'); fs.className='fields';
   for(const [k,label] of FIELDS){
@@ -113,7 +114,7 @@ function render(){
     if(state.pl&&val(p,'placement')!==state.pl) continue;
     if(state.edited&&!(edits[p.n]&&Object.keys(edits[p.n]).some(k=>k!=='flag'))) continue;
     if(state.flag&&!(edits[p.n]&&edits[p.n].flag===true)) continue;
-    if(q){ const hay=[p.name,p.id,p.n,p.category,val(p,'look'),val(p,'kind'),val(p,'mood'),val(p,'notes')].join(' ').toLowerCase(); if(!hay.includes(q)) continue; }
+    if(q){ const hay=[p.name,p.id,p.n,p.category,val(p,'look'),val(p,'kind'),val(p,'mood'),val(p,'notes'),p.usage].join(' ').toLowerCase(); if(!hay.includes(q)) continue; }
     grid.appendChild(card(p)); n++; if(n>=400) break;
   }
   document.getElementById('count').textContent=n+(n>=400?'+ shown (narrow the filter)':' shown');
