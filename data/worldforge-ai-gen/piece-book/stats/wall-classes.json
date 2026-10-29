@@ -1,0 +1,458 @@
+{
+ "25": {
+  "class": "H",
+  "name": "Dungeon (H)"
+ },
+ "26": {
+  "class": "V",
+  "name": "Dungeon (V)"
+ },
+ "27": {
+  "class": "H",
+  "name": "Town (H)"
+ },
+ "28": {
+  "class": "V",
+  "name": "Town (V)"
+ },
+ "29": {
+  "class": "H",
+  "name": "Temple (H)"
+ },
+ "30": {
+  "class": "V",
+  "name": "Temple (V)"
+ },
+ "31": {
+  "class": "mass",
+  "name": "Solid Rock"
+ },
+ "32": {
+  "class": "C",
+  "name": "Dungeon (C)"
+ },
+ "33": {
+  "class": "C",
+  "name": "Town (C)"
+ },
+ "34": {
+  "class": "C",
+  "name": "Temple (C)"
+ },
+ "104": {
+  "class": "C",
+  "name": "Portal Pillar"
+ },
+ "139": {
+  "class": "H",
+  "name": "Dirty Marble (H)"
+ },
+ "140": {
+  "class": "V",
+  "name": "Dirty Marble (V)"
+ },
+ "143": {
+  "class": "C",
+  "name": "Dirty Marble (C)"
+ },
+ "145": {
+  "class": "H",
+  "name": "Heavy Logs (H)"
+ },
+ "146": {
+  "class": "V",
+  "name": "Heavy Logs (V)"
+ },
+ "149": {
+  "class": "C",
+  "name": "Heavy Logs (C)"
+ },
+ "151": {
+  "class": "H",
+  "name": "Dragon (H)"
+ },
+ "152": {
+  "class": "V",
+  "name": "Dragon (V)"
+ },
+ "155": {
+  "class": "C",
+  "name": "Dragon (C)"
+ },
+ "157": {
+  "class": "H",
+  "name": "(grove rock wall, horizontal)"
+ },
+ "158": {
+  "class": "V",
+  "name": "(grove rock wall, vertical)"
+ },
+ "159": {
+  "class": "C",
+  "name": "Cave (C)"
+ },
+ "168": {
+  "class": "C",
+  "name": "Dirty Marble Pillar"
+ },
+ "223": {
+  "class": "H",
+  "name": "Thicket (H)"
+ },
+ "224": {
+  "class": "V",
+  "name": "Thicket (V)"
+ },
+ "225": {
+  "class": "C",
+  "name": "Thicket (C)"
+ },
+ "258": {
+  "class": "H",
+  "name": "Egyptian (H)"
+ },
+ "259": {
+  "class": "V",
+  "name": "Egyptian (V)"
+ },
+ "262": {
+  "class": "C",
+  "name": "Egyptian (C)"
+ },
+ "271": {
+  "class": "H",
+  "name": "Egyptian Life (H)"
+ },
+ "272": {
+  "class": "V",
+  "name": "Egyptian Life (V)"
+ },
+ "273": {
+  "class": "H",
+  "name": "Egyptian Life (H)"
+ },
+ "274": {
+  "class": "V",
+  "name": "Egyptian Life (V)"
+ },
+ "275": {
+  "class": "H",
+  "name": "Egyptian Sobet (H)"
+ },
+ "284": {
+  "class": "V",
+  "name": "Egyptian Horus (V)"
+ },
+ "285": {
+  "class": "H",
+  "name": "Egyptian Osiris (H)"
+ },
+ "286": {
+  "class": "V",
+  "name": "Egyptian Osiris (V)"
+ },
+ "287": {
+  "class": "H",
+  "name": "Egyptian Sekhmet (H)"
+ },
+ "288": {
+  "class": "V",
+  "name": "Egyptian Sekhmet (V)"
+ },
+ "295": {
+  "class": "H",
+  "name": "Egyptian Re.Harakhti (H)"
+ },
+ "296": {
+  "class": "V",
+  "name": "Egyptian Re.Harakhti (V)"
+ },
+ "297": {
+  "class": "H",
+  "name": "Egyptian Anubis (V)"
+ },
+ "298": {
+  "class": "V",
+  "name": "Egyptian Anubis (H)"
+ },
+ "313": {
+  "class": "C",
+  "name": "Sandstone Pillar"
+ },
+ "333": {
+  "class": "H",
+  "name": "Dirt (H)"
+ },
+ "334": {
+  "class": "V",
+  "name": "Dirt (V)"
+ },
+ "335": {
+  "class": "H",
+  "name": "Granite (H)"
+ },
+ "336": {
+  "class": "V",
+  "name": "Granite (V)"
+ },
+ "346": {
+  "class": "H",
+  "name": "Sandstone (H)"
+ },
+ "347": {
+  "class": "V",
+  "name": "Sandstone (V)"
+ },
+ "355": {
+  "class": "C",
+  "name": "Dirt (C)"
+ },
+ "357": {
+  "class": "C",
+  "name": "Granite (C)"
+ },
+ "359": {
+  "class": "C",
+  "name": "Sandstone (C)"
+ },
+ "362": {
+  "class": "H",
+  "name": "Red Shoji (H)"
+ },
+ "363": {
+  "class": "V",
+  "name": "Red Shoji (V)"
+ },
+ "366": {
+  "class": "C",
+  "name": "Red Shoji (C)"
+ },
+ "371": {
+  "class": "C",
+  "name": "Stalagmite"
+ },
+ "381": {
+  "class": "H",
+  "name": "Undead (H)"
+ },
+ "382": {
+  "class": "V",
+  "name": "Undead (V)"
+ },
+ "383": {
+  "class": "H",
+  "name": "Blue Marble (H)"
+ },
+ "384": {
+  "class": "V",
+  "name": "Blue Marble (V)"
+ },
+ "407": {
+  "class": "C",
+  "name": "Undead (C)"
+ },
+ "409": {
+  "class": "C",
+  "name": "Blue Marble (C)"
+ },
+ "413": {
+  "class": "H",
+  "name": "Mines (H)"
+ },
+ "414": {
+  "class": "V",
+  "name": "Mines (V)"
+ },
+ "417": {
+  "class": "C",
+  "name": "Mines (C)"
+ },
+ "428": {
+  "class": "H",
+  "name": "Dragon (H)"
+ },
+ "429": {
+  "class": "V",
+  "name": "Dragon (V)"
+ },
+ "431": {
+  "class": "V",
+  "name": "Dragon Window (V)"
+ },
+ "443": {
+  "class": "C",
+  "name": "Dragon (C)"
+ },
+ "446": {
+  "class": "mass",
+  "name": "Solid Dirt"
+ },
+ "447": {
+  "class": "mass",
+  "name": "Solid Granite"
+ },
+ "448": {
+  "class": "mass",
+  "name": "Solid Sandstone"
+ },
+ "459": {
+  "class": "H",
+  "name": "Highmountain (H)"
+ },
+ "460": {
+  "class": "V",
+  "name": "Highmountain (V)"
+ },
+ "463": {
+  "class": "C",
+  "name": "Highmountain (C)"
+ },
+ "470": {
+  "class": "H",
+  "name": "Pagoda Shoji (H)"
+ },
+ "471": {
+  "class": "V",
+  "name": "Pagoda Shoji (V)"
+ },
+ "474": {
+  "class": "H",
+  "name": "Pagoda Framed (H)"
+ },
+ "475": {
+  "class": "V",
+  "name": "Pagoda Framed (V)"
+ },
+ "480": {
+  "class": "C",
+  "name": "Pagoda (C)"
+ },
+ "482": {
+  "class": "H",
+  "name": "Pagoda Framed (H)"
+ },
+ "483": {
+  "class": "V",
+  "name": "Pagoda Framed (V)"
+ },
+ "702": {
+  "class": "C",
+  "name": "Big City wall corner column"
+ },
+ "708": {
+  "class": "C",
+  "name": " panel corner post "
+ },
+ "713": {
+  "class": "H",
+  "name": " Lodge wall (H) "
+ },
+ "714": {
+  "class": "C",
+  "name": " Lodge corner post "
+ },
+ "862": {
+  "class": "H",
+  "name": "Big City wall alt 1 H"
+ },
+ "863": {
+  "class": "V",
+  "name": "Big City wall alt 1 V"
+ },
+ "1096": {
+  "class": "C",
+  "name": "Swamp cave pillar"
+ },
+ "1114": {
+  "class": "H",
+  "name": "Swamp cave wall vine (H)"
+ },
+ "1115": {
+  "class": "V",
+  "name": "Swamp cave wall vine (V)"
+ },
+ "1117": {
+  "class": "H",
+  "name": "palace wall (H)"
+ },
+ "1119": {
+  "class": "V",
+  "name": "palace pillar left wall (v)"
+ },
+ "1120": {
+  "class": "V",
+  "name": "palace wall (v)"
+ },
+ "1121": {
+  "class": "V",
+  "name": "palace pillar right wall (v)"
+ },
+ "1124": {
+  "class": "C",
+  "name": "column"
+ },
+ "1213": {
+  "class": "H",
+  "name": "mine wall (h)"
+ },
+ "1215": {
+  "class": "V",
+  "name": "mine wall (v)"
+ },
+ "1218": {
+  "class": "V",
+  "name": "(mine rock wall, vertical)"
+ },
+ "1219": {
+  "class": "C",
+  "name": "mine pillar"
+ },
+ "1220": {
+  "class": "C",
+  "name": "(mine rock corner post)"
+ },
+ "1221": {
+  "class": "mass",
+  "name": "mine solid"
+ },
+ "1231": {
+  "class": "C",
+  "name": "irr post"
+ },
+ "1282": {
+  "class": "H",
+  "name": "dungeon dreary desaturated blue wall H"
+ },
+ "1284": {
+  "class": "V",
+  "name": "dungeon dreary desaturated blue wall V"
+ },
+ "1285": {
+  "class": "C",
+  "name": "dungeon dreary desaturated blue column"
+ },
+ "1292": {
+  "class": "H",
+  "name": "dungeon dreary desaturated blue bare wall H"
+ },
+ "1293": {
+  "class": "V",
+  "name": "dungeon dreary desaturated blue bare wall V"
+ },
+ "1294": {
+  "class": "H",
+  "name": "dungeon dreary desaturated blue demonhead wall V"
+ },
+ "1367": {
+  "class": "C",
+  "name": "nidavellir post"
+ },
+ "1380": {
+  "class": "H",
+  "name": "nidavellir mythril wall (h)"
+ },
+ "1381": {
+  "class": "V",
+  "name": "nidavellir mythril wall (v)"
+ }
+}
