@@ -1,0 +1,784 @@
+[
+  {
+    "n": 1008,
+    "id": 1201,
+    "look": "A tall brown wooden wardrobe has panelled faces and a deep side receding diagonally toward the upper left.",
+    "kind": "vertical wooden wardrobe",
+    "setting": [
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Place it along a vertical bedroom wall to add substantial clothing storage.",
+    "notes": ""
+  },
+  {
+    "n": 1009,
+    "id": 1202,
+    "look": "A broad brown wooden wardrobe has panelled doors and a deep top extending diagonally rightward.",
+    "kind": "horizontal wooden wardrobe",
+    "setting": [
+      "home"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "against-wall",
+    "scene_use": "Place it along a horizontal bedroom wall to add substantial clothing storage.",
+    "notes": ""
+  },
+  {
+    "n": 1010,
+    "id": 1203,
+    "look": "A squat brown wooden cabinet has a square top, dark seams, and a small front drawer.",
+    "kind": "horizontal wooden nightstand",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Set it beside a bed to add practical bedside storage.",
+    "notes": ""
+  },
+  {
+    "n": 1011,
+    "id": 1204,
+    "look": "A narrow brown wooden cabinet has a tall slanted side and a small panelled front.",
+    "kind": "vertical wooden nightstand",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Set it beside a vertically arranged bed to complete a modest sleeping area.",
+    "notes": ""
+  },
+  {
+    "n": 1012,
+    "id": 1207,
+    "look": "A narrow brown bunk frame contains grey bedding, a pale pillow, and a long wooden side support.",
+    "kind": "vertical bunk bed",
+    "setting": [
+      "home",
+      "camp"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Use it in shared quarters to suggest compact utilitarian sleeping accommodation.",
+    "notes": ""
+  },
+  {
+    "n": 1013,
+    "id": 1208,
+    "look": "A long brown bunk frame runs left-right with grey bedding, a pale left pillow, and a wooden lower rail.",
+    "kind": "horizontal bunk bed",
+    "setting": [
+      "home",
+      "camp"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "against-wall",
+    "scene_use": "Use it along a horizontal dormitory wall to suggest shared sleeping accommodation.",
+    "notes": ""
+  },
+  {
+    "n": 1014,
+    "id": 1209,
+    "look": "A small brown round-topped chest runs left-right with bright pale curved reinforcing bands.",
+    "kind": "banded wooden chest",
+    "setting": [
+      "home",
+      "ship"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a bunk or wall to suggest personal storage.",
+    "notes": "Label says big chest, but it appears small on this sheet."
+  },
+  {
+    "n": 1015,
+    "id": 1210,
+    "look": "A small brown round-topped chest has pale curved bands and a narrow upright orientation.",
+    "kind": "banded wooden chest",
+    "setting": [
+      "home",
+      "ship"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place it at the end of a bed to suggest personal storage.",
+    "notes": "Label says big chest, but it appears small on this sheet."
+  },
+  {
+    "n": 1016,
+    "id": 1211,
+    "look": "Two small circular vessels and a tiny yellow-white object form a loose diagonal grouping.",
+    "kind": "bedside accessory grouping",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it on bedside furniture to add small domestic accessories.",
+    "notes": "No nightstand is visible; the name is truncated."
+  },
+  {
+    "n": 1017,
+    "id": 1212,
+    "look": "A tiny pale object with a yellow tip sits alone on a shallow diagonal.",
+    "kind": "small candle accessory",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it on a nightstand to suggest a small bedside candle.",
+    "notes": "No nightstand is visible."
+  },
+  {
+    "n": 1018,
+    "id": 1242,
+    "look": "A round black cauldron has a wide dark mouth, grey rim highlights, and a short rounded body.",
+    "kind": "black metal cauldron",
+    "setting": [
+      "wizard",
+      "tavern"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Use it in a kitchen or workroom to suggest a heavy cooking or mixing vessel.",
+    "notes": ""
+  },
+  {
+    "n": 1019,
+    "id": 1244,
+    "look": "A pale grey grave marker has a rounded carved head and a layered base on a shallow diagonal.",
+    "kind": "rounded carved headstone",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place it in a burial ground to create an orderly memorial.",
+    "notes": ""
+  },
+  {
+    "n": 1020,
+    "id": 1247,
+    "look": "A small pale rectangular grave marker has a flat face and a layered shallow base.",
+    "kind": "small rectangular headstone",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Use it among larger graves to vary the size of memorials.",
+    "notes": ""
+  },
+  {
+    "n": 1021,
+    "id": 1248,
+    "look": "A pale stone cross projects above a stepped rectangular base on a shallow diagonal.",
+    "kind": "stone cross headstone",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Use it in a burial ground to add a distinct cross-shaped memorial.",
+    "notes": ""
+  },
+  {
+    "n": 1022,
+    "id": 1249,
+    "look": "A tall pale sarcophagus lid bears a carved robed reclining figure within a raised rectangular border.",
+    "kind": "figural stone sarcophagus",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place it lengthwise in a tomb to add a prominent sculpted burial.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1023,
+    "id": 1250,
+    "look": "A tall plain pale stone sarcophagus has a flat rectangular lid and a stepped base.",
+    "kind": "plain vertical sarcophagus",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place it in a narrow burial chamber to add a simple formal tomb.",
+    "notes": ""
+  },
+  {
+    "n": 1024,
+    "id": 1251,
+    "look": "A tall pale sarcophagus lid bears a detailed carved figure and geometric decoration within a raised border.",
+    "kind": "ornate vertical sarcophagus",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Use it as the main tomb in a burial chamber to add ornate stonework.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1025,
+    "id": 1252,
+    "look": "A narrow pale headstone has a rounded carved face and layered edges, rising toward the upper left.",
+    "kind": "vertical rounded headstone",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a vertical grave row to add a carved memorial.",
+    "notes": ""
+  },
+  {
+    "n": 1026,
+    "id": 1253,
+    "look": "A small pale rectangular headstone has a narrow upright face with a stepped base.",
+    "kind": "small upright headstone",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Use it along a narrow burial row to add a modest marker.",
+    "notes": ""
+  },
+  {
+    "n": 1027,
+    "id": 1254,
+    "look": "A pale stone cross stands on a narrow stepped base, leaning toward the upper left.",
+    "kind": "vertical cross headstone",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place it along a vertical burial row to add a cross-shaped memorial.",
+    "notes": ""
+  },
+  {
+    "n": 1028,
+    "id": 1255,
+    "look": "A broad pale sarcophagus lies left-right with a carved reclining figure and detailed bordered lid.",
+    "kind": "ornate horizontal sarcophagus",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Use it across a tomb chamber to add a richly carved burial.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1029,
+    "id": 1256,
+    "look": "A broad pale sarcophagus lid shows a reclining robed figure with the head at the left.",
+    "kind": "figural horizontal sarcophagus",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place it across a tomb alcove to add a sculpted burial monument.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1030,
+    "id": 1257,
+    "look": "A broad pale rectangular sarcophagus has a plain flat lid and a layered stone border.",
+    "kind": "plain horizontal sarcophagus",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place it across a burial chamber to add a simple formal tomb.",
+    "notes": ""
+  },
+  {
+    "n": 1031,
+    "id": 1274,
+    "look": "A purple robed statue has a hooded head, folded upper body, and long skirt leaning toward the upper left.",
+    "kind": "hooded robed statue",
+    "setting": [
+      "temple",
+      "wizard"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside an entrance or ritual chamber to add a solemn robed silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 1032,
+    "id": 1298,
+    "look": "A slate blue robed statue has a hooded head, folded upper body, and long skirt leaning toward the upper left.",
+    "kind": "hooded robed statue",
+    "setting": [
+      "temple",
+      "wizard"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside an entrance or ritual chamber to add a solemn robed silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 1033,
+    "id": 1322,
+    "look": "A muted green robed statue has a hooded head, folded upper body, and long skirt leaning toward the upper left.",
+    "kind": "hooded robed statue",
+    "setting": [
+      "temple",
+      "wizard"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside an entrance or ritual chamber to add a solemn robed silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 1034,
+    "id": 1275,
+    "look": "A purple robed statue spreads both arms above a long flared skirt, leaning toward the upper left.",
+    "kind": "outstretched robed statue",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Use it as a decorative chamber focal point to add an open-armed sculptural figure.",
+    "notes": ""
+  },
+  {
+    "n": 1035,
+    "id": 1299,
+    "look": "A slate blue robed statue spreads both arms above a long flared skirt, leaning toward the upper left.",
+    "kind": "outstretched robed statue",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Use it as a decorative chamber focal point to add an open-armed sculptural figure.",
+    "notes": ""
+  },
+  {
+    "n": 1036,
+    "id": 1323,
+    "look": "A muted green robed statue spreads both arms above a long flared skirt, leaning toward the upper left.",
+    "kind": "outstretched robed statue",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Use it as a decorative chamber focal point to add an open-armed sculptural figure.",
+    "notes": ""
+  },
+  {
+    "n": 1037,
+    "id": 931,
+    "look": "A tiny orange-yellow flame sits on a short dark torch within a grey glow across a black diagonal panel.",
+    "kind": "torch with lighting overlay",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "against-wall",
+    "scene_use": "Place it on a horizontal wall to add a small torch and its baked-in light patch.",
+    "notes": "The black panel and grey glow are included in the sprite."
+  },
+  {
+    "n": 1038,
+    "id": 932,
+    "look": "A tiny orange-yellow flame sits on a short dark torch within a grey glow across a black diagonal panel.",
+    "kind": "torch with lighting overlay",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "against-wall",
+    "scene_use": "Place it on a vertical wall to add a small torch and its baked-in light patch.",
+    "notes": "The black panel and grey glow are included in the sprite."
+  },
+  {
+    "n": 1039,
+    "id": 976,
+    "look": "A small orange-yellow flame burns in a dark wall bowl, surrounded by a glow on a black diagonal panel.",
+    "kind": "wall brazier lighting overlay",
+    "setting": [
+      "dungeon",
+      "wizard"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "against-wall",
+    "scene_use": "Place it on a horizontal wall to add coloured fire and a visible light patch.",
+    "notes": "The black panel and glow are included in the sprite."
+  },
+  {
+    "n": 1040,
+    "id": 977,
+    "look": "A small orange-yellow flame burns in a dark wall bowl, surrounded by a glow on a black diagonal panel.",
+    "kind": "wall brazier lighting overlay",
+    "setting": [
+      "dungeon",
+      "wizard"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "against-wall",
+    "scene_use": "Place it on a vertical wall to add coloured fire and a visible light patch.",
+    "notes": "The black panel and glow are included in the sprite."
+  },
+  {
+    "n": 1041,
+    "id": 978,
+    "look": "A small vivid green flame burns in a dark wall bowl, surrounded by a glow on a black diagonal panel.",
+    "kind": "wall brazier lighting overlay",
+    "setting": [
+      "dungeon",
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "against-wall",
+    "scene_use": "Place it on a horizontal wall to add coloured fire and a visible light patch.",
+    "notes": "The black panel and glow are included in the sprite."
+  },
+  {
+    "n": 1042,
+    "id": 979,
+    "look": "A small vivid green flame burns in a dark wall bowl, surrounded by a glow on a black diagonal panel.",
+    "kind": "wall brazier lighting overlay",
+    "setting": [
+      "dungeon",
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "against-wall",
+    "scene_use": "Place it on a vertical wall to add coloured fire and a visible light patch.",
+    "notes": "The black panel and glow are included in the sprite."
+  },
+  {
+    "n": 1043,
+    "id": 980,
+    "look": "A small cyan-blue flame burns in a dark wall bowl, surrounded by a glow on a black diagonal panel.",
+    "kind": "wall brazier lighting overlay",
+    "setting": [
+      "dungeon",
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "against-wall",
+    "scene_use": "Place it on a horizontal wall to add coloured fire and a visible light patch.",
+    "notes": "The black panel and glow are included in the sprite."
+  },
+  {
+    "n": 1044,
+    "id": 981,
+    "look": "A small cyan-blue flame burns in a dark wall bowl, surrounded by a glow on a black diagonal panel.",
+    "kind": "wall brazier lighting overlay",
+    "setting": [
+      "dungeon",
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "against-wall",
+    "scene_use": "Place it on a vertical wall to add coloured fire and a visible light patch.",
+    "notes": "The black panel and glow are included in the sprite."
+  },
+  {
+    "n": 1045,
+    "id": 933,
+    "look": "A solid black broad parallelogram slopes down-right across the lower portion of the tile.",
+    "kind": "horizontal wall shadow",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer it over a horizontal wall face to create a broad darkened surface.",
+    "notes": ""
+  },
+  {
+    "n": 1046,
+    "id": 934,
+    "look": "A solid black tall parallelogram slopes down-right across the left portion of the tile.",
+    "kind": "vertical wall shadow",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer it over a vertical wall face to create a broad darkened surface.",
+    "notes": ""
+  },
+  {
+    "n": 1047,
+    "id": 935,
+    "look": "A solid black rectangle fills the lower-right portion of the tile.",
+    "kind": "rectangular floor shadow",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer it over floor tiles to define an unlit patch.",
+    "notes": ""
+  },
+  {
+    "n": 1048,
+    "id": 975,
+    "look": "A round pale-rimmed brazier holds orange-red coals within a grey halo on a broad black square.",
+    "kind": "floor brazier lighting overlay",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "free-standing",
+    "scene_use": "Place it in a chamber to provide a glowing floor fire with a baked-in shadow field.",
+    "notes": ""
+  },
+  {
+    "n": 1049,
+    "id": 1038,
+    "look": "A narrow solid black diagonal strip runs from upper left to lower right near the tile bottom.",
+    "kind": "narrow vertical wall shadow",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Align it with a thin vertical wall side to add dark edge shading.",
+    "notes": ""
+  },
+  {
+    "n": 1050,
+    "id": 1039,
+    "look": "A narrow solid black diagonal strip descends toward the right edge from higher in the tile.",
+    "kind": "narrow horizontal wall shadow",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Align it with a thin horizontal wall side to add dark edge shading.",
+    "notes": ""
+  },
+  {
+    "n": 1051,
+    "id": 982,
+    "look": "A slender black candelabra with pale yellow tips stands within a grey glow and angular black background patches.",
+    "kind": "candelabra lighting overlay",
+    "setting": [
+      "castle",
+      "temple"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a chamber wall to add candlelight and a visible shaded corner.",
+    "notes": ""
+  },
+  {
+    "n": 1052,
+    "id": 1025,
+    "look": "A slender black candelabra has a crossed base and small pale yellow lights at its slanted upper end.",
+    "kind": "unshaded metal candelabra",
+    "setting": [
+      "castle",
+      "temple"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place it freely in an interior to add candlelight without a baked-in background.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1053,
+    "id": 1029,
+    "look": "A tiny orange-yellow flame tops a short dark torch angled down toward the right.",
+    "kind": "unshaded horizontal torch",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach it to a horizontal wall to add a small warm flame without background shading.",
+    "notes": ""
+  },
+  {
+    "n": 1054,
+    "id": 1030,
+    "look": "A tiny orange-yellow flame tops a short dark torch on a steep down-right diagonal.",
+    "kind": "unshaded vertical torch",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach it to a vertical wall to add a small warm flame without background shading.",
+    "notes": ""
+  },
+  {
+    "n": 1055,
+    "id": 1037,
+    "look": "A round pale metal rim encloses bright orange, yellow, and red coals with a dark centre.",
+    "kind": "unshaded floor brazier",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place it anywhere in a chamber to add a contained floor fire.",
+    "notes": "Palette name is truncated; no surrounding black lighting panel is visible."
+  }
+]

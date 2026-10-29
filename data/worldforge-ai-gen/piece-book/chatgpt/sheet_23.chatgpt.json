@@ -1,0 +1,731 @@
+[
+  {
+    "n": 1104,
+    "id": 1176,
+    "look": "A broad pointed multicoloured panel combines blue, green, yellow, and red imagery inside a dark outline.",
+    "kind": "horizontal colourful mural panel",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Place it on a horizontal wall to add a vivid ornamental mural.",
+    "notes": "Dragon details are difficult to resolve at this scale."
+  },
+  {
+    "n": 1105,
+    "id": 1177,
+    "look": "A tall pointed stained-glass panel shows a pale central figure surrounded by red, blue, and yellow panes.",
+    "kind": "vertical figural stained glass",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Inset it into a vertical wall to add a colourful figural window.",
+    "notes": "A priest identity cannot be confirmed from the small figure."
+  },
+  {
+    "n": 1106,
+    "id": 1178,
+    "look": "A broad pointed stained-glass panel shows a pale central figure surrounded by red, blue, and yellow panes.",
+    "kind": "horizontal figural stained glass",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Inset it into a horizontal wall to add a colourful figural window.",
+    "notes": "A priest identity cannot be confirmed from the small figure."
+  },
+  {
+    "n": 1107,
+    "id": 1179,
+    "look": "A tall pointed stained-glass panel contains dense red, blue, orange, and pale decorative shapes.",
+    "kind": "vertical patterned stained glass",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Inset it into a vertical wall to add jewel-like ornamental colour.",
+    "notes": "The named court scene is not clearly resolved."
+  },
+  {
+    "n": 1108,
+    "id": 1180,
+    "look": "A broad pointed stained-glass panel contains dense red, blue, orange, and pale decorative shapes.",
+    "kind": "horizontal patterned stained glass",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Inset it into a horizontal wall to add jewel-like ornamental colour.",
+    "notes": "The named court scene is not clearly resolved."
+  },
+  {
+    "n": 1109,
+    "id": 1181,
+    "look": "A tall purple swallowtail banner has yellow edging and a white jagged central emblem.",
+    "kind": "vertical purple emblem banner",
+    "setting": [
+      "castle",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Hang it on a vertical wall to mark a ceremonial or heraldic space.",
+    "notes": ""
+  },
+  {
+    "n": 1110,
+    "id": 1182,
+    "look": "A broad purple swallowtail banner has yellow edging and a white jagged central emblem.",
+    "kind": "horizontal purple emblem banner",
+    "setting": [
+      "castle",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Hang it on a horizontal wall to mark a ceremonial or heraldic space.",
+    "notes": ""
+  },
+  {
+    "n": 1111,
+    "id": 1183,
+    "look": "A tall plain green swallowtail banner has a thin bright yellow border.",
+    "kind": "vertical green banner",
+    "setting": [
+      "castle",
+      "town"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Hang it on a vertical wall to add a simple coloured standard.",
+    "notes": ""
+  },
+  {
+    "n": 1112,
+    "id": 1184,
+    "look": "A broad plain green swallowtail banner has a thin bright yellow border.",
+    "kind": "horizontal green banner",
+    "setting": [
+      "castle",
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Hang it on a horizontal wall to add a simple coloured standard.",
+    "notes": ""
+  },
+  {
+    "n": 1113,
+    "id": 1187,
+    "look": "A broad plain black swallowtail banner has a thin bright yellow border.",
+    "kind": "horizontal black banner",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Hang it on a horizontal wall to add a stark dark standard.",
+    "notes": ""
+  },
+  {
+    "n": 1114,
+    "id": 1276,
+    "look": "A small purple bat-like ornament spreads pointed wings broadly around a narrow central body.",
+    "kind": "bat wall ornament",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Mount it on a horizontal wall to add a small gothic animal motif.",
+    "notes": ""
+  },
+  {
+    "n": 1115,
+    "id": 1277,
+    "look": "A small purple bat-like ornament forms a narrow upright silhouette with pointed folded-looking wings.",
+    "kind": "bat wall ornament",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Mount it on a vertical wall to add a small gothic animal motif.",
+    "notes": ""
+  },
+  {
+    "n": 1116,
+    "id": 1300,
+    "look": "A small slate blue bat-like ornament spreads pointed wings broadly around a narrow central body.",
+    "kind": "bat wall ornament",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Mount it on a horizontal wall to add a small gothic animal motif.",
+    "notes": ""
+  },
+  {
+    "n": 1117,
+    "id": 1301,
+    "look": "A small slate blue bat-like ornament forms a narrow upright silhouette with pointed folded-looking wings.",
+    "kind": "bat wall ornament",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Mount it on a vertical wall to add a small gothic animal motif.",
+    "notes": ""
+  },
+  {
+    "n": 1118,
+    "id": 1324,
+    "look": "A small muted green bat-like ornament spreads pointed wings broadly around a narrow central body.",
+    "kind": "bat wall ornament",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Mount it on a horizontal wall to add a small gothic animal motif.",
+    "notes": ""
+  },
+  {
+    "n": 1119,
+    "id": 1325,
+    "look": "A small muted green bat-like ornament forms a narrow upright silhouette with pointed folded-looking wings.",
+    "kind": "bat wall ornament",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Mount it on a vertical wall to add a small gothic animal motif.",
+    "notes": ""
+  },
+  {
+    "n": 1120,
+    "id": 1278,
+    "look": "A purple triangular carved panel spreads sideways with dark curling grooves and a scalloped lower edge.",
+    "kind": "ornate triangular wall carving",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Fit it against a horizontal wall to add dense decorative stone-like scrollwork.",
+    "notes": ""
+  },
+  {
+    "n": 1121,
+    "id": 1279,
+    "look": "A purple narrow triangular carved panel rises upward with dark curling grooves and a scalloped side.",
+    "kind": "ornate triangular wall carving",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Fit it against a vertical wall to add dense decorative stone-like scrollwork.",
+    "notes": ""
+  },
+  {
+    "n": 1122,
+    "id": 1302,
+    "look": "A slate blue triangular carved panel spreads sideways with dark curling grooves and a scalloped lower edge.",
+    "kind": "ornate triangular wall carving",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Fit it against a horizontal wall to add dense decorative stone-like scrollwork.",
+    "notes": ""
+  },
+  {
+    "n": 1123,
+    "id": 1303,
+    "look": "A slate blue narrow triangular carved panel rises upward with dark curling grooves and a scalloped side.",
+    "kind": "ornate triangular wall carving",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Fit it against a vertical wall to add dense decorative stone-like scrollwork.",
+    "notes": ""
+  },
+  {
+    "n": 1124,
+    "id": 1326,
+    "look": "A muted green triangular carved panel spreads sideways with dark curling grooves and a scalloped lower edge.",
+    "kind": "ornate triangular wall carving",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Fit it against a horizontal wall to add dense decorative stone-like scrollwork.",
+    "notes": ""
+  },
+  {
+    "n": 1125,
+    "id": 1327,
+    "look": "A muted green narrow triangular carved panel rises upward with dark curling grooves and a scalloped side.",
+    "kind": "ornate triangular wall carving",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Fit it against a vertical wall to add dense decorative stone-like scrollwork.",
+    "notes": ""
+  },
+  {
+    "n": 1126,
+    "id": 0,
+    "look": "The grey sprite box is blank; no shape, colour, material, or orientation is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite can be placed from this card alone.",
+    "notes": "Blank card labelled Whirlwind; no pictured effect is available to verify."
+  },
+  {
+    "n": 1127,
+    "id": 0,
+    "look": "The grey sprite box is blank; no shape, colour, material, or orientation is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite can be placed from this card alone.",
+    "notes": "Blank card labelled Poison Cloud; no pictured effect is available to verify."
+  },
+  {
+    "n": 1128,
+    "id": 0,
+    "look": "The grey sprite box is blank; no shape, colour, material, or orientation is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite can be placed from this card alone.",
+    "notes": "Blank card labelled Bonfire; no pictured effect is available to verify."
+  },
+  {
+    "n": 1129,
+    "id": 0,
+    "look": "The grey sprite box is blank; no shape, colour, material, or orientation is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite can be placed from this card alone.",
+    "notes": "Blank card labelled Firestorm; no pictured effect is available to verify."
+  },
+  {
+    "n": 1130,
+    "id": 0,
+    "look": "The grey sprite box is blank; no shape, colour, material, or orientation is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite can be placed from this card alone.",
+    "notes": "Blank card labelled Concussion; no pictured effect is available to verify."
+  },
+  {
+    "n": 1131,
+    "id": 0,
+    "look": "The grey sprite box is blank; no shape, colour, material, or orientation is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite can be placed from this card alone.",
+    "notes": "Blank card labelled Lightning Bolt; no pictured effect is available to verify."
+  },
+  {
+    "n": 1132,
+    "id": 0,
+    "look": "The grey sprite box is blank; no shape, colour, material, or orientation is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite can be placed from this card alone.",
+    "notes": "Blank card labelled Blind; no pictured effect is available to verify."
+  },
+  {
+    "n": 1133,
+    "id": 0,
+    "look": "The grey sprite box is blank; no shape, colour, material, or orientation is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite can be placed from this card alone.",
+    "notes": "Blank card labelled Fear; no pictured effect is available to verify."
+  },
+  {
+    "n": 1134,
+    "id": 0,
+    "look": "The grey sprite box is blank; no shape, colour, material, or orientation is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite can be placed from this card alone.",
+    "notes": "Blank card labelled Stun; no pictured effect is available to verify."
+  },
+  {
+    "n": 1135,
+    "id": 0,
+    "look": "The grey sprite box is blank; no shape, colour, material, or orientation is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite can be placed from this card alone.",
+    "notes": "Blank card labelled Damage; no pictured effect is available to verify."
+  },
+  {
+    "n": 1136,
+    "id": 0,
+    "look": "The grey sprite box is blank; no shape, colour, material, or orientation is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite can be placed from this card alone.",
+    "notes": "Blank card labelled Action; no pictured effect is available to verify."
+  },
+  {
+    "n": 1137,
+    "id": 7,
+    "look": "A black square contains sparse tiny orange and brown speckles.",
+    "kind": "dark speckled floor tile",
+    "setting": [
+      "cave",
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across a dark floor to add a subtle gritty surface.",
+    "notes": "No palette is listed; material is uncertain."
+  },
+  {
+    "n": 1138,
+    "id": 37,
+    "look": "Separated pale grey broken architectural pieces include a jagged stepped upright fragment and a small detached lower-right chunk.",
+    "kind": "broken pale masonry pieces",
+    "setting": [
+      "ruins",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "scatter",
+    "scene_use": "Place the fragments around a damaged entrance to suggest collapsed stonework.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1139,
+    "id": 47,
+    "look": "A long narrow pale grey strip descends diagonally rightward with a bright top edge and darker side.",
+    "kind": "long pale stone edging",
+    "setting": [
+      "castle",
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Use it along a floor boundary to add a clean raised stone edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1140,
+    "id": 48,
+    "look": "A tall pale grey barred rectangular panel stands between posts above a long diagonal stone base.",
+    "kind": "pale barred gate section",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Use it across a narrow entrance to create a formal barred threshold.",
+    "notes": "No palette is listed; opening or closing behaviour cannot be determined."
+  },
+  {
+    "n": 1141,
+    "id": 49,
+    "look": "Several pale grey broken slabs and rail-like pieces form a loose angular heap with a detached lower-right fragment.",
+    "kind": "collapsed pale masonry section",
+    "setting": [
+      "ruins",
+      "castle"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "scatter",
+    "scene_use": "Place it beside a damaged gateway to add a heap of broken architectural pieces.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1142,
+    "id": 50,
+    "look": "A long narrow green strip has black borders and repeating pale diagonal lattice marks, descending steeply down-right.",
+    "kind": "green lattice border strip",
+    "setting": [
+      "garden",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Run it along a boundary to add a repeating green decorative edge.",
+    "notes": "No palette is listed; exact material is uncertain."
+  },
+  {
+    "n": 1143,
+    "id": 51,
+    "look": "A long narrow green strip has black borders and repeating pale diagonal lattice marks on a shallower down-right slant.",
+    "kind": "green lattice border strip",
+    "setting": [
+      "garden",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Use it on the alternate boundary orientation to continue a green patterned edge.",
+    "notes": "No palette is listed; alternate orientation of #1142."
+  },
+  {
+    "n": 1144,
+    "id": 52,
+    "look": "A long orange-brown strip has black edging and repeated dark diagonal marks on a steep down-right slant.",
+    "kind": "orange patterned border strip",
+    "setting": [
+      "home",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Run it along a floor boundary to add a warm repeated trim pattern.",
+    "notes": "No palette is listed; exact material is uncertain."
+  },
+  {
+    "n": 1145,
+    "id": 53,
+    "look": "A long orange-brown strip has black edging and repeated dark diagonal marks on a shallow down-right slant.",
+    "kind": "orange patterned border strip",
+    "setting": [
+      "home",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Use it on the alternate boundary orientation to continue a warm patterned trim.",
+    "notes": "No palette is listed; alternate orientation of #1144."
+  },
+  {
+    "n": 1146,
+    "id": 54,
+    "look": "A long pale grey bevelled strip descends steeply down-right with a bright upper face.",
+    "kind": "plain pale edging strip",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Align it along a floor boundary to add a simple light stone-like edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1147,
+    "id": 55,
+    "look": "A long pale grey bevelled strip descends down-right on a shallower diagonal with a bright upper face.",
+    "kind": "plain pale edging strip",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Use it on the alternate boundary orientation to continue a simple pale edge.",
+    "notes": "No palette is listed; alternate orientation of #1146."
+  },
+  {
+    "n": 1148,
+    "id": 56,
+    "look": "A short green strip with black edging and pale diagonal lattice marks descends steeply toward the right edge.",
+    "kind": "short green lattice border",
+    "setting": [
+      "garden",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Use it to finish a short boundary segment with matching green patterned trim.",
+    "notes": "No palette is listed; shorter counterpart of #1142."
+  },
+  {
+    "n": 1149,
+    "id": 57,
+    "look": "A short green strip with black edging and pale diagonal lattice marks lies on a shallow down-right diagonal.",
+    "kind": "short green lattice border",
+    "setting": [
+      "garden",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Use it to finish a short boundary in the alternate green trim orientation.",
+    "notes": "No palette is listed; shorter counterpart of #1143."
+  },
+  {
+    "n": 1150,
+    "id": 58,
+    "look": "A short orange-brown strip has black edging and repeated dark diagonal marks on a steep down-right slant.",
+    "kind": "short orange patterned border",
+    "setting": [
+      "home",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Use it at a short floor edge to continue the warm patterned trim.",
+    "notes": "No palette is listed; shorter counterpart of #1144."
+  },
+  {
+    "n": 1151,
+    "id": 59,
+    "look": "A short orange-brown strip has black edging and repeated dark diagonal marks on a shallow down-right slant.",
+    "kind": "short orange patterned border",
+    "setting": [
+      "home",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Use it at a short floor edge in the alternate warm trim orientation.",
+    "notes": "No palette is listed; shorter counterpart of #1145."
+  }
+]

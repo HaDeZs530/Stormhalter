@@ -1,0 +1,698 @@
+[
+  {
+    "n": 1152,
+    "id": 60,
+    "look": "Short pale carved stone edging, oriented on a shallow down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1153,
+    "id": 61,
+    "look": "Short pale carved stone edging, oriented on a steep down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1154,
+    "id": 68,
+    "look": "Horizontal pale stone sill.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1155,
+    "id": 69,
+    "look": "Upright narrow grey stone post.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1156,
+    "id": 70,
+    "look": "Long pale bevelled stone border, oriented on a steep down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1157,
+    "id": 71,
+    "look": "Long pale bevelled stone border, oriented on a shallow down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1158,
+    "id": 72,
+    "look": "Small broken pale stone end, oriented on a steep down-right diagonal.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1159,
+    "id": 73,
+    "look": "Small broken pale stone end, oriented on a shallow down-right diagonal.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1160,
+    "id": 74,
+    "look": "Ornate orange wooden door with green lattice side trim, oriented on a steep down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1161,
+    "id": 75,
+    "look": "Ornate orange wooden door with green lattice side trim, oriented on a shallow down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1162,
+    "id": 76,
+    "look": "Orange wooden door with silver diagonal braces, oriented on a steep down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1163,
+    "id": 77,
+    "look": "Orange wooden door with silver diagonal braces, oriented on a shallow down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1164,
+    "id": 78,
+    "look": "Bright red door with gold ornament and pale stone frame, oriented on a steep down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1165,
+    "id": 79,
+    "look": "Bright red door with gold ornament and pale stone frame, oriented on a shallow down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1166,
+    "id": 80,
+    "look": "Broken orange door with green lattice trim, oriented on a steep down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1167,
+    "id": 81,
+    "look": "Broken orange door with green lattice trim, oriented on a shallow down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1168,
+    "id": 82,
+    "look": "Broken orange wooden door with silver braces, oriented on a steep down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1169,
+    "id": 83,
+    "look": "Broken orange wooden door with silver braces, oriented on a shallow down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1170,
+    "id": 84,
+    "look": "Broken red door with gold ornament and pale frame, oriented on a steep down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1171,
+    "id": 85,
+    "look": "Broken red door with gold ornament and pale frame, oriented on a shallow down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1172,
+    "id": 111,
+    "look": "Small dense green shrub with red berries.",
+    "kind": "leafy shrub cluster",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Place it beside vegetation or garden structures to add dense green growth.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1173,
+    "id": 112,
+    "look": "Small dense green shrub with yellow highlights.",
+    "kind": "leafy shrub cluster",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Place it beside vegetation or garden structures to add dense green growth.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1174,
+    "id": 131,
+    "look": "White radial polygonal spiderweb.",
+    "kind": "radial spider web",
+    "setting": [
+      "cave",
+      "crypt"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Place it across a recess to suggest spiders and long neglect.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1175,
+    "id": 132,
+    "look": "Dense white spiral whirlwind.",
+    "kind": "spiralling wind effect",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "overlay",
+    "scene_use": "Layer it over a magical encounter area to suggest swirling wind.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1176,
+    "id": 133,
+    "look": "Sparse white spiral whirlwind.",
+    "kind": "spiralling wind effect",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "overlay",
+    "scene_use": "Layer it over a magical encounter area to suggest swirling wind.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1177,
+    "id": 134,
+    "look": "Square field of fine diagonal white streaks.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1178,
+    "id": 135,
+    "look": "Large bright orange and yellow flame mass.",
+    "kind": "flame effect sprite",
+    "setting": [
+      "lava",
+      "wizard"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over a fire source to add bright, turbulent flames.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1179,
+    "id": 136,
+    "look": "Small bright orange and yellow flame.",
+    "kind": "flame effect sprite",
+    "setting": [
+      "lava",
+      "wizard"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it over a fire source to add bright, turbulent flames.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1180,
+    "id": 160,
+    "look": "Low jagged grey stone wall remnant, oriented on a shallow down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1181,
+    "id": 161,
+    "look": "Tall jagged grey stone wall remnant, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1182,
+    "id": 162,
+    "look": "Small grey stone fragment, oriented on a shallow down-right diagonal.",
+    "kind": "scattered broken fragments",
+    "setting": [
+      "ruins",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Place it near damaged structures to add debris and neglect.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1183,
+    "id": 187,
+    "look": "Rounded green-grey cloudy cluster.",
+    "kind": "green cloudy effect",
+    "setting": [
+      "swamp",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "overlay",
+    "scene_use": "Overlay it on an encounter area to suggest a murky cloud.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1184,
+    "id": 188,
+    "look": "Yellow angular lightning bolt.",
+    "kind": "lightning bolt effect",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it over a magical effect to add a sharp electrical flash.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1185,
+    "id": 231,
+    "look": "Red and gold decorated door in brown frame, oriented on a steep down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1186,
+    "id": 232,
+    "look": "Red and gold decorated door in brown frame, oriented on a shallow down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1187,
+    "id": 233,
+    "look": "Broken red and gold decorated door, oriented on a steep down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1188,
+    "id": 234,
+    "look": "Broken red and gold decorated door, oriented on a shallow down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1189,
+    "id": 240,
+    "look": "Brown rope barrier between two angled posts, oriented on a shallow down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1190,
+    "id": 279,
+    "look": "Small yellow horizontal curled ornament.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1191,
+    "id": 280,
+    "look": "Small yellow upright curled ornament.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1192,
+    "id": 281,
+    "look": "Tiny yellow decorative mark, oriented on a shallow down-right diagonal.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1193,
+    "id": 282,
+    "look": "Tiny yellow decorative mark, oriented on a shallow down-right diagonal.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1194,
+    "id": 291,
+    "look": "Small dark angular metal plate, oriented on a shallow down-right diagonal.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1195,
+    "id": 292,
+    "look": "Small dark angular metal plate, oriented on a steep down-right diagonal.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1196,
+    "id": 293,
+    "look": "Tiny pale grey metal plate, oriented on a shallow down-right diagonal.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1197,
+    "id": 294,
+    "look": "Tiny pale grey metal plate, oriented on a steep down-right diagonal.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1198,
+    "id": 303,
+    "look": "Orange patterned rectangular panel, oriented on a shallow down-right diagonal.",
+    "kind": "decorative surface panel",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Fit it into an interior surface to add a matching decorative panel.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1199,
+    "id": 304,
+    "look": "Orange patterned rectangular panel, oriented on a steep down-right diagonal.",
+    "kind": "decorative surface panel",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Fit it into an interior surface to add a matching decorative panel.",
+    "notes": "No palette is listed."
+  }
+]

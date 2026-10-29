@@ -1,0 +1,732 @@
+[
+  {
+    "n": 1344,
+    "id": 1224,
+    "look": "A short upright trail of small irregular brown stones descends across the grey field.",
+    "kind": "scattered brown stones",
+    "setting": [
+      "ruins",
+      "cave"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1345,
+    "id": 1272,
+    "look": "A short purple diagonal stone-like beam joins two square end blocks.",
+    "kind": "short purple stone beam",
+    "setting": [
+      "wizard",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it along matching architecture to add a defined decorative boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1346,
+    "id": 1273,
+    "look": "A long purple diagonal stone-like beam joins two large square end blocks.",
+    "kind": "long purple stone beam",
+    "setting": [
+      "wizard",
+      "castle"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "edge",
+    "scene_use": "Align it along matching architecture to add a defined decorative boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1347,
+    "id": 1296,
+    "look": "A short slate-blue diagonal stone-like beam joins two square end blocks.",
+    "kind": "short blue stone beam",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it along matching architecture to add a defined decorative boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1348,
+    "id": 1297,
+    "look": "A long slate-blue diagonal stone-like beam joins two large square end blocks.",
+    "kind": "long blue stone beam",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "edge",
+    "scene_use": "Align it along matching architecture to add a defined decorative boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1349,
+    "id": 1320,
+    "look": "A short muted green diagonal stone-like beam joins two square end blocks.",
+    "kind": "short green stone beam",
+    "setting": [
+      "ruins",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it along matching architecture to add a defined decorative boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1350,
+    "id": 1321,
+    "look": "A long muted green diagonal stone-like beam joins two large square end blocks.",
+    "kind": "long green stone beam",
+    "setting": [
+      "ruins",
+      "castle"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "edge",
+    "scene_use": "Align it along matching architecture to add a defined decorative boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1351,
+    "id": 1331,
+    "look": "Bright green droplets radiate from a small irregular central splatter.",
+    "kind": "green splash effect",
+    "setting": [
+      "wizard",
+      "swamp"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1352,
+    "id": 1332,
+    "look": "A thin white wavy line curls diagonally upward toward the right.",
+    "kind": "white curling effect",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1353,
+    "id": 1333,
+    "look": "A tiny yellow centre sits inside a small black oval outline.",
+    "kind": "tiny yellow marker",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1354,
+    "id": 1334,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1355,
+    "id": 1335,
+    "look": "A thin black horizontal strip has tapered slanted ends.",
+    "kind": "thin black shadow strip",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed. Looks identical to the other thin black strips in cards #1355–#1359."
+  },
+  {
+    "n": 1356,
+    "id": 1336,
+    "look": "A thin black horizontal strip has tapered slanted ends.",
+    "kind": "thin black shadow strip",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed. Looks identical to the other thin black strips in cards #1355–#1359."
+  },
+  {
+    "n": 1357,
+    "id": 1337,
+    "look": "A thin black horizontal strip has tapered slanted ends.",
+    "kind": "thin black shadow strip",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed. Looks identical to the other thin black strips in cards #1355–#1359."
+  },
+  {
+    "n": 1358,
+    "id": 1338,
+    "look": "A thin black horizontal strip has tapered slanted ends.",
+    "kind": "thin black shadow strip",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed. Looks identical to the other thin black strips in cards #1355–#1359."
+  },
+  {
+    "n": 1359,
+    "id": 1339,
+    "look": "A thin black horizontal strip has tapered slanted ends.",
+    "kind": "thin black shadow strip",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed. Looks identical to the other thin black strips in cards #1355–#1359."
+  },
+  {
+    "n": 1360,
+    "id": 1347,
+    "look": "A small red-brown segmented strip slopes steeply down toward the right.",
+    "kind": "red segmented trim",
+    "setting": [
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it along matching architecture to add a defined decorative boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1361,
+    "id": 1383,
+    "look": "A tall brown slatted wooden gate stands within a thick frame with a long matching side strip.",
+    "kind": "upright wooden gate",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-V",
+    "scene_use": "Place it in an entrance to add a timber threshold and enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1362,
+    "id": 1384,
+    "look": "A broken brown slatted gate has a jagged top and a separate short timber fragment.",
+    "kind": "broken upright wooden gate",
+    "setting": [
+      "ruins",
+      "town"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-V",
+    "scene_use": "Place it in an entrance to add a timber threshold and enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1363,
+    "id": 1386,
+    "look": "A broad brown slatted wooden gate lies on a shallow diagonal within a thick frame.",
+    "kind": "horizontal wooden gate",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Place it in an entrance to add a timber threshold and enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1364,
+    "id": 1387,
+    "look": "A broken broad brown slatted gate has jagged edges and a detached short timber fragment.",
+    "kind": "broken horizontal wooden gate",
+    "setting": [
+      "ruins",
+      "town"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Place it in an entrance to add a timber threshold and enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1365,
+    "id": 1412,
+    "look": "A long pale orange carved stone-like beam runs diagonally between two ornate square ends.",
+    "kind": "ornate orange stone beam",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it along matching architecture to add a defined decorative boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1366,
+    "id": 1500,
+    "look": "A square patch holds numerous small pale green grass tufts over muted ground.",
+    "kind": "scattered grass tile",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1367,
+    "id": 1501,
+    "look": "A dense cluster of pointed green grass blades rises above several low leafy tufts.",
+    "kind": "dense tall grass cluster",
+    "setting": [
+      "forest",
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1368,
+    "id": 1502,
+    "look": "Several broad pointed green grass clumps spread outward in a compact group.",
+    "kind": "broad grass cluster",
+    "setting": [
+      "forest",
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1369,
+    "id": 1503,
+    "look": "Several upright dark green mossy shrub-like masses form a close cluster.",
+    "kind": "upright green shrub cluster",
+    "setting": [
+      "swamp",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1370,
+    "id": 1504,
+    "look": "A compact leafy green plant has broad pale leaves radiating from its centre.",
+    "kind": "broad leaf plant",
+    "setting": [
+      "garden",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1371,
+    "id": 1505,
+    "look": "A smaller pale green leafy plant spreads outward with delicate narrow leaves.",
+    "kind": "small pale leaf plant",
+    "setting": [
+      "garden",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1372,
+    "id": 1506,
+    "look": "Several separated grey-green grass tufts form a loose irregular group.",
+    "kind": "scattered sparse grass tufts",
+    "setting": [
+      "forest",
+      "desert"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Place it among matching scenery to add the pictured texture and detail.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1373,
+    "id": 1507,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1374,
+    "id": 1508,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1375,
+    "id": 1509,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1376,
+    "id": 1510,
+    "look": "Fine bright and dark green flecks form a dense square grass texture.",
+    "kind": "dense green grass tile",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1377,
+    "id": 1511,
+    "look": "Fine olive and yellow-green speckles evenly fill a square.",
+    "kind": "olive grass tile",
+    "setting": [
+      "farm",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1378,
+    "id": 1512,
+    "look": "Dense small medium-green leaf-like flecks form a square ground texture.",
+    "kind": "leafy green ground tile",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1379,
+    "id": 1513,
+    "look": "Fine dark olive grains form an even square vegetation texture.",
+    "kind": "dark olive ground tile",
+    "setting": [
+      "forest",
+      "swamp"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1380,
+    "id": 1514,
+    "look": "Bright green foliage is dotted with tiny white and pale flower-like specks.",
+    "kind": "flower flecked grass tile",
+    "setting": [
+      "garden",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1381,
+    "id": 1515,
+    "look": "Small yellow-green leaf-like marks form a dense mottled square.",
+    "kind": "yellow green ground tile",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1382,
+    "id": 1516,
+    "look": "Overlapping broad green leaves repeat diagonally across a square.",
+    "kind": "broad leaf ground tile",
+    "setting": [
+      "jungle",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1383,
+    "id": 1517,
+    "look": "Muted green ground has soft mottled patches and faint fine grain.",
+    "kind": "muted grassy ground",
+    "setting": [
+      "farm",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1384,
+    "id": 1518,
+    "look": "Muted green earth has irregular darker patches and sparse plant-like texture.",
+    "kind": "patchy grassy ground",
+    "setting": [
+      "farm",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1385,
+    "id": 1519,
+    "look": "Dense small yellow-green flecks form a bright square grassy texture.",
+    "kind": "fine grassy ground",
+    "setting": [
+      "garden",
+      "farm"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1386,
+    "id": 1520,
+    "look": "Light brown earth has faint diagonal swirls and scattered small dark specks.",
+    "kind": "smooth brown dirt",
+    "setting": [
+      "farm",
+      "village"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1387,
+    "id": 1521,
+    "look": "Brown earth shows diagonal furrow-like streaks and sparse dark flecks.",
+    "kind": "furrowed brown dirt",
+    "setting": [
+      "farm",
+      "village"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1388,
+    "id": 1522,
+    "look": "Tan-brown ground is scattered with numerous tiny dark grains.",
+    "kind": "speckled brown dirt",
+    "setting": [
+      "farm",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1389,
+    "id": 1523,
+    "look": "Brown ground contains dense dark pebble-like grains of varying sizes.",
+    "kind": "gritty brown ground",
+    "setting": [
+      "desert",
+      "cave"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1390,
+    "id": 1524,
+    "look": "Dry tan ground forms irregular small plates separated by dark branching cracks.",
+    "kind": "cracked dry earth",
+    "setting": [
+      "desert",
+      "farm"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1391,
+    "id": 1525,
+    "look": "Dense tiny pale beige grains evenly cover a square.",
+    "kind": "fine beige sand",
+    "setting": [
+      "desert",
+      "coast"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to establish the visible ground texture.",
+    "notes": "No palette is listed."
+  }
+]

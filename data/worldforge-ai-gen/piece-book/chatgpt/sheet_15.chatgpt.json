@@ -1,0 +1,736 @@
+[
+  {
+    "n": 720,
+    "id": 625,
+    "look": "A tall curved palm has layered bright green fronds and a leafy cluster near its base.",
+    "kind": "large layered palm",
+    "setting": [
+      "coast",
+      "jungle"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Cluster this tree along a woodland route to create shade and a natural boundary.",
+    "notes": ""
+  },
+  {
+    "n": 721,
+    "id": 626,
+    "look": "A tall curved palm has fine green fronds and a leafy cluster near its base.",
+    "kind": "large feathery palm",
+    "setting": [
+      "coast",
+      "jungle"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Cluster this tree along a woodland route to create shade and a natural boundary.",
+    "notes": ""
+  },
+  {
+    "n": 722,
+    "id": 627,
+    "look": "Broad bright green leaves arch from curved brown stems above smaller basal leaves.",
+    "kind": "broad leaf banana tree",
+    "setting": [
+      "jungle",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 723,
+    "id": 893,
+    "look": "A rounded green canopy bears pale yellow fruit above a brown trunk with exposed roots.",
+    "kind": "pear fruit tree",
+    "setting": [
+      "farm",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 724,
+    "id": 894,
+    "look": "A rounded green canopy bears orange yellow fruit above a brown trunk with exposed roots.",
+    "kind": "peach fruit tree",
+    "setting": [
+      "farm",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 725,
+    "id": 895,
+    "look": "A rounded green canopy bears red fruit above a brown trunk with exposed roots.",
+    "kind": "apple fruit tree",
+    "setting": [
+      "farm",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 726,
+    "id": 896,
+    "look": "A rounded green canopy bears orange fruit above a brown trunk with exposed roots.",
+    "kind": "orange fruit tree",
+    "setting": [
+      "farm",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 727,
+    "id": 905,
+    "look": "A rounded green canopy bears small red fruit above a brown trunk with exposed roots.",
+    "kind": "cherry fruit tree",
+    "setting": [
+      "farm",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 728,
+    "id": 906,
+    "look": "A rounded tree canopy is dense with pale pink and white blossoms above a rooted brown trunk.",
+    "kind": "pink flowering tree",
+    "setting": [
+      "garden"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 729,
+    "id": 898,
+    "look": "A rounded rust brown canopy stands above exposed brown roots and scattered fallen leaves.",
+    "kind": "brown autumn tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 730,
+    "id": 899,
+    "look": "A rounded golden orange canopy stands above exposed brown roots and scattered fallen leaves.",
+    "kind": "orange autumn tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 731,
+    "id": 901,
+    "look": "A rounded bright red canopy stands above exposed brown roots and scattered fallen leaves.",
+    "kind": "red autumn tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 732,
+    "id": 900,
+    "look": "A rounded deep crimson canopy stands above exposed brown roots and scattered fallen leaves.",
+    "kind": "crimson autumn tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 733,
+    "id": 902,
+    "look": "A rounded lemon yellow canopy stands above exposed brown roots and scattered fallen leaves.",
+    "kind": "yellow autumn tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 734,
+    "id": 903,
+    "look": "A bare brown tree spreads dark leafless branches above exposed roots.",
+    "kind": "dormant bare tree",
+    "setting": [
+      "forest"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": ""
+  },
+  {
+    "n": 735,
+    "id": 904,
+    "look": "A bare brown tree has white icy accents on dark branches and roots.",
+    "kind": "frozen bare tree",
+    "setting": [
+      "snow",
+      "forest"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": ""
+  },
+  {
+    "n": 736,
+    "id": 1100,
+    "look": "Several small bright green lily pads form a sparse horizontal scatter.",
+    "kind": "scattered lily pads",
+    "setting": [
+      "swamp",
+      "garden"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Place this vegetation at a pond or marsh edge to suggest shallow wet ground.",
+    "notes": ""
+  },
+  {
+    "n": 737,
+    "id": 1101,
+    "look": "Tall brown green reeds rise above a loose scatter of bright green lily pads.",
+    "kind": "mixed swamp plants",
+    "setting": [
+      "swamp"
+    ],
+    "tone": [
+      "wet",
+      "overgrown"
+    ],
+    "size": "medium",
+    "placement": "cluster",
+    "scene_use": "Place this vegetation at a pond or marsh edge to suggest shallow wet ground.",
+    "notes": ""
+  },
+  {
+    "n": 738,
+    "id": 1102,
+    "look": "A dense clump of thin green reeds contains tall brown seed stalks.",
+    "kind": "reeds and cattails",
+    "setting": [
+      "swamp"
+    ],
+    "tone": [
+      "wet",
+      "overgrown"
+    ],
+    "size": "medium",
+    "placement": "cluster",
+    "scene_use": "Place this vegetation at a pond or marsh edge to suggest shallow wet ground.",
+    "notes": ""
+  },
+  {
+    "n": 739,
+    "id": 1103,
+    "look": "Three tiny green plant clumps bear small purple flower flecks.",
+    "kind": "purple swamp flowers",
+    "setting": [
+      "swamp",
+      "garden"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Group these flowers beside a path or pool to add small patches of colour.",
+    "notes": ""
+  },
+  {
+    "n": 740,
+    "id": 1104,
+    "look": "A loose green leafy clump contains tiny pale flower flecks.",
+    "kind": "white swamp flowers",
+    "setting": [
+      "swamp",
+      "garden"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Group these flowers beside a path or pool to add small patches of colour.",
+    "notes": ""
+  },
+  {
+    "n": 741,
+    "id": 1105,
+    "look": "Bright green lily pads form a curved rising cluster.",
+    "kind": "clustered lily pads",
+    "setting": [
+      "swamp",
+      "garden"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Place this vegetation at a pond or marsh edge to suggest shallow wet ground.",
+    "notes": ""
+  },
+  {
+    "n": 742,
+    "id": 1106,
+    "look": "Thin green stems and brown seed heads form a compact upright clump.",
+    "kind": "small cattail clump",
+    "setting": [
+      "swamp"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Place this vegetation at a pond or marsh edge to suggest shallow wet ground.",
+    "notes": ""
+  },
+  {
+    "n": 743,
+    "id": 1107,
+    "look": "Fine green reed blades fan outward from a narrow base.",
+    "kind": "tall reed clump",
+    "setting": [
+      "swamp"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Place this vegetation at a pond or marsh edge to suggest shallow wet ground.",
+    "notes": ""
+  },
+  {
+    "n": 744,
+    "id": 1112,
+    "look": "A twisted brown tree carries trailing muted green foliage and looping branches.",
+    "kind": "leafy swamp cypress",
+    "setting": [
+      "swamp"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place this prop in a room to give the space a distinct focal point.",
+    "notes": ""
+  },
+  {
+    "n": 745,
+    "id": 1113,
+    "look": "A twisted brown tree has bare looping branches and drooping brown strands.",
+    "kind": "dead swamp cypress",
+    "setting": [
+      "swamp"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": ""
+  },
+  {
+    "n": 746,
+    "id": 1233,
+    "look": "A dense dark green clipped hedge forms a short upright rectangular block.",
+    "kind": "vertical clipped hedge",
+    "setting": [
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-V",
+    "scene_use": "Use this clipped hedge to divide a formal garden into orderly paths and beds.",
+    "notes": ""
+  },
+  {
+    "n": 747,
+    "id": 1234,
+    "look": "A dense dark green clipped hedge forms a broad horizontal rectangular block.",
+    "kind": "horizontal clipped hedge",
+    "setting": [
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this clipped hedge to divide a formal garden into orderly paths and beds.",
+    "notes": ""
+  },
+  {
+    "n": 748,
+    "id": 1243,
+    "look": "Three rounded green foliage balls rise on a slender trunk from a white round planter.",
+    "kind": "round potted topiary",
+    "setting": [
+      "garden",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place this potted topiary beside a palace doorway to add carefully maintained greenery.",
+    "notes": ""
+  },
+  {
+    "n": 749,
+    "id": 1245,
+    "look": "Three pointed green foliage tiers rise on a slender trunk from a white round planter.",
+    "kind": "pointed potted topiary",
+    "setting": [
+      "garden",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place this potted topiary beside a palace doorway to add carefully maintained greenery.",
+    "notes": ""
+  },
+  {
+    "n": 750,
+    "id": 1373,
+    "look": "A broad lobed dark brown mushroom cap sits on a short beige stem.",
+    "kind": "blooming brown mushroom",
+    "setting": [
+      "cave",
+      "forest"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Cluster these fungi in a shaded cave or forest corner to suggest damp organic growth.",
+    "notes": ""
+  },
+  {
+    "n": 751,
+    "id": 1374,
+    "look": "Two overlapping brown mushroom caps of different sizes sit on thick pale stems.",
+    "kind": "mixed size mushrooms",
+    "setting": [
+      "cave",
+      "forest"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "cluster",
+    "scene_use": "Cluster these fungi in a shaded cave or forest corner to suggest damp organic growth.",
+    "notes": ""
+  },
+  {
+    "n": 752,
+    "id": 1375,
+    "look": "Two broad brown mushroom caps overlap above pale stems.",
+    "kind": "paired brown mushrooms",
+    "setting": [
+      "cave",
+      "forest"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "cluster",
+    "scene_use": "Cluster these fungi in a shaded cave or forest corner to suggest damp organic growth.",
+    "notes": ""
+  },
+  {
+    "n": 753,
+    "id": 1376,
+    "look": "A large rounded brown mushroom cap sits on a thick pale stem leaning down-right.",
+    "kind": "large brown mushroom",
+    "setting": [
+      "cave",
+      "forest"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Cluster these fungi in a shaded cave or forest corner to suggest damp organic growth.",
+    "notes": ""
+  },
+  {
+    "n": 754,
+    "id": 1377,
+    "look": "A rounded brown mushroom cap sits on a short pale stem leaning down-right.",
+    "kind": "medium brown mushroom",
+    "setting": [
+      "cave",
+      "forest"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Cluster these fungi in a shaded cave or forest corner to suggest damp organic growth.",
+    "notes": ""
+  },
+  {
+    "n": 755,
+    "id": 1378,
+    "look": "Several tiny brown mushrooms form a compact upright cluster.",
+    "kind": "small mushroom cluster",
+    "setting": [
+      "cave",
+      "forest"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Cluster these fungi in a shaded cave or forest corner to suggest damp organic growth.",
+    "notes": ""
+  },
+  {
+    "n": 756,
+    "id": 1379,
+    "look": "Several tiny brown mushrooms form a compact spreading cluster.",
+    "kind": "small mushroom cluster",
+    "setting": [
+      "cave",
+      "forest"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Cluster these fungi in a shaded cave or forest corner to suggest damp organic growth.",
+    "notes": ""
+  },
+  {
+    "n": 757,
+    "id": 19,
+    "look": "Three brown rock outcrops break a vivid blue square water surface with white foam.",
+    "kind": "rocky reef tile",
+    "setting": [
+      "coast"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile this rocky water near a shoreline to suggest shallow hazards and breaking surf.",
+    "notes": ""
+  },
+  {
+    "n": 758,
+    "id": 605,
+    "look": "Three brown rock outcrops break a blue square water surface patterned with pale horizontal ripples.",
+    "kind": "rippling rocky reef",
+    "setting": [
+      "coast"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile this rocky water near a shoreline to suggest shallow hazards and breaking surf.",
+    "notes": ""
+  },
+  {
+    "n": 759,
+    "id": 165,
+    "look": "A broad grey iron lattice has pointed bars extending along its lower edge.",
+    "kind": "horizontal iron portcullis",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Block a fortified passage with this barred structure to create a controlled, confining entrance.",
+    "notes": ""
+  },
+  {
+    "n": 760,
+    "id": 166,
+    "look": "A tall grey iron lattice has pointed bars extending along its lower edge.",
+    "kind": "vertical iron portcullis",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Block a fortified passage with this barred structure to create a controlled, confining entrance.",
+    "notes": ""
+  },
+  {
+    "n": 761,
+    "id": 449,
+    "look": "Closely spaced grey bars sit within a brown frame with square corner fittings, oriented horizontally.",
+    "kind": "horizontal jail barrier",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Block a fortified passage with this barred structure to create a controlled, confining entrance.",
+    "notes": ""
+  },
+  {
+    "n": 762,
+    "id": 450,
+    "look": "Closely spaced grey bars sit within a brown frame with square corner fittings, oriented vertically.",
+    "kind": "vertical jail barrier",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Block a fortified passage with this barred structure to create a controlled, confining entrance.",
+    "notes": ""
+  },
+  {
+    "n": 763,
+    "id": 164,
+    "look": "A massive blocky grey anvil has a broad top and dark projecting left horn.",
+    "kind": "massive grey anvil",
+    "setting": [
+      "town",
+      "mine"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place this anvil in a smithy to establish a heavy metalworking station.",
+    "notes": ""
+  },
+  {
+    "n": 764,
+    "id": 892,
+    "look": "A rectangular brown wooden cart has two spoked wheels and long shafts extending right.",
+    "kind": "horizontal wooden cart",
+    "setting": [
+      "town",
+      "farm"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Park this cart in a market or farmyard to suggest transport and daily work.",
+    "notes": ""
+  },
+  {
+    "n": 765,
+    "id": 887,
+    "look": "A rectangular brown wooden cart has two side wheels and long shafts extending downward.",
+    "kind": "vertical wooden cart",
+    "setting": [
+      "town",
+      "farm"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Park this cart in a market or farmyard to suggest transport and daily work.",
+    "notes": ""
+  },
+  {
+    "n": 766,
+    "id": 879,
+    "look": "A closed brown wooden crate has thick framing and diagonal plank braces.",
+    "kind": "closed wooden crate",
+    "setting": [
+      "town",
+      "ship"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Group this crate in a storeroom or loading area to suggest supplies and active trade.",
+    "notes": ""
+  },
+  {
+    "n": 767,
+    "id": 882,
+    "look": "An open brown wooden crate holds pale yellow granular material.",
+    "kind": "open grain crate",
+    "setting": [
+      "farm",
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Group this crate in a storeroom or loading area to suggest supplies and active trade.",
+    "notes": ""
+  }
+]

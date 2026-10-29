@@ -1,0 +1,678 @@
+[
+  {
+    "n": 1392,
+    "id": 1526,
+    "look": "Fine pale tan wavy ridges densely cover a square sandy surface.",
+    "kind": "rippled sand tile",
+    "setting": [
+      "desert",
+      "coast"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to create the pictured ground or water surface.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1393,
+    "id": 1527,
+    "look": "Broad smooth pale tan sand ripples curve diagonally across a square.",
+    "kind": "rippled sand tile",
+    "setting": [
+      "desert",
+      "coast"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to create the pictured ground or water surface.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1394,
+    "id": 1528,
+    "look": "Coarse grey, white, and brown gravel grains densely cover a square.",
+    "kind": "gravel ground tile",
+    "setting": [
+      "town",
+      "coast"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to create the pictured ground or water surface.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1395,
+    "id": 1529,
+    "look": "Fine grey and pale gravel grains evenly cover a square.",
+    "kind": "gravel ground tile",
+    "setting": [
+      "town",
+      "coast"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to create the pictured ground or water surface.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1396,
+    "id": 1530,
+    "look": "A curved brown wooden deck corner has a thick gold-brown rim along its upper and left edges.",
+    "kind": "curved wooden hull section",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1397,
+    "id": 1531,
+    "look": "A small brown ladder is centred within a wooden deck section beneath a heavy upper rim.",
+    "kind": "wooden deck ladder section",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Join it to matching deck sections to create a wooden access point.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1398,
+    "id": 1532,
+    "look": "A curved brown wooden deck corner has a thick gold-brown rim along its upper and right edges.",
+    "kind": "curved wooden hull section",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1399,
+    "id": 1533,
+    "look": "A curved pale-rimmed wooden hull corner contains a round blue-grey inset near the right side.",
+    "kind": "curved wooden hull section",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1400,
+    "id": 1534,
+    "look": "A broad curved wooden deck end has a central ladder and two upright handrail posts.",
+    "kind": "wooden deck ladder section",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Join it to matching deck sections to create a wooden access point.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1401,
+    "id": 1535,
+    "look": "A curved pale-rimmed wooden hull corner contains a round blue-grey inset near the left side.",
+    "kind": "curved wooden hull section",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1402,
+    "id": 1536,
+    "look": "A blue radial wheel-like emblem sits inside a red circular rim on a faint square outline.",
+    "kind": "coloured wheel emblem",
+    "setting": [
+      "ship",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Place it on a deck or decorative surface to add a coloured radial emblem.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1403,
+    "id": 1537,
+    "look": "A bright green radial wheel-like emblem sits inside a red circular rim on a faint square outline.",
+    "kind": "coloured wheel emblem",
+    "setting": [
+      "ship",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Place it on a deck or decorative surface to add a coloured radial emblem.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1404,
+    "id": 1538,
+    "look": "A yellow radial wheel-like emblem sits inside a red circular rim on a faint square outline.",
+    "kind": "coloured wheel emblem",
+    "setting": [
+      "ship",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Place it on a deck or decorative surface to add a coloured radial emblem.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1405,
+    "id": 1539,
+    "look": "An orange radial wheel-like emblem has a pale gold circular rim and protruding spokes.",
+    "kind": "coloured wheel emblem",
+    "setting": [
+      "ship",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Place it on a deck or decorative surface to add a coloured radial emblem.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1406,
+    "id": 1540,
+    "look": "A brown plank deck section has a thick horizontal brace and a dark raised left edge.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1407,
+    "id": 1541,
+    "look": "A brown plank deck tile has a broad horizontal timber brace across its lower portion.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1408,
+    "id": 1542,
+    "look": "A brown plank deck section has a thick horizontal brace and a dark raised right edge.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1409,
+    "id": 1543,
+    "look": "A tall wooden hull-side panel has a horizontal brace and small rounded fittings at its upper and lower ends.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1410,
+    "id": 1544,
+    "look": "Warm brown parallel deck planks run vertically between narrow darker side timbers.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1411,
+    "id": 1545,
+    "look": "A tall wooden hull-side panel has a horizontal brace, pale curved outer edge, and fittings near the bottom.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1412,
+    "id": 1546,
+    "look": "A blue radial wheel emblem has a red rim and long black spokes over a pale square outline.",
+    "kind": "coloured wheel emblem",
+    "setting": [
+      "ship",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Place it on a deck or decorative surface to add a coloured radial emblem.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1413,
+    "id": 1547,
+    "look": "A green radial wheel emblem has a red rim and long black spokes over a pale square outline.",
+    "kind": "coloured wheel emblem",
+    "setting": [
+      "ship",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Place it on a deck or decorative surface to add a coloured radial emblem.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1414,
+    "id": 1548,
+    "look": "A yellow radial wheel emblem has a red rim and long black spokes over a pale square outline.",
+    "kind": "coloured wheel emblem",
+    "setting": [
+      "ship",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Place it on a deck or decorative surface to add a coloured radial emblem.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1415,
+    "id": 1549,
+    "look": "A thin pale square outline encloses an otherwise empty grey interior.",
+    "kind": "empty square outline",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Use the visible outline as a square placement marker if needed.",
+    "notes": "No palette is listed. Only the pale outline is visible; the interior is empty."
+  },
+  {
+    "n": 1416,
+    "id": 1550,
+    "look": "A brown plank section has a horizontal crossbeam and a raised left edge.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1417,
+    "id": 1551,
+    "look": "A brown plank section has a broad horizontal crossbeam across the lower half.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1418,
+    "id": 1552,
+    "look": "A brown plank section has a horizontal crossbeam and a raised right edge.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1419,
+    "id": 1553,
+    "look": "A wooden hull-side panel has an outer dark curved edge, horizontal brace, and a round fitting near its top.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1420,
+    "id": 1554,
+    "look": "Parallel brown deck planks run vertically between narrow darker side borders.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1421,
+    "id": 1555,
+    "look": "A wooden hull-side panel has a pale outer edge, horizontal brace, and a pale fitting near its top.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1422,
+    "id": 1556,
+    "look": "A thin pale square outline encloses an otherwise empty grey interior.",
+    "kind": "empty square outline",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Use the visible outline as a square placement marker if needed.",
+    "notes": "No palette is listed. Only the pale outline is visible; the interior is empty."
+  },
+  {
+    "n": 1423,
+    "id": 1557,
+    "look": "A cyan-blue radial wheel emblem has a red rim, dark spokes, and a pale square outline.",
+    "kind": "coloured wheel emblem",
+    "setting": [
+      "ship",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Place it on a deck or decorative surface to add a coloured radial emblem.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1424,
+    "id": 1558,
+    "look": "A red radial wheel emblem has a gold rim and pale inner circular field.",
+    "kind": "coloured wheel emblem",
+    "setting": [
+      "ship",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Place it on a deck or decorative surface to add a coloured radial emblem.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1425,
+    "id": 1559,
+    "look": "An orange radial wheel emblem has a gold rim and pale inner circular field.",
+    "kind": "coloured wheel emblem",
+    "setting": [
+      "ship",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Place it on a deck or decorative surface to add a coloured radial emblem.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1426,
+    "id": 1560,
+    "look": "A brown plank section has a lower horizontal crossbeam and a raised left edge.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1427,
+    "id": 1561,
+    "look": "A brown plank section has a lower horizontal crossbeam across its width.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1428,
+    "id": 1562,
+    "look": "A brown plank section has a lower horizontal crossbeam and a raised right edge.",
+    "kind": "wooden deck panel",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1429,
+    "id": 1563,
+    "look": "A pale-rimmed curved wooden hull corner contains a round blue-grey inset near its upper edge.",
+    "kind": "curved wooden hull section",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1430,
+    "id": 1564,
+    "look": "A curved wooden deck end has a central ladder extending downward between two upright posts.",
+    "kind": "wooden deck ladder section",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Join it to matching deck sections to create a wooden access point.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1431,
+    "id": 1565,
+    "look": "A pale-rimmed curved wooden hull corner contains a round blue-grey inset near its upper-left edge.",
+    "kind": "curved wooden hull section",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1432,
+    "id": 1566,
+    "look": "A thin pale square outline encloses an otherwise empty grey interior.",
+    "kind": "empty square outline",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Use the visible outline as a square placement marker if needed.",
+    "notes": "No palette is listed. Only the pale outline is visible; the interior is empty."
+  },
+  {
+    "n": 1433,
+    "id": 1567,
+    "look": "A thin pale square outline encloses an otherwise empty grey interior.",
+    "kind": "empty square outline",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Use the visible outline as a square placement marker if needed.",
+    "notes": "No palette is listed. Only the pale outline is visible; the interior is empty."
+  },
+  {
+    "n": 1434,
+    "id": 1568,
+    "look": "A thin pale square outline encloses an otherwise empty grey interior.",
+    "kind": "empty square outline",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Use the visible outline as a square placement marker if needed.",
+    "notes": "No palette is listed. Only the pale outline is visible; the interior is empty."
+  },
+  {
+    "n": 1435,
+    "id": 1569,
+    "look": "A thin pale square outline encloses an otherwise empty grey interior.",
+    "kind": "empty square outline",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Use the visible outline as a square placement marker if needed.",
+    "notes": "No palette is listed. Only the pale outline is visible; the interior is empty."
+  },
+  {
+    "n": 1436,
+    "id": 1570,
+    "look": "A curved brown wooden deck corner has a thick rim along its left and lower edges.",
+    "kind": "curved wooden hull section",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1437,
+    "id": 1571,
+    "look": "A short wooden ladder stands centrally within a brown deck section.",
+    "kind": "wooden deck ladder section",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Join it to matching deck sections to create a wooden access point.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1438,
+    "id": 1572,
+    "look": "A curved brown wooden deck corner has a thick rim along its right and lower edges.",
+    "kind": "curved wooden hull section",
+    "setting": [
+      "ship"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Combine it with matching ship sections to build a timber deck and curved hull boundary.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1439,
+    "id": 1573,
+    "look": "A medium blue square has subtle darker speckles and faint uneven water-like texture.",
+    "kind": "blue water tile",
+    "setting": [
+      "coast"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across terrain to create the pictured ground or water surface.",
+    "notes": "No palette is listed."
+  }
+]

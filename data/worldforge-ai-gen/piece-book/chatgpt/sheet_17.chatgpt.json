@@ -1,0 +1,773 @@
+[
+  {
+    "n": 816,
+    "id": 236,
+    "look": "An irregular dark red splatter forms a broken ring with scattered droplets.",
+    "kind": "blood splatter",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer it over an altar or floor to suggest violence.",
+    "notes": "No altar is visible; the name describes a possible use."
+  },
+  {
+    "n": 817,
+    "id": 167,
+    "look": "A glossy red puddle has rounded lobes and dark shaded edges.",
+    "kind": "blood puddle",
+    "setting": [
+      "dungeon",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it on a chamber floor to suggest recent violence.",
+    "notes": ""
+  },
+  {
+    "n": 818,
+    "id": 213,
+    "look": "A small pale grey stone slab lies diagonally with an uneven outline and dark markings.",
+    "kind": "weathered grave marker",
+    "setting": [
+      "crypt",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Use it in a burial area to add a worn, neglected detail.",
+    "notes": ""
+  },
+  {
+    "n": 819,
+    "id": 214,
+    "look": "Several pale grey angular stone pieces form a broken diagonal slab.",
+    "kind": "broken grave marker",
+    "setting": [
+      "crypt",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter it among graves to suggest damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 820,
+    "id": 215,
+    "look": "A low grey stone fragment has a dark inset and a jagged extension toward the lower right.",
+    "kind": "damaged grave marker",
+    "setting": [
+      "crypt",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place it beside burial plots to add an eroded memorial.",
+    "notes": ""
+  },
+  {
+    "n": 821,
+    "id": 216,
+    "look": "A brown oval mound has a dark centre and a rough fringe of pointed earthy strokes.",
+    "kind": "bare burial mound",
+    "setting": [
+      "crypt",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Use it in a graveyard clearing to give the ground a disturbed appearance.",
+    "notes": ""
+  },
+  {
+    "n": 822,
+    "id": 217,
+    "look": "A green oval mound has dense leafy texture and an irregular dark outline.",
+    "kind": "overgrown burial mound",
+    "setting": [
+      "crypt",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place it among old graves to suggest vegetation reclaiming the burial ground.",
+    "notes": ""
+  },
+  {
+    "n": 823,
+    "id": 117,
+    "look": "A pale blue-white rectangular mirror has a yellow frame and lies along a left-to-right slant.",
+    "kind": "gold framed mirror",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Use it along a horizontal room wall to add a bright decorative accent.",
+    "notes": ""
+  },
+  {
+    "n": 824,
+    "id": 118,
+    "look": "A pale blue-white rectangular mirror has a yellow frame and rises diagonally toward the upper left.",
+    "kind": "gold framed mirror",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Use it along a vertical room wall to add a bright decorative accent.",
+    "notes": ""
+  },
+  {
+    "n": 825,
+    "id": 171,
+    "look": "A red, orange, and yellow patterned textile forms a broad slanted rectangle with uneven edges.",
+    "kind": "warm patterned tapestry",
+    "setting": [
+      "castle",
+      "tavern"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Place it along a horizontal wall to add warm, worn decoration.",
+    "notes": "The pictured wear is subtle despite the Torn Tapestry name."
+  },
+  {
+    "n": 826,
+    "id": 172,
+    "look": "A red, orange, and yellow patterned textile forms a tall slanted panel rising toward the upper left.",
+    "kind": "warm patterned tapestry",
+    "setting": [
+      "castle",
+      "tavern"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Place it along a vertical wall to add warm, worn decoration.",
+    "notes": "The pictured wear is subtle despite the Torn Tapestry name."
+  },
+  {
+    "n": 827,
+    "id": 197,
+    "look": "A broad slanted textile panel carries purple, red, and gold diagonal lattice stripes.",
+    "kind": "striped decorative tapestry",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Use it on a horizontal wall to add rich colour and repeated pattern.",
+    "notes": ""
+  },
+  {
+    "n": 828,
+    "id": 198,
+    "look": "A narrow upright textile panel carries purple, red, and gold lattice stripes and leans toward the upper left.",
+    "kind": "striped decorative tapestry",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Use it on a vertical wall to add rich colour and repeated pattern.",
+    "notes": ""
+  },
+  {
+    "n": 829,
+    "id": 317,
+    "look": "A straight red rectangular carpet has a mottled surface and darker narrow borders.",
+    "kind": "red carpet strip",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "path",
+    "scene_use": "Lay it along an approach to a throne or doorway to create a ceremonial route.",
+    "notes": ""
+  },
+  {
+    "n": 830,
+    "id": 173,
+    "look": "A compact heap of pale grey bones and skull-like fragments overlaps in many directions.",
+    "kind": "scattered bone heap",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Place it in burial chambers or monster dens to suggest accumulated remains.",
+    "notes": ""
+  },
+  {
+    "n": 831,
+    "id": 211,
+    "look": "A pale skeleton lies lengthwise on a narrow dark slab slanting down toward the right.",
+    "kind": "skeletal remains slab",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead",
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Use it beside a horizontal chamber edge to create a grim burial detail.",
+    "notes": ""
+  },
+  {
+    "n": 832,
+    "id": 212,
+    "look": "A pale skeleton lies on a narrow dark slab extending steeply toward the upper left.",
+    "kind": "skeletal remains slab",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead",
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Use it beside a vertical chamber edge to create a grim burial detail.",
+    "notes": ""
+  },
+  {
+    "n": 833,
+    "id": 220,
+    "look": "Pale skulls and dangling bone strands form a short row extending diagonally left to right.",
+    "kind": "hanging skeletal decoration",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Hang it along a horizontal wall to make a chamber feel threatening.",
+    "notes": ""
+  },
+  {
+    "n": 834,
+    "id": 221,
+    "look": "Pale skulls and dangling bone strands form a steep diagonal arrangement rising toward the upper left.",
+    "kind": "hanging skeletal decoration",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Hang it along a vertical wall to make a chamber feel threatening.",
+    "notes": ""
+  },
+  {
+    "n": 835,
+    "id": 243,
+    "look": "A low brown wooden shelving unit contains small red and pale rectangular items across a broad slanted face.",
+    "kind": "wooden book shelf",
+    "setting": [
+      "home",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Set it against a horizontal study wall to suggest a modest collection of books.",
+    "notes": ""
+  },
+  {
+    "n": 836,
+    "id": 244,
+    "look": "A narrow brown wooden shelving unit contains pale and red items and rises toward the upper left.",
+    "kind": "wooden book shelf",
+    "setting": [
+      "home",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Set it against a vertical study wall to suggest a modest collection of books.",
+    "notes": ""
+  },
+  {
+    "n": 837,
+    "id": 764,
+    "look": "A broad dark wooden bookcase holds dense rows of red, green, blue, and yellow book spines.",
+    "kind": "colourful library bookcase",
+    "setting": [
+      "wizard",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "against-wall",
+    "scene_use": "Line a horizontal library wall with it to create a well-stocked study.",
+    "notes": ""
+  },
+  {
+    "n": 838,
+    "id": 765,
+    "look": "A tall dark wooden bookcase holds dense multicoloured book spines and leans toward the upper left.",
+    "kind": "colourful library bookcase",
+    "setting": [
+      "wizard",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Line a vertical library wall with it to create a well-stocked study.",
+    "notes": ""
+  },
+  {
+    "n": 839,
+    "id": 439,
+    "look": "A broad brown wooden shelving unit holds rows of small cream, tan, and orange containers.",
+    "kind": "stocked storage shelf",
+    "setting": [
+      "tavern",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Use it along a horizontal pantry wall to suggest everyday supplies.",
+    "notes": ""
+  },
+  {
+    "n": 840,
+    "id": 440,
+    "look": "A tall narrow brown wooden shelving unit holds pale containers and rises toward the upper left.",
+    "kind": "stocked storage shelf",
+    "setting": [
+      "tavern",
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Use it along a vertical pantry wall to suggest everyday supplies.",
+    "notes": ""
+  },
+  {
+    "n": 841,
+    "id": 245,
+    "look": "Small white, purple, and red symbols form a loose horizontal grouping, including a red circular design.",
+    "kind": "arcane symbol grouping",
+    "setting": [
+      "wizard",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Arrange it along a horizontal workshop wall to add an occult decorative detail.",
+    "notes": ""
+  },
+  {
+    "n": 842,
+    "id": 246,
+    "look": "Small white, purple, and dark symbols form a narrow upright grouping.",
+    "kind": "arcane symbol grouping",
+    "setting": [
+      "wizard",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Arrange it along a vertical workshop wall to add an occult decorative detail.",
+    "notes": ""
+  },
+  {
+    "n": 843,
+    "id": 250,
+    "look": "Red, green, purple, yellow, and pale irregular strips lie scattered in a loose cluster.",
+    "kind": "colourful fabric scraps",
+    "setting": [
+      "town",
+      "home"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter it around a workroom to suggest active tailoring and colourful clutter.",
+    "notes": ""
+  },
+  {
+    "n": 844,
+    "id": 219,
+    "look": "A dark grey throne has a high angular back, thick side supports, and layered metal-looking edges.",
+    "kind": "dark metal throne",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [
+      "dark",
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Centre it in an audience chamber to give its ruler an imposing presence.",
+    "notes": ""
+  },
+  {
+    "n": 845,
+    "id": 222,
+    "look": "A white and black throne has a tall pointed back and curved ribbed wing-like sides.",
+    "kind": "skeletal winged throne",
+    "setting": [
+      "crypt",
+      "castle"
+    ],
+    "tone": [
+      "undead",
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Use it as a throne-room focal point to add a skeletal, intimidating silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 846,
+    "id": 251,
+    "look": "A brown throne has a red studded seat and back, gold trim, and a rounded decorated crest.",
+    "kind": "ornate wooden throne",
+    "setting": [
+      "palace",
+      "castle"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it on an audience-room dais to add warm regal splendour.",
+    "notes": ""
+  },
+  {
+    "n": 847,
+    "id": 349,
+    "look": "A compact heap combines a brown sack-like form with bright yellow, white, and coloured valuables.",
+    "kind": "mixed treasure pile",
+    "setting": [
+      "dungeon",
+      "cave"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Place it in a guarded chamber to make a reward area visually inviting.",
+    "notes": ""
+  },
+  {
+    "n": 848,
+    "id": 373,
+    "look": "Orange flames rise from dark logs within a grey stone ring, with pale smoke drifting above.",
+    "kind": "burning stone-ring campfire",
+    "setting": [
+      "camp",
+      "cave"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place it in a resting area to add warmth and signs of occupation.",
+    "notes": ""
+  },
+  {
+    "n": 849,
+    "id": 880,
+    "look": "Three small brown containers hold orange, yellow, and red round produce.",
+    "kind": "crates of fruit",
+    "setting": [
+      "town",
+      "farm"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Group it beside a market stall to add colourful food supplies.",
+    "notes": ""
+  },
+  {
+    "n": 850,
+    "id": 881,
+    "look": "A loose cluster of brown containers holds green, red, and yellow produce with pale grain-like pieces.",
+    "kind": "mixed produce containers",
+    "setting": [
+      "farm",
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "cluster",
+    "scene_use": "Place it in a market or storeroom to suggest a varied food stock.",
+    "notes": ""
+  },
+  {
+    "n": 851,
+    "id": 879,
+    "look": "A large closed brown wooden crate has diagonal bracing, plank seams, and a shaded right side.",
+    "kind": "large sealed crate",
+    "setting": [
+      "town",
+      "ship"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Stack it in a warehouse or cargo area to add solid storage obstacles.",
+    "notes": ""
+  },
+  {
+    "n": 852,
+    "id": 888,
+    "look": "A large brown wooden crate has an open square top, a dark interior, and thick plank sides.",
+    "kind": "large open crate",
+    "setting": [
+      "town",
+      "ship"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place it in a loading area to suggest unpacking or accessible storage.",
+    "notes": ""
+  },
+  {
+    "n": 853,
+    "id": 889,
+    "look": "A damaged brown wooden crate retains a plank face and uneven upright fragments.",
+    "kind": "large broken crate",
+    "setting": [
+      "ruins",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "scatter",
+    "scene_use": "Use it in an abandoned storeroom to suggest looting or neglect.",
+    "notes": ""
+  },
+  {
+    "n": 854,
+    "id": 886,
+    "look": "A small closed brown wooden crate has plank seams, diagonal bracing, and a dark side face.",
+    "kind": "small sealed crate",
+    "setting": [
+      "town",
+      "ship"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place it beside larger cargo to add varied storage clutter.",
+    "notes": ""
+  },
+  {
+    "n": 855,
+    "id": 890,
+    "look": "A small brown wooden crate has an open rectangular top and a dark recessed interior.",
+    "kind": "small open crate",
+    "setting": [
+      "town",
+      "home"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Use it near a stall or workbench to suggest supplies in use.",
+    "notes": ""
+  },
+  {
+    "n": 856,
+    "id": 891,
+    "look": "A small damaged brown wooden crate has a remaining square face and a jagged upper edge.",
+    "kind": "small broken crate",
+    "setting": [
+      "ruins",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter it beside damaged furnishings to add neglected storage debris.",
+    "notes": ""
+  },
+  {
+    "n": 857,
+    "id": 348,
+    "look": "A narrow cream paper notice bears brown marks and stands on a steep diagonal.",
+    "kind": "upright paper notice",
+    "setting": [
+      "town",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it near a shop counter to suggest posted prices or information.",
+    "notes": "The H label accompanies a visibly upright, steeply slanted notice; text is unreadable."
+  },
+  {
+    "n": 858,
+    "id": 361,
+    "look": "A cream paper notice bears brown horizontal marks across a broad shallow diagonal.",
+    "kind": "slanted paper notice",
+    "setting": [
+      "town",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it beside a shop display to suggest posted prices or information.",
+    "notes": "The V label accompanies a broad, shallow-slanted notice; text is unreadable."
+  },
+  {
+    "n": 859,
+    "id": 385,
+    "look": "A small dagger has a pale blade, dark grip, and greenish crossguard, angled down toward the right.",
+    "kind": "diagonal metal dagger",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Use it on an armoury display or work surface to suggest ready weapons.",
+    "notes": ""
+  },
+  {
+    "n": 860,
+    "id": 386,
+    "look": "A small dagger has a pale greenish blade and dark grip, angled steeply down toward the right.",
+    "kind": "diagonal metal dagger",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Use it on a narrow weapon display to add a small martial detail.",
+    "notes": ""
+  },
+  {
+    "n": 861,
+    "id": 305,
+    "look": "A small mace has a pale spiked head and a dark brown shaft extending down toward the right.",
+    "kind": "spiked metal mace",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it on an armoury rack or surface to suggest blunt weapon storage.",
+    "notes": ""
+  },
+  {
+    "n": 862,
+    "id": 306,
+    "look": "A small mace has a pale spiked head and a brown shaft on a steep down-right diagonal.",
+    "kind": "spiked metal mace",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it on a narrow weapon display to add a harsh martial accent.",
+    "notes": ""
+  },
+  {
+    "n": 863,
+    "id": 411,
+    "look": "A low rectangular cot has green bedding, a pale pillow, and a dark frame running left to right.",
+    "kind": "green prison cot",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Set it against a cell wall to suggest sparse sleeping accommodation.",
+    "notes": ""
+  }
+]

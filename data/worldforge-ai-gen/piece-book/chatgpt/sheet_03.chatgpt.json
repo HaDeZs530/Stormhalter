@@ -1,0 +1,746 @@
+[
+  {
+    "n": 144,
+    "id": 355,
+    "look": "A narrow brown earth post slopes down-right with a small squared upper end.",
+    "kind": "earth corner post",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add brown earth architecture.",
+    "notes": ""
+  },
+  {
+    "n": 145,
+    "id": 382,
+    "look": "Dark skull-like patterns fill panels edged with pale pink stone trim, forming a tall upper-left-leaning wall.",
+    "kind": "stone wall section",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add skull patterned stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 146,
+    "id": 381,
+    "look": "Dark skull-like patterns fill panels edged with pale pink stone trim, forming a broad receding wall.",
+    "kind": "stone wall section",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add skull patterned stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 147,
+    "id": 407,
+    "look": "A narrow skull patterned stone post slopes down-right with a small squared upper end.",
+    "kind": "stone corner post",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add skull patterned stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 148,
+    "id": 384,
+    "look": "Blue-white marble has bright irregular veins and straight pale borders, forming a tall upper-left-leaning wall.",
+    "kind": "marble wall section",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add blue-white marble architecture.",
+    "notes": ""
+  },
+  {
+    "n": 149,
+    "id": 383,
+    "look": "Blue-white marble has bright irregular veins and straight pale borders, forming a broad receding wall.",
+    "kind": "marble wall section",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add blue-white marble architecture.",
+    "notes": ""
+  },
+  {
+    "n": 150,
+    "id": 409,
+    "look": "A narrow blue-white marble post slopes down-right with a small squared upper end.",
+    "kind": "marble corner post",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add blue-white marble architecture.",
+    "notes": ""
+  },
+  {
+    "n": 151,
+    "id": 414,
+    "look": "Black rocky surfaces have thin charcoal ridges and irregular striations, forming a tall upper-left-leaning wall.",
+    "kind": "mine rock wall section",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add black ridged mine rock architecture.",
+    "notes": ""
+  },
+  {
+    "n": 152,
+    "id": 413,
+    "look": "Black rocky surfaces have thin charcoal ridges and irregular striations, forming a broad receding wall.",
+    "kind": "mine rock wall section",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add black ridged mine rock architecture.",
+    "notes": ""
+  },
+  {
+    "n": 153,
+    "id": 417,
+    "look": "A narrow black ridged mine rock post slopes down-right with a small squared upper end.",
+    "kind": "mine rock corner post",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add black ridged mine rock architecture.",
+    "notes": ""
+  },
+  {
+    "n": 154,
+    "id": 224,
+    "look": "Dense bright green foliage contains scattered darker and red-brown flecks, forming a tall upper-left-leaning wall.",
+    "kind": "thicket wall section",
+    "setting": [
+      "forest",
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add leafy green thicket architecture.",
+    "notes": ""
+  },
+  {
+    "n": 155,
+    "id": 223,
+    "look": "Dense bright green foliage contains scattered darker and red-brown flecks, forming a broad receding wall.",
+    "kind": "thicket wall section",
+    "setting": [
+      "forest",
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add leafy green thicket architecture.",
+    "notes": ""
+  },
+  {
+    "n": 156,
+    "id": 225,
+    "look": "A narrow leafy green thicket post slopes down-right with a small squared upper end.",
+    "kind": "thicket corner post",
+    "setting": [
+      "forest",
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add leafy green thicket architecture.",
+    "notes": ""
+  },
+  {
+    "n": 157,
+    "id": 363,
+    "look": "Red timber surrounds a cream rectangular grid of small translucent-looking panes, forming a tall upper-left-leaning wall.",
+    "kind": "screen wall section",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add red framed screen architecture.",
+    "notes": ""
+  },
+  {
+    "n": 158,
+    "id": 362,
+    "look": "Red timber surrounds a cream rectangular grid of small translucent-looking panes, forming a broad receding wall.",
+    "kind": "screen wall section",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add red framed screen architecture.",
+    "notes": ""
+  },
+  {
+    "n": 159,
+    "id": 366,
+    "look": "A narrow red framed screen post slopes down-right with a small squared upper end.",
+    "kind": "screen corner post",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add red framed screen architecture.",
+    "notes": ""
+  },
+  {
+    "n": 160,
+    "id": 429,
+    "look": "Smooth white surfaces have a narrow bright blue ornamental band near the upper edge, forming a tall upper-left-leaning wall.",
+    "kind": "stone wall section",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add white blue-trimmed stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 161,
+    "id": 428,
+    "look": "Smooth white surfaces have a narrow bright blue ornamental band near the upper edge, forming a broad receding wall.",
+    "kind": "stone wall section",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add white blue-trimmed stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 162,
+    "id": 431,
+    "look": "Smooth white surfaces include a small pale projecting window-like frame and blue ornamental trim, forming a tall upper-left-leaning wall.",
+    "kind": "stone wall section",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add white windowed stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 163,
+    "id": 430,
+    "look": "Smooth white surfaces include a small pale projecting window-like frame and blue ornamental trim, forming a broad receding wall.",
+    "kind": "stone wall section",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add white windowed stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 164,
+    "id": 443,
+    "look": "A narrow white blue-trimmed stone post slopes down-right with a small squared upper end.",
+    "kind": "stone corner post",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add white blue-trimmed stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 165,
+    "id": 460,
+    "look": "Bright white snow or ice covers dark brown exposed rock with an irregular lower boundary, forming a tall upper-left-leaning wall.",
+    "kind": "rock wall section",
+    "setting": [
+      "snow",
+      "cave"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add snow capped rock architecture.",
+    "notes": ""
+  },
+  {
+    "n": 166,
+    "id": 459,
+    "look": "Bright white snow or ice covers dark brown exposed rock with an irregular lower boundary, forming a broad receding wall.",
+    "kind": "rock wall section",
+    "setting": [
+      "snow",
+      "cave"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add snow capped rock architecture.",
+    "notes": ""
+  },
+  {
+    "n": 167,
+    "id": 463,
+    "look": "A narrow snow capped rock post slopes down-right with a small squared upper end.",
+    "kind": "rock corner post",
+    "setting": [
+      "snow",
+      "cave"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add snow capped rock architecture.",
+    "notes": ""
+  },
+  {
+    "n": 168,
+    "id": 471,
+    "look": "Brown timber surrounds a cream grid of rectangular panes above a warm brown base, forming a tall upper-left-leaning wall.",
+    "kind": "screen wall section",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add brown framed screen architecture.",
+    "notes": ""
+  },
+  {
+    "n": 169,
+    "id": 470,
+    "look": "Brown timber surrounds a cream grid of rectangular panes above a warm brown base, forming a broad receding wall.",
+    "kind": "screen wall section",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add brown framed screen architecture.",
+    "notes": ""
+  },
+  {
+    "n": 170,
+    "id": 475,
+    "look": "Thick brown timber borders a pale peach plaster-like panel, forming a tall upper-left-leaning wall.",
+    "kind": "plaster wall section",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add brown framed plaster architecture.",
+    "notes": ""
+  },
+  {
+    "n": 171,
+    "id": 474,
+    "look": "Thick brown timber borders a pale peach plaster-like panel, forming a broad receding wall.",
+    "kind": "plaster wall section",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add brown framed plaster architecture.",
+    "notes": ""
+  },
+  {
+    "n": 172,
+    "id": 483,
+    "look": "Brown timber frames pale peach panels and a small cream window grid, forming a tall upper-left-leaning wall.",
+    "kind": "plaster wall section",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add windowed peach plaster architecture.",
+    "notes": ""
+  },
+  {
+    "n": 173,
+    "id": 482,
+    "look": "Brown timber frames pale peach panels and a small cream window grid, forming a broad receding wall.",
+    "kind": "plaster wall section",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add windowed peach plaster architecture.",
+    "notes": ""
+  },
+  {
+    "n": 174,
+    "id": 487,
+    "look": "Warm brown timber borders a plain pale peach plaster surface, forming a tall upper-left-leaning wall.",
+    "kind": "timber plaster wall section",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add plain brown timber plaster architecture.",
+    "notes": ""
+  },
+  {
+    "n": 175,
+    "id": 486,
+    "look": "Warm brown timber borders a plain pale peach plaster surface, forming a broad receding wall.",
+    "kind": "timber plaster wall section",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add plain brown timber plaster architecture.",
+    "notes": ""
+  },
+  {
+    "n": 176,
+    "id": 480,
+    "look": "A narrow plain brown timber plaster post slopes down-right with a small squared upper end.",
+    "kind": "timber plaster corner post",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add plain brown timber plaster architecture.",
+    "notes": ""
+  },
+  {
+    "n": 177,
+    "id": 259,
+    "look": "Pale peach stone contains orange ornamental glyph bands and a plain central panel, forming a tall upper-left-leaning wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add peach carved temple stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 178,
+    "id": 258,
+    "look": "Pale peach stone contains orange ornamental glyph bands and a plain central panel, forming a broad receding wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add peach carved temple stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 179,
+    "id": 272,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a tall upper-left-leaning wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 180,
+    "id": 271,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a broad receding wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 181,
+    "id": 274,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a tall upper-left-leaning wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 182,
+    "id": 273,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a broad receding wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 183,
+    "id": 276,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a tall upper-left-leaning wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 184,
+    "id": 275,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a broad receding wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 185,
+    "id": 284,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a tall upper-left-leaning wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 186,
+    "id": 283,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a broad receding wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 187,
+    "id": 286,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a tall upper-left-leaning wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 188,
+    "id": 285,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a broad receding wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 189,
+    "id": 288,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a tall upper-left-leaning wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 190,
+    "id": 287,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a broad receding wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 191,
+    "id": 296,
+    "look": "Pale peach stone panels contain orange figure-like reliefs bordered by narrow glyph bands, forming a tall upper-left-leaning wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  }
+]

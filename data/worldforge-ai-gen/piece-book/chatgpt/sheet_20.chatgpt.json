@@ -1,0 +1,811 @@
+[
+  {
+    "n": 960,
+    "id": 851,
+    "look": "Thin red vertical streaks and scattered droplets form a stepped patch rising toward the right.",
+    "kind": "stair blood overlay",
+    "setting": [
+      "dungeon",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over west descending stairs to suggest a trail of violence.",
+    "notes": "Only blood markings are visible; stair geometry is absent."
+  },
+  {
+    "n": 961,
+    "id": 852,
+    "look": "Dark red horizontal smears and droplets form a narrow stepped trail rising toward the upper right.",
+    "kind": "stair blood overlay",
+    "setting": [
+      "dungeon",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over north descending stairs to suggest a trail of violence.",
+    "notes": "Only blood markings are visible; stair geometry is absent."
+  },
+  {
+    "n": 962,
+    "id": 853,
+    "look": "A dark red splatter heads a long trail of broken streaks descending toward the lower right.",
+    "kind": "stair blood overlay",
+    "setting": [
+      "dungeon",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over north ascending stairs to suggest a trail of violence.",
+    "notes": "Only blood markings are visible; stair geometry is absent."
+  },
+  {
+    "n": 963,
+    "id": 854,
+    "look": "A central dark red splash spreads into sparse droplets and diagonal streaks toward the right.",
+    "kind": "stair blood overlay",
+    "setting": [
+      "dungeon",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over west ascending stairs to suggest a trail of violence.",
+    "notes": "Only blood markings are visible; stair geometry is absent."
+  },
+  {
+    "n": 964,
+    "id": 855,
+    "look": "Several small dark red smears form a narrow diagonal cluster rising toward the upper right.",
+    "kind": "stair blood overlay",
+    "setting": [
+      "dungeon",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over east ascending stairs to suggest a trail of violence.",
+    "notes": "Only blood markings are visible; stair geometry is absent."
+  },
+  {
+    "n": 965,
+    "id": 856,
+    "look": "Dark red horizontal smears form a shallow stepped trail with small droplets above.",
+    "kind": "stair blood overlay",
+    "setting": [
+      "dungeon",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over south ascending stairs to suggest a trail of violence.",
+    "notes": "Only blood markings are visible; stair geometry is absent."
+  },
+  {
+    "n": 966,
+    "id": 907,
+    "look": "Short horizontal bands form a compact descending stair pattern with a broken border at the left in dark green moss.",
+    "kind": "mossy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "wet"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over south descending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 967,
+    "id": 908,
+    "look": "Upright bands diminish in height toward the right beneath a short broken upper edge in dark green moss.",
+    "kind": "mossy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "wet"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over east descending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 968,
+    "id": 909,
+    "look": "Upright bands increase in height toward the right beneath a ragged upper edge in dark green moss.",
+    "kind": "mossy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "wet"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over west descending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 969,
+    "id": 910,
+    "look": "Horizontal bands widen downward in a wedge beside a detached narrow vertical strip in dark green moss.",
+    "kind": "mossy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "wet"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over north descending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 970,
+    "id": 911,
+    "look": "Broad horizontal bands descend diagonally down-right, with thin broken edging along the right in dark green moss.",
+    "kind": "mossy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "wet"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over north ascending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 971,
+    "id": 912,
+    "look": "Long upright bands form a broad stepped strip descending toward the right in dark green moss.",
+    "kind": "mossy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "wet"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over west ascending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 972,
+    "id": 913,
+    "look": "Closely spaced upright bands form a steep wedge rising toward the upper right in dark green moss.",
+    "kind": "mossy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "wet"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over east ascending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 973,
+    "id": 914,
+    "look": "Closely spaced horizontal bands form a shallow flight receding toward the upper right in dark green moss.",
+    "kind": "mossy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "wet"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over south ascending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 974,
+    "id": 915,
+    "look": "Short horizontal bands form a compact descending stair pattern with a broken border at the left in bright green grass.",
+    "kind": "grassy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over south descending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 975,
+    "id": 916,
+    "look": "Upright bands diminish in height toward the right beneath a short broken upper edge in bright green grass.",
+    "kind": "grassy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over east descending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 976,
+    "id": 917,
+    "look": "Upright bands increase in height toward the right beneath a ragged upper edge in bright green grass.",
+    "kind": "grassy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over west descending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 977,
+    "id": 918,
+    "look": "Horizontal bands widen downward in a wedge beside a detached narrow vertical strip in bright green grass.",
+    "kind": "grassy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over north descending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 978,
+    "id": 919,
+    "look": "Broad horizontal bands descend diagonally down-right, with thin broken edging along the right in bright green grass.",
+    "kind": "grassy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over north ascending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 979,
+    "id": 920,
+    "look": "Long upright bands form a broad stepped strip descending toward the right in bright green grass.",
+    "kind": "grassy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over west ascending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 980,
+    "id": 921,
+    "look": "Closely spaced upright bands form a steep wedge rising toward the upper right in bright green grass.",
+    "kind": "grassy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over east ascending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 981,
+    "id": 922,
+    "look": "Closely spaced horizontal bands form a shallow flight receding toward the upper right in bright green grass.",
+    "kind": "grassy stair surface overlay",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over south ascending stairs to suggest vegetation covering the treads.",
+    "notes": "Separate textured tread surfaces and edge fragments are visible."
+  },
+  {
+    "n": 982,
+    "id": 923,
+    "look": "Sparse white, yellow, red, and purple dots form a small bent trail descending at the left.",
+    "kind": "floral stair accent",
+    "setting": [
+      "garden",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Add it to south descending stairs to introduce scattered flowers among vegetation.",
+    "notes": "Only tiny floral accents appear; no stair structure is visible."
+  },
+  {
+    "n": 983,
+    "id": 924,
+    "look": "Sparse multicoloured flower-like dots form a small angled trail extending toward the upper right.",
+    "kind": "floral stair accent",
+    "setting": [
+      "garden",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Add it to east descending stairs to introduce scattered flowers among vegetation.",
+    "notes": "Only tiny floral accents appear; no stair structure is visible."
+  },
+  {
+    "n": 984,
+    "id": 925,
+    "look": "Sparse white, yellow, red, and purple dots form a stepped diagonal patch rising rightward.",
+    "kind": "floral stair accent",
+    "setting": [
+      "garden",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Add it to west descending stairs to introduce scattered flowers among vegetation.",
+    "notes": "Only tiny floral accents appear; no stair structure is visible."
+  },
+  {
+    "n": 985,
+    "id": 926,
+    "look": "Tiny multicoloured flower-like dots form a broken wedge widening toward the bottom.",
+    "kind": "floral stair accent",
+    "setting": [
+      "garden",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Add it to north descending stairs to introduce scattered flowers among vegetation.",
+    "notes": "Only tiny floral accents appear; no stair structure is visible."
+  },
+  {
+    "n": 986,
+    "id": 927,
+    "look": "Tiny multicoloured flower-like dots spread across a long diagonal stepped arrangement.",
+    "kind": "floral stair accent",
+    "setting": [
+      "garden",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Add it to north ascending stairs to introduce scattered flowers among vegetation.",
+    "notes": "Only tiny floral accents appear; no stair structure is visible."
+  },
+  {
+    "n": 987,
+    "id": 928,
+    "look": "Sparse multicoloured dots form several broken rows sloping downward toward the right.",
+    "kind": "floral stair accent",
+    "setting": [
+      "garden",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Add it to west ascending stairs to introduce scattered flowers among vegetation.",
+    "notes": "Only tiny floral accents appear; no stair structure is visible."
+  },
+  {
+    "n": 988,
+    "id": 929,
+    "look": "Tiny multicoloured dots form a narrow upright diagonal trail with widely separated clusters.",
+    "kind": "floral stair accent",
+    "setting": [
+      "garden",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Add it to east ascending stairs to introduce scattered flowers among vegetation.",
+    "notes": "Only tiny floral accents appear; no stair structure is visible."
+  },
+  {
+    "n": 989,
+    "id": 930,
+    "look": "Sparse multicoloured dots form a shallow stepped arrangement running diagonally left to right.",
+    "kind": "floral stair accent",
+    "setting": [
+      "garden",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Add it to south ascending stairs to introduce scattered flowers among vegetation.",
+    "notes": "Only tiny floral accents appear; no stair structure is visible."
+  },
+  {
+    "n": 990,
+    "id": 1109,
+    "look": "Thin branching green vines form an irregular upright cluster with short leaf-like projections.",
+    "kind": "branching swamp vines",
+    "setting": [
+      "swamp",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Drape it over a trunk or wall to suggest creeping swamp growth.",
+    "notes": "Palette name is truncated; no tree is visible."
+  },
+  {
+    "n": 991,
+    "id": 1110,
+    "look": "A thin green vine descends diagonally in a sparse winding strand with small side shoots.",
+    "kind": "winding swamp vine",
+    "setting": [
+      "swamp",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Wrap it visually around a trunk to add a slender climbing plant.",
+    "notes": "Palette name is truncated; no supporting object is visible."
+  },
+  {
+    "n": 992,
+    "id": 1111,
+    "look": "Tiny pink, yellow, blue, and white flower-like dots form a loose diagonal trail.",
+    "kind": "swamp floral accent",
+    "setting": [
+      "swamp",
+      "garden"
+    ],
+    "tone": [
+      "overgrown",
+      "bright"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it over vines to introduce small scattered blossoms.",
+    "notes": "Palette name is truncated; only the floral dots are visible."
+  },
+  {
+    "n": 993,
+    "id": 1188,
+    "look": "A gold segmented circle surrounds a white star, coloured round symbols, and a central black-and-white emblem.",
+    "kind": "multisymbol magic circle",
+    "setting": [
+      "wizard",
+      "temple"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "large",
+    "placement": "overlay",
+    "scene_use": "Centre it on a ritual floor to give the chamber a formal arcane focus.",
+    "notes": ""
+  },
+  {
+    "n": 994,
+    "id": 1189,
+    "look": "A gold geometric ring encloses overlapping white and blue stars, small purple circles, and a central white disk.",
+    "kind": "starred magic circle",
+    "setting": [
+      "wizard",
+      "temple"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "large",
+    "placement": "overlay",
+    "scene_use": "Place it on a ritual floor to suggest an elaborate magical working.",
+    "notes": ""
+  },
+  {
+    "n": 995,
+    "id": 1190,
+    "look": "A gold tick-marked ring surrounds a blue triangle, a smaller gold circle, and several small white symbols.",
+    "kind": "triangular magic circle",
+    "setting": [
+      "wizard",
+      "temple"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "large",
+    "placement": "overlay",
+    "scene_use": "Use it as a ritual floor marking to create an ordered arcane focal point.",
+    "notes": ""
+  },
+  {
+    "n": 996,
+    "id": 1191,
+    "look": "A brown wooden lectern supports an open pale book on a low slanted top facing across the image.",
+    "kind": "horizontal book lectern",
+    "setting": [
+      "wizard",
+      "temple"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a ritual area or classroom to suggest reading and instruction.",
+    "notes": ""
+  },
+  {
+    "n": 997,
+    "id": 1192,
+    "look": "A narrow brown wooden lectern supports a pale open book on a steep upper-left-facing stand.",
+    "kind": "vertical book lectern",
+    "setting": [
+      "wizard",
+      "temple"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place it along a narrow study aisle to add a book-reading station.",
+    "notes": ""
+  },
+  {
+    "n": 998,
+    "id": 1193,
+    "look": "A broad brown writing desk has gold edging, small pale objects, and a separate wooden chair below.",
+    "kind": "horizontal writing desk",
+    "setting": [
+      "home",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Use it in a study to create a furnished workspace.",
+    "notes": ""
+  },
+  {
+    "n": 999,
+    "id": 1194,
+    "look": "A tall slanted brown desk holds scattered pale papers, with gold edging and a separate chair at the right.",
+    "kind": "vertical writing desk",
+    "setting": [
+      "home",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Use it along a vertical study layout to create a busy writing station.",
+    "notes": ""
+  },
+  {
+    "n": 1000,
+    "id": 1195,
+    "look": "A narrow brown wooden bed has a purple cover, white pillow, and tall end boards aligned vertically.",
+    "kind": "purple single bed",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Place it lengthwise in a small bedroom to add a bright sleeping space.",
+    "notes": ""
+  },
+  {
+    "n": 1001,
+    "id": 1205,
+    "look": "A narrow brown wooden bed runs left-right with a purple cover and a white pillow at the left.",
+    "kind": "purple single bed",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Place it along a horizontal bedroom wall to add a bright sleeping space.",
+    "notes": ""
+  },
+  {
+    "n": 1002,
+    "id": 1196,
+    "look": "A broad brown wooden bed has a muted green cover, two pale pillows, and tall end boards aligned vertically.",
+    "kind": "green double bed",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "against-wall",
+    "scene_use": "Use it in a larger bedroom to create comfortable shared sleeping quarters.",
+    "notes": ""
+  },
+  {
+    "n": 1003,
+    "id": 1206,
+    "look": "A broad brown wooden bed runs left-right with green bedding and two pale pillows along its left end.",
+    "kind": "green double bed",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "against-wall",
+    "scene_use": "Use it across a larger bedroom to create comfortable shared sleeping quarters.",
+    "notes": ""
+  },
+  {
+    "n": 1004,
+    "id": 1197,
+    "look": "A small brown wooden chair has a decorated square seat, an upright back at the left, and legs projecting rightward.",
+    "kind": "carved wooden chair",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Use this right-facing chair beside a table to make a room feel furnished.",
+    "notes": ""
+  },
+  {
+    "n": 1005,
+    "id": 1198,
+    "look": "A small brown wooden chair has a decorated seat below an upper-left backrest and legs projecting down-right.",
+    "kind": "carved wooden chair",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Use this south-facing chair beside a table to make a room feel furnished.",
+    "notes": ""
+  },
+  {
+    "n": 1006,
+    "id": 1199,
+    "look": "A small brown wooden chair has a decorated seat with its backrest rising at the right.",
+    "kind": "carved wooden chair",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Use this left-facing chair beside a table to make a room feel furnished.",
+    "notes": ""
+  },
+  {
+    "n": 1007,
+    "id": 1200,
+    "look": "A small brown wooden chair has a decorated seat and a backrest receding toward the upper right.",
+    "kind": "carved wooden chair",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Use this north-facing chair beside a table to make a room feel furnished.",
+    "notes": ""
+  }
+]

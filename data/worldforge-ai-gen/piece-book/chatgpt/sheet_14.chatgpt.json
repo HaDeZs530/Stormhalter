@@ -1,0 +1,764 @@
+[
+  {
+    "n": 672,
+    "id": 1404,
+    "look": "A short bare brown root twists around a thick upright knot.",
+    "kind": "short twisted root",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this piece to a cliff or shaft wall to suggest a natural climbing route.",
+    "notes": "Palette calls this a vine, but no leaves are visible."
+  },
+  {
+    "n": 673,
+    "id": 1405,
+    "look": "A short bare brown root has a crooked upright stem and knotted base.",
+    "kind": "short twisted root",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this piece to a cliff or shaft wall to suggest a natural climbing route.",
+    "notes": "Palette calls this a vine, but no leaves are visible."
+  },
+  {
+    "n": 674,
+    "id": 1406,
+    "look": "A compact brown root knot spreads sideways into pointed branches.",
+    "kind": "horizontal root knot",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this piece to a cliff or shaft wall to suggest a natural climbing route.",
+    "notes": "Palette calls this a vine, but no leaves are visible; looks identical to #675."
+  },
+  {
+    "n": 675,
+    "id": 1407,
+    "look": "A compact brown root knot spreads sideways into pointed branches.",
+    "kind": "horizontal root knot",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this piece to a cliff or shaft wall to suggest a natural climbing route.",
+    "notes": "Palette calls this a vine, but no leaves are visible; looks identical to #674."
+  },
+  {
+    "n": 676,
+    "id": 1408,
+    "look": "A thin curved brown vine descends diagonally right beneath many small green leaves.",
+    "kind": "leafy climbing vine",
+    "setting": [
+      "forest",
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Attach this piece to a cliff or shaft wall to suggest a natural climbing route.",
+    "notes": ""
+  },
+  {
+    "n": 677,
+    "id": 92,
+    "look": "Bright green broad leaves form a loose clump concentrated at the lower right.",
+    "kind": "broad jungle foliage",
+    "setting": [
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Cluster this foliage along jungle paths to make the edges feel dense and overgrown.",
+    "notes": ""
+  },
+  {
+    "n": 678,
+    "id": 93,
+    "look": "Bright green narrow leaves form a branching central clump.",
+    "kind": "branching jungle foliage",
+    "setting": [
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Cluster this foliage along jungle paths to make the edges feel dense and overgrown.",
+    "notes": ""
+  },
+  {
+    "n": 679,
+    "id": 94,
+    "look": "Small green leafy sprigs scatter loosely across the lower right.",
+    "kind": "scattered leafy sprigs",
+    "setting": [
+      "jungle",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Cluster this foliage along jungle paths to make the edges feel dense and overgrown.",
+    "notes": ""
+  },
+  {
+    "n": 680,
+    "id": 95,
+    "look": "A sparse curved trail of green leafy sprigs follows the bottom and right edges.",
+    "kind": "curved leafy border",
+    "setting": [
+      "jungle",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Cluster this foliage along jungle paths to make the edges feel dense and overgrown.",
+    "notes": ""
+  },
+  {
+    "n": 681,
+    "id": 98,
+    "look": "A large rounded vivid green canopy rises above a brown trunk with exposed roots.",
+    "kind": "large leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 682,
+    "id": 99,
+    "look": "A rounded green canopy sits above a short brown trunk and exposed roots.",
+    "kind": "medium leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 683,
+    "id": 100,
+    "look": "A small rounded green canopy sits above a tiny brown rooted trunk.",
+    "kind": "small leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 684,
+    "id": 105,
+    "look": "Dense yellow grass fills a square patch with a green shaded right edge.",
+    "kind": "tall yellow grass",
+    "setting": [
+      "farm",
+      "forest"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat this plant patch across cultivated ground to create a dense field texture.",
+    "notes": ""
+  },
+  {
+    "n": 685,
+    "id": 106,
+    "look": "Dense orange yellow stalks fill a square patch with a green right edge.",
+    "kind": "tall golden reeds",
+    "setting": [
+      "swamp",
+      "farm"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Place this vegetation at a pond or marsh edge to suggest shallow wet ground.",
+    "notes": ""
+  },
+  {
+    "n": 686,
+    "id": 107,
+    "look": "A curved wedge of dense yellow grass fades to green along its outer edge.",
+    "kind": "curved grass patch",
+    "setting": [
+      "forest",
+      "farm"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Repeat this plant patch across cultivated ground to create a dense field texture.",
+    "notes": ""
+  },
+  {
+    "n": 687,
+    "id": 875,
+    "look": "Dense golden stalks with pale seed heads form a square crop patch.",
+    "kind": "ripe wheat patch",
+    "setting": [
+      "farm"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat this plant patch across cultivated ground to create a dense field texture.",
+    "notes": ""
+  },
+  {
+    "n": 688,
+    "id": 876,
+    "look": "A square dark soil patch contains many pale broken stalks and flecks.",
+    "kind": "burnt wheat patch",
+    "setting": [
+      "farm",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": ""
+  },
+  {
+    "n": 689,
+    "id": 873,
+    "look": "Tall yellow leafy stalks form a dense square crop patch.",
+    "kind": "golden corn patch",
+    "setting": [
+      "farm"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat this plant patch across cultivated ground to create a dense field texture.",
+    "notes": ""
+  },
+  {
+    "n": 690,
+    "id": 874,
+    "look": "Brown dead stalks fill a square patch of dark earth.",
+    "kind": "burnt corn patch",
+    "setting": [
+      "farm",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": ""
+  },
+  {
+    "n": 691,
+    "id": 877,
+    "look": "Green climbing plants stand in parallel rows over brown soil.",
+    "kind": "grapevine crop rows",
+    "setting": [
+      "farm",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat this plant patch across cultivated ground to create a dense field texture.",
+    "notes": ""
+  },
+  {
+    "n": 692,
+    "id": 878,
+    "look": "Sparse dark bare stems stand in rows over brown earth.",
+    "kind": "burnt grapevine rows",
+    "setting": [
+      "farm",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": ""
+  },
+  {
+    "n": 693,
+    "id": 108,
+    "look": "A curved wedge of orange yellow reeds fades to green along its outer edge.",
+    "kind": "curved reed patch",
+    "setting": [
+      "swamp"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Place this vegetation at a pond or marsh edge to suggest shallow wet ground.",
+    "notes": ""
+  },
+  {
+    "n": 694,
+    "id": 109,
+    "look": "Dense upright green bamboo stalks fill a square patch.",
+    "kind": "dense bamboo patch",
+    "setting": [
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Cluster this foliage along jungle paths to make the edges feel dense and overgrown.",
+    "notes": ""
+  },
+  {
+    "n": 695,
+    "id": 110,
+    "look": "Green bamboo stalks form a curved patch with a low left end and tall right end.",
+    "kind": "curved bamboo patch",
+    "setting": [
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Cluster this foliage along jungle paths to make the edges feel dense and overgrown.",
+    "notes": ""
+  },
+  {
+    "n": 696,
+    "id": 121,
+    "look": "The grey card box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible decoration is available for scene placement.",
+    "notes": "Blank card labelled Heavy Snow, ID 121."
+  },
+  {
+    "n": 697,
+    "id": 122,
+    "look": "A curved white patch has dense grey streaks and a raised looking right edge.",
+    "kind": "curved snow patch",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Blend this curved patch into snowy ground to soften a terrain boundary.",
+    "notes": ""
+  },
+  {
+    "n": 698,
+    "id": 199,
+    "look": "A large pointed green conifer leans upper-left from a short brown trunk.",
+    "kind": "large pine tree",
+    "setting": [
+      "forest"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Cluster this tree along a woodland route to create shade and a natural boundary.",
+    "notes": ""
+  },
+  {
+    "n": 699,
+    "id": 200,
+    "look": "A medium pointed green conifer leans upper-left from a short brown trunk.",
+    "kind": "medium pine tree",
+    "setting": [
+      "forest"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Cluster this tree along a woodland route to create shade and a natural boundary.",
+    "notes": ""
+  },
+  {
+    "n": 700,
+    "id": 201,
+    "look": "A small pointed green conifer leans upper-left from a short brown trunk.",
+    "kind": "small pine tree",
+    "setting": [
+      "forest"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Cluster this tree along a woodland route to create shade and a natural boundary.",
+    "notes": ""
+  },
+  {
+    "n": 701,
+    "id": 202,
+    "look": "A large pointed conifer has green foliage heavily flecked with white snow.",
+    "kind": "large snowy pine",
+    "setting": [
+      "snow",
+      "forest"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Cluster this tree along a woodland route to create shade and a natural boundary.",
+    "notes": ""
+  },
+  {
+    "n": 702,
+    "id": 203,
+    "look": "A medium pointed conifer has green foliage heavily flecked with white snow.",
+    "kind": "medium snowy pine",
+    "setting": [
+      "snow",
+      "forest"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Cluster this tree along a woodland route to create shade and a natural boundary.",
+    "notes": ""
+  },
+  {
+    "n": 703,
+    "id": 204,
+    "look": "A small pointed conifer has green foliage heavily flecked with white snow.",
+    "kind": "small snowy pine",
+    "setting": [
+      "snow",
+      "forest"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Cluster this tree along a woodland route to create shade and a natural boundary.",
+    "notes": ""
+  },
+  {
+    "n": 704,
+    "id": 205,
+    "look": "Dark green narrow leaves surround several thick brown woody stems.",
+    "kind": "woody desert bush",
+    "setting": [
+      "desert"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Scatter this bush beside a path to add low vegetation and break up open ground.",
+    "notes": ""
+  },
+  {
+    "n": 705,
+    "id": 206,
+    "look": "Small red blossoms on dark stems form a regular square patch.",
+    "kind": "red flower bed",
+    "setting": [
+      "garden"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Group these flowers beside a path or pool to add small patches of colour.",
+    "notes": ""
+  },
+  {
+    "n": 706,
+    "id": 207,
+    "look": "Small yellow blossoms on dark stems form a regular square patch.",
+    "kind": "yellow flower bed",
+    "setting": [
+      "garden"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Group these flowers beside a path or pool to add small patches of colour.",
+    "notes": ""
+  },
+  {
+    "n": 707,
+    "id": 208,
+    "look": "A broad brown oak stump spreads into thick jagged roots and a short pointed trunk.",
+    "kind": "large rooted stump",
+    "setting": [
+      "forest"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place this prop in a room to give the space a distinct focal point.",
+    "notes": ""
+  },
+  {
+    "n": 708,
+    "id": 247,
+    "look": "Bright lime green foliage crowns a leaning brown tree with exposed branching roots.",
+    "kind": "small jungle tree",
+    "setting": [
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Cluster this tree along a woodland route to create shade and a natural boundary.",
+    "notes": ""
+  },
+  {
+    "n": 709,
+    "id": 326,
+    "look": "A low branching tree has sparse olive green leaves and dark brown limbs.",
+    "kind": "sparse fig tree",
+    "setting": [
+      "garden",
+      "forest"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this tree in an orchard or garden to give the space colour and shade.",
+    "notes": ""
+  },
+  {
+    "n": 710,
+    "id": 370,
+    "look": "Curling turquoise green fronds surround a blue bulbous tree form leaning down-right.",
+    "kind": "strange blue green tree",
+    "setting": [
+      "wizard",
+      "jungle"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Use this unusual tree beside a magical path to give the landscape an unfamiliar character.",
+    "notes": ""
+  },
+  {
+    "n": 711,
+    "id": 403,
+    "look": "Tall jointed green bamboo stems lean down-right beneath leafy upper branches.",
+    "kind": "leaning bamboo cluster",
+    "setting": [
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "cluster",
+    "scene_use": "Cluster this foliage along jungle paths to make the edges feel dense and overgrown.",
+    "notes": ""
+  },
+  {
+    "n": 712,
+    "id": 101,
+    "look": "A large bare blackened tree has a twisted brown trunk and exposed pointed roots.",
+    "kind": "large burnt tree",
+    "setting": [
+      "forest",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": ""
+  },
+  {
+    "n": 713,
+    "id": 102,
+    "look": "A medium bare blackened tree has a thin brown trunk and exposed roots.",
+    "kind": "medium burnt tree",
+    "setting": [
+      "forest",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": ""
+  },
+  {
+    "n": 714,
+    "id": 103,
+    "look": "A small bare blackened tree has a thin trunk and sparse branches.",
+    "kind": "small burnt tree",
+    "setting": [
+      "forest",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": ""
+  },
+  {
+    "n": 715,
+    "id": 372,
+    "look": "Bare dark branches surround a curled cobalt blue bulbous tree form.",
+    "kind": "burnt strange tree",
+    "setting": [
+      "wizard",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": ""
+  },
+  {
+    "n": 716,
+    "id": 897,
+    "look": "A large bare tree has black branches, a twisted brown trunk, and exposed roots.",
+    "kind": "burnt fruit tree",
+    "setting": [
+      "forest",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": "Looks nearly identical to #712."
+  },
+  {
+    "n": 717,
+    "id": 1002,
+    "look": "A compact grey shrub consists of many short bare branching stems.",
+    "kind": "dead grey shrub",
+    "setting": [
+      "forest",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": ""
+  },
+  {
+    "n": 718,
+    "id": 1005,
+    "look": "A reddish brown dead tree has a long crooked trunk and widely spread bare branches.",
+    "kind": "bare reddish tree",
+    "setting": [
+      "forest",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place this leafless vegetation along an abandoned path to create a sparse, desolate setting.",
+    "notes": ""
+  },
+  {
+    "n": 719,
+    "id": 624,
+    "look": "Long green palm fronds crown a leaning golden brown trunk with a grassy foot.",
+    "kind": "leaning palm tree",
+    "setting": [
+      "coast",
+      "jungle"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Cluster this tree along a woodland route to create shade and a natural boundary.",
+    "notes": ""
+  }
+]

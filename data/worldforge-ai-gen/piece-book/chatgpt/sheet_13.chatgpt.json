@@ -1,0 +1,751 @@
+[
+  {
+    "n": 624,
+    "id": 985,
+    "look": "Two short brown ladder rails project near the left side.",
+    "kind": "descending ladder west",
+    "setting": [
+      "mine",
+      "camp"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Mark a vertical route with this ladder to suggest practical access between levels.",
+    "notes": ""
+  },
+  {
+    "n": 625,
+    "id": 986,
+    "look": "A short foreshortened brown ladder lies near the upper edge.",
+    "kind": "descending ladder north",
+    "setting": [
+      "mine",
+      "camp"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Mark a vertical route with this ladder to suggest practical access between levels.",
+    "notes": ""
+  },
+  {
+    "n": 626,
+    "id": 987,
+    "look": "A long brown ladder with evenly spaced rungs leans diagonally down-right.",
+    "kind": "ascending ladder north",
+    "setting": [
+      "mine",
+      "camp"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Mark a vertical route with this ladder to suggest practical access between levels.",
+    "notes": ""
+  },
+  {
+    "n": 627,
+    "id": 988,
+    "look": "A long brown rung ladder stretches shallowly down-right.",
+    "kind": "ascending ladder west",
+    "setting": [
+      "mine",
+      "camp"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Mark a vertical route with this ladder to suggest practical access between levels.",
+    "notes": ""
+  },
+  {
+    "n": 628,
+    "id": 989,
+    "look": "A narrow brown ladder rises steeply with compressed rungs.",
+    "kind": "ascending ladder east",
+    "setting": [
+      "mine",
+      "camp"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Mark a vertical route with this ladder to suggest practical access between levels.",
+    "notes": ""
+  },
+  {
+    "n": 629,
+    "id": 990,
+    "look": "A foreshortened brown ladder stretches diagonally right.",
+    "kind": "ascending ladder south",
+    "setting": [
+      "mine",
+      "camp"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Mark a vertical route with this ladder to suggest practical access between levels.",
+    "notes": ""
+  },
+  {
+    "n": 630,
+    "id": 9,
+    "look": "A square field of bright blue and white cloudy mottling.",
+    "kind": "bright sky portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Use this cloudy tile for a magical transition to create an otherworldly threshold.",
+    "notes": ""
+  },
+  {
+    "n": 631,
+    "id": 1016,
+    "look": "A square field of dark blue grey cloudy mottling.",
+    "kind": "dark sky portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Use this cloudy tile for a magical transition to create an otherworldly threshold.",
+    "notes": ""
+  },
+  {
+    "n": 632,
+    "id": 1017,
+    "look": "A square field of dark blue grey cloudy mottling.",
+    "kind": "dark sky portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Use this cloudy tile for a magical transition to create an otherworldly threshold.",
+    "notes": "Looks nearly identical to #631 in this still image; animation cannot be assessed."
+  },
+  {
+    "n": 633,
+    "id": 315,
+    "look": "An orange red star sits inside a gold ring on a pale square.",
+    "kind": "star sigil portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Mark a magical destination with this portal sprite to make the transition visually distinct.",
+    "notes": ""
+  },
+  {
+    "n": 634,
+    "id": 316,
+    "look": "An orange red star sits inside a blue ring on a pale square.",
+    "kind": "star sigil portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Mark a magical destination with this portal sprite to make the transition visually distinct.",
+    "notes": ""
+  },
+  {
+    "n": 635,
+    "id": 328,
+    "look": "An orange red star sits inside a green ring on a pale square.",
+    "kind": "star sigil portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Mark a magical destination with this portal sprite to make the transition visually distinct.",
+    "notes": ""
+  },
+  {
+    "n": 636,
+    "id": 329,
+    "look": "An orange red star sits inside a grey ring on a pale square.",
+    "kind": "star sigil portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Mark a magical destination with this portal sprite to make the transition visually distinct.",
+    "notes": ""
+  },
+  {
+    "n": 637,
+    "id": 330,
+    "look": "An orange red star sits inside a purple ring on a pale square.",
+    "kind": "star sigil portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Mark a magical destination with this portal sprite to make the transition visually distinct.",
+    "notes": ""
+  },
+  {
+    "n": 638,
+    "id": 332,
+    "look": "An orange red star sits inside a red ring with projecting red spokes on a pale square.",
+    "kind": "star sigil portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Mark a magical destination with this portal sprite to make the transition visually distinct.",
+    "notes": ""
+  },
+  {
+    "n": 639,
+    "id": 319,
+    "look": "An orange red star sits inside a pale blue ring with projecting red spokes on a pale square.",
+    "kind": "star sigil portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Mark a magical destination with this portal sprite to make the transition visually distinct.",
+    "notes": ""
+  },
+  {
+    "n": 640,
+    "id": 331,
+    "look": "An orange red star sits inside a green ring with projecting red spokes on a pale square.",
+    "kind": "star sigil portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Mark a magical destination with this portal sprite to make the transition visually distinct.",
+    "notes": ""
+  },
+  {
+    "n": 641,
+    "id": 318,
+    "look": "An orange red star sits inside a purple ring with projecting red spokes on a pale square.",
+    "kind": "star sigil portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Mark a magical destination with this portal sprite to make the transition visually distinct.",
+    "notes": "Cards #641 and #642 have identical visible sprites and share ID 318 despite different palette names."
+  },
+  {
+    "n": 642,
+    "id": 318,
+    "look": "An orange red star sits inside a purple ring with projecting red spokes on a pale square.",
+    "kind": "star sigil portal",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Mark a magical destination with this portal sprite to make the transition visually distinct.",
+    "notes": "Cards #641 and #642 have identical visible sprites and share ID 318 despite different palette names."
+  },
+  {
+    "n": 643,
+    "id": 189,
+    "look": "A low angular white ribbed frame surrounds a dark triangular opening.",
+    "kind": "ribbed white gateway",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Mark a magical destination with this portal sprite to make the transition visually distinct.",
+    "notes": ""
+  },
+  {
+    "n": 644,
+    "id": 190,
+    "look": "A tall angular white ribbed frame surrounds a dark triangular opening.",
+    "kind": "ribbed white gateway",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "portal",
+    "scene_use": "Mark a magical destination with this portal sprite to make the transition visually distinct.",
+    "notes": ""
+  },
+  {
+    "n": 645,
+    "id": 0,
+    "look": "The grey card box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible decoration is available for scene placement.",
+    "notes": "Blank card labelled Hidden, ID 0."
+  },
+  {
+    "n": 646,
+    "id": 1330,
+    "look": "Two tiny cyan white and purple four pointed sparkles float far apart.",
+    "kind": "sparkling portal effect",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Overlay these sparse sparkles on a magical entrance to add a subtle glimmer.",
+    "notes": "Only two small sparkles are visible in this frame."
+  },
+  {
+    "n": 647,
+    "id": 237,
+    "look": "A long thin golden brown rope curves at its upper end and descends diagonally right.",
+    "kind": "long hooked rope",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": ""
+  },
+  {
+    "n": 648,
+    "id": 238,
+    "look": "A long thin golden brown rope hooks left at its upper end and descends diagonally right.",
+    "kind": "long hooked rope",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": ""
+  },
+  {
+    "n": 649,
+    "id": 241,
+    "look": "A golden brown rope has a looped branching knot and a long diagonal tail.",
+    "kind": "knotted climbing rope",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": ""
+  },
+  {
+    "n": 650,
+    "id": 255,
+    "look": "A tiny golden brown bent rope has a forked knot and short hanging ends.",
+    "kind": "short knotted rope",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": "Very small rope fragment; climbing direction is not visually clear."
+  },
+  {
+    "n": 651,
+    "id": 256,
+    "look": "A tiny golden brown rope has a pointed loop and short hanging tail.",
+    "kind": "short looped rope",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": "Very small rope fragment; climbing direction is not visually clear."
+  },
+  {
+    "n": 652,
+    "id": 257,
+    "look": "A tiny golden brown rope curls into a compact hooked knot.",
+    "kind": "small rope knot",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": "Very small rope fragment; climbing direction is not visually clear."
+  },
+  {
+    "n": 653,
+    "id": 512,
+    "look": "A tiny golden brown bent rope has a forked knot and short hanging ends.",
+    "kind": "short knotted rope",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": "Very small rope fragment; climbing direction is not visually clear."
+  },
+  {
+    "n": 654,
+    "id": 513,
+    "look": "A tiny golden brown rope has a pointed loop and short hanging tail.",
+    "kind": "short looped rope",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": "Very small rope fragment; climbing direction is not visually clear."
+  },
+  {
+    "n": 655,
+    "id": 514,
+    "look": "A tiny golden brown rope curls into a compact hooked knot.",
+    "kind": "small rope knot",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": "Very small rope fragment; climbing direction is not visually clear."
+  },
+  {
+    "n": 656,
+    "id": 1388,
+    "look": "A long thin golden brown rope curves at its upper end and descends diagonally right.",
+    "kind": "long hooked rope",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": ""
+  },
+  {
+    "n": 657,
+    "id": 1389,
+    "look": "A long thin golden brown rope hooks left at its upper end and descends diagonally right.",
+    "kind": "long hooked rope",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": ""
+  },
+  {
+    "n": 658,
+    "id": 1390,
+    "look": "A tiny golden brown bent rope has a forked knot and short hanging ends.",
+    "kind": "short knotted rope",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": ""
+  },
+  {
+    "n": 659,
+    "id": 1391,
+    "look": "A tiny golden brown rope has a pointed loop and short hanging tail.",
+    "kind": "short looped rope",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": ""
+  },
+  {
+    "n": 660,
+    "id": 1392,
+    "look": "A tiny golden brown rope curls into a compact hooked knot.",
+    "kind": "small rope knot",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": ""
+  },
+  {
+    "n": 661,
+    "id": 1393,
+    "look": "A tiny golden brown rope curls into a compact hooked knot.",
+    "kind": "small rope knot",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": ""
+  },
+  {
+    "n": 662,
+    "id": 1394,
+    "look": "A golden brown rope has a looped branching knot and a long diagonal tail.",
+    "kind": "knotted climbing rope",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this rope to a shaft edge or wall to mark a climbing route with a utilitarian feel.",
+    "notes": ""
+  },
+  {
+    "n": 663,
+    "id": 1395,
+    "look": "A long gnarled brown root stretches down-right with branching tendrils and sparse green leaves.",
+    "kind": "long climbing root",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Attach this root or vine to a vertical surface to suggest a natural climbing route.",
+    "notes": ""
+  },
+  {
+    "n": 664,
+    "id": 1396,
+    "look": "A steep curved brown root has branching tendrils and sparse green leaves.",
+    "kind": "curved climbing root",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Attach this root or vine to a vertical surface to suggest a natural climbing route.",
+    "notes": ""
+  },
+  {
+    "n": 665,
+    "id": 1397,
+    "look": "A short upright brown root twists into a thick central knot.",
+    "kind": "short twisted root",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this root or vine to a vertical surface to suggest a natural climbing route.",
+    "notes": ""
+  },
+  {
+    "n": 666,
+    "id": 1398,
+    "look": "A short upright brown root bends around a thick central knot.",
+    "kind": "short twisted root",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this root or vine to a vertical surface to suggest a natural climbing route.",
+    "notes": ""
+  },
+  {
+    "n": 667,
+    "id": 1399,
+    "look": "A compact brown root knot spreads horizontally into pointed branches.",
+    "kind": "horizontal root knot",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this root or vine to a vertical surface to suggest a natural climbing route.",
+    "notes": "Cards #667 and #668 look identical in this contact sheet."
+  },
+  {
+    "n": 668,
+    "id": 1400,
+    "look": "A compact brown root knot spreads horizontally into pointed branches.",
+    "kind": "horizontal root knot",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this root or vine to a vertical surface to suggest a natural climbing route.",
+    "notes": "Cards #667 and #668 look identical in this contact sheet."
+  },
+  {
+    "n": 669,
+    "id": 1401,
+    "look": "A long bare brown root twists downward from a branching upper knot.",
+    "kind": "long bare root",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Attach this root or vine to a vertical surface to suggest a natural climbing route.",
+    "notes": ""
+  },
+  {
+    "n": 670,
+    "id": 1402,
+    "look": "A curved thin brown vine bears many small bright green leaves.",
+    "kind": "leafy climbing vine",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this root or vine to a vertical surface to suggest a natural climbing route.",
+    "notes": ""
+  },
+  {
+    "n": 671,
+    "id": 1403,
+    "look": "A long diagonal brown vine is densely covered with bright green leaves.",
+    "kind": "leafy climbing vine",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach this root or vine to a vertical surface to suggest a natural climbing route.",
+    "notes": ""
+  }
+]

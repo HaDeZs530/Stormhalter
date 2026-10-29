@@ -1,0 +1,374 @@
+[
+  {
+    "n": 1440,
+    "id": 1574,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1441,
+    "id": 1575,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1442,
+    "id": 1576,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1443,
+    "id": 1577,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1444,
+    "id": 1578,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1445,
+    "id": 1579,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1446,
+    "id": 1580,
+    "look": "A rounded tree crown carries dense pink blossoms above a branching brown trunk leaning toward the lower right.",
+    "kind": "pink flowering tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a path or among other trees to add a layered canopy and natural cover.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1447,
+    "id": 1581,
+    "look": "A broad dark olive tree crown surrounds a dense network of brown branches leaning toward the lower right.",
+    "kind": "branching leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a path or among other trees to add a layered canopy and natural cover.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1448,
+    "id": 1582,
+    "look": "A broad mossy green tree canopy forms rounded clumps above several exposed brown branches.",
+    "kind": "branching leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a path or among other trees to add a layered canopy and natural cover.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1449,
+    "id": 1583,
+    "look": "A compact pale green tree crown has broad leaves and a reddish-brown branching trunk extending down-right.",
+    "kind": "branching leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a path or among other trees to add a layered canopy and natural cover.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1450,
+    "id": 1584,
+    "look": "A larger green tree crown contains dense foliage above several bright reddish-brown branches extending down-right.",
+    "kind": "branching leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a path or among other trees to add a layered canopy and natural cover.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1451,
+    "id": 1585,
+    "look": "A dense small-leaved green tree crown sits above a pale branching trunk extending toward the lower right.",
+    "kind": "branching leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a path or among other trees to add a layered canopy and natural cover.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1452,
+    "id": 1586,
+    "look": "A rounded dark green tree canopy has broad overlapping leaves and a pinkish-brown trunk extending down-right.",
+    "kind": "branching leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a path or among other trees to add a layered canopy and natural cover.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1453,
+    "id": 1587,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1454,
+    "id": 1588,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1455,
+    "id": 1589,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1456,
+    "id": 1590,
+    "look": "A pale grey-green tree canopy has sparse fine foliage and exposed light branches extending down-right.",
+    "kind": "branching leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a path or among other trees to add a layered canopy and natural cover.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1457,
+    "id": 1591,
+    "look": "A small pale green tree crown surrounds thin white-grey branches and a light trunk.",
+    "kind": "branching leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a path or among other trees to add a layered canopy and natural cover.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1458,
+    "id": 1592,
+    "look": "A large cream-grey tree canopy has fine sparse foliage and many exposed pale branches.",
+    "kind": "branching leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a path or among other trees to add a layered canopy and natural cover.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1459,
+    "id": 1593,
+    "look": "A pale yellow-green tree has broad leaf clumps above a light branching trunk leaning down-right.",
+    "kind": "branching leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a path or among other trees to add a layered canopy and natural cover.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1460,
+    "id": 1594,
+    "look": "A yellow-green tree crown has rounded foliage clusters and a pale branching trunk extending down-right.",
+    "kind": "branching leafy tree",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a path or among other trees to add a layered canopy and natural cover.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1461,
+    "id": 1595,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1462,
+    "id": 1596,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1463,
+    "id": 1597,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1464,
+    "id": 1598,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  },
+  {
+    "n": 1465,
+    "id": 1599,
+    "look": "The grey sprite box is blank; no sprite is visible.",
+    "kind": "unknown",
+    "setting": [],
+    "tone": [],
+    "size": "tile",
+    "placement": "unknown",
+    "scene_use": "No visible sprite is available for placement.",
+    "notes": "No palette is listed. Blank card."
+  }
+]

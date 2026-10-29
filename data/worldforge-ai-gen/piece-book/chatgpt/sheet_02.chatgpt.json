@@ -1,0 +1,745 @@
+[
+  {
+    "n": 96,
+    "id": 1307,
+    "look": "Muted dark green mottling forms a fine square ground texture.",
+    "kind": "dark green floor",
+    "setting": [
+      "forest",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a forest area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 97,
+    "id": 1344,
+    "look": "Dark red rectangular bricks form staggered rows with black joints.",
+    "kind": "red brick floor",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a town area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 98,
+    "id": 1365,
+    "look": "Dark brown angular stone slabs form a cracked polygonal pattern.",
+    "kind": "dark cracked stone",
+    "setting": [
+      "dungeon",
+      "cave"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a dungeon area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 99,
+    "id": 1372,
+    "look": "Olive-gold angular stone slabs form a cracked polygonal pattern.",
+    "kind": "olive cracked stone",
+    "setting": [
+      "cave",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a cave area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 100,
+    "id": 1409,
+    "look": "Dark rocks are divided by thick bright white and pale blue icy seams.",
+    "kind": "icy rock floor",
+    "setting": [
+      "snow",
+      "cave"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a snow area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 101,
+    "id": 1410,
+    "look": "Soft pale blue-white mottling forms a cloudy icy surface.",
+    "kind": "cloudy snow floor",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a snow area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 102,
+    "id": 1411,
+    "look": "Dense pale cyan and white speckles form a bright snowy square.",
+    "kind": "bright snow floor",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a snow area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 103,
+    "id": 22,
+    "look": "Deep blue water has closely spaced darker horizontal ripples.",
+    "kind": "deep blue water",
+    "setting": [
+      "coast"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a coast area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 104,
+    "id": 177,
+    "look": "Bright white and lavender-blue ripples streak horizontally across water.",
+    "kind": "bright rippling water",
+    "setting": [
+      "coast"
+    ],
+    "tone": [
+      "wet",
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a coast area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 105,
+    "id": 180,
+    "look": "Dark olive and yellow-green ripples form a murky horizontal water texture.",
+    "kind": "murky green water",
+    "setting": [
+      "swamp",
+      "sewer"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a swamp area to add the pictured surface and colour.",
+    "notes": "Cards #105 and #106 look identical and share id 180; poison is not visually distinguishable."
+  },
+  {
+    "n": 106,
+    "id": 180,
+    "look": "Dark olive and yellow-green ripples form a murky horizontal water texture.",
+    "kind": "murky green water",
+    "setting": [
+      "swamp",
+      "sewer"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a swamp area to add the pictured surface and colour.",
+    "notes": "Cards #105 and #106 look identical and share id 180; poison is not visually distinguishable."
+  },
+  {
+    "n": 107,
+    "id": 374,
+    "look": "Dark red liquid has thin bright red horizontal ripples.",
+    "kind": "dark red liquid",
+    "setting": [
+      "dungeon",
+      "lava"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a dungeon area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 108,
+    "id": 601,
+    "look": "Bright blue shallow-looking water has turquoise highlights and tiny white glints.",
+    "kind": "bright blue water",
+    "setting": [
+      "coast"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a coast area to add the pictured surface and colour.",
+    "notes": "Cards #108 and #109 look identical and share id 601."
+  },
+  {
+    "n": 109,
+    "id": 601,
+    "look": "Bright blue shallow-looking water has turquoise highlights and tiny white glints.",
+    "kind": "bright blue water",
+    "setting": [
+      "coast"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a coast area to add the pictured surface and colour.",
+    "notes": "Cards #108 and #109 look identical and share id 601."
+  },
+  {
+    "n": 110,
+    "id": 602,
+    "look": "Dark green water has closely packed black and olive horizontal streaks.",
+    "kind": "green sewer water",
+    "setting": [
+      "sewer",
+      "swamp"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a sewer area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 111,
+    "id": 622,
+    "look": "Deep blue water has a thin pale curved wave near the right edge.",
+    "kind": "right edge wave",
+    "setting": [
+      "coast"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a coast area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 112,
+    "id": 623,
+    "look": "Deep blue water has a pale curved wave along its lower edge.",
+    "kind": "lower edge wave",
+    "setting": [
+      "coast"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a coast area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 113,
+    "id": 1018,
+    "look": "Deep blue water has a thin pale curved wave near the left edge.",
+    "kind": "left edge wave",
+    "setting": [
+      "coast"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a coast area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 114,
+    "id": 1019,
+    "look": "Deep blue water has a thin pale curved wave near its upper edge.",
+    "kind": "upper edge wave",
+    "setting": [
+      "coast"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile it through a coast area to add the pictured surface and colour.",
+    "notes": ""
+  },
+  {
+    "n": 115,
+    "id": 27,
+    "look": "Red timber framing encloses gold-yellow triangular panels above grey masonry, forming a broad receding wall.",
+    "kind": "decorated timber wall section",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add red-gold decorated timber architecture.",
+    "notes": ""
+  },
+  {
+    "n": 116,
+    "id": 33,
+    "look": "A narrow red-gold decorated timber post slopes down-right with a small squared upper end.",
+    "kind": "decorated timber corner post",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add red-gold decorated timber architecture.",
+    "notes": ""
+  },
+  {
+    "n": 117,
+    "id": 28,
+    "look": "Red timber framing encloses gold-yellow triangular panels above grey masonry, forming a tall upper-left-leaning wall.",
+    "kind": "decorated timber wall section",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add red-gold decorated timber architecture.",
+    "notes": ""
+  },
+  {
+    "n": 118,
+    "id": 30,
+    "look": "Pale grey smooth stone has broad rectangular borders and recessed panels, forming a tall upper-left-leaning wall.",
+    "kind": "smooth stone wall section",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add pale grey smooth stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 119,
+    "id": 29,
+    "look": "Pale grey smooth stone has broad rectangular borders and recessed panels, forming a broad receding wall.",
+    "kind": "smooth stone wall section",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add pale grey smooth stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 120,
+    "id": 34,
+    "look": "A narrow pale grey smooth stone post slopes down-right with a small squared upper end.",
+    "kind": "smooth stone corner post",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add pale grey smooth stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 121,
+    "id": 140,
+    "look": "Pale grey-white mottled marble has inset rectangular borders, forming a tall upper-left-leaning wall.",
+    "kind": "marble wall section",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add mottled pale marble architecture.",
+    "notes": ""
+  },
+  {
+    "n": 122,
+    "id": 139,
+    "look": "Pale grey-white mottled marble has inset rectangular borders, forming a broad receding wall.",
+    "kind": "marble wall section",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add mottled pale marble architecture.",
+    "notes": ""
+  },
+  {
+    "n": 123,
+    "id": 143,
+    "look": "A narrow mottled pale marble post slopes down-right with a small squared upper end.",
+    "kind": "marble corner post",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add mottled pale marble architecture.",
+    "notes": ""
+  },
+  {
+    "n": 124,
+    "id": 146,
+    "look": "Thick orange-brown logs have dark bark grain and round ringed ends, forming a tall upper-left-leaning wall.",
+    "kind": "log wall section",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add brown log architecture.",
+    "notes": ""
+  },
+  {
+    "n": 125,
+    "id": 145,
+    "look": "Thick orange-brown logs have dark bark grain and round ringed ends, forming a broad receding wall.",
+    "kind": "log wall section",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add brown log architecture.",
+    "notes": ""
+  },
+  {
+    "n": 126,
+    "id": 149,
+    "look": "A narrow brown log post slopes down-right with a small squared upper end.",
+    "kind": "log corner post",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add brown log architecture.",
+    "notes": ""
+  },
+  {
+    "n": 127,
+    "id": 151,
+    "look": "Pale stone bands contain dark curling carved motifs, forming a broad receding wall.",
+    "kind": "stone wall section",
+    "setting": [
+      "temple",
+      "castle"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add pale carved stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 128,
+    "id": 152,
+    "look": "Pale stone bands contain dark curling carved motifs, forming a tall upper-left-leaning wall.",
+    "kind": "stone wall section",
+    "setting": [
+      "temple",
+      "castle"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add pale carved stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 129,
+    "id": 155,
+    "look": "A narrow pale carved stone post slopes down-right with a small squared upper end.",
+    "kind": "stone corner post",
+    "setting": [
+      "temple",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add pale carved stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 130,
+    "id": 158,
+    "look": "Rough angular grey rocks interlock with irregular dark seams, forming a tall upper-left-leaning wall.",
+    "kind": "cave rock wall section",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add rough grey cave rock architecture.",
+    "notes": ""
+  },
+  {
+    "n": 131,
+    "id": 157,
+    "look": "Rough angular grey rocks interlock with irregular dark seams, forming a broad receding wall.",
+    "kind": "cave rock wall section",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add rough grey cave rock architecture.",
+    "notes": ""
+  },
+  {
+    "n": 132,
+    "id": 159,
+    "look": "A narrow rough grey cave rock post slopes down-right with a small squared upper end.",
+    "kind": "cave rock corner post",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add rough grey cave rock architecture.",
+    "notes": ""
+  },
+  {
+    "n": 133,
+    "id": 26,
+    "look": "Green rectangular masonry has pale decorative faces and dark dividing lines, forming a tall upper-left-leaning wall.",
+    "kind": "masonry wall section",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add green patterned masonry architecture.",
+    "notes": ""
+  },
+  {
+    "n": 134,
+    "id": 25,
+    "look": "Green rectangular masonry has pale decorative faces and dark dividing lines, forming a broad receding wall.",
+    "kind": "masonry wall section",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add green patterned masonry architecture.",
+    "notes": ""
+  },
+  {
+    "n": 135,
+    "id": 32,
+    "look": "A narrow green patterned masonry post slopes down-right with a small squared upper end.",
+    "kind": "masonry corner post",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add green patterned masonry architecture.",
+    "notes": ""
+  },
+  {
+    "n": 136,
+    "id": 336,
+    "look": "Dark green-grey granite has dense fine pale speckles, forming a tall upper-left-leaning wall.",
+    "kind": "granite wall section",
+    "setting": [
+      "castle",
+      "cave"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add dark green-grey granite architecture.",
+    "notes": ""
+  },
+  {
+    "n": 137,
+    "id": 335,
+    "look": "Dark green-grey granite has dense fine pale speckles, forming a broad receding wall.",
+    "kind": "granite wall section",
+    "setting": [
+      "castle",
+      "cave"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add dark green-grey granite architecture.",
+    "notes": ""
+  },
+  {
+    "n": 138,
+    "id": 357,
+    "look": "A narrow dark green-grey granite post slopes down-right with a small squared upper end.",
+    "kind": "granite corner post",
+    "setting": [
+      "castle",
+      "cave"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add dark green-grey granite architecture.",
+    "notes": ""
+  },
+  {
+    "n": 139,
+    "id": 347,
+    "look": "Bright orange-gold sandstone has fine mottled grain, forming a tall upper-left-leaning wall.",
+    "kind": "sandstone wall section",
+    "setting": [
+      "desert",
+      "temple"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add orange sandstone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 140,
+    "id": 346,
+    "look": "Bright orange-gold sandstone has fine mottled grain, forming a broad receding wall.",
+    "kind": "sandstone wall section",
+    "setting": [
+      "desert",
+      "temple"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add orange sandstone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 141,
+    "id": 359,
+    "look": "A narrow orange sandstone post slopes down-right with a small squared upper end.",
+    "kind": "sandstone corner post",
+    "setting": [
+      "desert",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add orange sandstone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 142,
+    "id": 334,
+    "look": "Brown and orange earth has dense dark speckles, forming a tall upper-left-leaning wall.",
+    "kind": "earth wall section",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add brown earth architecture.",
+    "notes": ""
+  },
+  {
+    "n": 143,
+    "id": 333,
+    "look": "Brown and orange earth has dense dark speckles, forming a broad receding wall.",
+    "kind": "earth wall section",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add brown earth architecture.",
+    "notes": ""
+  }
+]

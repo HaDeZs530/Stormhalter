@@ -1,0 +1,776 @@
+[
+  {
+    "n": 768,
+    "id": 883,
+    "look": "A tilted brown wooden display crate holds several pale metal mace heads and a round brown object.",
+    "kind": "mace display crate",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this stocked crate in an armoury or market stall to display weapons for use or sale.",
+    "notes": ""
+  },
+  {
+    "n": 769,
+    "id": 884,
+    "look": "A brown wooden display crate holds a large pale axe blade and a round grey object.",
+    "kind": "axe display crate",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this stocked crate in an armoury or market stall to display weapons for use or sale.",
+    "notes": ""
+  },
+  {
+    "n": 770,
+    "id": 885,
+    "look": "A brown wooden display crate holds several long pale swords angled upper-left.",
+    "kind": "sword display crate",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this stocked crate in an armoury or market stall to display weapons for use or sale.",
+    "notes": ""
+  },
+  {
+    "n": 771,
+    "id": 266,
+    "look": "A dense broad dark green oak canopy nearly hides a thick brown trunk and roots.",
+    "kind": "dense heavy oak",
+    "setting": [
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Cluster this tree along a woodland route to create shade and a natural boundary.",
+    "notes": ""
+  },
+  {
+    "n": 772,
+    "id": 168,
+    "look": "A long pale grey mottled column leans upper-left between a square capital and stepped base.",
+    "kind": "weathered marble pillar",
+    "setting": [
+      "palace",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Repeat this pillar along a hall or entrance to establish architectural rhythm and height.",
+    "notes": ""
+  },
+  {
+    "n": 773,
+    "id": 313,
+    "look": "A tall peach orange carved column leans upper-left between a square capital and stepped base.",
+    "kind": "carved sandstone pillar",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Repeat this pillar along a hall or entrance to establish architectural rhythm and height.",
+    "notes": ""
+  },
+  {
+    "n": 774,
+    "id": 857,
+    "look": "A thick dark grey column has overlapping scale texture, a square capital, and stepped base.",
+    "kind": "large scaled pillar",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Repeat this pillar along a hall or entrance to establish architectural rhythm and height.",
+    "notes": ""
+  },
+  {
+    "n": 775,
+    "id": 866,
+    "look": "A slender pale grey column has diagonal scale texture, a square capital, and stepped base.",
+    "kind": "small scaled pillar",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Repeat this pillar along a hall or entrance to establish architectural rhythm and height.",
+    "notes": ""
+  },
+  {
+    "n": 776,
+    "id": 954,
+    "look": "A pale stone fence post has a rounded finial and a long moulded stepped base.",
+    "kind": "stone fence post",
+    "setting": [
+      "crypt",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this stone post at a cemetery boundary to give the entrance a formal edge.",
+    "notes": ""
+  },
+  {
+    "n": 777,
+    "id": 955,
+    "look": "A pale winged gargoyle perches atop a narrow carved stone pedestal.",
+    "kind": "gargoyle gate statue",
+    "setting": [
+      "crypt",
+      "castle"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Flank an entrance with this statue to create a guarded, imposing approach.",
+    "notes": ""
+  },
+  {
+    "n": 778,
+    "id": 1246,
+    "look": "A pale stone armoured figure with angular shoulders stands upon a square stepped plinth.",
+    "kind": "knight memorial statue",
+    "setting": [
+      "castle",
+      "town"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Flank an entrance with this statue to create a guarded, imposing approach.",
+    "notes": ""
+  },
+  {
+    "n": 779,
+    "id": 1280,
+    "look": "A dark grey seated beast with a raised head rests on a thick rectangular stone plinth.",
+    "kind": "grey beast statue",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Flank an entrance with this statue to create a guarded, imposing approach.",
+    "notes": ""
+  },
+  {
+    "n": 780,
+    "id": 1304,
+    "look": "A blue grey seated beast with a raised head rests on a thick rectangular plinth.",
+    "kind": "blue beast statue",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Flank an entrance with this statue to create a guarded, imposing approach.",
+    "notes": ""
+  },
+  {
+    "n": 781,
+    "id": 1328,
+    "look": "A muted green seated beast with a raised head rests on a thick rectangular plinth.",
+    "kind": "green beast statue",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Flank an entrance with this statue to create a guarded, imposing approach.",
+    "notes": ""
+  },
+  {
+    "n": 782,
+    "id": 1281,
+    "look": "A pale grey winged dragon crouches on a polygonal stone pedestal.",
+    "kind": "grey dragon statue",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Flank an entrance with this statue to create a guarded, imposing approach.",
+    "notes": ""
+  },
+  {
+    "n": 783,
+    "id": 1305,
+    "look": "A blue grey winged dragon crouches on a polygonal pedestal.",
+    "kind": "blue dragon statue",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Flank an entrance with this statue to create a guarded, imposing approach.",
+    "notes": ""
+  },
+  {
+    "n": 784,
+    "id": 1329,
+    "look": "A muted green winged dragon crouches on a polygonal pedestal.",
+    "kind": "green dragon statue",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Flank an entrance with this statue to create a guarded, imposing approach.",
+    "notes": ""
+  },
+  {
+    "n": 785,
+    "id": 1271,
+    "look": "Violet masonry forms an enclosed corner with tall walls, arched recesses, and a tiled base.",
+    "kind": "purple masonry corner",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "wall-corner",
+    "scene_use": "Repeat this plant patch across cultivated ground to create a dense field texture.",
+    "notes": ""
+  },
+  {
+    "n": 786,
+    "id": 1295,
+    "look": "Blue grey masonry forms an enclosed corner with tall walls, arched recesses, and a tiled base.",
+    "kind": "blue masonry corner",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "wall-corner",
+    "scene_use": "Repeat this plant patch across cultivated ground to create a dense field texture.",
+    "notes": ""
+  },
+  {
+    "n": 787,
+    "id": 1319,
+    "look": "Muted green masonry forms an enclosed corner with tall walls, arched recesses, and a tiled base.",
+    "kind": "green masonry corner",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "wall-corner",
+    "scene_use": "Repeat this plant patch across cultivated ground to create a dense field texture.",
+    "notes": ""
+  },
+  {
+    "n": 788,
+    "id": 86,
+    "look": "A broad orange brown wooden counter has a bright reddish plank top and dark side.",
+    "kind": "horizontal wooden counter",
+    "setting": [
+      "tavern",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Run this counter along a shop or service area to separate visitors from the working space.",
+    "notes": ""
+  },
+  {
+    "n": 789,
+    "id": 87,
+    "look": "A narrow upright orange brown wooden counter has a bright reddish plank top and dark side.",
+    "kind": "vertical wooden counter",
+    "setting": [
+      "tavern",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Run this counter along a shop or service area to separate visitors from the working space.",
+    "notes": ""
+  },
+  {
+    "n": 790,
+    "id": 96,
+    "look": "A broad mottled grey stone slab rests on an orange brown wooden counter base.",
+    "kind": "horizontal slate counter",
+    "setting": [
+      "tavern",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Run this counter along a shop or service area to separate visitors from the working space.",
+    "notes": ""
+  },
+  {
+    "n": 791,
+    "id": 97,
+    "look": "A narrow upright mottled grey stone slab rests on an orange brown wooden counter base.",
+    "kind": "vertical slate counter",
+    "setting": [
+      "tavern",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Run this counter along a shop or service area to separate visitors from the working space.",
+    "notes": ""
+  },
+  {
+    "n": 792,
+    "id": 248,
+    "look": "A broad bright yellow counter has repeating recessed square panels across its top and sides.",
+    "kind": "horizontal gilded counter",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Run this counter along a shop or service area to separate visitors from the working space.",
+    "notes": ""
+  },
+  {
+    "n": 793,
+    "id": 249,
+    "look": "A narrow upright bright yellow counter has repeating recessed square panels across its top and sides.",
+    "kind": "vertical gilded counter",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Run this counter along a shop or service area to separate visitors from the working space.",
+    "notes": ""
+  },
+  {
+    "n": 794,
+    "id": 267,
+    "look": "A broad rectangular brown wooden tabletop has red orange edging and short projecting legs.",
+    "kind": "horizontal wooden table",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Set this table in a room or gathering area to provide a clear shared working surface.",
+    "notes": ""
+  },
+  {
+    "n": 795,
+    "id": 268,
+    "look": "A narrow upright rectangular brown wooden tabletop has red orange edging and short projecting legs.",
+    "kind": "vertical wooden table",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Set this table in a room or gathering area to provide a clear shared working surface.",
+    "notes": ""
+  },
+  {
+    "n": 796,
+    "id": 269,
+    "look": "A broad wooden table is crowded with pale bottles, pink vessels, and small scattered tools.",
+    "kind": "horizontal alchemy table",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this crowded table in a wizard's workshop to suggest ongoing experiments.",
+    "notes": ""
+  },
+  {
+    "n": 797,
+    "id": 270,
+    "look": "A narrow upright wooden table is crowded with pale bottles, pink vessels, and small scattered tools.",
+    "kind": "vertical alchemy table",
+    "setting": [
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this crowded table in a wizard's workshop to suggest ongoing experiments.",
+    "notes": ""
+  },
+  {
+    "n": 798,
+    "id": 399,
+    "look": "A broad oval pale stone tabletop has dark rough edging and short irregular supports.",
+    "kind": "horizontal stone table",
+    "setting": [
+      "cave",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Set this table in a room or gathering area to provide a clear shared working surface.",
+    "notes": ""
+  },
+  {
+    "n": 799,
+    "id": 400,
+    "look": "A narrow upright oval pale stone tabletop has dark rough edging and short irregular supports.",
+    "kind": "vertical stone table",
+    "setting": [
+      "cave",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Set this table in a room or gathering area to provide a clear shared working surface.",
+    "notes": ""
+  },
+  {
+    "n": 800,
+    "id": 113,
+    "look": "A pale stepped octagonal altar surrounds a red central inset bearing a gold emblem.",
+    "kind": "octagonal temple altar",
+    "setting": [
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Centre this decorated altar in a shrine to give the room a ceremonial focal point.",
+    "notes": ""
+  },
+  {
+    "n": 801,
+    "id": 138,
+    "look": "A dark mottled octagonal stone altar has layered pale borders and an angular lower projection.",
+    "kind": "octagonal granite altar",
+    "setting": [
+      "temple",
+      "crypt"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Centre this decorated altar in a shrine to give the room a ceremonial focal point.",
+    "notes": ""
+  },
+  {
+    "n": 802,
+    "id": 163,
+    "look": "A dark mottled octagonal stone altar has layered pale borders and an angular right projection.",
+    "kind": "octagonal granite altar",
+    "setting": [
+      "temple",
+      "crypt"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Centre this decorated altar in a shrine to give the room a ceremonial focal point.",
+    "notes": ""
+  },
+  {
+    "n": 803,
+    "id": 169,
+    "look": "A square black altar block is densely faced with rows of white skulls.",
+    "kind": "white skull altar",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead",
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this skull covered altar in a crypt chamber to create a grim ritual focus.",
+    "notes": ""
+  },
+  {
+    "n": 804,
+    "id": 174,
+    "look": "A golden brown square wooden altar has dense geometric carved panels and a stepped side.",
+    "kind": "carved wooden altar",
+    "setting": [
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Centre this decorated altar in a shrine to give the room a ceremonial focal point.",
+    "notes": ""
+  },
+  {
+    "n": 805,
+    "id": 278,
+    "look": "A pale square altar has green border ornaments and rows of multicoloured pictographic marks.",
+    "kind": "green bordered carved altar",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Centre this decorated altar in a shrine to give the room a ceremonial focal point.",
+    "notes": ""
+  },
+  {
+    "n": 806,
+    "id": 290,
+    "look": "A pale sandstone altar displays orange framed panels and repeated dark hook shaped symbols.",
+    "kind": "hook patterned sandstone altar",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Centre this decorated altar in a shrine to give the room a ceremonial focal point.",
+    "notes": ""
+  },
+  {
+    "n": 807,
+    "id": 302,
+    "look": "A pale sandstone altar displays orange framed panels with dark staff and animal shaped symbols.",
+    "kind": "symbol carved sandstone altar",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Centre this decorated altar in a shrine to give the room a ceremonial focal point.",
+    "notes": ""
+  },
+  {
+    "n": 808,
+    "id": 314,
+    "look": "A pale sandstone altar bears rows of dark and coloured symbols inside a warm orange border.",
+    "kind": "inscribed sandstone altar",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Centre this decorated altar in a shrine to give the room a ceremonial focal point.",
+    "notes": ""
+  },
+  {
+    "n": 809,
+    "id": 324,
+    "look": "A brown square altar has a cream patterned frame surrounding a large pale central emblem.",
+    "kind": "emblem carved sandstone altar",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Centre this decorated altar in a shrine to give the room a ceremonial focal point.",
+    "notes": ""
+  },
+  {
+    "n": 810,
+    "id": 327,
+    "look": "A pale sandstone altar bears rows of dark and coloured symbols inside a gold orange border.",
+    "kind": "inscribed sandstone altar",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Centre this decorated altar in a shrine to give the room a ceremonial focal point.",
+    "notes": ""
+  },
+  {
+    "n": 811,
+    "id": 368,
+    "look": "A small rounded blue white altar has a pale central figure or relief and a dark pedestal.",
+    "kind": "blue marble altar",
+    "setting": [
+      "temple",
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Centre this decorated altar in a shrine to give the room a ceremonial focal point.",
+    "notes": ""
+  },
+  {
+    "n": 812,
+    "id": 114,
+    "look": "An orange square platform is enclosed by four corner posts and thin pale ropes.",
+    "kind": "roped fighting ring",
+    "setting": [
+      "town",
+      "camp"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place this roped platform in a training yard or arena to define a contained fighting space.",
+    "notes": ""
+  },
+  {
+    "n": 813,
+    "id": 242,
+    "look": "A small irregular pale turquoise pool has concentric white ripples and a scalloped edge.",
+    "kind": "small rippling spring",
+    "setting": [
+      "garden",
+      "forest"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place this roped platform in a training yard or arena to define a contained fighting space.",
+    "notes": ""
+  },
+  {
+    "n": 814,
+    "id": 209,
+    "look": "An octagonal golden stone rim surrounds bright turquoise water.",
+    "kind": "octagonal fountain pool",
+    "setting": [
+      "garden",
+      "palace"
+    ],
+    "tone": [
+      "wet",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this water feature in a garden clearing to add a calm, refreshing focal point.",
+    "notes": ""
+  },
+  {
+    "n": 815,
+    "id": 210,
+    "look": "A dark green sculpted fountain centre leans upper-left above a narrow pale base.",
+    "kind": "green fountain centre",
+    "setting": [
+      "garden",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Set this sculpted piece at the centre of a fountain pool to add an ornamental landmark.",
+    "notes": ""
+  }
+]

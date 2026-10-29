@@ -1,0 +1,723 @@
+[
+  {
+    "n": 288,
+    "id": 1270,
+    "look": "A low wall shows violet masonry bearing a large pale face with a black open mouth.",
+    "kind": "carved face wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 289,
+    "id": 1282,
+    "look": "A low wall shows blue grey small brickwork.",
+    "kind": "dungeon brick wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 290,
+    "id": 1284,
+    "look": "A tall wall shows blue grey small brickwork.",
+    "kind": "dungeon brick wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 291,
+    "id": 1285,
+    "look": "A narrow corner piece shows blue grey small brickwork.",
+    "kind": "dungeon brick post",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a dungeon wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 292,
+    "id": 1290,
+    "look": "A low wall shows blue grey masonry with a dark arched recess.",
+    "kind": "arched dungeon wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 293,
+    "id": 1291,
+    "look": "A tall wall shows blue grey masonry with a dark arched recess.",
+    "kind": "arched dungeon wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 294,
+    "id": 1292,
+    "look": "A low wall shows blue grey masonry with a broad dark rectangular inset.",
+    "kind": "inset dungeon wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 295,
+    "id": 1293,
+    "look": "A tall wall shows blue grey masonry with a broad dark rectangular inset.",
+    "kind": "inset dungeon wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 296,
+    "id": 1294,
+    "look": "A low wall shows blue grey masonry bearing a pale face with a black open mouth.",
+    "kind": "carved face wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 297,
+    "id": 1306,
+    "look": "A low wall shows moss green small brickwork.",
+    "kind": "dungeon brick wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 298,
+    "id": 1308,
+    "look": "A tall wall shows moss green small brickwork.",
+    "kind": "dungeon brick wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 299,
+    "id": 1309,
+    "look": "A narrow corner piece shows moss green small brickwork.",
+    "kind": "dungeon brick post",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a dungeon wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 300,
+    "id": 1314,
+    "look": "A low wall shows moss green masonry with a dark arched recess.",
+    "kind": "arched dungeon wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 301,
+    "id": 1315,
+    "look": "A tall wall shows moss green masonry with a dark arched recess.",
+    "kind": "arched dungeon wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 302,
+    "id": 1316,
+    "look": "A low wall shows moss green masonry with a broad dark rectangular inset.",
+    "kind": "inset dungeon wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 303,
+    "id": 1317,
+    "look": "A tall wall shows moss green masonry with a broad dark rectangular inset.",
+    "kind": "inset dungeon wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 304,
+    "id": 1318,
+    "look": "A low wall shows moss green masonry bearing a pale face with a black open mouth.",
+    "kind": "carved face wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 305,
+    "id": 1340,
+    "look": "A low wall shows red narrow bricks with dark mortar.",
+    "kind": "red brick wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 306,
+    "id": 1342,
+    "look": "A tall wall shows red narrow bricks with dark mortar.",
+    "kind": "red brick wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 307,
+    "id": 1343,
+    "look": "A narrow corner piece shows red narrow bricks with dark mortar.",
+    "kind": "red brick post",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a dungeon wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 308,
+    "id": 1348,
+    "look": "A low wall shows near black craggy rock edged with white blue ice.",
+    "kind": "icy cave wall",
+    "setting": [
+      "cave",
+      "snow"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a cave area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 309,
+    "id": 1350,
+    "look": "A tall wall shows near black craggy rock edged with white blue ice.",
+    "kind": "icy cave wall",
+    "setting": [
+      "cave",
+      "snow"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a cave area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 310,
+    "id": 1351,
+    "look": "A narrow corner piece shows near black rock with a pale icy cap.",
+    "kind": "icy cave post",
+    "setting": [
+      "cave",
+      "snow"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a cave wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 311,
+    "id": 1356,
+    "look": "A low wall shows translucent pale blue ice with angular white cracks.",
+    "kind": "glacier ice wall",
+    "setting": [
+      "snow",
+      "cave"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a snow area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 312,
+    "id": 1358,
+    "look": "A tall wall shows translucent pale blue ice with angular white cracks.",
+    "kind": "glacier ice wall",
+    "setting": [
+      "snow",
+      "cave"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a snow area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 313,
+    "id": 1362,
+    "look": "A narrow corner piece shows smooth blue grey translucent material.",
+    "kind": "glacier ice post",
+    "setting": [
+      "snow",
+      "cave"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a snow wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 314,
+    "id": 1364,
+    "look": "A low wall shows dark brown and gold mottled rock.",
+    "kind": "gold brown rock wall",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a mine area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 315,
+    "id": 1366,
+    "look": "A tall wall shows dark brown and gold mottled rock.",
+    "kind": "gold brown rock wall",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a mine area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 316,
+    "id": 1367,
+    "look": "A narrow corner piece shows dark brown and gold mottled rock.",
+    "kind": "gold brown rock post",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a mine wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 317,
+    "id": 1380,
+    "look": "A low wall shows dark gold brown rock studded with bright cyan crystals.",
+    "kind": "glowing crystal wall",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a mine area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 318,
+    "id": 1381,
+    "look": "A tall wall shows dark gold brown rock studded with bright cyan crystals.",
+    "kind": "glowing crystal wall",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a mine area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 319,
+    "id": 1125,
+    "look": "A square tile shows small irregular grey flagstones with pale joints.",
+    "kind": "small flagstone floor",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile a palace chamber with this paving to give the floor a formal stone finish.",
+    "notes": ""
+  },
+  {
+    "n": 320,
+    "id": 1133,
+    "look": "A square tile shows large irregular grey flagstones with pale joints.",
+    "kind": "large flagstone floor",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Tile a palace chamber with this paving to give the floor a formal stone finish.",
+    "notes": ""
+  },
+  {
+    "n": 321,
+    "id": 1116,
+    "look": "A low wall shows grey rectangular masonry with a thick pillar at the right end.",
+    "kind": "right pillar wall",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a palace area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 322,
+    "id": 1147,
+    "look": "An overlay shows fine pale masonry outlines forming a low right pillar wall.",
+    "kind": "wall grout overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 323,
+    "id": 1156,
+    "look": "An overlay shows sparse pale strokes outlining a low right pillar wall.",
+    "kind": "wall highlight overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 324,
+    "id": 1117,
+    "look": "A low wall shows grey rectangular masonry bordered by smooth stone coping.",
+    "kind": "palace stone wall",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a palace area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 325,
+    "id": 1135,
+    "look": "An overlay shows fine white staggered masonry outlines forming a low wall.",
+    "kind": "wall grout overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 326,
+    "id": 1152,
+    "look": "An overlay shows sparse white strokes forming low masonry edges.",
+    "kind": "wall highlight overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 327,
+    "id": 1118,
+    "look": "A low wall shows grey rectangular masonry with a thick pillar at the left end.",
+    "kind": "left pillar wall",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a palace area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 328,
+    "id": 1149,
+    "look": "An overlay shows fine pale masonry outlines forming a low left pillar wall.",
+    "kind": "wall grout overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 329,
+    "id": 1154,
+    "look": "An overlay shows sparse pale strokes outlining a low left pillar wall.",
+    "kind": "wall highlight overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 330,
+    "id": 1119,
+    "look": "A tall wall shows tall grey rectangular masonry beside a thick left pillar.",
+    "kind": "left pillar wall",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a palace area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 331,
+    "id": 1148,
+    "look": "An overlay shows fine pale staggered joints forming a tall pillar wall.",
+    "kind": "wall grout overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 332,
+    "id": 1153,
+    "look": "An overlay shows sparse pale strokes forming a tall pillar wall.",
+    "kind": "wall highlight overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 333,
+    "id": 1120,
+    "look": "A tall wall shows tall grey rectangular masonry with smooth stone edging.",
+    "kind": "palace stone wall",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a palace area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 334,
+    "id": 1134,
+    "look": "An overlay shows fine white staggered joints forming a tall wall.",
+    "kind": "wall grout overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 335,
+    "id": 1151,
+    "look": "An overlay shows sparse white strokes forming tall masonry edges.",
+    "kind": "wall highlight overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  }
+]

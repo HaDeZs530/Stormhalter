@@ -1,0 +1,737 @@
+[
+  {
+    "n": 0,
+    "id": 1,
+    "look": "Grey stone-like speckles mix with green and pale flecks across a square tile.",
+    "kind": "speckled grey flooring",
+    "setting": [
+      "town",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across town floors to add speckled grey texture.",
+    "notes": ""
+  },
+  {
+    "n": 1,
+    "id": 2,
+    "look": "Blue, cyan, purple, and magenta squares form a brightly patterned checkerboard.",
+    "kind": "coloured mosaic flooring",
+    "setting": [
+      "palace",
+      "wizard"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across palace floors to add coloured mosaic texture.",
+    "notes": ""
+  },
+  {
+    "n": 2,
+    "id": 3,
+    "look": "Orange-brown wooden planks run horizontally with dark seams and visible grain.",
+    "kind": "horizontal hardwood floor",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across home floors to add horizontal hardwood texture.",
+    "notes": ""
+  },
+  {
+    "n": 3,
+    "id": 4,
+    "look": "Orange-brown wooden planks run vertically with dark seams and visible grain.",
+    "kind": "vertical hardwood floor",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across home floors to add vertical hardwood texture.",
+    "notes": ""
+  },
+  {
+    "n": 4,
+    "id": 5,
+    "look": "A red square contains a thick gold stepped cross border and a small central gold emblem.",
+    "kind": "red gold temple tile",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across temple floors to add red gold temple tile texture.",
+    "notes": ""
+  },
+  {
+    "n": 5,
+    "id": 6,
+    "look": "A nearly black square has rough grey and green scattered stone-like flecks.",
+    "kind": "dark scorched stone floor",
+    "setting": [
+      "dungeon",
+      "lava"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across dungeon floors to add dark scorched stone texture.",
+    "notes": ""
+  },
+  {
+    "n": 6,
+    "id": 10,
+    "look": "Dense bright orange and yellow speckles cover a square molten-looking surface.",
+    "kind": "bright lava surface",
+    "setting": [
+      "lava"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across lava floors to add bright lava surface texture.",
+    "notes": ""
+  },
+  {
+    "n": 7,
+    "id": 11,
+    "look": "Bright red and orange branching cracks divide black rocky patches.",
+    "kind": "cracked molten lava",
+    "setting": [
+      "lava"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across lava floors to add cracked molten lava texture.",
+    "notes": "The palette label PH does not identify the visible lava-like surface."
+  },
+  {
+    "n": 8,
+    "id": 12,
+    "look": "Brown, orange, and black grains form a rough square earth texture.",
+    "kind": "rough dirt ground",
+    "setting": [
+      "farm",
+      "camp"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across farm floors to add rough dirt texture.",
+    "notes": ""
+  },
+  {
+    "n": 9,
+    "id": 13,
+    "look": "Dense vivid green and yellow speckles form a short grassy square.",
+    "kind": "short grass ground",
+    "setting": [
+      "garden",
+      "farm"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across garden floors to add short grass texture.",
+    "notes": ""
+  },
+  {
+    "n": 10,
+    "id": 14,
+    "look": "Light brown wooden grain runs horizontally in wavy parallel bands.",
+    "kind": "horizontal wood flooring",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across home floors to add horizontal wood texture.",
+    "notes": ""
+  },
+  {
+    "n": 11,
+    "id": 15,
+    "look": "Light brown wooden grain runs vertically in narrow parallel bands.",
+    "kind": "vertical wood flooring",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across home floors to add vertical wood texture.",
+    "notes": ""
+  },
+  {
+    "n": 12,
+    "id": 16,
+    "look": "Ochre-brown fine speckles form a relatively even square ground surface.",
+    "kind": "packed earth path",
+    "setting": [
+      "village",
+      "farm"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across village floors to add packed earth path texture.",
+    "notes": ""
+  },
+  {
+    "n": 13,
+    "id": 17,
+    "look": "A nearly white square has faint pale green and grey snowy speckles.",
+    "kind": "pale snow surface",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across snow floors to add pale snow surface texture.",
+    "notes": ""
+  },
+  {
+    "n": 14,
+    "id": 18,
+    "look": "Bright yellow sand-like grains form faint sweeping bands.",
+    "kind": "yellow sand ground",
+    "setting": [
+      "desert",
+      "coast"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across desert floors to add yellow sand texture.",
+    "notes": ""
+  },
+  {
+    "n": 15,
+    "id": 20,
+    "look": "A pale white square contains light cyan icy speckles.",
+    "kind": "pale icy surface",
+    "setting": [
+      "snow"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across snow floors to add pale icy surface texture.",
+    "notes": ""
+  },
+  {
+    "n": 16,
+    "id": 992,
+    "look": "A dark grey square ice-like slab has faint cracks and a thin irregular white rim.",
+    "kind": "dark ice slab",
+    "setting": [
+      "snow",
+      "cave"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across snow floors to add dark ice slab texture.",
+    "notes": ""
+  },
+  {
+    "n": 17,
+    "id": 1349,
+    "look": "Cloudy blue-grey icy patches fill a square with soft uneven crystalline texture.",
+    "kind": "cloudy cave ice",
+    "setting": [
+      "snow",
+      "cave"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across snow floors to add cloudy cave ice texture.",
+    "notes": ""
+  },
+  {
+    "n": 18,
+    "id": 1357,
+    "look": "Pale blue-grey ice has broad fractured plates and several sharp white crack highlights.",
+    "kind": "fractured glacier ice",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across snow floors to add fractured glacier ice texture.",
+    "notes": ""
+  },
+  {
+    "n": 19,
+    "id": 21,
+    "look": "Fine green, blue, and pale horizontal streaks form a dense square wet-looking texture.",
+    "kind": "striped bog surface",
+    "setting": [
+      "swamp"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across swamp floors to add striped bog surface texture.",
+    "notes": ""
+  },
+  {
+    "n": 20,
+    "id": 23,
+    "look": "Dense orange, brown, yellow, and green speckles cover a square leaf-litter-like surface.",
+    "kind": "forest litter ground",
+    "setting": [
+      "forest"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across forest floors to add forest litter texture.",
+    "notes": ""
+  },
+  {
+    "n": 21,
+    "id": 24,
+    "look": "Orange hexagonal paving stones form a honeycomb pattern with bright outlines.",
+    "kind": "hexagonal orange paving",
+    "setting": [
+      "town",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across town floors to add hexagonal orange texture.",
+    "notes": ""
+  },
+  {
+    "n": 22,
+    "id": 89,
+    "look": "Dark green ground has patchy brown earth and irregular leafy texture.",
+    "kind": "jungle earth floor",
+    "setting": [
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across jungle floors to add jungle earth texture.",
+    "notes": ""
+  },
+  {
+    "n": 23,
+    "id": 90,
+    "look": "Dense dark and bright green speckles form a moss-like square surface.",
+    "kind": "mossy jungle floor",
+    "setting": [
+      "jungle"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across jungle floors to add mossy jungle texture.",
+    "notes": ""
+  },
+  {
+    "n": 24,
+    "id": 91,
+    "look": "Layered vivid green leaf-like shapes densely cover a square.",
+    "kind": "leaf covered ground",
+    "setting": [
+      "jungle",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across jungle floors to add leaf covered texture.",
+    "notes": ""
+  },
+  {
+    "n": 25,
+    "id": 115,
+    "look": "A short wooden bridge shows warm brown planks, round log ends, and dark gaps.",
+    "kind": "horizontal wooden bridge",
+    "setting": [
+      "forest",
+      "village"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "path",
+    "scene_use": "Span a gap or water crossing with it to add a built route through the scene.",
+    "notes": ""
+  },
+  {
+    "n": 26,
+    "id": 116,
+    "look": "A short wooden bridge has stacked brown planks and round log ends along its sides.",
+    "kind": "vertical wooden bridge",
+    "setting": [
+      "forest",
+      "village"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "path",
+    "scene_use": "Span a gap or water crossing with it to add a built route through the scene.",
+    "notes": ""
+  },
+  {
+    "n": 27,
+    "id": 1027,
+    "look": "A broad grey stone bridge segment has rough cobbles between regular masonry borders.",
+    "kind": "horizontal flat stone bridge",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "path",
+    "scene_use": "Span a gap or water crossing with it to add a built route through the scene.",
+    "notes": ""
+  },
+  {
+    "n": 28,
+    "id": 1028,
+    "look": "A narrow upright grey stone bridge segment has rough cobbles between regular masonry borders.",
+    "kind": "vertical flat stone bridge",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "path",
+    "scene_use": "Span a gap or water crossing with it to add a built route through the scene.",
+    "notes": ""
+  },
+  {
+    "n": 29,
+    "id": 239,
+    "look": "Brown rope handrails and uneven wooden slats form a short sagging bridge.",
+    "kind": "horizontal rope bridge",
+    "setting": [
+      "forest",
+      "cave"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "path",
+    "scene_use": "Span a gap or water crossing with it to add a built route through the scene.",
+    "notes": ""
+  },
+  {
+    "n": 30,
+    "id": 175,
+    "look": "Thick orange-brown logs form parallel horizontal bands with dark gaps.",
+    "kind": "large log flooring",
+    "setting": [
+      "camp",
+      "village"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across camp floors to add large log texture.",
+    "notes": ""
+  },
+  {
+    "n": 31,
+    "id": 176,
+    "look": "A pale grey-white square has soft mottled marble-like grain.",
+    "kind": "worn pale marble",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across palace floors to add worn pale marble texture.",
+    "notes": ""
+  },
+  {
+    "n": 32,
+    "id": 178,
+    "look": "Alternating light and dark grey squares form a regular checkerboard.",
+    "kind": "grey checkerboard flooring",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across palace floors to add grey checkerboard texture.",
+    "notes": ""
+  },
+  {
+    "n": 33,
+    "id": 179,
+    "look": "Dense muted grey grains form a dark dusty stone-like square.",
+    "kind": "dusty cave floor",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across cave floors to add dusty cave texture.",
+    "notes": ""
+  },
+  {
+    "n": 34,
+    "id": 182,
+    "look": "Irregular rectangular green flagstones interlock with dark outlines and inset grain.",
+    "kind": "green flagstone paving",
+    "setting": [
+      "ruins",
+      "garden"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across ruins floors to add green flagstone texture.",
+    "notes": ""
+  },
+  {
+    "n": 35,
+    "id": 183,
+    "look": "Large grey angular stones have dark gaps and patches of vivid green moss.",
+    "kind": "mossy granite paving",
+    "setting": [
+      "ruins",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across ruins floors to add mossy granite texture.",
+    "notes": ""
+  },
+  {
+    "n": 36,
+    "id": 184,
+    "look": "Rounded grey and brown cobbles fit tightly with dark joints.",
+    "kind": "worn cobblestone paving",
+    "setting": [
+      "town",
+      "village"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across town floors to add worn cobblestone texture.",
+    "notes": ""
+  },
+  {
+    "n": 37,
+    "id": 185,
+    "look": "Dark brown muddy bands curve across a square textured surface.",
+    "kind": "tidal mud ground",
+    "setting": [
+      "coast",
+      "swamp"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across coast floors to add tidal mud texture.",
+    "notes": ""
+  },
+  {
+    "n": 38,
+    "id": 186,
+    "look": "Fine yellow diagonal lines form a diamond lattice over a pale cream square.",
+    "kind": "gold lattice marble",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across palace floors to add gold lattice marble texture.",
+    "notes": "The visible tile is a strong yellow diamond lattice despite the Fine Marble name."
+  },
+  {
+    "n": 39,
+    "id": 196,
+    "look": "Yellow and black elongated diamonds repeat over a red rectangular rug field.",
+    "kind": "red diamond rug",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Use it across palace floors to add red diamond rug texture.",
+    "notes": ""
+  },
+  {
+    "n": 40,
+    "id": 252,
+    "look": "A curved grey stone bridge section has masonry borders and dark irregular central cobbles.",
+    "kind": "arched stone bridge",
+    "setting": [
+      "castle",
+      "town"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "path",
+    "scene_use": "Span a gap or water crossing with it to add a built route through the scene.",
+    "notes": ""
+  },
+  {
+    "n": 41,
+    "id": 264,
+    "look": "Small uneven grey stones densely fill a square with black joints.",
+    "kind": "rough gravel paving",
+    "setting": [
+      "town",
+      "village"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across town floors to add rough gravel texture.",
+    "notes": ""
+  },
+  {
+    "n": 42,
+    "id": 265,
+    "look": "Large pale orange sandstone slabs form irregular polygonal shapes with thin darker seams.",
+    "kind": "sandstone slab paving",
+    "setting": [
+      "desert",
+      "town"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across desert floors to add sandstone slab texture.",
+    "notes": ""
+  },
+  {
+    "n": 43,
+    "id": 277,
+    "look": "Rounded yellow and ochre stones form a dense dark-jointed cobbled square.",
+    "kind": "sandstone cobblestone paving",
+    "setting": [
+      "desert",
+      "town"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across desert floors to add sandstone cobblestone texture.",
+    "notes": ""
+  },
+  {
+    "n": 44,
+    "id": 289,
+    "look": "Fine bright yellow-green diagonal plant-like strokes fill a square.",
+    "kind": "bright green groundcover",
+    "setting": [
+      "farm",
+      "garden"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across farm floors to add bright green cover texture.",
+    "notes": ""
+  },
+  {
+    "n": 45,
+    "id": 301,
+    "look": "A pale grey stone square contains prominent curling pink-red veins.",
+    "kind": "pink veined stone",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across palace floors to add pink veined stone texture.",
+    "notes": ""
+  },
+  {
+    "n": 46,
+    "id": 325,
+    "look": "Small yellow-orange bricks form a regular staggered rectangular grid.",
+    "kind": "yellow brick paving",
+    "setting": [
+      "town",
+      "garden"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across town floors to add yellow brick texture.",
+    "notes": ""
+  },
+  {
+    "n": 47,
+    "id": 341,
+    "look": "Bright green rectangular bricks form an interlocking geometric pattern with dark joints.",
+    "kind": "green brick paving",
+    "setting": [
+      "palace",
+      "garden"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Use it across palace floors to add green brick texture.",
+    "notes": ""
+  }
+]

@@ -1,0 +1,731 @@
+[
+  {
+    "n": 1200,
+    "id": 307,
+    "look": "Ornate pale orange wooden door and matching border, oriented on a steep down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1201,
+    "id": 308,
+    "look": "Ornate pale orange wooden door and matching border, oriented on a shallow down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1202,
+    "id": 309,
+    "look": "Broken ornate orange wooden door, oriented on a steep down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1203,
+    "id": 310,
+    "look": "Broken ornate orange wooden door, oriented on a shallow down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1204,
+    "id": 320,
+    "look": "Long pale orange patterned border, oriented on a steep down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1205,
+    "id": 321,
+    "look": "Long pale orange patterned border, oriented on a shallow down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1206,
+    "id": 322,
+    "look": "Short pale orange patterned border, oriented on a steep down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1207,
+    "id": 323,
+    "look": "Short pale orange patterned border, oriented on a shallow down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1208,
+    "id": 337,
+    "look": "Red circular star symbol on pale square field.",
+    "kind": "circular star marking",
+    "setting": [
+      "wizard",
+      "temple"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Place it on a ritual floor to add a clear magical focal point.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1209,
+    "id": 340,
+    "look": "White swirling cloud with yellow-orange flames.",
+    "kind": "flame effect sprite",
+    "setting": [
+      "lava",
+      "wizard"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over a fire source to add bright, turbulent flames.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1210,
+    "id": 344,
+    "look": "Low jagged dark green stone wall remnant, oriented on a shallow down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1211,
+    "id": 345,
+    "look": "Tall jagged dark green stone wall remnant, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1212,
+    "id": 350,
+    "look": "Tall green leafy panel with pink curled vine, oriented on a steep down-right diagonal.",
+    "kind": "leafy decorative panel",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it beside vegetation or garden structures to add dense green growth.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1213,
+    "id": 351,
+    "look": "Low green leafy panel with pink curled vine, oriented on a shallow down-right diagonal.",
+    "kind": "leafy decorative panel",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it beside vegetation or garden structures to add dense green growth.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1214,
+    "id": 352,
+    "look": "Broken tall leafy green panel with pink vine, oriented on a steep down-right diagonal.",
+    "kind": "leafy decorative panel",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it beside vegetation or garden structures to add dense green growth.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1215,
+    "id": 353,
+    "look": "Narrow green strip with pink vine.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1216,
+    "id": 354,
+    "look": "Small green leafy corner with pink vine, oriented on a steep down-right diagonal.",
+    "kind": "leafy decorative panel",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it beside vegetation or garden structures to add dense green growth.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1217,
+    "id": 358,
+    "look": "Small dark green stone fragment, oriented on a shallow down-right diagonal.",
+    "kind": "scattered broken fragments",
+    "setting": [
+      "ruins",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Place it near damaged structures to add debris and neglect.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1218,
+    "id": 376,
+    "look": "Long narrow red wooden border.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1219,
+    "id": 377,
+    "look": "Long narrow red wooden border.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1220,
+    "id": 389,
+    "look": "Short narrow red wooden border.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1221,
+    "id": 390,
+    "look": "Short narrow red wooden border.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1222,
+    "id": 391,
+    "look": "Two parallel red and brown border strips, oriented on a steep down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1223,
+    "id": 392,
+    "look": "Two separated red border strips, oriented on a shallow down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1224,
+    "id": 394,
+    "look": "Low broken dark stone wall with orange seams, oriented on a shallow down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1225,
+    "id": 395,
+    "look": "Tall broken dark stone wall with orange seams, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1226,
+    "id": 402,
+    "look": "Several parallel leafy green diagonal bars, oriented on a shallow down-right diagonal.",
+    "kind": "leafy decorative panel",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it beside vegetation or garden structures to add dense green growth.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1227,
+    "id": 404,
+    "look": "Two separated short red wooden strips, oriented on a shallow down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1228,
+    "id": 405,
+    "look": "Two separated short red wooden strips, oriented on a shallow down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1229,
+    "id": 408,
+    "look": "Small dark stone fragment with orange seams, oriented on a shallow down-right diagonal.",
+    "kind": "scattered broken fragments",
+    "setting": [
+      "ruins",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Place it near damaged structures to add debris and neglect.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1230,
+    "id": 415,
+    "look": "Low jagged black rock wall remnant, oriented on a shallow down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1231,
+    "id": 416,
+    "look": "Tall jagged black rock wall remnant, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1232,
+    "id": 418,
+    "look": "Small black rock fragment, oriented on a shallow down-right diagonal.",
+    "kind": "scattered broken fragments",
+    "setting": [
+      "ruins",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Place it near damaged structures to add debris and neglect.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1233,
+    "id": 426,
+    "look": "Tiny grey rectangular inset plate, oriented on a shallow down-right diagonal.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1234,
+    "id": 427,
+    "look": "Tiny upright grey inset plate.",
+    "kind": "decorative sprite component",
+    "setting": [],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it into a matching scene detail to add visual texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1235,
+    "id": 433,
+    "look": "Grey barred gate in dark frame, oriented on a steep down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1236,
+    "id": 434,
+    "look": "Grey barred gate in dark frame, oriented on a shallow down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1237,
+    "id": 435,
+    "look": "Broken grey barred gate, oriented on a steep down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1238,
+    "id": 436,
+    "look": "Broken grey barred gate, oriented on a shallow down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1239,
+    "id": 451,
+    "look": "Long dark brown border with grey end cap, oriented on a steep down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1240,
+    "id": 452,
+    "look": "Short dark brown border with grey end cap, oriented on a steep down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1241,
+    "id": 455,
+    "look": "Pale blue-white door with gold fittings and white border, oriented on a shallow down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1242,
+    "id": 456,
+    "look": "Pale blue-white door with gold fittings and white border, oriented on a steep down-right diagonal.",
+    "kind": "decorated doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a distinctive framed threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1243,
+    "id": 457,
+    "look": "Broken pale blue-white door with gold fittings, oriented on a shallow down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "door-H",
+    "scene_use": "Fit it into a horizontal entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1244,
+    "id": 458,
+    "look": "Broken pale blue-white door with gold fittings, oriented on a steep down-right diagonal.",
+    "kind": "broken doorway section",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Fit it into a vertical entrance to add a visibly damaged threshold.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1245,
+    "id": 466,
+    "look": "Long pale blue-white border strip, oriented on a shallow down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1246,
+    "id": 467,
+    "look": "Long pale blue-white border strip, oriented on a steep down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1247,
+    "id": 468,
+    "look": "Short broken pale blue-white border strip, oriented on a shallow down-right diagonal.",
+    "kind": "architectural edging component",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Align it with matching architecture to finish a boundary or exposed edge.",
+    "notes": "No palette is listed."
+  }
+]

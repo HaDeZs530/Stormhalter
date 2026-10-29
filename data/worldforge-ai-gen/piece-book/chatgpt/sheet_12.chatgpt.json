@@ -1,0 +1,769 @@
+[
+  {
+    "n": 576,
+    "id": 793,
+    "look": "White marble with vivid blue veining forms steps that descend along a north south axis.",
+    "kind": "blue marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 577,
+    "id": 794,
+    "look": "White marble with vivid blue veining forms steps that descend along a west east axis.",
+    "kind": "blue marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 578,
+    "id": 795,
+    "look": "White marble with vivid blue veining forms steps that descend along a east west axis.",
+    "kind": "blue marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 579,
+    "id": 796,
+    "look": "White marble with vivid blue veining forms steps that descend along a south north axis.",
+    "kind": "blue marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 580,
+    "id": 797,
+    "look": "White marble with vivid blue veining forms steps that rise along a north south axis.",
+    "kind": "blue marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 581,
+    "id": 798,
+    "look": "White marble with vivid blue veining forms steps that rise along a west east axis.",
+    "kind": "blue marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 582,
+    "id": 799,
+    "look": "White marble with vivid blue veining forms steps that rise along a east west axis.",
+    "kind": "blue marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 583,
+    "id": 800,
+    "look": "White marble with vivid blue veining forms steps that rise along a south north axis.",
+    "kind": "blue marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 584,
+    "id": 801,
+    "look": "Coarsely textured orange brown wood forms steps that descend along a north south axis.",
+    "kind": "rough wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 585,
+    "id": 802,
+    "look": "Coarsely textured orange brown wood forms steps that descend along a west east axis.",
+    "kind": "rough wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 586,
+    "id": 803,
+    "look": "Coarsely textured orange brown wood forms steps that descend along a east west axis.",
+    "kind": "rough wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 587,
+    "id": 804,
+    "look": "Coarsely textured orange brown wood forms steps that descend along a south north axis.",
+    "kind": "rough wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 588,
+    "id": 805,
+    "look": "Coarsely textured orange brown wood forms steps that rise along a north south axis.",
+    "kind": "rough wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 589,
+    "id": 806,
+    "look": "Coarsely textured orange brown wood forms steps that rise along a west east axis.",
+    "kind": "rough wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 590,
+    "id": 807,
+    "look": "Coarsely textured orange brown wood forms steps that rise along a east west axis.",
+    "kind": "rough wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 591,
+    "id": 808,
+    "look": "Coarsely textured orange brown wood forms steps that rise along a south north axis.",
+    "kind": "rough wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 592,
+    "id": 809,
+    "look": "Smooth dark brown boards with small pale fasteners forms steps that descend along a north south axis.",
+    "kind": "finished wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 593,
+    "id": 810,
+    "look": "Smooth dark brown boards with small pale fasteners forms steps that descend along a west east axis.",
+    "kind": "finished wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 594,
+    "id": 811,
+    "look": "Smooth dark brown boards with small pale fasteners forms steps that descend along a east west axis.",
+    "kind": "finished wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 595,
+    "id": 812,
+    "look": "Smooth dark brown boards with small pale fasteners forms steps that descend along a south north axis.",
+    "kind": "finished wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 596,
+    "id": 813,
+    "look": "Smooth dark brown boards with small pale fasteners forms steps that rise along a north south axis.",
+    "kind": "finished wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 597,
+    "id": 814,
+    "look": "Smooth dark brown boards with small pale fasteners forms steps that rise along a west east axis.",
+    "kind": "finished wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 598,
+    "id": 815,
+    "look": "Smooth dark brown boards with small pale fasteners forms steps that rise along a east west axis.",
+    "kind": "finished wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 599,
+    "id": 816,
+    "look": "Smooth dark brown boards with small pale fasteners forms steps that rise along a south north axis.",
+    "kind": "finished wooden staircase",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 600,
+    "id": 825,
+    "look": "Uneven brown planks with rough braces forms steps that descend along a north south axis.",
+    "kind": "rickety wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 601,
+    "id": 826,
+    "look": "Uneven brown planks with rough braces forms steps that descend along a west east axis.",
+    "kind": "rickety wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 602,
+    "id": 827,
+    "look": "Uneven brown planks with rough braces forms steps that descend along a east west axis.",
+    "kind": "rickety wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 603,
+    "id": 828,
+    "look": "Uneven brown planks with rough braces forms steps that descend along a south north axis.",
+    "kind": "rickety wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 604,
+    "id": 829,
+    "look": "Uneven brown planks with rough braces forms steps that rise along a north south axis.",
+    "kind": "rickety wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 605,
+    "id": 830,
+    "look": "Uneven brown planks with rough braces forms steps that rise along a west east axis.",
+    "kind": "rickety wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 606,
+    "id": 831,
+    "look": "Uneven brown planks with rough braces forms steps that rise along a east west axis.",
+    "kind": "rickety wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 607,
+    "id": 832,
+    "look": "Uneven brown planks with rough braces forms steps that rise along a south north axis.",
+    "kind": "rickety wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 608,
+    "id": 833,
+    "look": "Dull olive brown planks with dark missing sections forms steps that descend along a north south axis.",
+    "kind": "broken wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 609,
+    "id": 834,
+    "look": "Dull olive brown planks with dark missing sections forms steps that descend along a west east axis.",
+    "kind": "broken wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 610,
+    "id": 835,
+    "look": "Dull olive brown planks with dark missing sections forms steps that descend along a east west axis.",
+    "kind": "broken wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 611,
+    "id": 836,
+    "look": "Dull olive brown planks with dark missing sections forms steps that descend along a south north axis.",
+    "kind": "broken wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 612,
+    "id": 837,
+    "look": "Dull olive brown planks with dark missing sections forms steps that rise along a north south axis.",
+    "kind": "broken wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 613,
+    "id": 838,
+    "look": "Dull olive brown planks with dark missing sections forms steps that rise along a west east axis.",
+    "kind": "broken wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 614,
+    "id": 839,
+    "look": "Dull olive brown planks with dark missing sections forms steps that rise along a east west axis.",
+    "kind": "broken wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 615,
+    "id": 840,
+    "look": "Dull olive brown planks with dark missing sections forms steps that rise along a south north axis.",
+    "kind": "broken wooden staircase",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect levels in a ruined interior with these damaged steps to add neglect and precariousness.",
+    "notes": ""
+  },
+  {
+    "n": 616,
+    "id": 968,
+    "look": "A thick octagonal grey stone well rim with a yellow outer band surrounds a dark shaft.",
+    "kind": "dry stone well",
+    "setting": [
+      "village",
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place this dry well in a courtyard to suggest an old water source.",
+    "notes": ""
+  },
+  {
+    "n": 617,
+    "id": 971,
+    "look": "A small grey block arch surrounds a dark tunnel opening.",
+    "kind": "stone tunnel entrance",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Use this masonry opening at a tunnel entrance to mark an underground route.",
+    "notes": ""
+  },
+  {
+    "n": 618,
+    "id": 969,
+    "look": "A nearly black circular hole sits within mottled red brown earth.",
+    "kind": "dark earth hole",
+    "setting": [
+      "cave",
+      "camp"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Place this ground depression along a route to suggest disturbed terrain or an opening below.",
+    "notes": ""
+  },
+  {
+    "n": 619,
+    "id": 970,
+    "look": "A black irregular hole sits within bright green grass.",
+    "kind": "grass edged hole",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Place this ground depression along a route to suggest disturbed terrain or an opening below.",
+    "notes": ""
+  },
+  {
+    "n": 620,
+    "id": 973,
+    "look": "An orange brown framed square shaft has an upright raised wooden hatch.",
+    "kind": "open cellar hatch",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Place this open hatch in a floor to expose cellar access.",
+    "notes": ""
+  },
+  {
+    "n": 621,
+    "id": 974,
+    "look": "A shallow yellow depression lies within bright speckled sand.",
+    "kind": "sandy ground hollow",
+    "setting": [
+      "desert"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Place this ground depression along a route to suggest disturbed terrain or an opening below.",
+    "notes": ""
+  },
+  {
+    "n": 622,
+    "id": 983,
+    "look": "Two short brown ladder rails and a crossbar appear along the lower edge.",
+    "kind": "descending ladder south",
+    "setting": [
+      "mine",
+      "camp"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Mark a vertical route with this ladder to suggest practical access between levels.",
+    "notes": ""
+  },
+  {
+    "n": 623,
+    "id": 984,
+    "look": "Two short brown ladder rails and a crossbar appear along the right edge.",
+    "kind": "descending ladder east",
+    "setting": [
+      "mine",
+      "camp"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Mark a vertical route with this ladder to suggest practical access between levels.",
+    "notes": ""
+  }
+]

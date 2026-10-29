@@ -1,0 +1,775 @@
+[
+  {
+    "n": 1056,
+    "id": 1035,
+    "look": "A small orange-yellow flame rises from a dark shallow bowl with a pale rim.",
+    "kind": "unshaded wall brazier",
+    "setting": [
+      "dungeon",
+      "wizard"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach it to a horizontal wall to add coloured fire without a background lighting panel.",
+    "notes": "Palette name is truncated; paired orientation variants look very similar."
+  },
+  {
+    "n": 1057,
+    "id": 1036,
+    "look": "A small orange-yellow flame rises from a dark shallow bowl with a pale rim.",
+    "kind": "unshaded wall brazier",
+    "setting": [
+      "dungeon",
+      "wizard"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach it to a vertical wall to add coloured fire without a background lighting panel.",
+    "notes": "Palette name is truncated; paired orientation variants look very similar."
+  },
+  {
+    "n": 1058,
+    "id": 1031,
+    "look": "A small cyan-blue flame rises from a dark shallow bowl with a pale rim.",
+    "kind": "unshaded wall brazier",
+    "setting": [
+      "dungeon",
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach it to a horizontal wall to add coloured fire without a background lighting panel.",
+    "notes": "Palette name is truncated; paired orientation variants look very similar."
+  },
+  {
+    "n": 1059,
+    "id": 1032,
+    "look": "A small cyan-blue flame rises from a dark shallow bowl with a pale rim.",
+    "kind": "unshaded wall brazier",
+    "setting": [
+      "dungeon",
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach it to a vertical wall to add coloured fire without a background lighting panel.",
+    "notes": "Palette name is truncated; paired orientation variants look very similar."
+  },
+  {
+    "n": 1060,
+    "id": 1033,
+    "look": "A small vivid green flame rises from a dark shallow bowl with a pale rim.",
+    "kind": "unshaded wall brazier",
+    "setting": [
+      "dungeon",
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach it to a horizontal wall to add coloured fire without a background lighting panel.",
+    "notes": "Palette name is truncated; paired orientation variants look very similar."
+  },
+  {
+    "n": 1061,
+    "id": 1034,
+    "look": "A small vivid green flame rises from a dark shallow bowl with a pale rim.",
+    "kind": "unshaded wall brazier",
+    "setting": [
+      "dungeon",
+      "wizard"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Attach it to a vertical wall to add coloured fire without a background lighting panel.",
+    "notes": "Palette name is truncated; paired orientation variants look very similar."
+  },
+  {
+    "n": 1062,
+    "id": 119,
+    "look": "A broad slanted green panel contains rows of square compartments with round yellow centres and dark dividers.",
+    "kind": "horizontal compartment lockers",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "against-wall",
+    "scene_use": "Line a horizontal storage wall with it to add an orderly bank of small lockers.",
+    "notes": ""
+  },
+  {
+    "n": 1063,
+    "id": 120,
+    "look": "A tall slanted green panel contains square compartments with round yellow centres and dark dividing bars.",
+    "kind": "vertical compartment lockers",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Line a vertical storage wall with it to add an orderly bank of small lockers.",
+    "notes": ""
+  },
+  {
+    "n": 1064,
+    "id": 88,
+    "look": "An open brown wooden barrel has a black circular mouth and several pale reinforcing hoops.",
+    "kind": "open wooden barrel",
+    "setting": [
+      "town",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place it beside a work area or alley to suggest an everyday rubbish container.",
+    "notes": ""
+  },
+  {
+    "n": 1065,
+    "id": 766,
+    "look": "Orange flames and dark logs sit inside a small grey stone ring.",
+    "kind": "stone ring campfire",
+    "setting": [
+      "camp",
+      "forest"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Place it in a campsite to add warmth and signs of occupation.",
+    "notes": "Animation cannot be verified from this still."
+  },
+  {
+    "n": 1066,
+    "id": 23,
+    "look": "A square ground tile is densely mottled with orange, yellow, brown, and green speckles.",
+    "kind": "mottled leaf litter floor",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it under trees to create a warm leaf-covered ground surface.",
+    "notes": "Looks identical to #1067 and #1068; all three cards have id 23."
+  },
+  {
+    "n": 1067,
+    "id": 23,
+    "look": "A square ground tile is densely mottled with orange, yellow, brown, and green speckles.",
+    "kind": "mottled leaf litter floor",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it under trees to create a warm leaf-covered ground surface.",
+    "notes": "Looks identical to #1066 and #1068; all three cards have id 23."
+  },
+  {
+    "n": 1068,
+    "id": 23,
+    "look": "A square ground tile is densely mottled with orange, yellow, brown, and green speckles.",
+    "kind": "mottled leaf litter floor",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it under trees to create a warm leaf-covered ground surface.",
+    "notes": "Looks identical to #1066 and #1067; all three cards have id 23."
+  },
+  {
+    "n": 1069,
+    "id": 157,
+    "look": "A broad slanted grey wall face contains rough angular stone shapes and dark irregular seams.",
+    "kind": "horizontal rough stone wall",
+    "setting": [
+      "forest",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it as a horizontal grove boundary to add rugged grey masonry.",
+    "notes": ""
+  },
+  {
+    "n": 1070,
+    "id": 226,
+    "look": "A shallow green vegetation strip has dense leaves, dark soil-like texture, and small orange flecks.",
+    "kind": "horizontal leafy ground border",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Edge a grove path with it to add dense low vegetation.",
+    "notes": ""
+  },
+  {
+    "n": 1071,
+    "id": 158,
+    "look": "A tall slanted grey wall face contains rough angular stone shapes and dark irregular seams.",
+    "kind": "vertical rough stone wall",
+    "setting": [
+      "forest",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it as a vertical grove boundary to add rugged grey masonry.",
+    "notes": ""
+  },
+  {
+    "n": 1072,
+    "id": 227,
+    "look": "A narrow green vegetation strip rises along the right side with dense leaves and scattered orange flecks.",
+    "kind": "vertical leafy ground border",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Edge a vertical grove path with it to add dense low vegetation.",
+    "notes": ""
+  },
+  {
+    "n": 1073,
+    "id": 767,
+    "look": "Two pale blades with yellow-gold hilts cross over a small central grey shield-like form.",
+    "kind": "crossed weapon ornament",
+    "setting": [
+      "castle",
+      "town"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Mount it above a guardroom entrance to add a martial wall emblem.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1074,
+    "id": 768,
+    "look": "Two silver swords with yellow-gold hilts cross diagonally into a broad X.",
+    "kind": "crossed sword display",
+    "setting": [
+      "castle",
+      "tavern"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Mount it along a horizontal wall to add a simple martial decoration.",
+    "notes": ""
+  },
+  {
+    "n": 1075,
+    "id": 769,
+    "look": "A small pale silver shield-like plate has a bright face, dark edging, and a pointed lower-right end.",
+    "kind": "shiny shield plate",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Mount it on a wall to add a polished heraldic backing.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1076,
+    "id": 770,
+    "look": "A thin pale outline traces a small shield shape with an angled pointed bottom.",
+    "kind": "shield outline trim",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it over a shield backing to define a fine decorative edge.",
+    "notes": "Only the trim outline is visible."
+  },
+  {
+    "n": 1077,
+    "id": 771,
+    "look": "A small irregular bright white curved strip forms the upper portion of a shield-like shape.",
+    "kind": "bright shield trim",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it over a wall shield to add a strong metallic highlight.",
+    "notes": "Only a partial trim component is visible."
+  },
+  {
+    "n": 1078,
+    "id": 772,
+    "look": "A small muted grey shield plate has a flat face, pale upper edge, and pointed lower-right end.",
+    "kind": "matte shield plate",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Use it as a subdued wall shield or heraldic backing.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1079,
+    "id": 773,
+    "look": "A tiny white angled chevron forms a shallow V with its right arm raised.",
+    "kind": "shield chevron accent",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it on a shield face to add a spare geometric emblem.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1080,
+    "id": 774,
+    "look": "A tiny pale angled stroke forms a shallow inverted chevron.",
+    "kind": "inverted shield accent",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it on a shield face to add a small contrasting geometric mark.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1081,
+    "id": 775,
+    "look": "A broad white hanging cloth panel droops from the upper left and tapers toward the lower right.",
+    "kind": "pale hanging banner",
+    "setting": [
+      "castle",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Hang it along a horizontal wall to add soft draped fabric.",
+    "notes": "No clear emblem is visible."
+  },
+  {
+    "n": 1082,
+    "id": 776,
+    "look": "A fine grey-white outline traces a broad drooping banner panel.",
+    "kind": "banner outline trim",
+    "setting": [
+      "castle",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over hanging fabric to define the banner edge.",
+    "notes": "Only the outline is visible."
+  },
+  {
+    "n": 1083,
+    "id": 777,
+    "look": "A small white oval swirl contains several curved inner strokes on a shallow diagonal.",
+    "kind": "curved banner emblem",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Apply it to a banner to add a compact ceremonial symbol.",
+    "notes": "Meaning of the named symbol is not visually established."
+  },
+  {
+    "n": 1084,
+    "id": 778,
+    "look": "A bright white draped banner has dark fold lines and a dark upper mounting edge.",
+    "kind": "high contrast hanging banner",
+    "setting": [
+      "castle",
+      "temple"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Hang it along a horizontal wall to add strongly defined ceremonial cloth.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1085,
+    "id": 779,
+    "look": "A compact white jagged emblem forms an irregular broad cluster.",
+    "kind": "white banner emblem",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Apply it to a banner to add a small bright insignia.",
+    "notes": "Fine symbol details are indistinct."
+  },
+  {
+    "n": 1086,
+    "id": 780,
+    "look": "A thin pale horizontal rod has tiny knobs or raised marks near its ends.",
+    "kind": "horizontal banner pole",
+    "setting": [
+      "castle",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Mount it above a hanging banner to provide a simple support.",
+    "notes": ""
+  },
+  {
+    "n": 1087,
+    "id": 781,
+    "look": "A broad grey translucent-looking banner outline contains thin pale folds and edge lines.",
+    "kind": "folded banner trim",
+    "setting": [
+      "castle",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over banner fabric to add inner folds and an outer edge.",
+    "notes": ""
+  },
+  {
+    "n": 1088,
+    "id": 782,
+    "look": "A tiny pale curled emblem has hooked ends and several short interior strokes.",
+    "kind": "curled banner emblem",
+    "setting": [
+      "castle",
+      "temple"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Apply it to a banner to add a small heraldic ornament.",
+    "notes": "Palette name is truncated; dragon details are not clearly resolved."
+  },
+  {
+    "n": 1089,
+    "id": 1136,
+    "look": "A red dragon-head mount with gold trim and dark projecting horns rises on a steep diagonal.",
+    "kind": "vertical dragon head mount",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Mount it on a vertical wall to create a bold trophy-like focal point.",
+    "notes": ""
+  },
+  {
+    "n": 1090,
+    "id": 1137,
+    "look": "A red dragon-head mount with gold trim and dark projecting horns stretches across a shallow diagonal.",
+    "kind": "horizontal dragon head mount",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Mount it on a horizontal wall to create a bold trophy-like focal point.",
+    "notes": ""
+  },
+  {
+    "n": 1091,
+    "id": 1138,
+    "look": "A small dark framed portrait with gold edging and a pale face-like centre stands on a steep diagonal.",
+    "kind": "vertical dark portrait",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Hang it on a vertical wall to add a shadowy portrait detail.",
+    "notes": "A vampire identity cannot be verified from the tiny picture."
+  },
+  {
+    "n": 1092,
+    "id": 1139,
+    "look": "A small dark gold-edged portrait with a pale central figure lies on a shallow diagonal.",
+    "kind": "horizontal dark portrait",
+    "setting": [
+      "castle",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Hang it on a horizontal wall to add a shadowy portrait detail.",
+    "notes": "A vampire identity cannot be verified from the tiny picture."
+  },
+  {
+    "n": 1093,
+    "id": 1141,
+    "look": "A grey horned dragon-like head carving spreads sideways with pointed projections and dark creases.",
+    "kind": "horizontal dragon head carving",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it above a horizontal arch to add a carved guardian motif.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1094,
+    "id": 1142,
+    "look": "A grey horned dragon-like head carving rises steeply with pointed projections and dark creases.",
+    "kind": "vertical dragon head carving",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it above a vertical arch to add a carved guardian motif.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1095,
+    "id": 1143,
+    "look": "A small grey animal-head carving has a broad face and short horn-like side projections.",
+    "kind": "horizontal horned head carving",
+    "setting": [
+      "castle",
+      "town"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it above an arch to add a compact animal ornament.",
+    "notes": "Palette name is truncated; small scale limits facial detail."
+  },
+  {
+    "n": 1096,
+    "id": 1144,
+    "look": "A tiny grey animal-head carving appears narrow in profile with a pointed upper projection.",
+    "kind": "vertical horned head carving",
+    "setting": [
+      "castle",
+      "town"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Use it on a vertical arch face to add a small carved animal detail.",
+    "notes": "Palette name is truncated; small scale limits facial detail."
+  },
+  {
+    "n": 1097,
+    "id": 1159,
+    "look": "A small round grey carved face has a dark central muzzle and a rough surrounding mane-like rim.",
+    "kind": "horizontal lion head carving",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it above an arch to add a compact sculpted animal face.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1098,
+    "id": 1160,
+    "look": "A small grey carved animal face has a dark muzzle and a narrow rounded mane-like surround.",
+    "kind": "vertical lion head carving",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it on a vertical arch face to add a compact sculpted animal ornament.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 1099,
+    "id": 1171,
+    "look": "A tall pointed stained-glass panel contains yellow, red, and orange imagery within dark lead-like outlines.",
+    "kind": "vertical warm stained glass",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Inset it into a vertical wall to add richly coloured decorative glazing.",
+    "notes": "The named dragon is difficult to distinguish at this scale."
+  },
+  {
+    "n": 1100,
+    "id": 1172,
+    "look": "A broad pointed stained-glass panel contains yellow, red, and orange imagery within dark lead-like outlines.",
+    "kind": "horizontal warm stained glass",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Inset it into a horizontal wall to add richly coloured decorative glazing.",
+    "notes": "The named dragon is difficult to distinguish at this scale."
+  },
+  {
+    "n": 1101,
+    "id": 1173,
+    "look": "A tall red swallowtail banner has yellow edging and a gold dragon-like central emblem.",
+    "kind": "vertical red dragon banner",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Hang it on a vertical wall to signal a regal heraldic presence.",
+    "notes": ""
+  },
+  {
+    "n": 1102,
+    "id": 1174,
+    "look": "A broad red swallowtail banner has yellow edging and a gold dragon-like central emblem.",
+    "kind": "horizontal red dragon banner",
+    "setting": [
+      "castle",
+      "palace"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Hang it on a horizontal wall to signal a regal heraldic presence.",
+    "notes": ""
+  },
+  {
+    "n": 1103,
+    "id": 1175,
+    "look": "A tall pointed multicoloured panel combines blue, green, yellow, and red imagery inside a dark outline.",
+    "kind": "vertical colourful mural panel",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Place it on a vertical wall to add a vivid ornamental mural.",
+    "notes": "Dragon details are difficult to resolve at this scale."
+  }
+]

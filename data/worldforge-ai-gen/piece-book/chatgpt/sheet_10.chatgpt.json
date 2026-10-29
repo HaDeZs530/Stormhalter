@@ -1,0 +1,772 @@
+[
+  {
+    "n": 480,
+    "id": 1264,
+    "look": "A low wall shows purple masonry with a jagged broken top.",
+    "kind": "ruined purple wall",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 481,
+    "id": 1265,
+    "look": "A narrow corner piece shows purple masonry with a broken end.",
+    "kind": "ruined purple corner",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Cap a broken wall junction with this short remnant to give the ruin an uneven outline.",
+    "notes": ""
+  },
+  {
+    "n": 482,
+    "id": 1286,
+    "look": "A rubble pile contains blue grey angular masonry fragments.",
+    "kind": "blue grey rubble",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter these fragments beside damaged walls to suggest collapse and disuse.",
+    "notes": ""
+  },
+  {
+    "n": 483,
+    "id": 1287,
+    "look": "A tall wall shows blue grey masonry with a jagged broken side.",
+    "kind": "ruined grey dungeon wall",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 484,
+    "id": 1288,
+    "look": "A low wall shows blue grey masonry with a jagged broken top.",
+    "kind": "ruined grey dungeon wall",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 485,
+    "id": 1289,
+    "look": "A narrow corner piece shows blue grey masonry with a broken end.",
+    "kind": "ruined grey corner",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Cap a broken wall junction with this short remnant to give the ruin an uneven outline.",
+    "notes": ""
+  },
+  {
+    "n": 486,
+    "id": 1310,
+    "look": "A rubble pile contains muted green angular masonry fragments.",
+    "kind": "green masonry rubble",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter these fragments beside damaged walls to suggest collapse and disuse.",
+    "notes": ""
+  },
+  {
+    "n": 487,
+    "id": 1311,
+    "look": "A tall wall shows muted green masonry with a jagged broken side.",
+    "kind": "ruined green dungeon wall",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 488,
+    "id": 1312,
+    "look": "A low wall shows muted green masonry with a jagged broken top.",
+    "kind": "ruined green dungeon wall",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 489,
+    "id": 1313,
+    "look": "A narrow corner piece shows muted green masonry with a broken end.",
+    "kind": "ruined green corner",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Cap a broken wall junction with this short remnant to give the ruin an uneven outline.",
+    "notes": ""
+  },
+  {
+    "n": 490,
+    "id": 1344,
+    "look": "A rubble pile contains red rectangular bricks in a loose heap.",
+    "kind": "red brick rubble",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter these fragments beside damaged walls to suggest collapse and disuse.",
+    "notes": ""
+  },
+  {
+    "n": 491,
+    "id": 1346,
+    "look": "A low wall shows red brickwork with an uneven broken top.",
+    "kind": "ruined red brick wall",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 492,
+    "id": 1345,
+    "look": "A tall wall shows red brickwork with a jagged broken side.",
+    "kind": "ruined red brick wall",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 493,
+    "id": 1343,
+    "look": "A narrow corner piece shows narrow red brickwork with dark mortar.",
+    "kind": "red brick post",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Cap a broken wall junction with this short remnant to give the ruin an uneven outline.",
+    "notes": "Shares ID 1343 with intact red brick post #307; no clear break is visible."
+  },
+  {
+    "n": 494,
+    "id": 1352,
+    "look": "A rubble pile contains dark blue grey rocks with pale icy edges.",
+    "kind": "icy cave rubble",
+    "setting": [
+      "snow",
+      "ruins"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter these fragments beside damaged walls to suggest collapse and disuse.",
+    "notes": ""
+  },
+  {
+    "n": 495,
+    "id": 1354,
+    "look": "A low wall shows dark craggy rock capped with pale ice along broken edges.",
+    "kind": "ruined icy cave wall",
+    "setting": [
+      "snow",
+      "ruins"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 496,
+    "id": 1353,
+    "look": "A tall wall shows dark craggy rock capped with pale ice along broken edges.",
+    "kind": "ruined icy cave wall",
+    "setting": [
+      "snow",
+      "ruins"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 497,
+    "id": 1355,
+    "look": "A narrow corner piece shows dark rock with a pale icy broken tip.",
+    "kind": "ruined icy cave post",
+    "setting": [
+      "snow",
+      "ruins"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Cap a broken wall junction with this short remnant to give the ruin an uneven outline.",
+    "notes": ""
+  },
+  {
+    "n": 498,
+    "id": 1360,
+    "look": "A rubble pile contains pale blue white translucent angular shards.",
+    "kind": "glacier ice rubble",
+    "setting": [
+      "snow",
+      "ruins"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter these fragments beside damaged walls to suggest collapse and disuse.",
+    "notes": ""
+  },
+  {
+    "n": 499,
+    "id": 1359,
+    "look": "A low wall shows pale blue translucent ice with a bright jagged top.",
+    "kind": "ruined glacier wall",
+    "setting": [
+      "snow",
+      "ruins"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 500,
+    "id": 1361,
+    "look": "A tall wall shows pale blue translucent ice with a bright jagged side.",
+    "kind": "ruined glacier wall",
+    "setting": [
+      "snow",
+      "ruins"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 501,
+    "id": 1363,
+    "look": "A narrow corner piece shows blue grey translucent material with a pale broken tip.",
+    "kind": "ruined glacier post",
+    "setting": [
+      "snow",
+      "ruins"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Cap a broken wall junction with this short remnant to give the ruin an uneven outline.",
+    "notes": ""
+  },
+  {
+    "n": 502,
+    "id": 1368,
+    "look": "A rubble pile contains dark brown gold angular rock fragments.",
+    "kind": "brown rock rubble",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter these fragments beside damaged walls to suggest collapse and disuse.",
+    "notes": ""
+  },
+  {
+    "n": 503,
+    "id": 1370,
+    "look": "A low wall shows dark gold brown rock with an uneven broken top.",
+    "kind": "ruined brown rock wall",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 504,
+    "id": 1369,
+    "look": "A tall wall shows dark gold brown rock with a jagged broken side.",
+    "kind": "ruined brown rock wall",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this broken wall along an abandoned room to reveal damage and open sightlines.",
+    "notes": ""
+  },
+  {
+    "n": 505,
+    "id": 1371,
+    "look": "A narrow corner piece shows dark gold brown rock with a broken end.",
+    "kind": "ruined brown rock post",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Cap a broken wall junction with this short remnant to give the ruin an uneven outline.",
+    "notes": ""
+  },
+  {
+    "n": 506,
+    "id": 65,
+    "look": "A tall vertical door shows orange brown wooden boards with metal straps and a small square fitting.",
+    "kind": "wooden town door",
+    "setting": [
+      "town",
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a town passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 507,
+    "id": 64,
+    "look": "A horizontal door shows orange brown wooden boards with metal straps and a small square fitting.",
+    "kind": "wooden town door",
+    "setting": [
+      "town",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a town passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 508,
+    "id": 972,
+    "look": "A square orange brown plank hatch with a framed rim and small metal fitting.",
+    "kind": "wooden floor hatch",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Place this hatch in a wooden floor to suggest concealed access to a cellar.",
+    "notes": ""
+  },
+  {
+    "n": 509,
+    "id": 67,
+    "look": "A tall vertical door shows bright red panels with gold ornament inside pale stone framing.",
+    "kind": "ornate temple door",
+    "setting": [
+      "temple",
+      "wizard"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a temple passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 510,
+    "id": 66,
+    "look": "A horizontal door shows bright red panels with gold ornament inside pale stone framing.",
+    "kind": "ornate temple door",
+    "setting": [
+      "temple",
+      "wizard"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a temple passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 511,
+    "id": 36,
+    "look": "A tall vertical door shows plain pale grey inset panels within a smooth white frame.",
+    "kind": "pale marble door",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a palace passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 512,
+    "id": 35,
+    "look": "A horizontal door shows plain pale grey inset panels within a smooth white frame.",
+    "kind": "pale marble door",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a palace passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 513,
+    "id": 63,
+    "look": "A tall vertical door shows dark reddish wooden boards with metal fittings in a green grey stone frame.",
+    "kind": "wooden dungeon door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 514,
+    "id": 62,
+    "look": "A horizontal door shows dark reddish wooden boards with metal fittings in a green grey stone frame.",
+    "kind": "wooden dungeon door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 515,
+    "id": 230,
+    "look": "A tall vertical door shows deep red panels framed by bright gold angular symbols.",
+    "kind": "gold runic door",
+    "setting": [
+      "temple",
+      "wizard"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a temple passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 516,
+    "id": 229,
+    "look": "A horizontal door shows deep red panels framed by bright gold angular symbols.",
+    "kind": "gold runic door",
+    "setting": [
+      "temple",
+      "wizard"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a temple passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 517,
+    "id": 312,
+    "look": "A tall vertical door shows peach sandstone panels covered with rows of dark carved marks.",
+    "kind": "carved sandstone door",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a temple passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 518,
+    "id": 311,
+    "look": "A horizontal door shows peach sandstone panels covered with rows of dark carved marks.",
+    "kind": "carved sandstone door",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a temple passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 519,
+    "id": 379,
+    "look": "A tall vertical door shows cream grid panels divided by black lines inside bright red framing.",
+    "kind": "red framed screen door",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a palace passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 520,
+    "id": 378,
+    "look": "A horizontal door shows cream grid panels divided by black lines inside bright red framing.",
+    "kind": "red framed screen door",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a palace passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 521,
+    "id": 421,
+    "look": "A tall vertical door shows closely spaced grey metal bars in a dark frame with round corner fittings.",
+    "kind": "barred jail door",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Close an entrance with this barred gate to create confinement while retaining visibility.",
+    "notes": ""
+  },
+  {
+    "n": 522,
+    "id": 420,
+    "look": "A horizontal door shows closely spaced grey metal bars in a dark frame with round corner fittings.",
+    "kind": "barred jail door",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Close an entrance with this barred gate to create confinement while retaining visibility.",
+    "notes": ""
+  },
+  {
+    "n": 523,
+    "id": 454,
+    "look": "A tall vertical door shows smooth icy blue silver panels outlined by dark metal framing.",
+    "kind": "silver metal door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 524,
+    "id": 453,
+    "look": "A horizontal door shows smooth icy blue silver panels outlined by dark metal framing.",
+    "kind": "silver metal door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 525,
+    "id": 495,
+    "look": "A tall vertical door shows mottled pale grey inset panels within thick stone framing.",
+    "kind": "weathered marble door",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a palace passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 526,
+    "id": 494,
+    "look": "A horizontal door shows mottled pale grey inset panels within thick stone framing.",
+    "kind": "weathered marble door",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a palace passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 527,
+    "id": 504,
+    "look": "A horizontal door shows pale grey panels bordered by dark decorative carved bands.",
+    "kind": "carved pale stone door",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a palace passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  }
+]

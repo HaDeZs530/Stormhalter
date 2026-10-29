@@ -1,0 +1,738 @@
+[
+  {
+    "n": 528,
+    "id": 505,
+    "look": "A tall vertical door shows pale grey panels bordered by dark decorative carved bands.",
+    "kind": "carved pale stone door",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a palace passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 529,
+    "id": 1040,
+    "look": "A horizontal door shows four pale rectangular inset panels with a small dark handle.",
+    "kind": "four panel door",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a palace passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 530,
+    "id": 1043,
+    "look": "A tall vertical door shows four pale rectangular inset panels with a small dark handle.",
+    "kind": "four panel door",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a palace passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 531,
+    "id": 1046,
+    "look": "A horizontal door shows blue grey riveted metal with a narrow barred opening and black latch.",
+    "kind": "blue steel door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 532,
+    "id": 1049,
+    "look": "A tall vertical door shows blue grey riveted metal with a narrow barred opening and black latch.",
+    "kind": "blue steel door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 533,
+    "id": 1052,
+    "look": "A horizontal door shows pale wooden planks with a small barred peephole and dark handle.",
+    "kind": "wooden peephole door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 534,
+    "id": 1055,
+    "look": "A tall vertical door shows pale wooden planks with a small barred peephole and dark handle.",
+    "kind": "wooden peephole door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 535,
+    "id": 1058,
+    "look": "A horizontal door shows plain pale panels with a black angular handle.",
+    "kind": "plain pale door",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a palace passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 536,
+    "id": 1061,
+    "look": "A tall vertical door shows plain pale panels with a black angular handle.",
+    "kind": "plain pale door",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a palace passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 537,
+    "id": 1064,
+    "look": "A horizontal door shows grey riveted metal with a barred opening and dark latch.",
+    "kind": "grey steel door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 538,
+    "id": 1067,
+    "look": "A tall vertical door shows grey riveted metal with a barred opening and dark latch.",
+    "kind": "grey steel door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 539,
+    "id": 1070,
+    "look": "A horizontal door shows mottled brown grey riveted metal with a barred opening and dark latch.",
+    "kind": "rusted steel door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 540,
+    "id": 1073,
+    "look": "A tall vertical door shows mottled brown grey riveted metal with a barred opening and dark latch.",
+    "kind": "rusted steel door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 541,
+    "id": 1076,
+    "look": "A horizontal door shows narrow pale horizontal slats with a black handle.",
+    "kind": "narrow slat door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 542,
+    "id": 1079,
+    "look": "A tall vertical door shows narrow pale horizontal slats with a black handle.",
+    "kind": "narrow slat door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 543,
+    "id": 1082,
+    "look": "A horizontal door shows wide pale horizontal slats with a black handle.",
+    "kind": "wide slat door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 544,
+    "id": 1085,
+    "look": "A tall vertical door shows wide pale horizontal slats with a black handle.",
+    "kind": "wide slat door",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a castle passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 545,
+    "id": 858,
+    "look": "A low wall shows a brown shutter in cream timber framing above mottled stonework.",
+    "kind": "timbered window wall",
+    "setting": [
+      "town",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Break up an exterior wall with this shuttered window to make the building feel inhabited.",
+    "notes": ""
+  },
+  {
+    "n": 546,
+    "id": 860,
+    "look": "A tall wall shows a brown shutter in cream timber framing above mottled stonework.",
+    "kind": "timbered window wall",
+    "setting": [
+      "town",
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Break up an exterior wall with this shuttered window to make the building feel inhabited.",
+    "notes": ""
+  },
+  {
+    "n": 547,
+    "id": 941,
+    "look": "A low wall shows brown wooden siding surrounding a dark rectangular shutter.",
+    "kind": "wood sided window wall",
+    "setting": [
+      "town",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Break up an exterior wall with this shuttered window to make the building feel inhabited.",
+    "notes": ""
+  },
+  {
+    "n": 548,
+    "id": 943,
+    "look": "A tall wall shows brown wooden siding surrounding a dark rectangular shutter.",
+    "kind": "wood sided window wall",
+    "setting": [
+      "town",
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Break up an exterior wall with this shuttered window to make the building feel inhabited.",
+    "notes": ""
+  },
+  {
+    "n": 549,
+    "id": 948,
+    "look": "A horizontal door shows dark pointed metal bars crossing two rails with a central hinge area.",
+    "kind": "barred cemetery gate",
+    "setting": [
+      "crypt",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Close an entrance with this barred gate to create confinement while retaining visibility.",
+    "notes": ""
+  },
+  {
+    "n": 550,
+    "id": 950,
+    "look": "A horizontal door shows dark pointed metal bars crossing two rails with a central hinge area.",
+    "kind": "barred cemetery gate",
+    "setting": [
+      "crypt",
+      "garden"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Close an entrance with this barred gate to create confinement while retaining visibility.",
+    "notes": ""
+  },
+  {
+    "n": 551,
+    "id": 962,
+    "look": "A low wall shows round brown logs surrounding a dark rectangular wooden shutter.",
+    "kind": "log cabin window wall",
+    "setting": [
+      "town",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Break up an exterior wall with this shuttered window to make the building feel inhabited.",
+    "notes": ""
+  },
+  {
+    "n": 552,
+    "id": 964,
+    "look": "A tall wall shows round brown logs surrounding a dark rectangular wooden shutter.",
+    "kind": "log cabin window wall",
+    "setting": [
+      "town",
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Break up an exterior wall with this shuttered window to make the building feel inhabited.",
+    "notes": ""
+  },
+  {
+    "n": 553,
+    "id": 1382,
+    "look": "A horizontal door shows brown timber panels with narrow grey barred openings.",
+    "kind": "barred wooden chamber door",
+    "setting": [
+      "town",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Set this door across a town passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 554,
+    "id": 1385,
+    "look": "A tall vertical door shows brown timber panels with narrow grey barred openings.",
+    "kind": "barred wooden chamber door",
+    "setting": [
+      "town",
+      "home"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Set this door across a town passage to create a clear threshold and reinforce the surrounding architecture.",
+    "notes": ""
+  },
+  {
+    "n": 555,
+    "id": 123,
+    "look": "Grey rectangular stone steps descend along a north south axis beside brown masonry.",
+    "kind": "straight stone staircase",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 556,
+    "id": 124,
+    "look": "Grey rectangular stone steps descend along a west east axis beside brown masonry.",
+    "kind": "straight stone staircase",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 557,
+    "id": 125,
+    "look": "Grey rectangular stone steps descend along a east west axis beside brown masonry.",
+    "kind": "straight stone staircase",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 558,
+    "id": 126,
+    "look": "Grey rectangular stone steps descend along a south north axis beside brown masonry.",
+    "kind": "straight stone staircase",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 559,
+    "id": 127,
+    "look": "Grey rectangular stone steps rise along a north south axis beside brown masonry.",
+    "kind": "straight stone staircase",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 560,
+    "id": 128,
+    "look": "Grey rectangular stone steps rise along a west east axis beside brown masonry.",
+    "kind": "straight stone staircase",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 561,
+    "id": 129,
+    "look": "Grey rectangular stone steps rise along a east west axis beside brown masonry.",
+    "kind": "straight stone staircase",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 562,
+    "id": 130,
+    "look": "Grey rectangular stone steps rise along a south north axis beside brown masonry.",
+    "kind": "straight stone staircase",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 563,
+    "id": 254,
+    "look": "Grey wedge shaped steps curve downward around a dark centre over a red gold square.",
+    "kind": "descending spiral stairs",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 564,
+    "id": 253,
+    "look": "Grey wedge shaped steps wind upward in a tall open curve.",
+    "kind": "ascending spiral stairs",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 565,
+    "id": 1026,
+    "look": "Grey wedge shaped steps curl downward into a dark centre without a coloured base.",
+    "kind": "descending spiral stairs",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 566,
+    "id": 8,
+    "look": "An orange carved square rim surrounds a dark deep opening.",
+    "kind": "square open pit",
+    "setting": [
+      "dungeon",
+      "temple"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "trap",
+    "scene_use": "Place this recessed square in a chamber floor to suggest a dangerous opening or shaft.",
+    "notes": ""
+  },
+  {
+    "n": 567,
+    "id": 181,
+    "look": "An orange brown square recess has dense carved relief and a dark edge.",
+    "kind": "carved square pit",
+    "setting": [
+      "dungeon",
+      "temple"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "trap",
+    "scene_use": "Place this recessed square in a chamber floor to suggest a dangerous opening or shaft.",
+    "notes": "The carved surface is visible, but the depth or openness of the pit is unclear."
+  },
+  {
+    "n": 568,
+    "id": 785,
+    "look": "White marble steps with black grey veining descend along a north south axis.",
+    "kind": "veined marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 569,
+    "id": 786,
+    "look": "White marble steps with black grey veining descend along a west east axis.",
+    "kind": "veined marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 570,
+    "id": 787,
+    "look": "White marble steps with black grey veining descend along a east west axis.",
+    "kind": "veined marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 571,
+    "id": 788,
+    "look": "White marble steps with black grey veining descend along a south north axis.",
+    "kind": "veined marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 572,
+    "id": 789,
+    "look": "White marble steps with black grey veining rise along a north south axis.",
+    "kind": "veined marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 573,
+    "id": 790,
+    "look": "White marble steps with black grey veining rise along a west east axis.",
+    "kind": "veined marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 574,
+    "id": 791,
+    "look": "White marble steps with black grey veining rise along a east west axis.",
+    "kind": "veined marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  },
+  {
+    "n": 575,
+    "id": 792,
+    "look": "White marble steps with black grey veining rise along a south north axis.",
+    "kind": "veined marble staircase",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Connect different elevations with these steps to make movement between levels visually clear.",
+    "notes": ""
+  }
+]

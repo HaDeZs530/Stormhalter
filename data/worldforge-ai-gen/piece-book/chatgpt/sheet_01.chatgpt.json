@@ -1,0 +1,771 @@
+[
+  {
+    "n": 48,
+    "id": 369,
+    "look": "Brown earth is mottled with pale grey-green mossy patches and small dark grains.",
+    "kind": "mossy cave ground",
+    "setting": [
+      "cave"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across cave floors to establish a mossy cave surface.",
+    "notes": ""
+  },
+  {
+    "n": 49,
+    "id": 375,
+    "look": "Uneven grey cobbles have dark seams and irregular chipped-looking edges.",
+    "kind": "rough grey cobblestones",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across town floors to establish a rough grey cobblestones surface.",
+    "notes": ""
+  },
+  {
+    "n": 50,
+    "id": 387,
+    "look": "Scattered small brown and grey skulls lie across a dark square surface.",
+    "kind": "skull covered floor",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across crypt floors to establish a skull covered surface.",
+    "notes": ""
+  },
+  {
+    "n": 51,
+    "id": 388,
+    "look": "Pale blue-white marble has cloudy patches and bright irregular veins.",
+    "kind": "pale blue marble",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across palace floors to establish a pale blue marble surface.",
+    "notes": ""
+  },
+  {
+    "n": 52,
+    "id": 393,
+    "look": "Small golden rectangular stones form a dense interlocking basketweave pattern.",
+    "kind": "golden woven paving",
+    "setting": [
+      "desert",
+      "town"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across desert floors to establish a golden woven surface.",
+    "notes": ""
+  },
+  {
+    "n": 53,
+    "id": 406,
+    "look": "Orange-gold mottling forms a rough dark-centred rocky texture.",
+    "kind": "orange mottled ground",
+    "setting": [
+      "lava",
+      "cave"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across lava floors to establish a orange mottled surface.",
+    "notes": "The palette label PH does not identify the pictured material."
+  },
+  {
+    "n": 54,
+    "id": 419,
+    "look": "Dark charcoal ash-like patches lie within a slightly lighter grey square.",
+    "kind": "dark ash ground",
+    "setting": [
+      "lava",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across lava floors to establish a dark ash surface.",
+    "notes": ""
+  },
+  {
+    "n": 55,
+    "id": 445,
+    "look": "Pale blue rectangular bricks form a staggered grid with white seams.",
+    "kind": "blue brick paving",
+    "setting": [
+      "town",
+      "palace"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across town floors to establish a blue brick surface.",
+    "notes": ""
+  },
+  {
+    "n": 56,
+    "id": 492,
+    "look": "Dark brown rectangular wood panels form a bordered geometric floor pattern.",
+    "kind": "dark panelled wood",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across home floors to establish a dark panelled wood surface.",
+    "notes": ""
+  },
+  {
+    "n": 57,
+    "id": 493,
+    "look": "Golden bamboo poles run horizontally with dark joints and small rounded nodes.",
+    "kind": "horizontal bamboo flooring",
+    "setting": [
+      "jungle",
+      "home"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across jungle floors to establish a horizontal bamboo surface.",
+    "notes": ""
+  },
+  {
+    "n": 58,
+    "id": 602,
+    "look": "Dark green and black horizontal ripples form a murky square surface.",
+    "kind": "murky green surface",
+    "setting": [
+      "sewer",
+      "swamp"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across sewer floors to establish a murky green surface surface.",
+    "notes": "Named Sand, but the visible dark green ripples resemble murky water."
+  },
+  {
+    "n": 59,
+    "id": 603,
+    "look": "Pale beige sand forms broad soft swirling ridges.",
+    "kind": "swirled pale sand",
+    "setting": [
+      "desert",
+      "coast"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across desert floors to establish a swirled pale sand surface.",
+    "notes": ""
+  },
+  {
+    "n": 60,
+    "id": 604,
+    "look": "Pale beige ground breaks into broad irregular cracked plates.",
+    "kind": "cracked pale sandflat",
+    "setting": [
+      "desert",
+      "coast"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across desert floors to establish a cracked pale sandflat surface.",
+    "notes": ""
+  },
+  {
+    "n": 61,
+    "id": 605,
+    "look": "Several dark brown rocks sit within bright blue rippled water and white foam.",
+    "kind": "rocky reef water",
+    "setting": [
+      "coast"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across coast floors to establish a rocky reef water surface.",
+    "notes": ""
+  },
+  {
+    "n": 62,
+    "id": 606,
+    "look": "Small turquoise rectangular tiles form a regular brick-like grid.",
+    "kind": "turquoise tile flooring",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across palace floors to establish a turquoise tile surface.",
+    "notes": ""
+  },
+  {
+    "n": 63,
+    "id": 607,
+    "look": "Large grey irregular polygonal stones have dark outlines and mottled faces.",
+    "kind": "large grey cobblestones",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across town floors to establish a large grey cobblestones surface.",
+    "notes": ""
+  },
+  {
+    "n": 64,
+    "id": 608,
+    "look": "Pale cream wood-like panels are crossed by thick dark diagonal lattice lines.",
+    "kind": "diagonal lattice flooring",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across home floors to establish a diagonal lattice surface.",
+    "notes": ""
+  },
+  {
+    "n": 65,
+    "id": 609,
+    "look": "Dense golden curling geometric lines cover a dark brown square.",
+    "kind": "gold patterned flooring",
+    "setting": [
+      "temple",
+      "wizard"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across temple floors to establish a gold patterned surface.",
+    "notes": ""
+  },
+  {
+    "n": 66,
+    "id": 610,
+    "look": "Dark figure-like and glyph-like markings repeat across a golden ochre panel.",
+    "kind": "gold glyph flooring",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across temple floors to establish a gold glyph surface.",
+    "notes": ""
+  },
+  {
+    "n": 67,
+    "id": 611,
+    "look": "Dark figure-like shapes occupy an ochre panel with ornamental top and bottom borders.",
+    "kind": "bordered glyph flooring",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across temple floors to establish a bordered glyph surface.",
+    "notes": ""
+  },
+  {
+    "n": 68,
+    "id": 612,
+    "look": "Four pale peach floral medallions repeat over a dark square background.",
+    "kind": "floral patterned flooring",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across palace floors to establish a floral patterned surface.",
+    "notes": ""
+  },
+  {
+    "n": 69,
+    "id": 613,
+    "look": "Bright red-orange glass-like facets radiate around dark diagonal seams.",
+    "kind": "red faceted floor",
+    "setting": [
+      "lava",
+      "wizard"
+    ],
+    "tone": [
+      "hot"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across lava floors to establish a red faceted surface.",
+    "notes": ""
+  },
+  {
+    "n": 70,
+    "id": 614,
+    "look": "Dense medium-green grass-like fibres cover a square.",
+    "kind": "green grass floor",
+    "setting": [
+      "forest",
+      "garden"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across forest floors to establish a green grass surface.",
+    "notes": ""
+  },
+  {
+    "n": 71,
+    "id": 615,
+    "look": "Pale blue-white ice has dense vertical streaks and scattered dark specks.",
+    "kind": "streaked pale ice",
+    "setting": [
+      "snow",
+      "cave"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across snow floors to establish a streaked pale ice surface.",
+    "notes": ""
+  },
+  {
+    "n": 72,
+    "id": 616,
+    "look": "Gold diagonal lines divide black and yellow faces into a repeating cube-like pattern.",
+    "kind": "gold geometric flooring",
+    "setting": [
+      "palace",
+      "wizard"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across palace floors to establish a gold geometric surface.",
+    "notes": ""
+  },
+  {
+    "n": 73,
+    "id": 617,
+    "look": "A grey geometric centre is framed by a narrow colourful red-blue-gold ornamental border.",
+    "kind": "bordered ornamental tile",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across palace floors to establish a bordered ornamental tile surface.",
+    "notes": ""
+  },
+  {
+    "n": 74,
+    "id": 618,
+    "look": "Large pale grey paving slabs have irregular outlines and fine speckled surfaces.",
+    "kind": "pale paving slabs",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across town floors to establish a pale  slabs surface.",
+    "notes": ""
+  },
+  {
+    "n": 75,
+    "id": 619,
+    "look": "A dense heap of pale brown skulls and bones fills a dark square.",
+    "kind": "dense skull flooring",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across crypt floors to establish a dense skull surface.",
+    "notes": ""
+  },
+  {
+    "n": 76,
+    "id": 620,
+    "look": "Blue-grey rectangular cobbles interlock in a complex block pattern.",
+    "kind": "interlocking grey cobbles",
+    "setting": [
+      "town",
+      "castle"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across town floors to establish a interlocking grey cobbles surface.",
+    "notes": ""
+  },
+  {
+    "n": 77,
+    "id": 621,
+    "look": "Small rounded pale stones pack tightly with dark irregular joints.",
+    "kind": "pale pebble paving",
+    "setting": [
+      "town",
+      "garden"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across town floors to establish a pale pebble surface.",
+    "notes": ""
+  },
+  {
+    "n": 78,
+    "id": 1003,
+    "look": "Dark fractured rocks carry patches of green moss in their crevices.",
+    "kind": "mossy dark bedrock",
+    "setting": [
+      "cave",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across cave floors to establish a mossy dark bedrock surface.",
+    "notes": ""
+  },
+  {
+    "n": 79,
+    "id": 1004,
+    "look": "Thin grey root-like strands tangle over dark olive-brown earth.",
+    "kind": "root tangled ground",
+    "setting": [
+      "forest",
+      "swamp"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across forest floors to establish a root tangled surface.",
+    "notes": ""
+  },
+  {
+    "n": 80,
+    "id": 628,
+    "look": "Green-brown masonry surrounds a small circular dark barred drain.",
+    "kind": "mossy drain floor",
+    "setting": [
+      "sewer"
+    ],
+    "tone": [
+      "wet"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across sewer floors to establish a mossy drain surface.",
+    "notes": ""
+  },
+  {
+    "n": 81,
+    "id": 629,
+    "look": "Green-brown rectangular masonry forms a dense mossy paving grid.",
+    "kind": "mossy sewer paving",
+    "setting": [
+      "sewer"
+    ],
+    "tone": [
+      "wet",
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across sewer floors to establish a mossy sewer surface.",
+    "notes": ""
+  },
+  {
+    "n": 82,
+    "id": 1009,
+    "look": "Thin blue-grey branching cracks divide a nearly black rocky surface.",
+    "kind": "dark cracked rock",
+    "setting": [
+      "lava",
+      "cave"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across lava floors to establish a dark cracked rock surface.",
+    "notes": ""
+  },
+  {
+    "n": 83,
+    "id": 1091,
+    "look": "Fine dark brown, grey, and green grains cover a muted square.",
+    "kind": "muted swamp ground",
+    "setting": [
+      "swamp",
+      "cave"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across swamp floors to establish a muted swamp surface.",
+    "notes": ""
+  },
+  {
+    "n": 84,
+    "id": 1098,
+    "look": "Dense dark green moss-like flecks mix with brown ground.",
+    "kind": "dark swamp moss",
+    "setting": [
+      "swamp"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across swamp floors to establish a dark swamp moss surface.",
+    "notes": ""
+  },
+  {
+    "n": 85,
+    "id": 1099,
+    "look": "Small grey and green rock-like flecks form an uneven dark square.",
+    "kind": "swamp gravel ground",
+    "setting": [
+      "swamp",
+      "cave"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across swamp floors to establish a swamp gravel surface.",
+    "notes": ""
+  },
+  {
+    "n": 86,
+    "id": 1214,
+    "look": "Rough tan and brown angular rocky fragments densely cover a square.",
+    "kind": "brown mine floor",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across mine floors to establish a brown mine surface.",
+    "notes": ""
+  },
+  {
+    "n": 87,
+    "id": 1226,
+    "look": "Dense grey and black mottling forms a coarse square stone texture.",
+    "kind": "grey dungeon flooring",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across dungeon floors to establish a grey dungeon surface.",
+    "notes": ""
+  },
+  {
+    "n": 88,
+    "id": 671,
+    "look": "Small pale cream stones pack tightly with grey seams.",
+    "kind": "pale stone paving",
+    "setting": [
+      "town",
+      "temple"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across town floors to establish a pale stone surface.",
+    "notes": ""
+  },
+  {
+    "n": 89,
+    "id": 680,
+    "look": "Large uneven grey-brown rocks form a tightly fitted rough surface.",
+    "kind": "large rock paving",
+    "setting": [
+      "cave",
+      "town"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across cave floors to establish a large rock surface.",
+    "notes": ""
+  },
+  {
+    "n": 90,
+    "id": 689,
+    "look": "Dark grey rock forms layered jagged ridges across a square.",
+    "kind": "ridged cave floor",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across cave floors to establish a ridged cave surface.",
+    "notes": ""
+  },
+  {
+    "n": 91,
+    "id": 700,
+    "look": "Very dark brown narrow planks run horizontally with black seams.",
+    "kind": "dark wooden flooring",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across home floors to establish a dark wooden surface.",
+    "notes": ""
+  },
+  {
+    "n": 92,
+    "id": 945,
+    "look": "Warm medium-brown planks run horizontally with fine grain and staggered joints.",
+    "kind": "brown wooden flooring",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across home floors to establish a brown wooden surface.",
+    "notes": ""
+  },
+  {
+    "n": 93,
+    "id": 1237,
+    "look": "Weathered dark grey-brown planks run horizontally with fine uneven grain.",
+    "kind": "rustic plank flooring",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across home floors to establish a rustic plank surface.",
+    "notes": ""
+  },
+  {
+    "n": 94,
+    "id": 1259,
+    "look": "Fine purple and black mottling forms a dense square surface.",
+    "kind": "purple mottled flooring",
+    "setting": [
+      "wizard",
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across wizard floors to establish a purple mottled surface.",
+    "notes": ""
+  },
+  {
+    "n": 95,
+    "id": 1283,
+    "look": "Dark desaturated blue speckles form cloudy patches across a square.",
+    "kind": "dark blue flooring",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across dungeon floors to establish a dark blue surface.",
+    "notes": ""
+  }
+]

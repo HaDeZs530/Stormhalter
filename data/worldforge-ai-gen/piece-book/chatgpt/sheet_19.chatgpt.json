@@ -1,0 +1,739 @@
+[
+  {
+    "n": 912,
+    "id": 650,
+    "look": "A tiny white curved stroke forms a partial ring on an otherwise empty field.",
+    "kind": "single vase ring",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Apply it over a vessel base to add a simple decorative band.",
+    "notes": "Only the ring overlay is visible, not a complete vase."
+  },
+  {
+    "n": 913,
+    "id": 651,
+    "look": "Two tiny white curved strokes form separated partial rings.",
+    "kind": "double vase rings",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Apply it over a vessel base to add paired decorative bands.",
+    "notes": "Only the ring overlay is visible, not a complete vase."
+  },
+  {
+    "n": 914,
+    "id": 652,
+    "look": "A small gold triangular cluster of curved marks forms an isolated decorative motif.",
+    "kind": "gold vase pattern",
+    "setting": [
+      "palace",
+      "home"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Apply it to a vessel base to add a gold ornamental accent.",
+    "notes": "No complete vase is visible."
+  },
+  {
+    "n": 915,
+    "id": 653,
+    "look": "A tiny white motif consists of several closely spaced curved dotted strokes.",
+    "kind": "white vase pattern",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it over a vessel to add a delicate pale pattern.",
+    "notes": "No complete vase is visible; resembles #916 but has a different stroke arrangement."
+  },
+  {
+    "n": 916,
+    "id": 654,
+    "look": "A tiny white motif forms a narrow curved chain of dots and short strokes.",
+    "kind": "dotted vase pattern",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it over a vessel to add a fine dotted ornament.",
+    "notes": "No complete vase is visible; resembles #915 but has a different stroke arrangement."
+  },
+  {
+    "n": 917,
+    "id": 655,
+    "look": "A small dark stippled oval patch lies on a shallow diagonal.",
+    "kind": "vase shadow patch",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Place it beneath a vessel to give the object a grounded shadow.",
+    "notes": "Only the shadow is visible."
+  },
+  {
+    "n": 918,
+    "id": 656,
+    "look": "White curved pottery fragments and tiny chips form a loose scattered cluster.",
+    "kind": "broken white pottery",
+    "setting": [
+      "ruins",
+      "home"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter it near damaged furniture to suggest a shattered vessel.",
+    "notes": ""
+  },
+  {
+    "n": 919,
+    "id": 657,
+    "look": "Several ochre and blue ceramic vessels overlap diagonally, showing round dark mouths and bright bands.",
+    "kind": "clustered coloured vases",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "small",
+    "placement": "cluster",
+    "scene_use": "Group it in a storeroom or decorated chamber to add colourful pottery.",
+    "notes": ""
+  },
+  {
+    "n": 920,
+    "id": 726,
+    "look": "A broad brown plank panel forms a shallow parallelogram with dark parallel seams.",
+    "kind": "horizontal wooden backboard",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Fit it beneath wall finishes or furnishings to add a timber backing surface.",
+    "notes": "Palette name is truncated; visible surface is wood rather than plaster."
+  },
+  {
+    "n": 921,
+    "id": 729,
+    "look": "A tall brown plank panel leans toward the upper left with dark vertical seams.",
+    "kind": "vertical wooden backboard",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "against-wall",
+    "scene_use": "Fit it along a vertical interior wall to add a timber backing surface.",
+    "notes": "Palette name is truncated; visible surface is wood rather than plaster."
+  },
+  {
+    "n": 922,
+    "id": 738,
+    "look": "A thin pale rope hangs in a broad shallow curve with an upturned right end.",
+    "kind": "horizontal hanging rope",
+    "setting": [
+      "camp",
+      "ship"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Stretch it across a tent interior to add a loose hanging line.",
+    "notes": ""
+  },
+  {
+    "n": 923,
+    "id": 739,
+    "look": "A thin pale rope descends vertically before curling left at its lower end.",
+    "kind": "vertical hanging rope",
+    "setting": [
+      "camp",
+      "ship"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Run it along a tent side to add a hanging tie or support detail.",
+    "notes": ""
+  },
+  {
+    "n": 924,
+    "id": 740,
+    "look": "Two cream tapered cloth panels join vertically with dark edging and a narrow crease.",
+    "kind": "paired tent flap panels",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "edge",
+    "scene_use": "Place it along a tent opening to define a folded fabric side.",
+    "notes": ""
+  },
+  {
+    "n": 925,
+    "id": 741,
+    "look": "A square red rug has a dense cream pattern and layered gold-brown borders.",
+    "kind": "patterned red rug",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Centre it in a furnished room to add warm ornamental richness.",
+    "notes": ""
+  },
+  {
+    "n": 926,
+    "id": 742,
+    "look": "A square pale grey rug has an intricate border and circular central medallion.",
+    "kind": "patterned grey rug",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Centre it in a quiet interior to add subdued decorative detail.",
+    "notes": ""
+  },
+  {
+    "n": 927,
+    "id": 743,
+    "look": "A long cream triangular fabric panel tapers leftward and has a dark shaded right edge.",
+    "kind": "horizontal tent flap",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "edge",
+    "scene_use": "Fit it across a tent entrance to suggest a lifted fabric flap.",
+    "notes": ""
+  },
+  {
+    "n": 928,
+    "id": 744,
+    "look": "Several fine white rope curves hang side by side across a broad horizontal span.",
+    "kind": "horizontal rope accents",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over a tent interior to add loose rope edging.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 929,
+    "id": 745,
+    "look": "A single fine white line descends and curls into a small hook at its lower end.",
+    "kind": "vertical rope accent",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it along a tent side to add a slender hanging tie.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 930,
+    "id": 746,
+    "look": "A small cream triangular cloth flap widens downward with a dark lower edge.",
+    "kind": "short tent flap",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Use it beside a tent entrance to add a folded fabric corner.",
+    "notes": ""
+  },
+  {
+    "n": 931,
+    "id": 747,
+    "look": "A square white and grey fur patch has dense mottled texture and straight outer edges.",
+    "kind": "square fur rug",
+    "setting": [
+      "home",
+      "camp"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Place it in a shelter to add a soft insulating floor covering.",
+    "notes": ""
+  },
+  {
+    "n": 932,
+    "id": 748,
+    "look": "A pale mottled animal hide spreads vertically with four projecting limbs and an uneven outline.",
+    "kind": "vertical hide rug",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Lay it lengthwise in a lodge to add rustic animal-hide furnishing.",
+    "notes": ""
+  },
+  {
+    "n": 933,
+    "id": 749,
+    "look": "Several thin white diagonal curves form a horizontal row of loose loop-like edges.",
+    "kind": "front flap outline accents",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over tent fabric to define loose folds and hanging edges.",
+    "notes": "Palette name is truncated; only outlines are visible."
+  },
+  {
+    "n": 934,
+    "id": 750,
+    "look": "A shallow black tapered panel has a thin yellow-green outline and tiny flecks.",
+    "kind": "horizontal tent shade panel",
+    "setting": [
+      "camp"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it inside a tent to add a shaded lower interior edge.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 935,
+    "id": 751,
+    "look": "A tall black tapered panel has a thin yellow-green outline and leans toward the upper left.",
+    "kind": "vertical tent shade panel",
+    "setting": [
+      "camp"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it along a tent side to add a dark interior recess.",
+    "notes": "Palette name is truncated."
+  },
+  {
+    "n": 936,
+    "id": 752,
+    "look": "Several fine white angular strokes descend in a narrow series of hooked shapes.",
+    "kind": "side flap outline accents",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over a tent side flap to clarify its folded edges.",
+    "notes": "Palette name is truncated; only outlines are visible."
+  },
+  {
+    "n": 937,
+    "id": 753,
+    "look": "A pale mottled animal hide spreads horizontally with projecting limbs and an irregular outline.",
+    "kind": "horizontal hide rug",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Lay it across a lodge floor to add rustic animal-hide furnishing.",
+    "notes": ""
+  },
+  {
+    "n": 938,
+    "id": 754,
+    "look": "A fine white line slopes down-right and turns upward briefly at its right end.",
+    "kind": "front flap edge outline",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it across tent fabric to define a light lower seam.",
+    "notes": "Palette name is truncated; no filled cloth panel is visible."
+  },
+  {
+    "n": 939,
+    "id": 755,
+    "look": "A faint dotted horizontal line crosses several fine diagonal grey stripes.",
+    "kind": "horizontal tent stripe accent",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over a tent interior to add subtle fabric striping.",
+    "notes": "Palette name is truncated; markings are faint."
+  },
+  {
+    "n": 940,
+    "id": 756,
+    "look": "Fine parallel grey diagonal stripes descend rightward beside a faint dotted vertical line.",
+    "kind": "vertical tent stripe accent",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "overlay",
+    "scene_use": "Layer it over a tent side to add subtle fabric striping.",
+    "notes": "Palette name is truncated; markings are faint."
+  },
+  {
+    "n": 941,
+    "id": 757,
+    "look": "A long thin white slanted line joins a short horizontal foot near its lower end.",
+    "kind": "side flap edge outline",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over a tent side flap to highlight its outer edge.",
+    "notes": "Palette name is truncated; no filled cloth panel is visible."
+  },
+  {
+    "n": 942,
+    "id": 817,
+    "look": "Four pale grey rectangular bands form a short stair profile descending toward the lower right.",
+    "kind": "south descending stair overlay",
+    "setting": [
+      "castle",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "stairs",
+    "scene_use": "Align it with south-descending steps to add a plain pale tread covering.",
+    "notes": "Label says rug, but the visible bands are plain grey without textile detail."
+  },
+  {
+    "n": 943,
+    "id": 818,
+    "look": "Several pale grey upright bands form a short stair profile decreasing in height toward the right.",
+    "kind": "east descending stair overlay",
+    "setting": [
+      "castle",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "stairs",
+    "scene_use": "Align it with east-descending steps to add a plain pale tread covering.",
+    "notes": "Label says rug, but the visible bands are plain grey without textile detail."
+  },
+  {
+    "n": 944,
+    "id": 819,
+    "look": "Several pale grey upright bands form a short stair profile increasing in height toward the right.",
+    "kind": "west descending stair overlay",
+    "setting": [
+      "castle",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "stairs",
+    "scene_use": "Align it with west-descending steps to add a plain pale tread covering.",
+    "notes": "Label says rug, but the visible bands are plain grey without textile detail."
+  },
+  {
+    "n": 945,
+    "id": 820,
+    "look": "Pale grey horizontal bands widen downward in a stair profile with a narrow upper-right end.",
+    "kind": "north descending stair overlay",
+    "setting": [
+      "castle",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "stairs",
+    "scene_use": "Align it with north-descending steps to add a plain pale tread covering.",
+    "notes": "Label says rug, but the visible bands are plain grey without textile detail."
+  },
+  {
+    "n": 946,
+    "id": 821,
+    "look": "A longer sequence of pale grey horizontal bands descends diagonally from upper left to lower right.",
+    "kind": "north ascending stair overlay",
+    "setting": [
+      "castle",
+      "home"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Align it with north-ascending stairs to give the flight a plain pale covering.",
+    "notes": "Label says rug, but the visible bands are plain grey without textile detail."
+  },
+  {
+    "n": 947,
+    "id": 822,
+    "look": "Broad pale grey vertical bands form a long stepped strip sloping downward toward the right.",
+    "kind": "west ascending stair overlay",
+    "setting": [
+      "castle",
+      "home"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Align it with west-ascending stairs to give the flight a plain pale covering.",
+    "notes": "Label says rug, but the visible bands are plain grey without textile detail."
+  },
+  {
+    "n": 948,
+    "id": 823,
+    "look": "Narrow pale grey upright bands form a steep stair profile rising toward the upper right.",
+    "kind": "east ascending stair overlay",
+    "setting": [
+      "castle",
+      "home"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Align it with east-ascending stairs to give the flight a plain pale covering.",
+    "notes": "Label says rug, but the visible bands are plain grey without textile detail."
+  },
+  {
+    "n": 949,
+    "id": 824,
+    "look": "A shallow flight of pale grey horizontal bands recedes diagonally toward the upper right.",
+    "kind": "south ascending stair overlay",
+    "setting": [
+      "castle",
+      "home"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "stairs",
+    "scene_use": "Align it with south-ascending stairs to give the flight a plain pale covering.",
+    "notes": "Label says rug, but the visible bands are plain grey without textile detail."
+  },
+  {
+    "n": 950,
+    "id": 841,
+    "look": "Several rough white horizontal snow strips shorten downward and are separated by empty gaps.",
+    "kind": "horizontal snowy tread overlay",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over descending stairs to suggest snow caught on separate treads.",
+    "notes": "Palette name is truncated; no stair structure is included."
+  },
+  {
+    "n": 951,
+    "id": 842,
+    "look": "Several rough white upright ice strips decrease in height toward the right.",
+    "kind": "vertical icy tread overlay",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over descending stairs to add uneven ice along the tread edges.",
+    "notes": "Palette name is truncated; no stair structure is included."
+  },
+  {
+    "n": 952,
+    "id": 843,
+    "look": "Several mottled white upright ice strips increase in height toward the right.",
+    "kind": "rising icy tread overlay",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over oppositely oriented stairs to add irregular icy buildup.",
+    "notes": "Palette name is truncated; no stair structure is included."
+  },
+  {
+    "n": 953,
+    "id": 844,
+    "look": "Broken white horizontal snow bands widen downward into a triangular stair-shaped arrangement.",
+    "kind": "stepped snow band overlay",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over descending stairs to suggest snow settling on the treads.",
+    "notes": "Palette name is truncated; no stair structure is included."
+  },
+  {
+    "n": 954,
+    "id": 845,
+    "look": "Several ragged white horizontal strips taper downward from broad bands to small pale patches.",
+    "kind": "ascending snowy tread overlay",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over ascending stairs to suggest uneven snow on successive treads.",
+    "notes": "Palette name is truncated; no stair structure is included."
+  },
+  {
+    "n": 955,
+    "id": 846,
+    "look": "Four narrow ragged white vertical strips become progressively shorter toward the right.",
+    "kind": "ascending icy strip overlay",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over a stair flight to add thin icy edges.",
+    "notes": "Palette name is truncated; no stair structure is included."
+  },
+  {
+    "n": 956,
+    "id": 847,
+    "look": "A tight group of jagged white upright strips forms a narrow wedge rising toward the right.",
+    "kind": "compact icy stair overlay",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over a steep stair view to add packed snow and ice.",
+    "notes": "Palette name is truncated; no stair structure is included."
+  },
+  {
+    "n": 957,
+    "id": 848,
+    "look": "Short ragged white horizontal strips overlap in a low triangular mound-like arrangement.",
+    "kind": "compact snowy tread overlay",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over shallow stairs to suggest snow collecting across the treads.",
+    "notes": "Palette name is truncated; no stair structure is included."
+  },
+  {
+    "n": 958,
+    "id": 849,
+    "look": "Dark red smears and small droplets descend diagonally toward the lower right.",
+    "kind": "descending blood trail",
+    "setting": [
+      "dungeon",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over south-descending stairs to suggest a blood trail across the steps.",
+    "notes": "Palette name is truncated; only blood markings are visible."
+  },
+  {
+    "n": 959,
+    "id": 850,
+    "look": "A small dark red splatter has short streaks and scattered droplets extending rightward.",
+    "kind": "stair blood splatter",
+    "setting": [
+      "dungeon",
+      "crypt"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Layer it over east-descending stairs to add a small sign of violence.",
+    "notes": "Palette name is truncated; only blood markings are visible."
+  }
+]

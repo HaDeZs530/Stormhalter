@@ -1,0 +1,724 @@
+[
+  {
+    "n": 1296,
+    "id": 859,
+    "look": "Brown rectangular window frame on grey stone base, oriented on a shallow down-right diagonal.",
+    "kind": "framed window section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1297,
+    "id": 861,
+    "look": "Brown rectangular window frame on grey stone base, oriented on a steep down-right diagonal.",
+    "kind": "framed window section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1298,
+    "id": 942,
+    "look": "Brown plank window panel with dark rectangular opening, oriented on a shallow down-right diagonal.",
+    "kind": "framed window section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1299,
+    "id": 944,
+    "look": "Brown plank window panel with dark rectangular opening, oriented on a steep down-right diagonal.",
+    "kind": "framed window section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1300,
+    "id": 949,
+    "look": "Dark grey horizontal-bar grille.",
+    "kind": "barred grille section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1301,
+    "id": 951,
+    "look": "Dark grey horizontal-bar grille.",
+    "kind": "barred grille section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1302,
+    "id": 956,
+    "look": "Tall broken brown wooden wall edge, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1303,
+    "id": 959,
+    "look": "Diagonal row of rounded brown log ends, oriented on a shallow down-right diagonal.",
+    "kind": "rounded log edging",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Line a timber boundary with it to add exposed log ends.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1304,
+    "id": 960,
+    "look": "Diagonal row of dark brown log ends, oriented on a steep down-right diagonal.",
+    "kind": "rounded log edging",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Line a timber boundary with it to add exposed log ends.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1305,
+    "id": 961,
+    "look": "Brown log window frame with dark opening, oriented on a shallow down-right diagonal.",
+    "kind": "framed window section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1306,
+    "id": 963,
+    "look": "Brown log window frame with dark opening, oriented on a steep down-right diagonal.",
+    "kind": "framed window section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1307,
+    "id": 1041,
+    "look": "Pale panelled wall with black projecting brackets, oriented on a steep down-right diagonal.",
+    "kind": "architectural wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1308,
+    "id": 1042,
+    "look": "Broken pale panelled wall with black brackets, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1309,
+    "id": 1044,
+    "look": "Pale panelled wall with black projecting brackets, oriented on a shallow down-right diagonal.",
+    "kind": "architectural wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1310,
+    "id": 1045,
+    "look": "Broken pale panelled wall with black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1311,
+    "id": 1047,
+    "look": "Blue-grey metal wall with dark inset grille and black brackets, oriented on a steep down-right diagonal.",
+    "kind": "barred grille section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1312,
+    "id": 1048,
+    "look": "Broken blue-grey metal wall with black brackets, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1313,
+    "id": 1050,
+    "look": "Blue-grey metal wall with dark inset grille and black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "barred grille section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1314,
+    "id": 1051,
+    "look": "Broken blue-grey metal wall with black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1315,
+    "id": 1053,
+    "look": "White brick wall with dark inset grille and black brackets, oriented on a steep down-right diagonal.",
+    "kind": "barred grille section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1316,
+    "id": 1054,
+    "look": "Broken white brick wall with black brackets, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1317,
+    "id": 1056,
+    "look": "White brick wall with dark inset grille and black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "barred grille section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1318,
+    "id": 1057,
+    "look": "Broken white brick wall with black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1319,
+    "id": 1059,
+    "look": "Plain white wall with dark inset opening and black brackets, oriented on a steep down-right diagonal.",
+    "kind": "architectural wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1320,
+    "id": 1060,
+    "look": "Broken plain white wall with black brackets, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1321,
+    "id": 1062,
+    "look": "Plain white wall with dark inset opening and black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "architectural wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1322,
+    "id": 1063,
+    "look": "Broken plain white wall with black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1323,
+    "id": 1065,
+    "look": "Mottled dark grey wall with inset grille and black brackets, oriented on a steep down-right diagonal.",
+    "kind": "barred grille section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1324,
+    "id": 1066,
+    "look": "Broken mottled dark grey wall with black brackets, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1325,
+    "id": 1068,
+    "look": "Mottled dark grey wall with inset grille and black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "barred grille section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1326,
+    "id": 1069,
+    "look": "Broken mottled dark grey wall with black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1327,
+    "id": 1071,
+    "look": "Dark grey masonry wall with inset grille and black brackets, oriented on a steep down-right diagonal.",
+    "kind": "barred grille section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1328,
+    "id": 1072,
+    "look": "Broken dark grey masonry wall with black brackets, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1329,
+    "id": 1074,
+    "look": "Dark grey masonry wall with inset grille and black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "barred grille section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1330,
+    "id": 1075,
+    "look": "Broken dark grey masonry wall with black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1331,
+    "id": 1077,
+    "look": "White horizontal-board wall with dark opening and black brackets.",
+    "kind": "architectural wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1332,
+    "id": 1078,
+    "look": "Broken white horizontal-board wall with black brackets.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1333,
+    "id": 1080,
+    "look": "White horizontal-board wall with dark opening and black brackets.",
+    "kind": "architectural wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1334,
+    "id": 1081,
+    "look": "Broken white horizontal-board wall with black brackets.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1335,
+    "id": 1083,
+    "look": "White brick-patterned wall with dark opening and black brackets, oriented on a steep down-right diagonal.",
+    "kind": "architectural wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1336,
+    "id": 1084,
+    "look": "Broken white brick-patterned wall with black brackets, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1337,
+    "id": 1086,
+    "look": "White brick-patterned wall with dark opening and black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "architectural wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add a defined architectural enclosure.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1338,
+    "id": 1087,
+    "look": "Broken white brick-patterned wall with black brackets, oriented on a shallow down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1339,
+    "id": 1170,
+    "look": "Loose pile of pale bones and skull fragments.",
+    "kind": "scattered skeletal remains",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "medium",
+    "placement": "scatter",
+    "scene_use": "Scatter it across a chamber floor to add old skeletal remains.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1340,
+    "id": 1216,
+    "look": "Low jagged brown rocky wall remnant, oriented on a shallow down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1341,
+    "id": 1218,
+    "look": "Tall jagged brown rocky wall remnant, oriented on a steep down-right diagonal.",
+    "kind": "broken wall section",
+    "setting": [
+      "castle",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add damaged architectural texture.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1342,
+    "id": 1220,
+    "look": "Small brown rocky fragment, oriented on a shallow down-right diagonal.",
+    "kind": "scattered broken fragments",
+    "setting": [
+      "ruins",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Place it near damaged structures to add debris and neglect.",
+    "notes": "No palette is listed."
+  },
+  {
+    "n": 1343,
+    "id": 1223,
+    "look": "Short scattered trail of brown stones, oriented on a shallow down-right diagonal.",
+    "kind": "scattered broken fragments",
+    "setting": [
+      "ruins",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Place it near damaged structures to add debris and neglect.",
+    "notes": "No palette is listed."
+  }
+]

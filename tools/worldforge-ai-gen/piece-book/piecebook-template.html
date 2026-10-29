@@ -40,6 +40,10 @@ button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-vis
 .tag.on{border-color:var(--accent);color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
 .tagbox.changed{outline:1px solid var(--edit);border-radius:4px}
 .tools{grid-column:1/-1;display:flex;gap:6px;justify-content:flex-end}
+.gpt{grid-column:1/-1;font-size:12px;border-top:1px dashed var(--line);padding-top:6px;color:var(--muted);display:grid;gap:2px}
+.gpt .gh{font:600 10px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.gpt b{color:var(--fg);font-weight:500}
+.gpt button{justify-self:start;font-size:11px;padding:2px 7px;margin-top:4px}
 .tools button{font-size:11px;padding:3px 7px}
 #exportbox{position:fixed;inset:auto 0 0 0;background:var(--panel);border-top:1px solid var(--line);padding:10px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));display:none;gap:8px;align-items:center;flex-wrap:wrap;z-index:6}
 #exportbox.show{display:flex}
@@ -56,6 +60,7 @@ button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-vis
   <select id="tn"><option value="">any tone</option></select>
   <button id="onlyEdited">edited only</button>
   <button id="onlyFlag">flagged only</button>
+  <button id="onlyGpt">has ChatGPT</button>
   <span id="count"></span>
   <button id="exportBtn">Copy corrections</button>
 </header>
@@ -70,7 +75,8 @@ const ATLAS="__ATLAS__"; const IDX=__INDEX__;
 const PLACEMENTS=["floor-fill","wall-H","wall-V","wall-corner","wall-mass","door-H","door-V","against-wall","corner","free-standing","scatter","cluster","path","edge","overlay","stairs","portal","trap","unknown"];
 const SETTINGS=["temple","crypt","dungeon","cave","mine","castle","palace","town","village","tavern","home","camp","forest","swamp","jungle","desert","coast","snow","lava","sewer","garden","farm","wizard","ship","ruins"];
 const TONES=["blessed","cursed","undead","corrupted","grand","overgrown","hot","cold","wet","bright","dark"];
-const FIELDS=[["look","Look"],["kind","Kind"],["setting","Setting"],["tone","Tone"],["size","Size"],["placement","Place"],["pairs_with","Pairs"],["notes","Notes"]];
+const FIELDS=[["look","Look"],["kind","Kind"],["setting","Setting"],["tone","Tone"],["size","Size"],["placement","Place"],["scene_use","Scene use"],["pairs_with","Pairs"],["notes","Notes"]];
+const GPT_KEYS=["look","kind","setting","tone","size","placement","scene_use"];
 let edits={}; try{ edits=JSON.parse(localStorage.getItem('piecebook-edits')||'{}'); }catch(e){ edits={}; }
 function saveEdits(){ try{ localStorage.setItem('piecebook-edits',JSON.stringify(edits)); }catch(e){} }
 const atlas=new Image(); atlas.src=ATLAS;
@@ -111,6 +117,12 @@ function card(p){
     fs.appendChild(row);
   }
   d.appendChild(fs);
+  if(p.gpt){
+    const g=document.createElement('div'); g.className='gpt';
+    g.innerHTML='<div class="gh">ChatGPT says</div>'+GPT_KEYS.filter(k=>p.gpt[k]!==undefined&&String(p.gpt[k]).length).map(k=>'<div><b>'+k.replace('_',' ')+'</b> '+esc(Array.isArray(p.gpt[k])?p.gpt[k].join(', '):p.gpt[k])+'</div>').join('')+(p.gpt.notes?'<div><b>notes</b> '+esc(p.gpt.notes)+'</div>':'');
+    const ub=document.createElement('button'); ub.textContent="use ChatGPT's"; ub.onclick=()=>{ for(const k of GPT_KEYS){ if(p.gpt[k]===undefined) continue; const v=Array.isArray(p.gpt[k])?p.gpt[k].join(', '):String(p.gpt[k]); setEdit(p,k,v); } const n=card(p); d.replaceWith(n); };
+    g.appendChild(ub); d.appendChild(g);
+  }
   const t=document.createElement('div'); t.className='tools';
   const fb=document.createElement('button'); fb.textContent='flag'; fb.onclick=()=>{ setEdit(p,'flag', val(p,'flag')===true?'':true); refresh(d,p); };
   const rb=document.createElement('button'); rb.textContent='reset'; rb.onclick=()=>{ delete edits[p.n]; saveEdits(); const n=card(p); d.replaceWith(n); };
@@ -120,7 +132,7 @@ function card(p){
 function refresh(d,p){ const e=edits[p.n]||{}; d.classList.toggle('edited',Object.keys(e).some(k=>k!=='flag')); d.classList.toggle('flag',e.flag===true);
   for(const [k] of FIELDS){ const el=document.getElementById('f_'+k+'_'+p.n); if(el) el.classList.toggle('changed',k in e); } }
 function esc(s){ return String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
-const grid=document.getElementById('grid'); let state={q:'',cat:'',pl:'',st:'',tn:'',edited:false,flag:false};
+const grid=document.getElementById('grid'); let state={q:'',cat:'',pl:'',st:'',tn:'',edited:false,flag:false,gpt:false};
 function render(){
   grid.innerHTML=''; let n=0; const q=state.q.toLowerCase();
   for(const p of PIECES){
@@ -130,6 +142,7 @@ function render(){
     if(state.tn&&!String(val(p,'tone')).split(',').map(x=>x.trim()).includes(state.tn)) continue;
     if(state.edited&&!(edits[p.n]&&Object.keys(edits[p.n]).some(k=>k!=='flag'))) continue;
     if(state.flag&&!(edits[p.n]&&edits[p.n].flag===true)) continue;
+    if(state.gpt&&!p.gpt) continue;
     if(q){ const hay=[p.name,p.id,p.n,p.category,val(p,'look'),val(p,'kind'),val(p,'setting'),val(p,'tone'),val(p,'notes'),p.usage].join(' ').toLowerCase(); if(!hay.includes(q)) continue; }
     grid.appendChild(card(p)); n++; if(n>=400) break;
   }
@@ -147,6 +160,7 @@ document.getElementById('st').onchange=e=>{state.st=e.target.value;render();};
 document.getElementById('tn').onchange=e=>{state.tn=e.target.value;render();};
 document.getElementById('onlyEdited').onclick=e=>{state.edited=!state.edited;e.target.classList.toggle('on',state.edited);render();};
 document.getElementById('onlyFlag').onclick=e=>{state.flag=!state.flag;e.target.classList.toggle('on',state.flag);render();};
+document.getElementById('onlyGpt').onclick=e=>{state.gpt=!state.gpt;e.target.classList.toggle('on',state.gpt);render();};
 function exportText(){ const out=[]; for(const p of PIECES){ const e=edits[p.n]; if(e&&Object.keys(e).length) out.push(Object.assign({n:p.n,id:p.id,name:p.name},e)); } return JSON.stringify(out,null,1); }
 document.getElementById('exportBtn').onclick=async()=>{ const t=exportText(); const ta=document.getElementById('exportta'); ta.value=t; document.getElementById('exportbox').classList.add('show');
   try{ await navigator.clipboard.writeText(t); document.getElementById('expmsg').textContent='Copied '+(JSON.parse(t).length)+' corrected cards.'; }catch(e){ ta.select(); document.getElementById('expmsg').textContent='Select the text and copy it.'; } };

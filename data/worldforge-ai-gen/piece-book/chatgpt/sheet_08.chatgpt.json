@@ -1,0 +1,714 @@
+[
+  {
+    "n": 384,
+    "id": 142,
+    "look": "A tall wall shows pale grey mottled masonry with a jagged broken side.",
+    "kind": "ruined marble wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 385,
+    "id": 144,
+    "look": "A narrow corner piece shows short pale grey mottled masonry stub.",
+    "kind": "ruined marble corner",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a ruins boundary an uneven silhouette.",
+    "notes": "Shares ID 144 and the same pale corner sprite with #373."
+  },
+  {
+    "n": 386,
+    "id": 153,
+    "look": "A low wall shows pale grey carved masonry with jagged broken edges.",
+    "kind": "ruined carved wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 387,
+    "id": 154,
+    "look": "A tall wall shows pale grey carved masonry with jagged broken edges.",
+    "kind": "ruined carved wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 388,
+    "id": 156,
+    "look": "A narrow corner piece shows pale grey carved masonry with jagged broken edges.",
+    "kind": "ruined carved wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a ruins boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 389,
+    "id": 441,
+    "look": "A low wall shows white lightly shaded masonry with sharp broken edges.",
+    "kind": "ruined white wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": "Palette says blue, but the visible piece is predominantly white and pale grey."
+  },
+  {
+    "n": 390,
+    "id": 442,
+    "look": "A tall wall shows white lightly shaded masonry with sharp broken edges.",
+    "kind": "ruined white wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": "Palette says blue, but the visible piece is predominantly white and pale grey."
+  },
+  {
+    "n": 391,
+    "id": 444,
+    "look": "A narrow corner piece shows white lightly shaded masonry with sharp broken edges.",
+    "kind": "ruined white wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a ruins boundary an uneven silhouette.",
+    "notes": "Palette says blue, but the visible piece is predominantly white and pale grey."
+  },
+  {
+    "n": 392,
+    "id": 461,
+    "look": "A low wall shows dark brown craggy masonry with small white caps.",
+    "kind": "ruined mountain wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 393,
+    "id": 462,
+    "look": "A tall wall shows dark brown craggy masonry with small white caps.",
+    "kind": "ruined mountain wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 394,
+    "id": 464,
+    "look": "A narrow corner piece shows dark brown craggy masonry with small white caps.",
+    "kind": "ruined mountain wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a ruins boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 395,
+    "id": 364,
+    "look": "A low wall shows red beams and golden slats with splintered broken ends.",
+    "kind": "ruined red screen",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 396,
+    "id": 365,
+    "look": "A tall wall shows red beams and golden slats with splintered broken ends.",
+    "kind": "ruined red screen",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 397,
+    "id": 367,
+    "look": "A narrow corner piece shows red beams and golden slats with splintered broken ends.",
+    "kind": "ruined red screen",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a ruins boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 398,
+    "id": 472,
+    "look": "A low wall shows orange brown wooden framing with a ragged missing centre.",
+    "kind": "ruined wooden screen",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 399,
+    "id": 473,
+    "look": "A tall wall shows orange brown wooden framing with a ragged missing centre.",
+    "kind": "ruined wooden screen",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 400,
+    "id": 481,
+    "look": "A narrow corner piece shows tiny brown broken wooden base.",
+    "kind": "broken wooden corner",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a town boundary an uneven silhouette.",
+    "notes": "Identical sprite and ID 481 also appear at cards #400, #403, #406, and #409."
+  },
+  {
+    "n": 401,
+    "id": 476,
+    "look": "A low wall shows brown framing and pale plaster with a ragged central gap.",
+    "kind": "ruined framed wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 402,
+    "id": 477,
+    "look": "A tall wall shows brown framing and pale plaster with a ragged central gap.",
+    "kind": "ruined framed wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 403,
+    "id": 481,
+    "look": "A narrow corner piece shows tiny brown broken wooden base.",
+    "kind": "broken wooden corner",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a town boundary an uneven silhouette.",
+    "notes": "Identical sprite and ID 481 also appear at cards #400, #403, #406, and #409."
+  },
+  {
+    "n": 404,
+    "id": 484,
+    "look": "A low wall shows brown cross braces and pale panels broken through the centre.",
+    "kind": "ruined braced wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 405,
+    "id": 485,
+    "look": "A tall wall shows brown cross braces and pale panels broken through the centre.",
+    "kind": "ruined braced wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 406,
+    "id": 481,
+    "look": "A narrow corner piece shows tiny brown broken wooden base.",
+    "kind": "broken wooden corner",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a town boundary an uneven silhouette.",
+    "notes": "Identical sprite and ID 481 also appear at cards #400, #403, #406, and #409."
+  },
+  {
+    "n": 407,
+    "id": 488,
+    "look": "A low wall shows orange brown flat wall panels with jagged missing sections.",
+    "kind": "ruined timber wall",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 408,
+    "id": 489,
+    "look": "A tall wall shows orange brown flat wall panels with jagged missing sections.",
+    "kind": "ruined timber wall",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 409,
+    "id": 481,
+    "look": "A narrow corner piece shows tiny brown broken wooden base.",
+    "kind": "broken wooden corner",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a town boundary an uneven silhouette.",
+    "notes": "Identical sprite and ID 481 also appear at cards #400, #403, #406, and #409."
+  },
+  {
+    "n": 410,
+    "id": 396,
+    "look": "A low wall shows bright blue and white veined masonry with broken edges.",
+    "kind": "ruined blue marble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 411,
+    "id": 397,
+    "look": "A tall wall shows bright blue and white veined masonry with broken edges.",
+    "kind": "ruined blue marble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 412,
+    "id": 410,
+    "look": "A narrow corner piece shows bright blue and white veined masonry with broken edges.",
+    "kind": "ruined blue marble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a ruins boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 413,
+    "id": 260,
+    "look": "A low wall shows peach orange masonry with pale carved details and broken edges.",
+    "kind": "ruined carved sandstone",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 414,
+    "id": 261,
+    "look": "A tall wall shows peach orange masonry with pale carved details and broken edges.",
+    "kind": "ruined carved sandstone",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 415,
+    "id": 263,
+    "look": "A narrow corner piece shows peach orange masonry with pale carved details and broken edges.",
+    "kind": "ruined carved sandstone",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a ruins boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 416,
+    "id": 147,
+    "look": "A low wall shows short thick brown logs with visible circular ends.",
+    "kind": "broken log wall",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 417,
+    "id": 148,
+    "look": "A tall wall shows short thick brown logs with visible circular ends.",
+    "kind": "broken log wall",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 418,
+    "id": 150,
+    "look": "A narrow corner piece shows short thick brown logs with visible circular ends.",
+    "kind": "broken log wall",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a town boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 419,
+    "id": 226,
+    "look": "A low wall shows dense vivid green foliage tangled around brown branches.",
+    "kind": "broken thicket wall",
+    "setting": [
+      "forest",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a forest area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 420,
+    "id": 227,
+    "look": "A tall wall shows dense vivid green foliage tangled around brown branches.",
+    "kind": "broken thicket wall",
+    "setting": [
+      "forest",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a forest area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 421,
+    "id": 228,
+    "look": "A narrow corner piece shows dense vivid green foliage tangled around brown branches.",
+    "kind": "broken thicket wall",
+    "setting": [
+      "forest",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a forest boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 422,
+    "id": 638,
+    "look": "A low wall shows thin dark green brown wall remnants with a ragged top.",
+    "kind": "ruined sewer wall",
+    "setting": [
+      "sewer",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a sewer area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 423,
+    "id": 639,
+    "look": "A tall wall shows thin dark green brown wall remnants with a jagged side.",
+    "kind": "ruined sewer wall",
+    "setting": [
+      "sewer",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a sewer area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 424,
+    "id": 710,
+    "look": "A low wall shows brown wooden panelling with a large splintered gap.",
+    "kind": "ruined panel wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 425,
+    "id": 712,
+    "look": "A tall wall shows brown wooden panelling with a large splintered gap.",
+    "kind": "ruined panel wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 426,
+    "id": 716,
+    "look": "A low wall shows two parallel orange brown logs with round cut ends.",
+    "kind": "low lodge logs",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 427,
+    "id": 718,
+    "look": "A tall wall shows two upright orange brown logs with round ends.",
+    "kind": "upright lodge logs",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 428,
+    "id": 994,
+    "look": "A low wall shows translucent blue ice with bright white jagged broken edges.",
+    "kind": "broken ice wall",
+    "setting": [
+      "snow",
+      "ruins"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a snow area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 429,
+    "id": 996,
+    "look": "A tall wall shows translucent blue ice with bright white jagged broken edges.",
+    "kind": "broken ice wall",
+    "setting": [
+      "snow",
+      "ruins"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a snow area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 430,
+    "id": 998,
+    "look": "A narrow corner piece shows translucent blue ice with bright white jagged broken edges.",
+    "kind": "broken ice wall",
+    "setting": [
+      "snow",
+      "ruins"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a snow boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 431,
+    "id": 1011,
+    "look": "A low wall shows black angular masonry crossed by glowing orange cracks.",
+    "kind": "ruined lava wall",
+    "setting": [
+      "lava",
+      "ruins"
+    ],
+    "tone": [
+      "hot"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a lava area to show structural damage and abandonment.",
+    "notes": ""
+  }
+]

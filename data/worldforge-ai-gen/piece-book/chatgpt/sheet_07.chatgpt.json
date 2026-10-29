@@ -1,0 +1,704 @@
+[
+  {
+    "n": 336,
+    "id": 1121,
+    "look": "A tall wall shows grey rectangular masonry beside a thick right pillar.",
+    "kind": "right pillar wall",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a palace area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 337,
+    "id": 1150,
+    "look": "An overlay shows fine pale staggered masonry joints forming a tall right pillar wall.",
+    "kind": "wall grout overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 338,
+    "id": 1155,
+    "look": "An overlay shows sparse pale edge strokes forming a tall right pillar wall.",
+    "kind": "wall highlight overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 339,
+    "id": 1122,
+    "look": "A tall wall shows grey masonry framing a large arched recess.",
+    "kind": "arched niche wall",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a palace area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 340,
+    "id": 1145,
+    "look": "An overlay shows fine pale masonry joints around a tall arched opening.",
+    "kind": "arched grout overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 341,
+    "id": 1157,
+    "look": "An overlay shows sparse pale strokes outlining a tall arched niche.",
+    "kind": "arched highlight overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 342,
+    "id": 1123,
+    "look": "An open arch shows freestanding narrow grey stone arch with an open centre.",
+    "kind": "open stone arch",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "door-V",
+    "scene_use": "Frame a palace passage with this open arch to create a formal threshold.",
+    "notes": ""
+  },
+  {
+    "n": 343,
+    "id": 1124,
+    "look": "A column shows pale fluted stone column with a square capital and stepped foot.",
+    "kind": "fluted stone column",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place this column beside a palace entrance to add classical ornament.",
+    "notes": ""
+  },
+  {
+    "n": 344,
+    "id": 1126,
+    "look": "A low wall shows grey masonry framing a broad arched recess.",
+    "kind": "arched niche wall",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a palace area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 345,
+    "id": 1146,
+    "look": "An overlay shows fine pale masonry joints around a low arched opening.",
+    "kind": "arched grout overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 346,
+    "id": 1158,
+    "look": "An overlay shows sparse pale strokes outlining a low arched niche.",
+    "kind": "arched highlight overlay",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer this over matching palace masonry to define its joints and edges.",
+    "notes": ""
+  },
+  {
+    "n": 347,
+    "id": 1127,
+    "look": "An open arch shows narrow curved grey stone arch with an open centre.",
+    "kind": "open stone arch",
+    "setting": [
+      "palace"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "door-H",
+    "scene_use": "Frame a palace passage with this open arch to create a formal threshold.",
+    "notes": ""
+  },
+  {
+    "n": 348,
+    "id": 44,
+    "look": "A scattered group contains grey broken stones streaked with vivid green.",
+    "kind": "green stone rubble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 349,
+    "id": 45,
+    "look": "A scattered group contains grey brown debris with yellow and orange timbers.",
+    "kind": "town building rubble",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through town areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 350,
+    "id": 46,
+    "look": "A scattered group contains small chalk white broken masonry pieces.",
+    "kind": "white temple rubble",
+    "setting": [
+      "temple",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through temple areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 351,
+    "id": 717,
+    "look": "A scattered group contains thick orange brown logs crossed over grey fragments.",
+    "kind": "heavy log rubble",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through town areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 352,
+    "id": 170,
+    "look": "A scattered group contains grey broken stones and slab fragments.",
+    "kind": "cave rock rubble",
+    "setting": [
+      "cave",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through cave areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 353,
+    "id": 380,
+    "look": "A scattered group contains grey and gold fragments mixed with red timbers.",
+    "kind": "red timber rubble",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through town areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 354,
+    "id": 398,
+    "look": "A scattered group contains nearly black angular rock chunks.",
+    "kind": "dark mine rubble",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through mine areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 355,
+    "id": 432,
+    "look": "A scattered group contains pale grey broken masonry with blue accents.",
+    "kind": "blue accented rubble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 356,
+    "id": 465,
+    "look": "A scattered group contains white grey debris with red brown streaks.",
+    "kind": "multicoloured stone rubble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 357,
+    "id": 1020,
+    "look": "A scattered group contains golden yellow angular stone fragments.",
+    "kind": "golden sandstone rubble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 358,
+    "id": 1021,
+    "look": "A scattered group contains pale blue and white angular fragments.",
+    "kind": "blue marble rubble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 359,
+    "id": 1022,
+    "look": "A scattered group contains peach orange broken stone pieces.",
+    "kind": "warm stone rubble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 360,
+    "id": 1023,
+    "look": "A scattered group contains brown orange carved fragments and grey stones.",
+    "kind": "brown building rubble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 361,
+    "id": 1024,
+    "look": "A scattered group contains bright green leaves tangled with brown branches.",
+    "kind": "leafy thicket debris",
+    "setting": [
+      "forest",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through forest areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 362,
+    "id": 995,
+    "look": "A scattered group contains blue grey translucent angular shards.",
+    "kind": "broken ice rubble",
+    "setting": [
+      "snow",
+      "ruins"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through snow areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 363,
+    "id": 1012,
+    "look": "A scattered group contains black craggy stones with glowing orange fissures.",
+    "kind": "glowing lava rubble",
+    "setting": [
+      "lava",
+      "ruins"
+    ],
+    "tone": [
+      "hot"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through lava areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 364,
+    "id": 642,
+    "look": "A scattered group contains two pale broken angular pillar sections lying apart.",
+    "kind": "broken portal pillars",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 365,
+    "id": 640,
+    "look": "A scattered group contains single pale broken pillar section with a jagged top.",
+    "kind": "broken portal pillar",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 366,
+    "id": 643,
+    "look": "A scattered group contains brown broken stump surrounded by scattered brown chips.",
+    "kind": "shattered rock stump",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 367,
+    "id": 641,
+    "look": "A scattered group contains small brown rock stump with a pale jagged top.",
+    "kind": "broken rock stump",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 368,
+    "id": 40,
+    "look": "A low wall shows low broken grey masonry with an uneven top.",
+    "kind": "ruined town wall",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 369,
+    "id": 41,
+    "look": "A tall wall shows tall jagged grey masonry with a broken upper edge.",
+    "kind": "ruined town wall",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 370,
+    "id": 784,
+    "look": "A narrow corner piece shows short grey masonry stub topped with orange red material.",
+    "kind": "ruined town corner",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a town boundary an uneven silhouette.",
+    "notes": "The corner remnant has a visible orange red patch at its top."
+  },
+  {
+    "n": 371,
+    "id": 42,
+    "look": "A low wall shows pale white masonry with an uneven broken top.",
+    "kind": "ruined temple wall",
+    "setting": [
+      "temple",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a temple area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 372,
+    "id": 43,
+    "look": "A tall wall shows pale white masonry with a jagged broken side.",
+    "kind": "ruined temple wall",
+    "setting": [
+      "temple",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a temple area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 373,
+    "id": 144,
+    "look": "A narrow corner piece shows short pale white masonry stub.",
+    "kind": "ruined temple corner",
+    "setting": [
+      "temple",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a temple boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 374,
+    "id": 38,
+    "look": "A low wall shows grey broken masonry streaked with bright green.",
+    "kind": "ruined dungeon wall",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 375,
+    "id": 39,
+    "look": "A tall wall shows grey broken masonry streaked with bright green.",
+    "kind": "ruined dungeon wall",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a dungeon area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 376,
+    "id": 783,
+    "look": "A narrow corner piece shows short grey masonry stub streaked with green.",
+    "kind": "ruined dungeon corner",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a dungeon boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 377,
+    "id": 338,
+    "look": "A low wall shows bright golden orange masonry with a broken top.",
+    "kind": "ruined sandstone wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 378,
+    "id": 339,
+    "look": "A tall wall shows bright golden orange masonry with a jagged side.",
+    "kind": "ruined sandstone wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 379,
+    "id": 360,
+    "look": "A narrow corner piece shows short golden orange masonry stub.",
+    "kind": "ruined sandstone corner",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a ruins boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 380,
+    "id": 342,
+    "look": "A low wall shows dark brown earth coloured masonry with a broken top.",
+    "kind": "ruined dirt wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 381,
+    "id": 343,
+    "look": "A tall wall shows dark brown earth coloured masonry with a jagged side.",
+    "kind": "ruined dirt wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 382,
+    "id": 356,
+    "look": "A narrow corner piece shows short dark brown masonry stub.",
+    "kind": "ruined dirt corner",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a ruins boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 383,
+    "id": 141,
+    "look": "A low wall shows pale grey mottled masonry with an uneven broken top.",
+    "kind": "ruined marble wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  }
+]

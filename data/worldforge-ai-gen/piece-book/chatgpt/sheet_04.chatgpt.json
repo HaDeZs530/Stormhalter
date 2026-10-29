@@ -1,0 +1,733 @@
+[
+  {
+    "n": 192,
+    "id": 295,
+    "look": "Pale peach stone panels contain orange figure-like reliefs and narrow decorative glyph borders, forming a broad receding wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 193,
+    "id": 297,
+    "look": "Pale peach stone panels contain orange figure-like reliefs and narrow decorative glyph borders, forming a broad receding wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add figural peach temple stone architecture.",
+    "notes": "Label says Anubis (V), but the picture shows a broad horizontal wall."
+  },
+  {
+    "n": 194,
+    "id": 298,
+    "look": "Pale peach stone panels contain orange figure-like reliefs and narrow decorative glyph borders, forming a tall upper-left-leaning wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add figural peach temple stone architecture.",
+    "notes": "Label says Anubis (H), but the picture shows a tall vertical wall."
+  },
+  {
+    "n": 195,
+    "id": 300,
+    "look": "Pale peach stone panels contain orange figure-like reliefs and narrow decorative glyph borders, forming a tall upper-left-leaning wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 196,
+    "id": 299,
+    "look": "Pale peach stone panels contain orange figure-like reliefs and narrow decorative glyph borders, forming a broad receding wall.",
+    "kind": "temple stone wall section",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to add figural peach temple stone architecture.",
+    "notes": "The small carved figures do not clearly establish the named deity or motif."
+  },
+  {
+    "n": 197,
+    "id": 262,
+    "look": "A narrow figural peach temple stone post slopes down-right with a small squared upper end.",
+    "kind": "temple stone corner post",
+    "setting": [
+      "temple",
+      "desert"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Use it at a wall junction to add figural peach temple stone architecture.",
+    "notes": ""
+  },
+  {
+    "n": 198,
+    "id": 31,
+    "look": "A green and pale mottled stone block shows three large joined faces with dark edges.",
+    "kind": "solid rock mass",
+    "setting": [
+      "cave",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-mass",
+    "scene_use": "Fill a solid boundary mass with it to create substantial terrain or masonry.",
+    "notes": ""
+  },
+  {
+    "n": 199,
+    "id": 447,
+    "look": "A dark green-grey speckled granite block shows three joined rectangular faces.",
+    "kind": "solid granite mass",
+    "setting": [
+      "castle",
+      "cave"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-mass",
+    "scene_use": "Fill a solid boundary mass with it to create substantial terrain or masonry.",
+    "notes": ""
+  },
+  {
+    "n": 200,
+    "id": 448,
+    "look": "A bright orange-gold sandstone block shows three joined faces with fine grain.",
+    "kind": "solid sandstone mass",
+    "setting": [
+      "desert",
+      "temple"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-mass",
+    "scene_use": "Fill a solid boundary mass with it to create substantial terrain or masonry.",
+    "notes": ""
+  },
+  {
+    "n": 201,
+    "id": 446,
+    "look": "A brown dark-speckled earth block shows three joined faces.",
+    "kind": "solid earth mass",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-mass",
+    "scene_use": "Fill a solid boundary mass with it to create substantial terrain or masonry.",
+    "notes": ""
+  },
+  {
+    "n": 202,
+    "id": 1104,
+    "look": "A tall pale grey tapered stone pillar leans upper left and casts a long dark shadow.",
+    "kind": "tapered stone pillar",
+    "setting": [
+      "temple",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it in a matching chamber or landscape to add a strong vertical feature.",
+    "notes": ""
+  },
+  {
+    "n": 203,
+    "id": 371,
+    "look": "A brown tapered rock spike has a bulbous base, pale ridged highlights, and a long dark shadow.",
+    "kind": "pointed cave stalagmite",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it in a matching chamber or landscape to add a strong vertical feature.",
+    "notes": ""
+  },
+  {
+    "n": 204,
+    "id": 707,
+    "look": "Brown timber panels run across a broad shallow diagonal with a thick carved upper rail.",
+    "kind": "horizontal timber panel wall",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 205,
+    "id": 709,
+    "look": "Brown timber panels form a tall wall leaning upper left beneath a thick carved upper rail.",
+    "kind": "vertical timber panel wall",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 206,
+    "id": 708,
+    "look": "A narrow brown timber post has a small carved square end and long straight sides.",
+    "kind": "timber corner post",
+    "setting": [
+      "home",
+      "tavern"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Join matching wall sections with it to create a consistent corner or end post.",
+    "notes": ""
+  },
+  {
+    "n": 207,
+    "id": 713,
+    "look": "Several thick orange-brown logs stack across a broad wall with round ends visible at the right.",
+    "kind": "horizontal lodge log wall",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 208,
+    "id": 715,
+    "look": "Several thick orange-brown logs form a tall slanted wall with round ends along its lower edge.",
+    "kind": "vertical lodge log wall",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 209,
+    "id": 714,
+    "look": "A single orange-brown log extends diagonally down-right from a round ringed end.",
+    "kind": "log corner post",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Join matching wall sections with it to create a consistent corner or end post.",
+    "notes": ""
+  },
+  {
+    "n": 210,
+    "id": 731,
+    "look": "White cloth forms a broad slanted panel with soft grey rippling folds.",
+    "kind": "horizontal front fabric wall",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to establish the pictured material and enclosure.",
+    "notes": "The two horizontal fabric wall cards look very similar."
+  },
+  {
+    "n": 211,
+    "id": 732,
+    "look": "White cloth forms a broad slanted panel with soft grey rippling folds.",
+    "kind": "horizontal back fabric wall",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to establish the pictured material and enclosure.",
+    "notes": "The two horizontal fabric wall cards look very similar."
+  },
+  {
+    "n": 212,
+    "id": 733,
+    "look": "White cloth forms a tall slanted panel with soft grey vertical folds.",
+    "kind": "vertical inner fabric wall",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to establish the pictured material and enclosure.",
+    "notes": "The two vertical fabric wall cards look very similar."
+  },
+  {
+    "n": 213,
+    "id": 734,
+    "look": "White cloth forms a tall slanted panel with soft grey vertical folds.",
+    "kind": "vertical outer fabric wall",
+    "setting": [
+      "camp"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to establish the pictured material and enclosure.",
+    "notes": "The two vertical fabric wall cards look very similar."
+  },
+  {
+    "n": 214,
+    "id": 991,
+    "look": "A broad blue-grey translucent-looking wall has pale borders and fine white crack lines.",
+    "kind": "horizontal cracked ice wall",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 215,
+    "id": 993,
+    "look": "A tall blue-grey translucent-looking wall has pale borders and fine white crack lines.",
+    "kind": "vertical cracked ice wall",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 216,
+    "id": 997,
+    "look": "A narrow blue-grey translucent-looking post has pale edges and a squared top.",
+    "kind": "icy corner post",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Join matching wall sections with it to create a consistent corner or end post.",
+    "notes": ""
+  },
+  {
+    "n": 217,
+    "id": 1008,
+    "look": "A broad black rock wall is split by bright orange branching molten-looking cracks.",
+    "kind": "horizontal molten rock wall",
+    "setting": [
+      "lava",
+      "cave"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 218,
+    "id": 1010,
+    "look": "A tall black rock wall is split by bright orange branching molten-looking cracks.",
+    "kind": "vertical molten rock wall",
+    "setting": [
+      "lava",
+      "cave"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 219,
+    "id": 1014,
+    "look": "A narrow black rocky post has bright orange cracked seams and a squared upper end.",
+    "kind": "molten rock corner post",
+    "setting": [
+      "lava",
+      "cave"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Join matching wall sections with it to create a consistent corner or end post.",
+    "notes": ""
+  },
+  {
+    "n": 220,
+    "id": 1088,
+    "look": "Thick brown logs with sharpened pale tips form a broad defensive palisade section.",
+    "kind": "horizontal pointed log palisade",
+    "setting": [
+      "camp",
+      "village"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 221,
+    "id": 1089,
+    "look": "Thick brown logs with sharpened pale tips form a tall slanted defensive palisade section.",
+    "kind": "vertical pointed log palisade",
+    "setting": [
+      "camp",
+      "village"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 222,
+    "id": 1092,
+    "look": "A tall dark olive-brown stone wall has irregular angular slabs and dark seams.",
+    "kind": "vertical swamp rock wall",
+    "setting": [
+      "swamp",
+      "cave"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 223,
+    "id": 1090,
+    "look": "A broad dark olive-brown stone wall has irregular angular slabs and dark seams.",
+    "kind": "horizontal swamp rock wall",
+    "setting": [
+      "swamp",
+      "cave"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 224,
+    "id": 1096,
+    "look": "A narrow dark olive-brown rocky post slopes down-right with irregular stone patterning.",
+    "kind": "swamp rock corner post",
+    "setting": [
+      "swamp",
+      "cave"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Join matching wall sections with it to create a consistent corner or end post.",
+    "notes": ""
+  },
+  {
+    "n": 225,
+    "id": 1108,
+    "look": "A long brown gnarled branch-like trunk extends diagonally with broken projections and a dark shadow.",
+    "kind": "gnarled tree pillar",
+    "setting": [
+      "swamp",
+      "forest"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it in a matching chamber or landscape to add a strong vertical feature.",
+    "notes": ""
+  },
+  {
+    "n": 226,
+    "id": 1115,
+    "look": "Green looping vines cover a tall dark olive-brown stone wall.",
+    "kind": "vertical vine covered wall",
+    "setting": [
+      "swamp",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 227,
+    "id": 1114,
+    "look": "Green looping vines cover a broad dark olive-brown stone wall.",
+    "kind": "horizontal vine covered wall",
+    "setting": [
+      "swamp",
+      "ruins"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 228,
+    "id": 1128,
+    "look": "A grey dragon-like carved form curls into a loose loop with a long arched neck and small projections.",
+    "kind": "grey dragon column ornament",
+    "setting": [
+      "castle",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over a matching column to add an ornate creature motif.",
+    "notes": "Only the decorative creature component is visible, without a full supporting shaft."
+  },
+  {
+    "n": 229,
+    "id": 1129,
+    "look": "A bright gold dragon-like carved form curls into a loose loop with an arched neck and small projections.",
+    "kind": "gold dragon column ornament",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over a matching column to add an ornate creature motif.",
+    "notes": "Only the decorative creature component is visible, without a full supporting shaft."
+  },
+  {
+    "n": 230,
+    "id": 1130,
+    "look": "A bright yellow-gold serpent-like form coils in several open loops.",
+    "kind": "gold serpent column ornament",
+    "setting": [
+      "temple",
+      "palace"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "overlay",
+    "scene_use": "Layer it over a matching column to add an ornate creature motif.",
+    "notes": "Only the decorative creature component is visible, without a full supporting shaft."
+  },
+  {
+    "n": 231,
+    "id": 1131,
+    "look": "A pale marble column carries a curling dragon-like figure beside a squared capital and casts a dark shadow.",
+    "kind": "marble dragon column",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it in a matching chamber or landscape to add a strong vertical feature.",
+    "notes": ""
+  },
+  {
+    "n": 232,
+    "id": 1132,
+    "look": "A pale grey column has a square capital, small horned head ornament, long shaft, and stepped base.",
+    "kind": "bull head stone column",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it in a matching chamber or landscape to add a strong vertical feature.",
+    "notes": ""
+  },
+  {
+    "n": 233,
+    "id": 1140,
+    "look": "A pale grey column has a square capital, small rounded animal-head ornament, long shaft, and stepped base.",
+    "kind": "animal head stone column",
+    "setting": [
+      "palace",
+      "temple"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it in a matching chamber or landscape to add a strong vertical feature.",
+    "notes": ""
+  },
+  {
+    "n": 234,
+    "id": 1221,
+    "look": "A large brown-gold rocky block has three joined faces covered in rough angular fragments.",
+    "kind": "solid mine rock mass",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-mass",
+    "scene_use": "Fill a solid boundary mass with it to create substantial terrain or masonry.",
+    "notes": ""
+  },
+  {
+    "n": 235,
+    "id": 1213,
+    "look": "A broad brown-gold rocky wall has dense angular fragments and a rough upper border.",
+    "kind": "horizontal mine rock wall",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 236,
+    "id": 1215,
+    "look": "A tall brown-gold rocky wall has dense angular fragments and a rough upper edge.",
+    "kind": "vertical mine rock wall",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use it along a vertical boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  },
+  {
+    "n": 237,
+    "id": 1219,
+    "look": "A narrow brown-gold rocky pillar slopes diagonally with a rough mottled surface.",
+    "kind": "mine rock corner pillar",
+    "setting": [
+      "mine",
+      "cave"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-corner",
+    "scene_use": "Join matching wall sections with it to create a consistent corner or end post.",
+    "notes": ""
+  },
+  {
+    "n": 238,
+    "id": 1222,
+    "look": "A long dark brown rectangular timber extends diagonally from a small squared end.",
+    "kind": "mine timber support post",
+    "setting": [
+      "mine"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "free-standing",
+    "scene_use": "Place it in a matching chamber or landscape to add a strong vertical feature.",
+    "notes": ""
+  },
+  {
+    "n": 239,
+    "id": 1225,
+    "look": "Grey rectangular bricks form a broad wall with tightly staggered courses and dark mortar joints.",
+    "kind": "horizontal grey brick wall",
+    "setting": [
+      "town",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a horizontal boundary to establish the pictured material and enclosure.",
+    "notes": ""
+  }
+]

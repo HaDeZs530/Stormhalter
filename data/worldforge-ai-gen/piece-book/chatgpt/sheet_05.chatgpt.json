@@ -1,0 +1,715 @@
+[
+  {
+    "n": 240,
+    "id": 1227,
+    "look": "A tall wall shows dark grey outlined rectangular blocks.",
+    "kind": "masonry wall",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a castle area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 241,
+    "id": 1231,
+    "look": "A narrow corner piece shows small grey outlined blocks.",
+    "kind": "masonry post",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a castle wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 242,
+    "id": 666,
+    "look": "An obstruction contains brown wooden crates with diagonal braces stacked unevenly.",
+    "kind": "stacked wooden crates",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "wall-mass",
+    "scene_use": "Block a storage passage with these crates to suggest a crowded working space.",
+    "notes": ""
+  },
+  {
+    "n": 243,
+    "id": 670,
+    "look": "A low wall shows pale irregular stonework.",
+    "kind": "light stone wall",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a castle area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 244,
+    "id": 672,
+    "look": "A tall wall shows pale irregular stonework.",
+    "kind": "light stone wall",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a castle area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 245,
+    "id": 673,
+    "look": "A narrow corner piece shows pale irregular stonework.",
+    "kind": "light stone post",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a castle wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 246,
+    "id": 679,
+    "look": "A low wall shows rounded grey and brown rocks with dark seams.",
+    "kind": "rough rock wall",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a castle area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 247,
+    "id": 681,
+    "look": "A tall wall shows rounded grey and brown rocks with dark seams.",
+    "kind": "rough rock wall",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a castle area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 248,
+    "id": 682,
+    "look": "A narrow corner piece shows rounded grey and brown rocks.",
+    "kind": "rough rock post",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a castle wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 249,
+    "id": 688,
+    "look": "A low wall shows craggy charcoal grey rock.",
+    "kind": "dark cave wall",
+    "setting": [
+      "cave"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a cave area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 250,
+    "id": 690,
+    "look": "A tall wall shows craggy charcoal grey rock.",
+    "kind": "dark cave wall",
+    "setting": [
+      "cave"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a cave area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 251,
+    "id": 691,
+    "look": "A narrow corner piece shows craggy charcoal grey rock.",
+    "kind": "dark rock post",
+    "setting": [
+      "cave"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a cave wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 252,
+    "id": 697,
+    "look": "A low wall shows grey stonework with an orange fire in a dark hearth.",
+    "kind": "lit stone fireplace",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [
+      "hot"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Place this hearth in a stone room to add a warm focal point.",
+    "notes": ""
+  },
+  {
+    "n": 253,
+    "id": 698,
+    "look": "A tall wall shows grey stonework with an orange fire in a dark hearth.",
+    "kind": "lit stone fireplace",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [
+      "hot"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Place this hearth in a stone room to add a warm focal point.",
+    "notes": ""
+  },
+  {
+    "n": 254,
+    "id": 699,
+    "look": "A low wall shows cream plaster with diagonal brown beams and a mottled stone base.",
+    "kind": "timbered town wall",
+    "setting": [
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 255,
+    "id": 701,
+    "look": "A tall wall shows cream plaster with diagonal brown beams and a mottled stone base.",
+    "kind": "timbered town wall",
+    "setting": [
+      "town"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 256,
+    "id": 702,
+    "look": "A narrow corner piece shows brown timber over a mottled stone foot.",
+    "kind": "timbered corner post",
+    "setting": [
+      "town"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a town wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 257,
+    "id": 862,
+    "look": "A low wall shows cream plaster divided by upright brown beams above mottled stones.",
+    "kind": "timbered town wall",
+    "setting": [
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 258,
+    "id": 863,
+    "look": "A tall wall shows cream plaster divided by horizontal brown beams above mottled stones.",
+    "kind": "timbered town wall",
+    "setting": [
+      "town"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 259,
+    "id": 864,
+    "look": "A low wall shows cream plaster crossed by diagonal brown braces above mottled stones.",
+    "kind": "braced town wall",
+    "setting": [
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 260,
+    "id": 865,
+    "look": "A tall wall shows cream plaster crossed by diagonal brown braces above mottled stones.",
+    "kind": "braced town wall",
+    "setting": [
+      "town"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 261,
+    "id": 867,
+    "look": "A low wall shows multicoloured stained glass in brown framing above mottled stones.",
+    "kind": "stained glass wall",
+    "setting": [
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 262,
+    "id": 868,
+    "look": "A tall wall shows multicoloured stained glass in brown framing above mottled stones.",
+    "kind": "stained glass wall",
+    "setting": [
+      "town"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 263,
+    "id": 869,
+    "look": "A low wall shows plain cream plaster in brown framing above mottled stones.",
+    "kind": "plain plaster wall",
+    "setting": [
+      "town"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 264,
+    "id": 870,
+    "look": "A tall wall shows plain cream plaster in brown framing above mottled stones.",
+    "kind": "plain plaster wall",
+    "setting": [
+      "town"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 265,
+    "id": 871,
+    "look": "A low wall shows grey stonework with a dark hearth and brown material inside.",
+    "kind": "unlit stone fireplace",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Place this dark hearth in a stone room to suggest a cold, unused interior.",
+    "notes": ""
+  },
+  {
+    "n": 266,
+    "id": 872,
+    "look": "A tall wall shows grey stonework with a dark hearth and brown material inside.",
+    "kind": "unlit stone fireplace",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Place this dark hearth in a stone room to suggest a cold, unused interior.",
+    "notes": ""
+  },
+  {
+    "n": 267,
+    "id": 936,
+    "look": "A low wall shows small grey stones with smooth pale coping.",
+    "kind": "grey stone wall",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a castle area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 268,
+    "id": 937,
+    "look": "A tall wall shows small grey stones with a smooth pale end face.",
+    "kind": "grey stone wall",
+    "setting": [
+      "castle",
+      "dungeon"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a castle area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 269,
+    "id": 939,
+    "look": "A low wall shows warm brown planks with darker timber framing.",
+    "kind": "wooden siding wall",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a village area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 270,
+    "id": 940,
+    "look": "A tall wall shows vertical brown planks with darker timber framing.",
+    "kind": "wooden siding wall",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a village area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 271,
+    "id": 946,
+    "look": "A narrow corner piece shows slim square brown timber.",
+    "kind": "wooden corner post",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a village wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 272,
+    "id": 952,
+    "look": "A low wall shows dark pointed wooden slats crossing two rails.",
+    "kind": "pointed wooden fence",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a village area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 273,
+    "id": 953,
+    "look": "A tall wall shows dark pointed wooden slats crossing two rails.",
+    "kind": "pointed wooden fence",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a village area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 274,
+    "id": 957,
+    "look": "A low wall shows parallel brown round logs with visible circular ends.",
+    "kind": "rustic log wall",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a village area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 275,
+    "id": 958,
+    "look": "A tall wall shows upright brown round logs with visible circular ends.",
+    "kind": "rustic log wall",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a village area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 276,
+    "id": 1235,
+    "look": "A narrow corner piece shows single brown round log with a pale circular end.",
+    "kind": "round log post",
+    "setting": [
+      "village",
+      "camp"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a village wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 277,
+    "id": 966,
+    "look": "A low wall shows white masonry framing an oval red blue and gold stained glass panel.",
+    "kind": "white stained glass wall",
+    "setting": [
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a temple area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 278,
+    "id": 967,
+    "look": "A tall wall shows white masonry framing an oval red blue and gold stained glass panel.",
+    "kind": "white stained glass wall",
+    "setting": [
+      "temple"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a temple area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 279,
+    "id": 1240,
+    "look": "A low wall shows white masonry surrounding a recessed grey sculpted ornament.",
+    "kind": "white ornament niche",
+    "setting": [
+      "temple"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a temple area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 280,
+    "id": 1241,
+    "look": "A tall wall shows white masonry surrounding a recessed grey ornament with pale side carvings.",
+    "kind": "white ornament niche",
+    "setting": [
+      "temple"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a temple area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 281,
+    "id": 1258,
+    "look": "A low wall shows dark violet masonry with vivid purple courses.",
+    "kind": "purple dungeon wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 282,
+    "id": 1260,
+    "look": "A tall wall shows dark violet masonry with vivid purple seams.",
+    "kind": "purple dungeon wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 283,
+    "id": 1261,
+    "look": "A narrow corner piece shows dark violet masonry.",
+    "kind": "purple masonry post",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Finish a dungeon wall junction with this narrow piece for a defined edge.",
+    "notes": ""
+  },
+  {
+    "n": 284,
+    "id": 1266,
+    "look": "A low wall shows violet masonry with a dark recessed arched panel.",
+    "kind": "purple arched wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 285,
+    "id": 1267,
+    "look": "A tall wall shows violet masonry with a dark recessed arched panel.",
+    "kind": "purple arched wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 286,
+    "id": 1268,
+    "look": "A low wall shows violet masonry with a broad dark rectangular inset.",
+    "kind": "purple inset wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  },
+  {
+    "n": 287,
+    "id": 1269,
+    "look": "A tall wall shows violet masonry with a broad dark rectangular inset.",
+    "kind": "purple inset wall",
+    "setting": [
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a dungeon area to create a solid enclosure with visible material texture.",
+    "notes": ""
+  }
+]

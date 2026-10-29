@@ -1,0 +1,726 @@
+[
+  {
+    "n": 432,
+    "id": 1013,
+    "look": "A tall wall shows black angular masonry crossed by glowing orange cracks.",
+    "kind": "ruined lava wall",
+    "setting": [
+      "lava",
+      "ruins"
+    ],
+    "tone": [
+      "hot"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a lava area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 433,
+    "id": 1015,
+    "look": "A narrow corner piece shows short black masonry stub with orange cracks.",
+    "kind": "ruined lava corner",
+    "setting": [
+      "lava",
+      "ruins"
+    ],
+    "tone": [
+      "hot"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a lava boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 434,
+    "id": 716,
+    "look": "A low wall shows two parallel orange brown logs with round cut ends.",
+    "kind": "low lodge logs",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": "Identical sprite and ID 716 also appear at #426."
+  },
+  {
+    "n": 435,
+    "id": 718,
+    "look": "A tall wall shows two upright orange brown logs with round ends.",
+    "kind": "upright lodge logs",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": "Identical sprite and ID 718 also appear at #427."
+  },
+  {
+    "n": 436,
+    "id": 1094,
+    "look": "A scattered group contains dark olive angular rock chunks in a loose pile.",
+    "kind": "swamp rock rubble",
+    "setting": [
+      "swamp",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through swamp areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 437,
+    "id": 1093,
+    "look": "A low wall shows dark olive craggy masonry with a low broken top.",
+    "kind": "ruined swamp wall",
+    "setting": [
+      "swamp",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a swamp area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 438,
+    "id": 1095,
+    "look": "A tall wall shows dark olive craggy masonry with a jagged side.",
+    "kind": "ruined swamp wall",
+    "setting": [
+      "swamp",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a swamp area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 439,
+    "id": 1097,
+    "look": "A narrow corner piece shows short dark olive craggy masonry stub.",
+    "kind": "ruined swamp corner",
+    "setting": [
+      "swamp",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a swamp boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 440,
+    "id": 1161,
+    "look": "A low wall shows grey blockwork with a jagged white break and right pillar remnant.",
+    "kind": "ruined right pillar wall",
+    "setting": [
+      "palace",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a palace area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 441,
+    "id": 1162,
+    "look": "A tall wall shows grey blockwork with a jagged white break and right pillar remnant.",
+    "kind": "ruined right pillar wall",
+    "setting": [
+      "palace",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a palace area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 442,
+    "id": 1163,
+    "look": "A low wall shows grey blockwork with a jagged white break and left pillar remnant.",
+    "kind": "ruined left pillar wall",
+    "setting": [
+      "palace",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a palace area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 443,
+    "id": 1164,
+    "look": "A tall wall shows grey blockwork with a jagged white break and left pillar remnant.",
+    "kind": "ruined left pillar wall",
+    "setting": [
+      "palace",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a palace area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 444,
+    "id": 1165,
+    "look": "A tall wall shows grey rectangular masonry with bright jagged broken edges.",
+    "kind": "ruined palace wall",
+    "setting": [
+      "palace",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a palace area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 445,
+    "id": 1166,
+    "look": "A low wall shows grey rectangular masonry with bright jagged broken edges.",
+    "kind": "ruined palace wall",
+    "setting": [
+      "palace",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a palace area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 446,
+    "id": 1167,
+    "look": "A tall wall shows grey arched masonry with a bright jagged missing section.",
+    "kind": "ruined niche wall",
+    "setting": [
+      "palace",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a palace area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 447,
+    "id": 1168,
+    "look": "A low wall shows grey arched masonry with a bright jagged missing section.",
+    "kind": "ruined niche wall",
+    "setting": [
+      "palace",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a palace area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 448,
+    "id": 1169,
+    "look": "A column shows short pale fluted column stump on a stepped base.",
+    "kind": "broken fluted column",
+    "setting": [
+      "palace",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Join broken wall runs with this remnant to give a palace boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 449,
+    "id": 1185,
+    "look": "A scattered group contains two separated slim pale stone arch fragments.",
+    "kind": "broken arch fragments",
+    "setting": [
+      "palace",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through palace areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 450,
+    "id": 1186,
+    "look": "A scattered group contains small pale diagonal stone arch fragment.",
+    "kind": "broken arch fragment",
+    "setting": [
+      "palace",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through palace areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 451,
+    "id": 1217,
+    "look": "A scattered group contains small golden brown angular stones in a loose heap.",
+    "kind": "brown mine rubble",
+    "setting": [
+      "mine",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through mine areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 452,
+    "id": 1228,
+    "look": "A low wall shows grey outlined rectangular masonry with an uneven broken top.",
+    "kind": "ruined block wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 453,
+    "id": 1229,
+    "look": "A scattered group contains grey broken rectangular blocks in a loose heap.",
+    "kind": "grey block rubble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 454,
+    "id": 1230,
+    "look": "A tall wall shows grey outlined rectangular masonry with a jagged side.",
+    "kind": "ruined block wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 455,
+    "id": 1232,
+    "look": "A narrow corner piece shows short grey outlined blockwork stub.",
+    "kind": "ruined block post",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a ruins boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 456,
+    "id": 676,
+    "look": "A low wall shows pale irregular stonework with a broken top.",
+    "kind": "ruined light stone wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 457,
+    "id": 675,
+    "look": "A tall wall shows pale irregular stonework with a jagged side.",
+    "kind": "ruined light stone wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 458,
+    "id": 677,
+    "look": "A narrow corner piece shows short pale irregular stonework stub.",
+    "kind": "ruined light stone post",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a ruins boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 459,
+    "id": 674,
+    "look": "A scattered group contains chalk white irregular stone fragments in a heap.",
+    "kind": "light stone rubble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 460,
+    "id": 685,
+    "look": "A low wall shows grey brown rounded rocks with a broken top.",
+    "kind": "ruined rock wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 461,
+    "id": 684,
+    "look": "A tall wall shows grey brown rounded rocks with a jagged side.",
+    "kind": "ruined rock wall",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a ruins area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 462,
+    "id": 686,
+    "look": "A narrow corner piece shows short grey brown rounded rock stub.",
+    "kind": "ruined rock post",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a ruins boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 463,
+    "id": 683,
+    "look": "A scattered group contains grey beige rounded stones in a loose pile.",
+    "kind": "rounded rock rubble",
+    "setting": [
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through ruins areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 464,
+    "id": 694,
+    "look": "A low wall shows charcoal craggy rock with a broken top.",
+    "kind": "ruined cave wall",
+    "setting": [
+      "cave",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a cave area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 465,
+    "id": 693,
+    "look": "A tall wall shows charcoal craggy rock with a jagged side.",
+    "kind": "ruined cave wall",
+    "setting": [
+      "cave",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a cave area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 466,
+    "id": 695,
+    "look": "A narrow corner piece shows short charcoal craggy rock stub.",
+    "kind": "ruined cave post",
+    "setting": [
+      "cave",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a cave boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 467,
+    "id": 692,
+    "look": "A scattered group contains flat dark grey rock fragments in a loose heap.",
+    "kind": "dark cave rubble",
+    "setting": [
+      "cave",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through cave areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 468,
+    "id": 703,
+    "look": "A scattered group contains broken brown beams crossing grey stones and pale fragments.",
+    "kind": "timber and stone rubble",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through town areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 469,
+    "id": 704,
+    "look": "A tall wall shows grey green masonry with brown timber and a jagged side.",
+    "kind": "ruined timber stone wall",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 470,
+    "id": 705,
+    "look": "A low wall shows grey green masonry with brown timber and a broken top.",
+    "kind": "ruined timber stone wall",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 471,
+    "id": 706,
+    "look": "A narrow corner piece shows short grey green masonry and brown timber stub.",
+    "kind": "ruined timber stone post",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a town boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 472,
+    "id": 938,
+    "look": "A low wall shows small grey stonework with an uneven broken top.",
+    "kind": "ruined town stone wall",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 473,
+    "id": 947,
+    "look": "A tall wall shows small grey stonework with a jagged broken side.",
+    "kind": "ruined town stone wall",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 474,
+    "id": 965,
+    "look": "A low wall shows brown wooden siding with splintered upper edges.",
+    "kind": "ruined wood siding",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Use this wall in a town area to show structural damage and abandonment.",
+    "notes": ""
+  },
+  {
+    "n": 475,
+    "id": 1239,
+    "look": "A scattered group contains brown planks and splinters piled with grey debris.",
+    "kind": "wood siding rubble",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through town areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 476,
+    "id": 1236,
+    "look": "A scattered group contains thick dark brown logs crossed in a loose pile.",
+    "kind": "broken log pile",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through town areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 477,
+    "id": 1238,
+    "look": "A narrow corner piece shows narrow dark brown splintered timber stub.",
+    "kind": "broken log post",
+    "setting": [
+      "town",
+      "ruins"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "wall-corner",
+    "scene_use": "Join broken wall runs with this remnant to give a town boundary an uneven silhouette.",
+    "notes": ""
+  },
+  {
+    "n": 478,
+    "id": 1262,
+    "look": "A scattered group contains vivid purple angular masonry fragments in a loose heap.",
+    "kind": "purple dungeon rubble",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter this debris through dungeon areas to suggest collapse and neglect.",
+    "notes": ""
+  },
+  {
+    "n": 479,
+    "id": 1263,
+    "look": "A tall wall shows dark purple masonry with bright violet jagged edges.",
+    "kind": "ruined purple wall",
+    "setting": [
+      "dungeon",
+      "ruins"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Use this wall in a dungeon area to show structural damage and abandonment.",
+    "notes": ""
+  }
+]

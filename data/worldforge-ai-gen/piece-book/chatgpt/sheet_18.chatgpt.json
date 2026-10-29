@@ -1,0 +1,788 @@
+[
+  {
+    "n": 864,
+    "id": 412,
+    "look": "A narrow green cot has pale bedding edges and a dark frame aligned vertically.",
+    "kind": "green prison cot",
+    "setting": [
+      "dungeon",
+      "castle"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Place it along a cell wall to create sparse sleeping quarters.",
+    "notes": ""
+  },
+  {
+    "n": 865,
+    "id": 478,
+    "look": "A cream rectangular framed picture shows a dark blue bird silhouette on a shallow diagonal.",
+    "kind": "framed bird picture",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Hang it along a horizontal interior wall to add restrained decoration.",
+    "notes": "Crane refers to the bird image, not lifting equipment."
+  },
+  {
+    "n": 866,
+    "id": 479,
+    "look": "A cream framed picture shows a dark blue bird silhouette on a tall panel leaning upper left.",
+    "kind": "framed bird picture",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Hang it along a vertical interior wall to add restrained decoration.",
+    "notes": "Crane refers to the bird image, not lifting equipment."
+  },
+  {
+    "n": 867,
+    "id": 490,
+    "look": "A shallow rectangular print contains pale blue mountain-like forms and dark marks within a light border.",
+    "kind": "framed landscape print",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it on a horizontal room wall to add a cool landscape accent.",
+    "notes": ""
+  },
+  {
+    "n": 868,
+    "id": 491,
+    "look": "A narrow pale blue landscape print stands on a steep diagonal with a light frame.",
+    "kind": "framed landscape print",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it on a vertical room wall to add a cool landscape accent.",
+    "notes": ""
+  },
+  {
+    "n": 869,
+    "id": 401,
+    "look": "A brown wooden barrel lies on its side with dark hoops, an orange circular end, and a small red spill.",
+    "kind": "horizontal wine barrel",
+    "setting": [
+      "tavern",
+      "home"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "free-standing",
+    "scene_use": "Place it in a cellar to suggest stored drink and a minor spill.",
+    "notes": ""
+  },
+  {
+    "n": 870,
+    "id": 194,
+    "look": "A broad pale silver sheet has a rippled texture and recedes diagonally toward the upper left.",
+    "kind": "shimmering barrier sheet",
+    "setting": [
+      "wizard",
+      "dungeon"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Span a horizontal passage with it to suggest a luminous magical barrier.",
+    "notes": "Material is visually ambiguous."
+  },
+  {
+    "n": 871,
+    "id": 195,
+    "look": "A tall silver-white rippled sheet forms an upright barrier leaning toward the upper left.",
+    "kind": "shimmering barrier sheet",
+    "setting": [
+      "wizard",
+      "dungeon"
+    ],
+    "tone": [
+      "bright"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Span a vertical passage with it to suggest a luminous magical barrier.",
+    "notes": "Material is visually ambiguous."
+  },
+  {
+    "n": 872,
+    "id": 191,
+    "look": "A broad white cascade consists of densely tangled pale streaks flowing diagonally down-right.",
+    "kind": "white waterfall segment",
+    "setting": [
+      "cave",
+      "forest"
+    ],
+    "tone": [
+      "wet",
+      "bright"
+    ],
+    "size": "large",
+    "placement": "edge",
+    "scene_use": "Place it at a horizontal water drop to add turbulent falling water.",
+    "notes": "Looks identical to card #874 in this still image."
+  },
+  {
+    "n": 873,
+    "id": 192,
+    "look": "An upright white cascade has dense streaks and a steep upper-left-to-lower-right profile.",
+    "kind": "white waterfall segment",
+    "setting": [
+      "cave",
+      "forest"
+    ],
+    "tone": [
+      "wet",
+      "bright"
+    ],
+    "size": "tall",
+    "placement": "edge",
+    "scene_use": "Place it at a vertical water boundary to add turbulent falling water.",
+    "notes": "Looks identical to card #875 in this still image."
+  },
+  {
+    "n": 874,
+    "id": 1006,
+    "look": "A broad white cascade consists of densely tangled pale streaks flowing diagonally down-right.",
+    "kind": "white waterfall segment",
+    "setting": [
+      "cave",
+      "forest"
+    ],
+    "tone": [
+      "wet",
+      "bright"
+    ],
+    "size": "large",
+    "placement": "edge",
+    "scene_use": "Place it at a horizontal water drop to add turbulent falling water.",
+    "notes": "Looks identical to #872; animation cannot be verified from the still."
+  },
+  {
+    "n": 875,
+    "id": 1007,
+    "look": "An upright white cascade has dense streaks and a steep upper-left-to-lower-right profile.",
+    "kind": "white waterfall segment",
+    "setting": [
+      "cave",
+      "forest"
+    ],
+    "tone": [
+      "wet",
+      "bright"
+    ],
+    "size": "tall",
+    "placement": "edge",
+    "scene_use": "Place it at a vertical water boundary to add turbulent falling water.",
+    "notes": "Looks identical to #873; animation cannot be verified from the still."
+  },
+  {
+    "n": 876,
+    "id": 762,
+    "look": "A pale horizontal strip sits above a separate broad white wedge with an uneven snowy edge.",
+    "kind": "horizontal snowdrift pieces",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Fit the pieces along a snowy boundary to soften a hard terrain transition.",
+    "notes": "Contains separated components rather than one continuous drift."
+  },
+  {
+    "n": 877,
+    "id": 660,
+    "look": "A tiny white square and a separate narrow diagonal white strip form two isolated pieces.",
+    "kind": "snow edge fragments",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Use the fragments to finish snowy terrain corners with small bright edges.",
+    "notes": ""
+  },
+  {
+    "n": 878,
+    "id": 763,
+    "look": "A pale vertical strip stands beside a separate tall irregular white snow wedge.",
+    "kind": "vertical snowdrift pieces",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "tile",
+    "placement": "edge",
+    "scene_use": "Fit the pieces along a vertical snowy boundary to soften its edge.",
+    "notes": "Contains separated components rather than one continuous drift."
+  },
+  {
+    "n": 879,
+    "id": 659,
+    "look": "A tiny white square sits above a separate narrow grey-white diagonal strip.",
+    "kind": "snow edge fragments",
+    "setting": [
+      "snow"
+    ],
+    "tone": [
+      "cold"
+    ],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Use the fragments to finish a vertical snowy boundary with small pale edges.",
+    "notes": "Closely resembles #877, with slightly different shading and strip shape."
+  },
+  {
+    "n": 880,
+    "id": 661,
+    "look": "A compact white tangle of angular strands surrounds a faint body-like shape on a shallow diagonal.",
+    "kind": "web wrapped remains",
+    "setting": [
+      "cave",
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it along a horizontal cave wall to suggest trapped prey.",
+    "notes": "Fine details of the enclosed figure are indistinct."
+  },
+  {
+    "n": 881,
+    "id": 662,
+    "look": "A narrow upright white tangle of angular strands surrounds a faint body-like shape.",
+    "kind": "web wrapped remains",
+    "setting": [
+      "cave",
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "small",
+    "placement": "against-wall",
+    "scene_use": "Place it along a vertical cave wall to suggest trapped prey.",
+    "notes": "Fine details of the enclosed figure are indistinct."
+  },
+  {
+    "n": 882,
+    "id": 663,
+    "look": "A pale blue-white polygonal spiderweb spreads broadly along a shallow diagonal.",
+    "kind": "wide spider web",
+    "setting": [
+      "cave",
+      "crypt"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Stretch it along a horizontal wall or recess to suggest long neglect.",
+    "notes": ""
+  },
+  {
+    "n": 883,
+    "id": 664,
+    "look": "A pale blue-white polygonal spiderweb forms a tall narrow panel leaning upper left.",
+    "kind": "upright spider web",
+    "setting": [
+      "cave",
+      "crypt"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "against-wall",
+    "scene_use": "Stretch it along a vertical wall or recess to suggest long neglect.",
+    "notes": ""
+  },
+  {
+    "n": 884,
+    "id": 665,
+    "look": "A pale skull, ribs, and detached limb bones form a loose vertical scatter.",
+    "kind": "broken skeletal remains",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "small",
+    "placement": "scatter",
+    "scene_use": "Scatter it across a chamber floor to add evidence of old deaths.",
+    "notes": ""
+  },
+  {
+    "n": 885,
+    "id": 668,
+    "look": "A pale articulated skeleton lies spread out with its skull uppermost and legs apart.",
+    "kind": "spread skeletal remains",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "medium",
+    "placement": "scatter",
+    "scene_use": "Place it on a passage floor to add an abandoned corpse.",
+    "notes": ""
+  },
+  {
+    "n": 886,
+    "id": 669,
+    "look": "A pale skeleton lies on a diagonal with bent limbs and one arm reaching upward.",
+    "kind": "reclining skeletal remains",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "medium",
+    "placement": "scatter",
+    "scene_use": "Place it beside debris to suggest a body left where it fell.",
+    "notes": ""
+  },
+  {
+    "n": 887,
+    "id": 678,
+    "look": "A pale skeleton has a tilted torso, widely bent legs, and an arm raised toward the upper left.",
+    "kind": "bent skeletal remains",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "medium",
+    "placement": "scatter",
+    "scene_use": "Use it in a ruined chamber to vary the poses of scattered dead.",
+    "notes": ""
+  },
+  {
+    "n": 888,
+    "id": 687,
+    "look": "A narrow pale skeleton curves sideways with one raised arm and legs extending downward.",
+    "kind": "curved skeletal remains",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "medium",
+    "placement": "scatter",
+    "scene_use": "Place it beside a wall to add an awkwardly collapsed corpse.",
+    "notes": ""
+  },
+  {
+    "n": 889,
+    "id": 696,
+    "look": "A pale skeleton wears dark brown and gold armour, with raised arms and exposed white lower legs.",
+    "kind": "armoured skeletal remains",
+    "setting": [
+      "crypt",
+      "castle"
+    ],
+    "tone": [
+      "undead"
+    ],
+    "size": "medium",
+    "placement": "scatter",
+    "scene_use": "Place it in a ruined guardroom to suggest a fallen defender.",
+    "notes": ""
+  },
+  {
+    "n": 890,
+    "id": 424,
+    "look": "A closed grey stone coffin has a carved reclining figure on a rectangular lid running left-right.",
+    "kind": "closed carved sarcophagus",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Centre it in a burial chamber to create a formal tomb.",
+    "notes": ""
+  },
+  {
+    "n": 891,
+    "id": 425,
+    "look": "A closed grey stone coffin has a carved figure on a long lid aligned vertically.",
+    "kind": "closed carved sarcophagus",
+    "setting": [
+      "crypt",
+      "temple"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place it lengthwise in a narrow burial chamber to create a formal tomb.",
+    "notes": ""
+  },
+  {
+    "n": 892,
+    "id": 437,
+    "look": "A grey stone coffin has a dark open cavity and a carved lid shifted diagonally across it.",
+    "kind": "opened stone sarcophagus",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Place it in a disturbed tomb to suggest intrusion or an emptied burial.",
+    "notes": ""
+  },
+  {
+    "n": 893,
+    "id": 438,
+    "look": "A vertically aligned stone coffin has a dark cavity and a carved lid displaced diagonally across its front.",
+    "kind": "opened stone sarcophagus",
+    "setting": [
+      "crypt",
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "large",
+    "placement": "free-standing",
+    "scene_use": "Use it in a narrow disturbed tomb to suggest intrusion or an emptied burial.",
+    "notes": ""
+  },
+  {
+    "n": 894,
+    "id": 422,
+    "look": "A dark brown horizontal lintel caps two red posts projecting diagonally down-right.",
+    "kind": "red ceremonial gate",
+    "setting": [
+      "temple",
+      "garden"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "portal",
+    "scene_use": "Mark a horizontal temple approach with it to create a ceremonial threshold.",
+    "notes": ""
+  },
+  {
+    "n": 895,
+    "id": 423,
+    "look": "A dark brown lintel runs on a steep diagonal beside two red projecting posts.",
+    "kind": "red ceremonial gate",
+    "setting": [
+      "temple",
+      "garden"
+    ],
+    "tone": [
+      "grand"
+    ],
+    "size": "tall",
+    "placement": "portal",
+    "scene_use": "Mark a vertical temple approach with it to create a ceremonial threshold.",
+    "notes": ""
+  },
+  {
+    "n": 896,
+    "id": 137,
+    "look": "A compact black rocky patch is threaded with vivid red and orange molten-looking channels.",
+    "kind": "glowing lava crust",
+    "setting": [
+      "lava",
+      "cave"
+    ],
+    "tone": [
+      "hot",
+      "bright"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Patch it into volcanic ground to suggest heat beneath a broken crust.",
+    "notes": "Despite Congealed Lava, the picture retains bright molten-looking channels."
+  },
+  {
+    "n": 897,
+    "id": 193,
+    "look": "A broad opaque white cloud-like patch has irregular edges and faint pale grey texture.",
+    "kind": "white fog patch",
+    "setting": [
+      "swamp",
+      "cave"
+    ],
+    "tone": [],
+    "size": "tile",
+    "placement": "overlay",
+    "scene_use": "Layer it over terrain to obscure boundaries and add misty atmosphere.",
+    "notes": ""
+  },
+  {
+    "n": 898,
+    "id": 235,
+    "look": "A tiny turquoise circular patch has bright aqua speckles and no visible container.",
+    "kind": "round water surface",
+    "setting": [
+      "home",
+      "town"
+    ],
+    "tone": [
+      "wet",
+      "bright"
+    ],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Fit it inside a barrel opening to suggest water stored in a settlement.",
+    "notes": "No barrel is visible; only the circular water insert appears."
+  },
+  {
+    "n": 899,
+    "id": 1001,
+    "look": "A broken elongated grey stone form lies diagonally with dense green moss across its upper surface.",
+    "kind": "moss covered pillar fragment",
+    "setting": [
+      "ruins",
+      "forest"
+    ],
+    "tone": [
+      "overgrown"
+    ],
+    "size": "medium",
+    "placement": "scatter",
+    "scene_use": "Place it among ruined masonry to suggest nature reclaiming a collapsed structure.",
+    "notes": ""
+  },
+  {
+    "n": 900,
+    "id": 218,
+    "look": "A square patch contains tightly packed rounded dark grey stones with black outlines.",
+    "kind": "rounded stone paving",
+    "setting": [
+      "town",
+      "dungeon"
+    ],
+    "tone": [
+      "dark"
+    ],
+    "size": "tile",
+    "placement": "floor-fill",
+    "scene_use": "Repeat it across a courtyard or passage to add rough stone texture.",
+    "notes": "The picture shows stone texture without an obvious opening."
+  },
+  {
+    "n": 901,
+    "id": 632,
+    "look": "A small dark oval grate has diagonal metal bars and a steep upright orientation.",
+    "kind": "upright drain grate",
+    "setting": [
+      "sewer"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Inset it into a sewer wall to suggest a small drainage outlet.",
+    "notes": ""
+  },
+  {
+    "n": 902,
+    "id": 633,
+    "look": "A small pale-rimmed oval grate contains dark diagonal bars and lies on a shallow slant.",
+    "kind": "slanted drain grate",
+    "setting": [
+      "sewer"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "overlay",
+    "scene_use": "Inset it into a low sewer surface to add a drainage detail.",
+    "notes": ""
+  },
+  {
+    "n": 903,
+    "id": 634,
+    "look": "A partial dark barred oval with a brown rim is cut off at the bottom edge.",
+    "kind": "lower drain grate fragment",
+    "setting": [
+      "sewer"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Use it at a lower wall boundary to complete a partly hidden drain.",
+    "notes": "Sprite is clipped by the bottom of its grey box."
+  },
+  {
+    "n": 904,
+    "id": 635,
+    "look": "A partial dark oval grate with a brown rim is cut off along the right edge.",
+    "kind": "side drain grate fragment",
+    "setting": [
+      "sewer"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "edge",
+    "scene_use": "Use it at a side wall boundary to complete a partly hidden drain.",
+    "notes": "Sprite is clipped by the right edge of its grey box."
+  },
+  {
+    "n": 905,
+    "id": 630,
+    "look": "A narrow green mossy wall rises diagonally above a small matching floor strip.",
+    "kind": "mossy sewer wall",
+    "setting": [
+      "sewer"
+    ],
+    "tone": [
+      "wet",
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Border a vertical sewer passage with it to add damp, neglected masonry.",
+    "notes": ""
+  },
+  {
+    "n": 906,
+    "id": 631,
+    "look": "A low green mossy wall edge borders a shallow diagonally receding floor strip.",
+    "kind": "mossy sewer wall",
+    "setting": [
+      "sewer"
+    ],
+    "tone": [
+      "wet",
+      "overgrown"
+    ],
+    "size": "medium",
+    "placement": "wall-H",
+    "scene_use": "Border a horizontal sewer passage with it to add damp, neglected masonry.",
+    "notes": ""
+  },
+  {
+    "n": 907,
+    "id": 636,
+    "look": "A broad upright green mossy wall rises toward the upper left above a matching base strip.",
+    "kind": "full mossy sewer wall",
+    "setting": [
+      "sewer"
+    ],
+    "tone": [
+      "wet",
+      "overgrown"
+    ],
+    "size": "tall",
+    "placement": "wall-V",
+    "scene_use": "Close a larger vertical sewer boundary with a dense damp wall face.",
+    "notes": "Larger wall face than #905."
+  },
+  {
+    "n": 908,
+    "id": 637,
+    "look": "A broad green mossy floor-like plane recedes diagonally beneath a raised narrow wall edge.",
+    "kind": "full mossy sewer section",
+    "setting": [
+      "sewer"
+    ],
+    "tone": [
+      "wet",
+      "overgrown"
+    ],
+    "size": "large",
+    "placement": "wall-H",
+    "scene_use": "Use it along a broad horizontal sewer boundary to extend the damp masonry surface.",
+    "notes": "More of the horizontal surface is visible than in #906."
+  },
+  {
+    "n": 909,
+    "id": 642,
+    "look": "Angular pale grey masonry pieces form a low collapsed arch-like heap with a dark triangular gap.",
+    "kind": "collapsed stone portal",
+    "setting": [
+      "ruins",
+      "temple"
+    ],
+    "tone": [],
+    "size": "large",
+    "placement": "scatter",
+    "scene_use": "Place it across an old entrance to suggest a broken monumental gateway.",
+    "notes": ""
+  },
+  {
+    "n": 910,
+    "id": 643,
+    "look": "A brown broken rocky stump sits beside numerous small tan and grey fragments scattered upward and left.",
+    "kind": "shattered rock formation",
+    "setting": [
+      "cave",
+      "mine"
+    ],
+    "tone": [],
+    "size": "medium",
+    "placement": "scatter",
+    "scene_use": "Place it beside a cave route to suggest a shattered stone obstruction.",
+    "notes": ""
+  },
+  {
+    "n": 911,
+    "id": 649,
+    "look": "A small white hollow-necked vessel shape extends diagonally down-right with a dark circular mouth.",
+    "kind": "plain vase base",
+    "setting": [
+      "home",
+      "palace"
+    ],
+    "tone": [],
+    "size": "small",
+    "placement": "free-standing",
+    "scene_use": "Use it as the plain base of a decorated vessel in an interior.",
+    "notes": "Appears to be a base sprite for the vase overlays on sheet 19."
+  }
+]
