@@ -35,6 +35,10 @@ button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-vis
 .f [contenteditable].changed{border-color:var(--edit);background:color-mix(in srgb,var(--edit) 10%,transparent)}
 .f select{width:100%}
 .tags{font:12px var(--mono)}
+.tagbox{display:flex;flex-wrap:wrap;gap:3px}
+.tag{font:11px var(--sans);padding:1px 6px;border-radius:10px;border:1px solid var(--line);background:transparent;color:var(--muted);cursor:pointer}
+.tag.on{border-color:var(--accent);color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.tagbox.changed{outline:1px solid var(--edit);border-radius:4px}
 .tools{grid-column:1/-1;display:flex;gap:6px;justify-content:flex-end}
 .tools button{font-size:11px;padding:3px 7px}
 #exportbox{position:fixed;inset:auto 0 0 0;background:var(--panel);border-top:1px solid var(--line);padding:10px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));display:none;gap:8px;align-items:center;flex-wrap:wrap;z-index:6}
@@ -48,6 +52,8 @@ button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-vis
   <input id="q" placeholder="search name, id, look, kind…" size="28">
   <select id="cat"><option value="">all categories</option></select>
   <select id="pl"><option value="">any placement</option></select>
+  <select id="st"><option value="">any setting</option></select>
+  <select id="tn"><option value="">any tone</option></select>
   <button id="onlyEdited">edited only</button>
   <button id="onlyFlag">flagged only</button>
   <span id="count"></span>
@@ -62,7 +68,9 @@ button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-vis
 const PIECES=JSON.parse(document.getElementById('data').textContent);
 const ATLAS="__ATLAS__"; const IDX=__INDEX__;
 const PLACEMENTS=["floor-fill","wall-H","wall-V","wall-corner","wall-mass","door-H","door-V","against-wall","corner","free-standing","scatter","cluster","path","edge","overlay","stairs","portal","trap","unknown"];
-const FIELDS=[["look","Look"],["kind","Kind"],["mood","Mood"],["size","Size"],["placement","Place"],["pairs_with","Pairs"],["notes","Notes"]];
+const SETTINGS=["temple","crypt","dungeon","cave","mine","castle","palace","town","village","tavern","home","camp","forest","swamp","jungle","desert","coast","snow","lava","sewer","garden","farm","wizard","ship","ruins"];
+const TONES=["blessed","cursed","undead","corrupted","grand","overgrown","hot","cold","wet","bright","dark"];
+const FIELDS=[["look","Look"],["kind","Kind"],["setting","Setting"],["tone","Tone"],["size","Size"],["placement","Place"],["pairs_with","Pairs"],["notes","Notes"]];
 let edits={}; try{ edits=JSON.parse(localStorage.getItem('piecebook-edits')||'{}'); }catch(e){ edits={}; }
 function saveEdits(){ try{ localStorage.setItem('piecebook-edits',JSON.stringify(edits)); }catch(e){} }
 const atlas=new Image(); atlas.src=ATLAS;
@@ -85,13 +93,19 @@ function card(p){
   for(const [k,label] of FIELDS){
     const row=document.createElement('div'); row.className='f';
     const l=document.createElement('label'); l.textContent=label; row.appendChild(l);
-    if(k==='placement'){
+    if(k==='setting'||k==='tone'){
+      const list=k==='setting'?SETTINGS:TONES; const box=document.createElement('div'); box.className='tagbox'; box.id='f_'+k+'_'+p.n;
+      const cur=new Set(String(val(p,k)).split(',').map(x=>x.trim()).filter(Boolean));
+      for(const tg of list){ const b=document.createElement('button'); b.type='button'; b.textContent=tg; b.className='tag'+(cur.has(tg)?' on':'');
+        b.onclick=()=>{ b.classList.toggle('on'); const now=[...box.querySelectorAll('.tag.on')].map(x=>x.textContent); setEdit(p,k,now.join(', ')); refresh(d,p); }; box.appendChild(b); }
+      row.appendChild(box);
+    } else if(k==='placement'){
       const s=document.createElement('select'); for(const o of PLACEMENTS){ const op=document.createElement('option'); op.value=o; op.textContent=o; s.appendChild(op); }
       s.value=PLACEMENTS.includes(val(p,k))?val(p,k):'unknown'; s.id='pl_'+p.n;
       s.onchange=()=>{ setEdit(p,k,s.value); refresh(d,p); }; row.appendChild(s);
     } else {
       const e=document.createElement('div'); e.contentEditable='plaintext-only'; e.textContent=val(p,k); e.id='f_'+k+'_'+p.n;
-      if(k==='mood'||k==='pairs_with') e.className='tags';
+      if(k==='pairs_with') e.className='tags';
       e.addEventListener('blur',()=>{ setEdit(p,k,e.textContent.trim()); refresh(d,p); }); row.appendChild(e);
     }
     fs.appendChild(row);
@@ -106,15 +120,17 @@ function card(p){
 function refresh(d,p){ const e=edits[p.n]||{}; d.classList.toggle('edited',Object.keys(e).some(k=>k!=='flag')); d.classList.toggle('flag',e.flag===true);
   for(const [k] of FIELDS){ const el=document.getElementById('f_'+k+'_'+p.n); if(el) el.classList.toggle('changed',k in e); } }
 function esc(s){ return String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
-const grid=document.getElementById('grid'); let state={q:'',cat:'',pl:'',edited:false,flag:false};
+const grid=document.getElementById('grid'); let state={q:'',cat:'',pl:'',st:'',tn:'',edited:false,flag:false};
 function render(){
   grid.innerHTML=''; let n=0; const q=state.q.toLowerCase();
   for(const p of PIECES){
     if(state.cat&&p.category!==state.cat) continue;
     if(state.pl&&val(p,'placement')!==state.pl) continue;
+    if(state.st&&!String(val(p,'setting')).split(',').map(x=>x.trim()).includes(state.st)) continue;
+    if(state.tn&&!String(val(p,'tone')).split(',').map(x=>x.trim()).includes(state.tn)) continue;
     if(state.edited&&!(edits[p.n]&&Object.keys(edits[p.n]).some(k=>k!=='flag'))) continue;
     if(state.flag&&!(edits[p.n]&&edits[p.n].flag===true)) continue;
-    if(q){ const hay=[p.name,p.id,p.n,p.category,val(p,'look'),val(p,'kind'),val(p,'mood'),val(p,'notes'),p.usage].join(' ').toLowerCase(); if(!hay.includes(q)) continue; }
+    if(q){ const hay=[p.name,p.id,p.n,p.category,val(p,'look'),val(p,'kind'),val(p,'setting'),val(p,'tone'),val(p,'notes'),p.usage].join(' ').toLowerCase(); if(!hay.includes(q)) continue; }
     grid.appendChild(card(p)); n++; if(n>=400) break;
   }
   document.getElementById('count').textContent=n+(n>=400?'+ shown (narrow the filter)':' shown');
@@ -125,6 +141,10 @@ for(const o of PLACEMENTS){ const op=document.createElement('option'); op.value=
 document.getElementById('q').oninput=e=>{state.q=e.target.value;render();};
 document.getElementById('cat').onchange=e=>{state.cat=e.target.value;render();};
 document.getElementById('pl').onchange=e=>{state.pl=e.target.value;render();};
+for(const o of SETTINGS){ const op=document.createElement('option'); op.value=o;op.textContent=o; document.getElementById('st').appendChild(op); }
+for(const o of TONES){ const op=document.createElement('option'); op.value=o;op.textContent=o; document.getElementById('tn').appendChild(op); }
+document.getElementById('st').onchange=e=>{state.st=e.target.value;render();};
+document.getElementById('tn').onchange=e=>{state.tn=e.target.value;render();};
 document.getElementById('onlyEdited').onclick=e=>{state.edited=!state.edited;e.target.classList.toggle('on',state.edited);render();};
 document.getElementById('onlyFlag').onclick=e=>{state.flag=!state.flag;e.target.classList.toggle('on',state.flag);render();};
 function exportText(){ const out=[]; for(const p of PIECES){ const e=edits[p.n]; if(e&&Object.keys(e).length) out.push(Object.assign({n:p.n,id:p.id,name:p.name},e)); } return JSON.stringify(out,null,1); }
