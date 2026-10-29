@@ -12,3 +12,8 @@ Design and findings: `docs/worldforge-ai-gen/`. Legend and terrain index: `data/
 
 The decoded art and the dev map corpus are not in git; they live in
 `OneDrive\Stormhalter Worlds\WorldForge AI Gen\`.
+
+## Forge Viewer (HTML)
+- `build_atlas.py` — pack every terrain sprite layer into `atlas.webp` + `atlas-index.json` (needs the decoded art and `data/worldforge-ai-gen/terrain-index-merged.json`).
+- `build.py <out.html>` — assemble `viewer-template.html` + atlas + a sample region into one self-contained page.
+  Open it in any browser and drop a `Regions\N.xml` or `.mapproj` on it. Grid lines every 10 tiles, hover inspector with palette names, layer toggles, Structure overlay (red = blocking, amber = door, green = floor), Break-walls view.

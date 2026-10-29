@@ -1,0 +1,232 @@
+<title>Forge Viewer</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: one-screen tool. Left rail of controls, canvas fills the rest; inspector docks under the rail. */
+:root{
+  --bg:#1b1a17; --panel:#24231f; --line:#3a3832; --fg:#e8e2d2; --muted:#9a9384; --accent:#e0a84a;
+  --red:#d9463c; --good:#7fb069;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace; --sans:"IBM Plex Sans",system-ui,sans-serif;
+  color-scheme:dark;
+}
+@media (prefers-color-scheme: light){ :root:not([data-theme="dark"]){ --bg:#efeadf; --panel:#f7f3ea; --line:#d4cdbd; --fg:#201e1a; --muted:#6b655a; --accent:#a9701c; --red:#b8322a; --good:#4e7f3a; color-scheme:light } }
+:root[data-theme="light"]{ --bg:#efeadf; --panel:#f7f3ea; --line:#d4cdbd; --fg:#201e1a; --muted:#6b655a; --accent:#a9701c; --red:#b8322a; --good:#4e7f3a; color-scheme:light }
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.4 var(--sans);display:flex;flex-direction:column;overflow:hidden}
+header{display:flex;align-items:center;gap:14px;flex-wrap:wrap;padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));border-bottom:1px solid var(--line);background:var(--panel)}
+header h1{font:500 15px var(--sans);margin:0;letter-spacing:.02em}
+header h1 span{color:var(--muted);font-weight:400}
+.ctl{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--muted)}
+.ctl label{display:flex;gap:4px;align-items:center;cursor:pointer;color:var(--fg)}
+button,select{font:12px var(--sans);background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:4px;padding:4px 8px;cursor:pointer}
+button:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+button.on{border-color:var(--accent);color:var(--accent)}
+main{flex:1;min-height:0;display:flex}
+#wrap{flex:1;min-width:0;position:relative;background:#000}
+canvas{display:block;image-rendering:pixelated;cursor:grab}
+canvas.dragging{cursor:grabbing}
+#drop{position:absolute;inset:0;display:none;align-items:center;justify-content:center;background:rgba(224,168,74,.15);border:3px dashed var(--accent);font:500 18px var(--sans);pointer-events:none}
+#wrap.over #drop{display:flex}
+aside{width:300px;max-width:40vw;border-left:1px solid var(--line);background:var(--panel);overflow:auto;padding-block:10px;padding-left:12px;padding-right:max(12px,env(safe-area-inset-right,0px));font-size:12px}
+aside h2{font:600 11px var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:10px 0 6px}
+.tile{font-family:var(--mono);font-variant-numeric:tabular-nums}
+.comp{border-left:3px solid var(--line);padding:4px 8px;margin:4px 0;background:var(--bg);border-radius:0 4px 4px 0}
+.comp b{font-weight:500}
+.comp .ids{font-family:var(--mono);color:var(--muted);font-size:11px;display:block}
+.comp.Floor{border-color:var(--good)} .comp.Wall{border-color:var(--red)} .comp.Door{border-color:var(--accent)}
+.sw{display:inline-block;width:10px;height:10px;border:1px solid var(--line);vertical-align:-1px;margin-right:4px}
+#stats{color:var(--muted);line-height:1.6}
+#xy{position:absolute;left:8px;bottom:8px;font:12px var(--mono);background:var(--panel);color:var(--fg);padding:3px 8px;border-radius:4px;border:1px solid var(--line);pointer-events:none}
+input[type=file]{display:none}
+@media (max-width:700px){ main{flex-direction:column} aside{width:auto;max-width:none;max-height:38vh;border-left:0;border-top:1px solid var(--line);padding-left:max(12px,env(safe-area-inset-left,0px))} }
+</style>
+
+<header>
+  <h1>Forge Viewer <span id="regname">Praetoseba · temple (region 1)</span></h1>
+  <div class="ctl">
+    <button id="openBtn">Open region / .mapproj</button>
+    <input type="file" id="file" accept=".xml,.mapproj">
+    <select id="regsel" hidden></select>
+  </div>
+  <div class="ctl" id="layers">
+    <span>Show</span>
+    <label><input type="checkbox" id="L_floor" checked>floors</label>
+    <label><input type="checkbox" id="L_wall" checked>walls</label>
+    <label><input type="checkbox" id="L_door" checked>doors</label>
+    <label><input type="checkbox" id="L_deco" checked>decoration</label>
+    <label><input type="checkbox" id="L_other" checked>other</label>
+  </div>
+  <div class="ctl">
+    <button id="gridBtn" class="on">Grid</button>
+    <button id="structBtn">Structure</button>
+    <button id="breakBtn">Break walls</button>
+    <button id="fitBtn">Fit</button>
+  </div>
+</header>
+<main>
+  <div id="wrap"><canvas id="c"></canvas><div id="drop">Drop a Regions\N.xml or .mapproj</div><div id="xy">—</div></div>
+  <aside>
+    <h2>Region</h2>
+    <div id="stats">loading…</div>
+    <h2>Tile</h2>
+    <div id="insp" class="tile">Hover a tile.</div>
+  </aside>
+</main>
+
+<script id="idx" type="application/json">__INDEX__</script>
+<script id="sample" type="text/plain">__SAMPLE__</script>
+<script>
+const IDX=JSON.parse(document.getElementById('idx').textContent);
+const UNIT=55, OVER=45, CELL=IDX.cell;
+const atlas=new Image(); atlas.src="__ATLAS__";
+
+// ---- component model: which child carries the drawable ids, and which display class it belongs to
+const DRAW={FloorComponent:['ground'],WaterComponent:['ground'],IceComponent:['ground'],PoisonedWaterComponent:['ground'],
+  WallComponent:['wall'],RuinsComponent:['ruins'],DoorComponent:['closedId'],
+  StaticComponent:['static'],LockersComponent:['static'],TrashComponent:['static'],TreeComponent:['tree'],
+  ObstructionComponent:['obstruction'],AltarComponent:['altar'],CounterComponent:['counter'],
+  StaircaseComponent:['staircase'],ShaftComponent:['shaft'],RopeComponent:['rope'],SkyComponent:['sky'],
+  EgressComponent:['egress'],TeleportComponent:['teleporter'],
+  Darkness:[], Fire:[], Web:[], Whirlwind:[]};
+const FIXED={Darkness:7,Fire:135,Whirlwind:132};
+const CLASS={FloorComponent:'floor',WaterComponent:'floor',IceComponent:'floor',PoisonedWaterComponent:'floor',
+  WallComponent:'wall',RuinsComponent:'wall',DoorComponent:'door',
+  StaticComponent:'deco',LockersComponent:'deco',TrashComponent:'deco',TreeComponent:'deco',ObstructionComponent:'deco',AltarComponent:'deco',CounterComponent:'deco'};
+const BLOCKS=new Set(['WallComponent','ObstructionComponent','AltarComponent','CounterComponent']);
+
+let region=null;   // {name,id,tiles:Map "x,y"->[comp], x0,x1,y0,y1}
+let view={x:0,y:0,z:1};
+let show={grid:true,struct:false,brk:false};
+const cv=document.getElementById('c'), ctx=cv.getContext('2d');
+
+function parseRegion(el){
+  const tiles=new Map(); let x0=1e9,y0=1e9,x1=-1e9,y1=-1e9;
+  for(const t of el.querySelectorAll(':scope > tile')){
+    const x=+t.getAttribute('x'), y=+t.getAttribute('y');
+    x0=Math.min(x0,x);x1=Math.max(x1,x);y0=Math.min(y0,y);y1=Math.max(y1,y);
+    const comps=[];
+    for(const c of t.children){
+      if(c.tagName!=='component') continue;
+      const o={type:c.getAttribute('type')||'StaticComponent',props:{},color:null};
+      for(const k of c.children){
+        if(k.tagName==='color'){o.color=[+k.getAttribute('r'),+k.getAttribute('g'),+k.getAttribute('b'),+k.getAttribute('a')];}
+        else o.props[k.tagName]=k.textContent.trim();
+      }
+      comps.push(o);
+    }
+    if(comps.length) tiles.set(x+','+y,comps);
+  }
+  return {id:el.querySelector(':scope > id')?.textContent, name:el.querySelector(':scope > name')?.textContent||'',
+          height:el.querySelector(':scope > height')?.textContent, tiles,x0,x1,y0,y1, written:el.querySelectorAll(':scope > tile').length};
+}
+
+// pre-composited tile images: key = tile key; built lazily per tile (ids + tints + sort), cached until layer toggles change
+let cache=new Map();
+function drawIdsFor(c){
+  let fields=DRAW[c.type]; if(fields===undefined) fields=['static'];
+  if(c.type==='DoorComponent'){ if(c.props.isOpen==='true') fields=['openId']; else if(show.brk && c.props.isDestroyed==='true') fields=['destroyedId']; }
+  if(c.type==='WallComponent' && show.brk && c.props.indestructible!=='true'){ fields=['ruins','destroyed']; }
+  const ids=[]; if(FIXED[c.type]) ids.push(FIXED[c.type]);
+  for(const f of fields){ const v=+c.props[f]; if(v) ids.push(v); }
+  return ids;
+}
+function visible(c){ const k=CLASS[c.type]||'other'; return document.getElementById('L_'+k).checked; }
+function tintCanvas(img,sx,sy,w,h,col){
+  const t=document.createElement('canvas'); t.width=w;t.height=h; const g=t.getContext('2d');
+  g.drawImage(img,sx,sy,w,h,0,0,w,h);
+  g.globalCompositeOperation='multiply'; g.fillStyle=`rgb(${col[0]},${col[1]},${col[2]})`; g.fillRect(0,0,w,h);
+  g.globalCompositeOperation='destination-in'; g.drawImage(img,sx,sy,w,h,0,0,w,h);
+  if(col[3]<255){ g.globalCompositeOperation='destination-in'; g.fillStyle=`rgba(0,0,0,${col[3]/255})`; g.fillRect(0,0,w,h); }
+  return t;
+}
+function tileImage(key,comps){
+  if(cache.has(key)) return cache.get(key);
+  const layers=[];
+  comps.forEach((c,i)=>{ if(!visible(c)) return;
+    for(const id of drawIdsFor(c)){ const sp=IDX.sprites[id]; if(!sp) continue;
+      for(const s of sp) layers.push({s,o:s.o,i,col:c.color}); } });
+  layers.sort((a,b)=>a.o-b.o || a.i-b.i);
+  if(!layers.length){cache.set(key,null);return null;}
+  const t=document.createElement('canvas'); t.width=CELL+60; t.height=CELL+60; const g=t.getContext('2d');
+  for(const L of layers){ const s=L.s;
+    if(L.col && !(L.col[0]===255&&L.col[1]===255&&L.col[2]===255&&L.col[3]===255)) g.drawImage(tintCanvas(atlas,s.ax,s.ay,s.w,s.h,L.col),s.off[0],s.off[1]);
+    else g.drawImage(atlas,s.ax,s.ay,s.w,s.h,s.off[0],s.off[1],s.w,s.h); }
+  cache.set(key,t); return t;
+}
+
+function fit(){ if(!region) return; const w=cv.width,h=cv.height; const rw=(region.x1-region.x0+2)*UNIT, rh=(region.y1-region.y0+2)*UNIT;
+  view.z=Math.max(.1,Math.min(w/rw,h/rh,2)); view.x=(w-rw*view.z)/2-(region.x0-1)*UNIT*view.z; view.y=(h-rh*view.z)/2-(region.y0-1)*UNIT*view.z; draw(); }
+function resize(){ const r=cv.parentElement.getBoundingClientRect(); cv.width=Math.max(1,r.width|0); cv.height=Math.max(1,r.height|0); draw(); }
+
+function draw(){ if(!region||!atlas.complete) return;
+  ctx.setTransform(1,0,0,1,0,0); ctx.fillStyle='#000'; ctx.fillRect(0,0,cv.width,cv.height);
+  ctx.setTransform(view.z,0,0,view.z,view.x,view.y); ctx.imageSmoothingEnabled=view.z<1;
+  // x outer, y inner — the editor's own iteration order
+  const vx0=Math.floor(-view.x/view.z/UNIT)-2, vx1=Math.ceil((cv.width-view.x)/view.z/UNIT)+1, vy0=Math.floor(-view.y/view.z/UNIT)-2, vy1=Math.ceil((cv.height-view.y)/view.z/UNIT)+1;
+  for(let x=Math.max(region.x0,vx0);x<=Math.min(region.x1,vx1);x++) for(let y=Math.max(region.y0,vy0);y<=Math.min(region.y1,vy1);y++){
+    const k=x+','+y, comps=region.tiles.get(k); if(!comps) continue;
+    const im=tileImage(k,comps); if(im) ctx.drawImage(im,x*UNIT-OVER,y*UNIT-OVER);
+  }
+  if(show.struct){ for(const [k,comps] of region.tiles){ const [x,y]=k.split(',').map(Number);
+      const hasWall=comps.some(c=>BLOCKS.has(c.type)), hasDoor=comps.some(c=>c.type==='DoorComponent'), hasFloor=comps.some(c=>CLASS[c.type]==='floor');
+      if(hasWall) ctx.fillStyle='rgba(217,70,60,.55)'; else if(hasDoor) ctx.fillStyle='rgba(224,168,74,.7)'; else if(hasFloor) ctx.fillStyle='rgba(127,176,105,.25)'; else continue;
+      ctx.fillRect(x*UNIT,y*UNIT,UNIT,UNIT); } }
+  if(show.grid){ ctx.lineWidth=1/view.z;
+    for(let x=region.x0;x<=region.x1+1;x++){ ctx.strokeStyle=(x%10===0)?'rgba(255,220,0,.55)':'rgba(255,255,255,.12)'; ctx.beginPath(); ctx.moveTo(x*UNIT,region.y0*UNIT); ctx.lineTo(x*UNIT,(region.y1+1)*UNIT); ctx.stroke(); }
+    for(let y=region.y0;y<=region.y1+1;y++){ ctx.strokeStyle=(y%10===0)?'rgba(255,220,0,.55)':'rgba(255,255,255,.12)'; ctx.beginPath(); ctx.moveTo(region.x0*UNIT,y*UNIT); ctx.lineTo((region.x1+1)*UNIT,y*UNIT); ctx.stroke(); }
+    if(view.z>0.45){ ctx.fillStyle='rgba(255,220,0,.8)'; ctx.font=`${11/view.z}px ${getComputedStyle(document.body).getPropertyValue('--mono')}`;
+      for(let x=region.x0;x<=region.x1;x++) if(x%10===0) ctx.fillText(x,x*UNIT+2/view.z,region.y0*UNIT-3/view.z);
+      for(let y=region.y0;y<=region.y1;y++) if(y%10===0) ctx.fillText(y,region.x0*UNIT-26/view.z,y*UNIT+12/view.z); } }
+  if(hover){ ctx.strokeStyle='#fff'; ctx.lineWidth=2/view.z; ctx.strokeRect(hover[0]*UNIT,hover[1]*UNIT,UNIT,UNIT); }
+}
+
+// ---- interaction
+let drag=null, hover=null;
+cv.addEventListener('mousedown',e=>{drag={x:e.clientX,y:e.clientY,vx:view.x,vy:view.y};cv.classList.add('dragging')});
+window.addEventListener('mouseup',()=>{drag=null;cv.classList.remove('dragging')});
+cv.addEventListener('mousemove',e=>{ if(drag){view.x=drag.vx+e.clientX-drag.x;view.y=drag.vy+e.clientY-drag.y;draw();return;}
+  const r=cv.getBoundingClientRect(); const tx=Math.floor((e.clientX-r.left-view.x)/view.z/UNIT), ty=Math.floor((e.clientY-r.top-view.y)/view.z/UNIT);
+  if(!hover||hover[0]!==tx||hover[1]!==ty){hover=[tx,ty];inspect(tx,ty);draw();} });
+cv.addEventListener('mouseleave',()=>{hover=null;draw()});
+cv.addEventListener('wheel',e=>{e.preventDefault(); const r=cv.getBoundingClientRect(),mx=e.clientX-r.left,my=e.clientY-r.top; const f=e.deltaY<0?1.15:1/1.15; const nz=Math.max(.1,Math.min(4,view.z*f));
+  view.x=mx-(mx-view.x)*nz/view.z; view.y=my-(my-view.y)*nz/view.z; view.z=nz; draw(); },{passive:false});
+// touch: one finger pans
+let tp=null; cv.addEventListener('touchstart',e=>{const t=e.touches[0];tp={x:t.clientX,y:t.clientY,vx:view.x,vy:view.y}},{passive:true});
+cv.addEventListener('touchmove',e=>{if(!tp)return;const t=e.touches[0];view.x=tp.vx+t.clientX-tp.x;view.y=tp.vy+t.clientY-tp.y;draw()},{passive:true});
+
+function nameOf(id){ return IDX.names[id]||''; }
+function inspect(x,y){ const el=document.getElementById('insp'); document.getElementById('xy').textContent=`x ${x}, y ${y}`;
+  const comps=region.tiles.get(x+','+y);
+  if(!comps){ el.innerHTML=`<div>(${x}, ${y})</div><div style="color:var(--muted)">empty tile</div>`; return; }
+  el.innerHTML=`<div>(${x}, ${y})</div>`+comps.map(c=>{ const cls=c.type.replace('Component','');
+    const ids=Object.entries(c.props).map(([k,v])=>`${k} ${v}${/^\d+$/.test(v)&&nameOf(+v)?' <i>'+nameOf(+v)+'</i>':''}`).join(' · ');
+    const sw=c.color?`<span class="sw" style="background:rgba(${c.color.join(',')})"></span>`:'';
+    return `<div class="comp ${cls}">${sw}<b>${cls}</b><span class="ids">${ids}</span></div>`; }).join(''); }
+
+function loadRegion(el,label){ region=parseRegion(el); cache=new Map(); document.getElementById('regname').textContent=label;
+  const n=Object.create(null); for(const comps of region.tiles.values()) for(const c of comps) n[c.type]=(n[c.type]||0)+1;
+  document.getElementById('stats').innerHTML=`<div>region ${region.id} "${region.name}" · height ${region.height}</div><div>x ${region.x0}…${region.x1} · y ${region.y0}…${region.y1}</div><div>${region.tiles.size} tiles with content / ${region.written} written</div>`+
+    Object.entries(n).sort((a,b)=>b[1]-a[1]).map(([t,c])=>`<div>${t.replace('Component','')} <span class="tile">${c}</span></div>`).join('');
+  fit(); }
+
+function openText(txt,fname){ const doc=new DOMParser().parseFromString(txt,'application/xml');
+  if(doc.querySelector('parsererror')){ document.getElementById('stats').textContent='Could not parse '+fname; return; }
+  const regs=[...doc.querySelectorAll('region')]; const sel=document.getElementById('regsel');
+  if(regs.length>1){ sel.hidden=false; sel.innerHTML=regs.map((r,i)=>`<option value="${i}">${r.querySelector('id')?.textContent} · ${r.querySelector('name')?.textContent||''}</option>`).join('');
+    sel.onchange=()=>loadRegion(regs[+sel.value],fname+' · '+sel.selectedOptions[0].text); sel.onchange(); }
+  else { sel.hidden=true; const r=doc.documentElement.tagName==='region'?doc.documentElement:regs[0]; loadRegion(r,fname); } }
+function openFile(f){ f.text().then(t=>openText(t,f.name)); }
+document.getElementById('openBtn').onclick=()=>document.getElementById('file').click();
+document.getElementById('file').onchange=e=>{ if(e.target.files[0]) openFile(e.target.files[0]); };
+const wrap=document.getElementById('wrap');
+wrap.addEventListener('dragover',e=>{e.preventDefault();wrap.classList.add('over')}); wrap.addEventListener('dragleave',()=>wrap.classList.remove('over'));
+wrap.addEventListener('drop',e=>{e.preventDefault();wrap.classList.remove('over'); if(e.dataTransfer.files[0]) openFile(e.dataTransfer.files[0]);});
+for(const id of ['L_floor','L_wall','L_door','L_deco','L_other']) document.getElementById(id).onchange=()=>{cache=new Map();draw();};
+document.getElementById('gridBtn').onclick=e=>{show.grid=!show.grid;e.target.classList.toggle('on',show.grid);draw();};
+document.getElementById('structBtn').onclick=e=>{show.struct=!show.struct;e.target.classList.toggle('on',show.struct);draw();};
+document.getElementById('breakBtn').onclick=e=>{show.brk=!show.brk;e.target.classList.toggle('on',show.brk);cache=new Map();draw();};
+document.getElementById('fitBtn').onclick=fit;
+window.addEventListener('resize',resize);
+atlas.onload=()=>{ openText(document.getElementById('sample').textContent,'Praetoseba · temple (region 1)'); resize(); };
+resize();
+</script>
