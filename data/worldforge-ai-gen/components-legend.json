@@ -1,0 +1,10676 @@
+[
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Light",
+  "props": {
+   "ground": "1",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Tile",
+  "props": {
+   "ground": "2",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Hardwood (H)",
+  "props": {
+   "ground": "3",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Hardwood (V)",
+  "props": {
+   "ground": "4",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Temple",
+  "props": {
+   "ground": "5",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Burnt Stone",
+  "props": {
+   "ground": "6",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "(Lava)",
+  "props": {
+   "ground": "10",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "(PH)",
+  "props": {
+   "ground": "11",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Dirt",
+  "props": {
+   "ground": "12",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Short Grass",
+  "props": {
+   "ground": "13",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Wood (H)",
+  "props": {
+   "ground": "14",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Wood (V)",
+  "props": {
+   "ground": "15",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Beaten Path",
+  "props": {
+   "ground": "16",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "IceComponent",
+  "category": "Floors",
+  "name": "Snow",
+  "props": {
+   "ground": "17",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Sand",
+  "props": {
+   "ground": "18",
+   "movementCost": "2"
+  }
+ },
+ {
+  "type": "IceComponent",
+  "category": "Floors",
+  "name": "Ice",
+  "props": {
+   "ground": "20",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "IceComponent",
+  "category": "Floors",
+  "name": "Ice Labyrinth Floor",
+  "props": {
+   "ground": "992",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "IceComponent",
+  "category": "Floors",
+  "name": "Icy cave Floor",
+  "props": {
+   "ground": "1349",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "IceComponent",
+  "category": "Floors",
+  "name": "glacier Floor",
+  "props": {
+   "ground": "1357",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Bog",
+  "props": {
+   "ground": "21",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Forest",
+  "props": {
+   "ground": "23",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Honeycomb Flagstone",
+  "props": {
+   "ground": "24",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Jungle",
+  "props": {
+   "ground": "89",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Jungle (Moss)",
+  "props": {
+   "ground": "90",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Jungle (Foliage)",
+  "props": {
+   "ground": "91",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Bridge (H)",
+  "props": {
+   "ground": "115",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Bridge (V)",
+  "props": {
+   "ground": "116",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Flat Stone Bridge (H)",
+  "props": {
+   "ground": "1027",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Flat Stone Bridge (V)",
+  "props": {
+   "ground": "1028",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Rope Bridge (H)",
+  "props": {
+   "ground": "239",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Giant Logs",
+  "props": {
+   "ground": "175",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Worn Marble",
+  "props": {
+   "ground": "176",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Gray Tile",
+  "props": {
+   "ground": "178",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Dusty Cave",
+  "props": {
+   "ground": "179",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Slate Flagstone",
+  "props": {
+   "ground": "182",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Mossy Granite",
+  "props": {
+   "ground": "183",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Worn Cobblestone",
+  "props": {
+   "ground": "184",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Tidal Mud",
+  "props": {
+   "ground": "185",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Fine Marble",
+  "props": {
+   "ground": "186",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Oriental Rug",
+  "props": {
+   "ground": "196",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Stone Bridge (H)",
+  "props": {
+   "ground": "252",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Gravel Road",
+  "props": {
+   "ground": "264",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Sandstone Slabs",
+  "props": {
+   "ground": "265",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Sandstone Cobblestones",
+  "props": {
+   "ground": "277",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Green Alfalfa",
+  "props": {
+   "ground": "289",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Rosey Viens Granite",
+  "props": {
+   "ground": "301",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Yellow Brick Road",
+  "props": {
+   "ground": "325",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Jade Bricks",
+  "props": {
+   "ground": "341",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Mossy Cave Floor",
+  "props": {
+   "ground": "369",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Torn Cobblestones",
+  "props": {
+   "ground": "375",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Skulls",
+  "props": {
+   "ground": "387",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Blue Marble",
+  "props": {
+   "ground": "388",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Sandstone Cobblestones",
+  "props": {
+   "ground": "393",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "(PH)",
+  "props": {
+   "ground": "406",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Ash",
+  "props": {
+   "ground": "419",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Blue Brick Road",
+  "props": {
+   "ground": "445",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Dark Wood",
+  "props": {
+   "ground": "492",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Bamboo",
+  "props": {
+   "ground": "493",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Sand [Zrikz]",
+  "props": {
+   "ground": "602",
+   "movementCost": "2"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Sand [Zrikz]",
+  "props": {
+   "ground": "603",
+   "movementCost": "2"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Sandflats [Zrikz]",
+  "props": {
+   "ground": "604",
+   "movementCost": "2"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Reef [Zrikz]",
+  "props": {
+   "ground": "605",
+   "movementCost": "2"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Aqua [Fireal]",
+  "props": {
+   "ground": "606",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Cobblestone [Fireal]",
+  "props": {
+   "ground": "607",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Cut Wood [Fireal]",
+  "props": {
+   "ground": "608",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Druid Cove [Fireal]",
+  "props": {
+   "ground": "609",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Egypt (1) [Fireal]",
+  "props": {
+   "ground": "610",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Egypt (2) [Fireal]",
+  "props": {
+   "ground": "611",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Fantasy Flower [Fireal]",
+  "props": {
+   "ground": "612",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Glass Lava [Fireal]",
+  "props": {
+   "ground": "613",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Grass [Fireal]",
+  "props": {
+   "ground": "614",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Ice [Fireal]",
+  "props": {
+   "ground": "615",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Labyrinth [Fireal]",
+  "props": {
+   "ground": "616",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Ornate [Fireal]",
+  "props": {
+   "ground": "617",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Paving Slabs [Fireal]",
+  "props": {
+   "ground": "618",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Skulls [Fireal]",
+  "props": {
+   "ground": "619",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Cobble Puzzle [Fireal]",
+  "props": {
+   "ground": "620",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Cobbles [Fireal]",
+  "props": {
+   "ground": "621",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Bedrock [Lux]",
+  "props": {
+   "ground": "1003",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Roots [Lux]",
+  "props": {
+   "ground": "1004",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Sewer Drain [Tenser]",
+  "props": {
+   "ground": "628",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Sewer Floor [Tenser]",
+  "props": {
+   "ground": "629",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Lava Tube Floor",
+  "props": {
+   "ground": "1009",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Swamp cave floor",
+  "props": {
+   "ground": "1091",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Swamp mossy floor",
+  "props": {
+   "ground": "1098",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "Swamp rock floor",
+  "props": {
+   "ground": "1099",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "mine floor",
+  "props": {
+   "ground": "1214",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "new dungeon floor",
+  "props": {
+   "ground": "1226",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "light stone floor",
+  "props": {
+   "ground": "671",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "rock floor",
+  "props": {
+   "ground": "680",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "cave floor",
+  "props": {
+   "ground": "689",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "dark wood floor",
+  "props": {
+   "ground": "700",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "light wood floor",
+  "props": {
+   "ground": "945",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "rustic wood floor",
+  "props": {
+   "ground": "1237",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "purple floor texture",
+  "props": {
+   "ground": "1259",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "desat-blue floor texture",
+  "props": {
+   "ground": "1283",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "dbl desat-green floor texture",
+  "props": {
+   "ground": "1307",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "red brick floor",
+  "props": {
+   "ground": "1341",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "nidavellir dark floor",
+  "props": {
+   "ground": "1365",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "nidavellir light floor",
+  "props": {
+   "ground": "1372",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "icy rock floor",
+  "props": {
+   "ground": "1409",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "icy snow floor",
+  "props": {
+   "ground": "1410",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Floors",
+  "name": "snow floor",
+  "props": {
+   "ground": "1411",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "WaterComponent",
+  "category": "Water",
+  "name": "Water",
+  "props": {
+   "ground": "22",
+   "depth": "3",
+   "movementCost": "3"
+  }
+ },
+ {
+  "type": "WaterComponent",
+  "category": "Water",
+  "name": "Fresh Water",
+  "props": {
+   "ground": "177",
+   "depth": "3",
+   "movementCost": "3"
+  }
+ },
+ {
+  "type": "WaterComponent",
+  "category": "Water",
+  "name": "Dark and Cloudy Water",
+  "props": {
+   "ground": "180",
+   "depth": "3",
+   "movementCost": "3"
+  }
+ },
+ {
+  "type": "PoisonedWaterComponent",
+  "category": "Water",
+  "name": "Poisoned Water",
+  "props": {
+   "color": "",
+   "ground": "180",
+   "movementCost": "3"
+  }
+ },
+ {
+  "type": "WaterComponent",
+  "category": "Water",
+  "name": "Dark Red Liquid",
+  "props": {
+   "ground": "374",
+   "depth": "3",
+   "movementCost": "3"
+  }
+ },
+ {
+  "type": "WaterComponent",
+  "category": "Water",
+  "name": "Shoreline (Shallow) [Zrikz]",
+  "props": {
+   "ground": "601",
+   "depth": "3",
+   "movementCost": "3"
+  }
+ },
+ {
+  "type": "WaterComponent",
+  "category": "Water",
+  "name": "Shoreline [Zrikz]",
+  "props": {
+   "ground": "601",
+   "depth": "3",
+   "movementCost": "3",
+   "color": ""
+  }
+ },
+ {
+  "type": "WaterComponent",
+  "category": "Water",
+  "name": "Sewer [Zrikz]",
+  "props": {
+   "ground": "602",
+   "depth": "3",
+   "movementCost": "3"
+  }
+ },
+ {
+  "type": "WaterComponent",
+  "category": "Water",
+  "name": "Waves (H) [Tenser]",
+  "props": {
+   "ground": "622",
+   "depth": "3",
+   "movementCost": "3"
+  }
+ },
+ {
+  "type": "WaterComponent",
+  "category": "Water",
+  "name": "Waves (V) [Tenser]",
+  "props": {
+   "ground": "623",
+   "depth": "3",
+   "movementCost": "3"
+  }
+ },
+ {
+  "type": "WaterComponent",
+  "category": "Water",
+  "name": "Waves (E) [Tenser]",
+  "props": {
+   "ground": "1018",
+   "depth": "3",
+   "movementCost": "3"
+  }
+ },
+ {
+  "type": "WaterComponent",
+  "category": "Water",
+  "name": "Waves (S) [Tenser]",
+  "props": {
+   "ground": "1019",
+   "depth": "3",
+   "movementCost": "3"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Town (H)",
+  "props": {
+   "wall": "27",
+   "destroyed": "40",
+   "ruins": "45",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Town (C)",
+  "props": {
+   "wall": "33",
+   "destroyed": "784",
+   "ruins": "45",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Town (V)",
+  "props": {
+   "wall": "28",
+   "destroyed": "41",
+   "ruins": "45",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Temple (V)",
+  "props": {
+   "wall": "30",
+   "destroyed": "43",
+   "ruins": "46",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Temple (H)",
+  "props": {
+   "wall": "29",
+   "destroyed": "42",
+   "ruins": "46",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Temple (C)",
+  "props": {
+   "wall": "34",
+   "destroyed": "144",
+   "ruins": "46",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dirty Marble (V)",
+  "props": {
+   "wall": "140",
+   "destroyed": "142",
+   "ruins": "46",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dirty Marble (H)",
+  "props": {
+   "wall": "139",
+   "destroyed": "141",
+   "ruins": "46",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dirty Marble (C)",
+  "props": {
+   "wall": "143",
+   "destroyed": "144",
+   "ruins": "46",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Heavy Logs (V)",
+  "props": {
+   "wall": "146",
+   "destroyed": "148",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Heavy Logs (H)",
+  "props": {
+   "wall": "145",
+   "destroyed": "147",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Heavy Logs (C)",
+  "props": {
+   "wall": "149",
+   "destroyed": "150",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dragon (H)",
+  "props": {
+   "wall": "151",
+   "destroyed": "153",
+   "ruins": "46",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dragon (V)",
+  "props": {
+   "wall": "152",
+   "destroyed": "154",
+   "ruins": "46",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dragon (C)",
+  "props": {
+   "wall": "155",
+   "destroyed": "156",
+   "ruins": "46",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Cave (V)",
+  "props": {
+   "wall": "158",
+   "destroyed": "161",
+   "ruins": "170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Cave (H)",
+  "props": {
+   "wall": "157",
+   "destroyed": "160",
+   "ruins": "170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Cave (C)",
+  "props": {
+   "wall": "159",
+   "destroyed": "162",
+   "ruins": "170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dungeon (V)",
+  "props": {
+   "wall": "26",
+   "destroyed": "39",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dungeon (H)",
+  "props": {
+   "wall": "25",
+   "destroyed": "38",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dungeon (C)",
+  "props": {
+   "wall": "32",
+   "destroyed": "783",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Granite (V)",
+  "props": {
+   "wall": "336",
+   "destroyed": "345",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Granite (H)",
+  "props": {
+   "wall": "335",
+   "destroyed": "344",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Granite (C)",
+  "props": {
+   "wall": "357",
+   "destroyed": "358",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Sandstone (V)",
+  "props": {
+   "wall": "347",
+   "destroyed": "339",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Sandstone (H)",
+  "props": {
+   "wall": "346",
+   "destroyed": "338",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Sandstone (C)",
+  "props": {
+   "wall": "359",
+   "destroyed": "360",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dirt (V)",
+  "props": {
+   "wall": "334",
+   "destroyed": "343",
+   "ruins": "669",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dirt (H)",
+  "props": {
+   "wall": "333",
+   "destroyed": "342",
+   "ruins": "669",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dirt (C)",
+  "props": {
+   "wall": "355",
+   "destroyed": "356",
+   "ruins": "669",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Undead (V)",
+  "props": {
+   "wall": "382",
+   "destroyed": "395",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Undead (H)",
+  "props": {
+   "wall": "381",
+   "destroyed": "394",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Undead (C)",
+  "props": {
+   "wall": "407",
+   "destroyed": "408",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Blue Marble (V)",
+  "props": {
+   "wall": "384",
+   "destroyed": "397",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Blue Marble (H)",
+  "props": {
+   "wall": "383",
+   "destroyed": "396",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Blue Marble (C)",
+  "props": {
+   "wall": "409",
+   "destroyed": "410",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Mines (V)",
+  "props": {
+   "wall": "414",
+   "destroyed": "416",
+   "ruins": "398",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Mines (H)",
+  "props": {
+   "wall": "413",
+   "destroyed": "415",
+   "ruins": "398",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Mines (C)",
+  "props": {
+   "wall": "417",
+   "destroyed": "418",
+   "ruins": "398",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Thicket (V)",
+  "props": {
+   "wall": "224",
+   "destroyed": "227",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Thicket (H)",
+  "props": {
+   "wall": "223",
+   "destroyed": "226",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Thicket (C)",
+  "props": {
+   "wall": "225",
+   "destroyed": "228",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Red Shoji (V)",
+  "props": {
+   "wall": "363",
+   "destroyed": "365",
+   "ruins": "380",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Red Shoji (H)",
+  "props": {
+   "wall": "362",
+   "destroyed": "364",
+   "ruins": "380",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Red Shoji (C)",
+  "props": {
+   "wall": "366",
+   "destroyed": "367",
+   "ruins": "380",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dragon (V)",
+  "props": {
+   "wall": "429",
+   "destroyed": "442",
+   "ruins": "432",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dragon (H)",
+  "props": {
+   "wall": "428",
+   "destroyed": "441",
+   "ruins": "432",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dragon Window (V)",
+  "props": {
+   "wall": "431",
+   "destroyed": "442",
+   "ruins": "432",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dragon Window (H)",
+  "props": {
+   "wall": "430",
+   "destroyed": "441",
+   "ruins": "432",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Dragon (C)",
+  "props": {
+   "wall": "443",
+   "destroyed": "444",
+   "ruins": "432",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Highmountain (V)",
+  "props": {
+   "wall": "460",
+   "destroyed": "462",
+   "ruins": "465",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Highmountain (H)",
+  "props": {
+   "wall": "459",
+   "destroyed": "461",
+   "ruins": "465",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Highmountain (C)",
+  "props": {
+   "wall": "463",
+   "destroyed": "464",
+   "ruins": "465",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Pagoda Shoji (V)",
+  "props": {
+   "wall": "471",
+   "destroyed": "473",
+   "ruins": "45",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Pagoda Shoji (H)",
+  "props": {
+   "wall": "470",
+   "destroyed": "472",
+   "ruins": "45",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Pagoda Framed (V)",
+  "props": {
+   "wall": "475",
+   "destroyed": "477",
+   "ruins": "45",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Pagoda Framed (H)",
+  "props": {
+   "wall": "474",
+   "destroyed": "476",
+   "ruins": "45",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Pagoda Framed (V)",
+  "props": {
+   "wall": "483",
+   "destroyed": "485",
+   "ruins": "45",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Pagoda Framed (H)",
+  "props": {
+   "wall": "482",
+   "destroyed": "484",
+   "ruins": "45",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Pagoda (V)",
+  "props": {
+   "wall": "487",
+   "destroyed": "489",
+   "ruins": "45",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Pagoda (H)",
+  "props": {
+   "wall": "486",
+   "destroyed": "488",
+   "ruins": "45",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Pagoda (C)",
+  "props": {
+   "wall": "480",
+   "destroyed": "481",
+   "ruins": "45",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian (V)",
+  "props": {
+   "wall": "259",
+   "destroyed": "261",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian (H)",
+  "props": {
+   "wall": "258",
+   "destroyed": "260",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Life (V)",
+  "props": {
+   "wall": "272",
+   "destroyed": "261",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Life (H)",
+  "props": {
+   "wall": "271",
+   "destroyed": "260",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Life (V)",
+  "props": {
+   "wall": "274",
+   "destroyed": "261",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Life (H)",
+  "props": {
+   "wall": "273",
+   "destroyed": "260",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Sobet (V)",
+  "props": {
+   "wall": "276",
+   "destroyed": "261",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Sobet (H)",
+  "props": {
+   "wall": "275",
+   "destroyed": "260",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Horus (V)",
+  "props": {
+   "wall": "284",
+   "destroyed": "261",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Horus (H)",
+  "props": {
+   "wall": "283",
+   "destroyed": "260",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Osiris (V)",
+  "props": {
+   "wall": "286",
+   "destroyed": "261",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Osiris (H)",
+  "props": {
+   "wall": "285",
+   "destroyed": "260",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Sekhmet (V)",
+  "props": {
+   "wall": "288",
+   "destroyed": "261",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Sekhmet (H)",
+  "props": {
+   "wall": "287",
+   "destroyed": "260",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Re.Harakhti (V)",
+  "props": {
+   "wall": "296",
+   "destroyed": "261",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Re.Harakhti (H)",
+  "props": {
+   "wall": "295",
+   "destroyed": "260",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Anubis (V)",
+  "props": {
+   "wall": "297",
+   "destroyed": "261",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Anubis (H)",
+  "props": {
+   "wall": "298",
+   "destroyed": "260",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Iris (V)",
+  "props": {
+   "wall": "300",
+   "destroyed": "261",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian Iris (H)",
+  "props": {
+   "wall": "299",
+   "destroyed": "260",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Egyptian (C)",
+  "props": {
+   "wall": "262",
+   "destroyed": "263",
+   "ruins": "44",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Solid Rock",
+  "props": {
+   "wall": "31",
+   "destroyed": "0",
+   "ruins": "44",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Solid Granite",
+  "props": {
+   "wall": "447",
+   "destroyed": "0",
+   "ruins": "44",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Solid Sandstone",
+  "props": {
+   "wall": "448",
+   "destroyed": "0",
+   "ruins": "44",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Solid Dirt",
+  "props": {
+   "wall": "446",
+   "destroyed": "0",
+   "ruins": "44",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Portal Pillar",
+  "props": {
+   "wall": "104",
+   "destroyed": "640",
+   "ruins": "46",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Stalagmite",
+  "props": {
+   "wall": "371",
+   "destroyed": "641",
+   "ruins": "170",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": " panel wall (H) ",
+  "props": {
+   "wall": "707",
+   "destroyed": "710",
+   "ruins": "711",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": " panel wall (V) ",
+  "props": {
+   "wall": "709",
+   "destroyed": "712",
+   "ruins": "711",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": " panel corner post ",
+  "props": {
+   "wall": "708",
+   "destroyed": "0",
+   "ruins": "711",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": " Lodge wall (H) ",
+  "props": {
+   "wall": "713",
+   "destroyed": "716",
+   "ruins": "717",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": " Lodge wall (V) ",
+  "props": {
+   "wall": "715",
+   "destroyed": "718",
+   "ruins": "717",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": " Lodge corner post ",
+  "props": {
+   "wall": "714",
+   "destroyed": "0",
+   "ruins": "717",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": " front wall (H) ",
+  "props": {
+   "wall": "731",
+   "destroyed": "735",
+   "ruins": "0",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": " inside back wall (H) ",
+  "props": {
+   "wall": "732",
+   "destroyed": "735",
+   "ruins": "0",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": " inside left wall (V) ",
+  "props": {
+   "wall": "733",
+   "destroyed": "736",
+   "ruins": "0",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": " outside right wall (V) ",
+  "props": {
+   "wall": "734",
+   "destroyed": "736",
+   "ruins": "0",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Ice Labyrinth(H)",
+  "props": {
+   "wall": "991",
+   "destroyed": "994",
+   "ruins": "995",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Ice Labyrinth (V)",
+  "props": {
+   "wall": "993",
+   "destroyed": "996",
+   "ruins": "995",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Ice Labyrinth Corner Pillar",
+  "props": {
+   "wall": "997",
+   "destroyed": "998",
+   "ruins": "995",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Lava Tube Wall (H)",
+  "props": {
+   "wall": "1008",
+   "destroyed": "1011",
+   "ruins": "1012",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Lava Tube Wall (V)",
+  "props": {
+   "wall": "1010",
+   "destroyed": "1013",
+   "ruins": "1012",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Lava Tube Corner Pillar",
+  "props": {
+   "wall": "1014",
+   "destroyed": "1015",
+   "ruins": "1012",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Log Fortification (H)",
+  "props": {
+   "wall": "1088",
+   "destroyed": "147",
+   "ruins": "717",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Log Fortification (V)",
+  "props": {
+   "wall": "1089",
+   "destroyed": "148",
+   "ruins": "717",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Swamp cave wall (V)",
+  "props": {
+   "wall": "1092",
+   "destroyed": "1095",
+   "ruins": "1094",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Swamp cave wall (h)",
+  "props": {
+   "wall": "1090",
+   "destroyed": "1093",
+   "ruins": "1094",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Swamp cave pillar",
+  "props": {
+   "wall": "1096",
+   "destroyed": "1097",
+   "ruins": "1094",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Swamp tree pillar",
+  "props": {
+   "wall": "1108",
+   "destroyed": "1097",
+   "ruins": "1094",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Swamp cave wall vine (V)",
+  "props": {
+   "wall": "1115",
+   "destroyed": "1095",
+   "ruins": "1094",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Swamp cave wall vine (H)",
+  "props": {
+   "wall": "1114",
+   "destroyed": "1093",
+   "ruins": "1094",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "grey stone dragon - column wrap",
+  "props": {
+   "wall": "1128",
+   "destroyed": "1170",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "gold dragon - column wrap",
+  "props": {
+   "wall": "1129",
+   "destroyed": "1170",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "gold serpent - column wrap",
+  "props": {
+   "wall": "1130",
+   "destroyed": "1170",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "marble dragon column",
+  "props": {
+   "wall": "1131",
+   "destroyed": "1169",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "bull head column",
+  "props": {
+   "wall": "1132",
+   "destroyed": "1169",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "lion head column",
+  "props": {
+   "wall": "1140",
+   "destroyed": "1169",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "mine solid",
+  "props": {
+   "wall": "1221",
+   "destroyed": "1221",
+   "ruins": "1221",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "mine wall (h)",
+  "props": {
+   "wall": "1213",
+   "destroyed": "1217",
+   "ruins": "1216",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "mine wall (v)",
+  "props": {
+   "wall": "1215",
+   "destroyed": "1217",
+   "ruins": "1218",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "mine pillar",
+  "props": {
+   "wall": "1219",
+   "destroyed": "1217",
+   "ruins": "1220",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "mine wood post",
+  "props": {
+   "wall": "1222",
+   "destroyed": "1217",
+   "ruins": "1220",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "irr wall (h)",
+  "props": {
+   "wall": "1225",
+   "destroyed": "1229",
+   "ruins": "1228",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "irr wall (v)",
+  "props": {
+   "wall": "1227",
+   "destroyed": "1229",
+   "ruins": "1230",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "irr post",
+  "props": {
+   "wall": "1231",
+   "destroyed": "1229",
+   "ruins": "1232",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "stacked box obstruction",
+  "props": {
+   "wall": "666",
+   "destroyed": "667",
+   "ruins": "667",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "light stone wall (H)",
+  "props": {
+   "wall": "670",
+   "destroyed": "676",
+   "ruins": "674",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "light stone wall (V)",
+  "props": {
+   "wall": "672",
+   "destroyed": "675",
+   "ruins": "674",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "light stone column",
+  "props": {
+   "wall": "673",
+   "destroyed": "677",
+   "ruins": "674",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "rock wall (H)",
+  "props": {
+   "wall": "679",
+   "destroyed": "685",
+   "ruins": "683",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "rock wall (V)",
+  "props": {
+   "wall": "681",
+   "destroyed": "684",
+   "ruins": "683",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "rock wall column",
+  "props": {
+   "wall": "682",
+   "destroyed": "686",
+   "ruins": "683",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "cave wall (H)",
+  "props": {
+   "wall": "688",
+   "destroyed": "694",
+   "ruins": "692",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "cave wall (V)",
+  "props": {
+   "wall": "690",
+   "destroyed": "693",
+   "ruins": "692",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "cave wall column",
+  "props": {
+   "wall": "691",
+   "destroyed": "1229",
+   "ruins": "692",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "animated fireplace H",
+  "props": {
+   "wall": "697",
+   "destroyed": "1229",
+   "ruins": "938",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "animated fireplace V",
+  "props": {
+   "wall": "698",
+   "destroyed": "1229",
+   "ruins": "947",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Big City wall H",
+  "props": {
+   "wall": "699",
+   "destroyed": "703",
+   "ruins": "705",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Big City wall V",
+  "props": {
+   "wall": "701",
+   "destroyed": "703",
+   "ruins": "704",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Big City wall corner column",
+  "props": {
+   "wall": "702",
+   "destroyed": "703",
+   "ruins": "706",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Big City wall alt 1 H",
+  "props": {
+   "wall": "862",
+   "destroyed": "703",
+   "ruins": "705",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Big City wall alt 1 V",
+  "props": {
+   "wall": "863",
+   "destroyed": "703",
+   "ruins": "704",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Big City wall alt 2 H",
+  "props": {
+   "wall": "864",
+   "destroyed": "703",
+   "ruins": "705",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Big City wall alt 2 V",
+  "props": {
+   "wall": "865",
+   "destroyed": "703",
+   "ruins": "704",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Big City stained glass H",
+  "props": {
+   "wall": "867",
+   "destroyed": "703",
+   "ruins": "705",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Big City stained glass V",
+  "props": {
+   "wall": "868",
+   "destroyed": "703",
+   "ruins": "704",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Big City wall plain H",
+  "props": {
+   "wall": "869",
+   "destroyed": "703",
+   "ruins": "705",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "Big City wall plain V",
+  "props": {
+   "wall": "870",
+   "destroyed": "703",
+   "ruins": "704",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "fireplace H",
+  "props": {
+   "wall": "871",
+   "destroyed": "1229",
+   "ruins": "938",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "fireplace v",
+  "props": {
+   "wall": "872",
+   "destroyed": "1229",
+   "ruins": "947",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "stone wall H",
+  "props": {
+   "wall": "936",
+   "destroyed": "1229",
+   "ruins": "938",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "stone wall V",
+  "props": {
+   "wall": "937",
+   "destroyed": "1229",
+   "ruins": "947",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "wood siding wall H",
+  "props": {
+   "wall": "939",
+   "destroyed": "1239",
+   "ruins": "965",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "wood siding wall V",
+  "props": {
+   "wall": "940",
+   "destroyed": "1239",
+   "ruins": "956",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "wood post",
+  "props": {
+   "wall": "946",
+   "destroyed": "1239",
+   "ruins": "408",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "fence H",
+  "props": {
+   "wall": "952",
+   "destroyed": "1239",
+   "ruins": "408",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "fence v",
+  "props": {
+   "wall": "953",
+   "destroyed": "1239",
+   "ruins": "408",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "rustic log wall H",
+  "props": {
+   "wall": "957",
+   "destroyed": "1236",
+   "ruins": "1236",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "rustic log wall V",
+  "props": {
+   "wall": "958",
+   "destroyed": "1236",
+   "ruins": "1236",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "rustic log wall post",
+  "props": {
+   "wall": "1235",
+   "destroyed": "1236",
+   "ruins": "1238",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "temple stained glass H",
+  "props": {
+   "wall": "966",
+   "destroyed": "46",
+   "ruins": "42",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "temple stained glass V",
+  "props": {
+   "wall": "967",
+   "destroyed": "46",
+   "ruins": "43",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "temple niche H",
+  "props": {
+   "wall": "1240",
+   "destroyed": "46",
+   "ruins": "42",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "temple niche V",
+  "props": {
+   "wall": "1241",
+   "destroyed": "46",
+   "ruins": "43",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary purple wall H",
+  "props": {
+   "wall": "1258",
+   "destroyed": "1262",
+   "ruins": "1264",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary purple wall V",
+  "props": {
+   "wall": "1260",
+   "destroyed": "1262",
+   "ruins": "1263",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary purple corner post",
+  "props": {
+   "wall": "1261",
+   "destroyed": "1262",
+   "ruins": "1265",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary purple arch wall H",
+  "props": {
+   "wall": "1266",
+   "destroyed": "1262",
+   "ruins": "1264",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary purple arch wall V",
+  "props": {
+   "wall": "1267",
+   "destroyed": "1262",
+   "ruins": "1263",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary purple plain wall H",
+  "props": {
+   "wall": "1268",
+   "destroyed": "1262",
+   "ruins": "1264",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary purple plain wall V",
+  "props": {
+   "wall": "1269",
+   "destroyed": "1262",
+   "ruins": "1263",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary purple demon head wall H",
+  "props": {
+   "wall": "1270",
+   "destroyed": "1262",
+   "ruins": "1264",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary desaturated blue wall H",
+  "props": {
+   "wall": "1282",
+   "destroyed": "1286",
+   "ruins": "1288",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary desaturated blue wall V",
+  "props": {
+   "wall": "1284",
+   "destroyed": "1286",
+   "ruins": "1287",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary desaturated blue column",
+  "props": {
+   "wall": "1285",
+   "destroyed": "1286",
+   "ruins": "1289",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary desaturated blue arch wall H",
+  "props": {
+   "wall": "1290",
+   "destroyed": "1286",
+   "ruins": "1288",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary desaturated blue arch wall V",
+  "props": {
+   "wall": "1291",
+   "destroyed": "1286",
+   "ruins": "1287",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary desaturated blue bare wall H",
+  "props": {
+   "wall": "1292",
+   "destroyed": "1286",
+   "ruins": "1288",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary desaturated blue bare wall V",
+  "props": {
+   "wall": "1293",
+   "destroyed": "1286",
+   "ruins": "1287",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary desaturated blue demonhead wall V",
+  "props": {
+   "wall": "1294",
+   "destroyed": "1286",
+   "ruins": "1288",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary 2x desaturated green wall H",
+  "props": {
+   "wall": "1306",
+   "destroyed": "1310",
+   "ruins": "1312",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary 2x desaturated green wall V",
+  "props": {
+   "wall": "1308",
+   "destroyed": "1310",
+   "ruins": "1311",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary 2x desaturated green column",
+  "props": {
+   "wall": "1309",
+   "destroyed": "1310",
+   "ruins": "1313",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary 2x desaturated green arch wall H",
+  "props": {
+   "wall": "1314",
+   "destroyed": "1310",
+   "ruins": "1312",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary 2x desaturated green arch wall V",
+  "props": {
+   "wall": "1315",
+   "destroyed": "1310",
+   "ruins": "1311",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary 2x desaturated green bare wall H",
+  "props": {
+   "wall": "1316",
+   "destroyed": "1310",
+   "ruins": "1312",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary 2x desaturated green bare wall V",
+  "props": {
+   "wall": "1317",
+   "destroyed": "1310",
+   "ruins": "1311",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "dungeon dreary 2x desaturated green demonhead wall H",
+  "props": {
+   "wall": "1318",
+   "destroyed": "1310",
+   "ruins": "1312",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "red brick wall (h)",
+  "props": {
+   "wall": "1340",
+   "destroyed": "1344",
+   "ruins": "1346",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "red brick wall (v)",
+  "props": {
+   "wall": "1342",
+   "destroyed": "1344",
+   "ruins": "1345",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "red brick post",
+  "props": {
+   "wall": "1343",
+   "destroyed": "1344",
+   "ruins": "1347",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "icy cave wall (h)",
+  "props": {
+   "wall": "1348",
+   "destroyed": "1352",
+   "ruins": "1354",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "icy cave wall (v)",
+  "props": {
+   "wall": "1350",
+   "destroyed": "1352",
+   "ruins": "1353",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "icy cave post",
+  "props": {
+   "wall": "1351",
+   "destroyed": "1352",
+   "ruins": "1355",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "glacier wall (H)",
+  "props": {
+   "wall": "1356",
+   "destroyed": "1360",
+   "ruins": "1359",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "glacier wall (v)",
+  "props": {
+   "wall": "1358",
+   "destroyed": "1360",
+   "ruins": "1361",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "glacier post",
+  "props": {
+   "wall": "1362",
+   "destroyed": "1360",
+   "ruins": "1363",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "nidavellir wall (h)",
+  "props": {
+   "wall": "1364",
+   "destroyed": "1368",
+   "ruins": "1370",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "nidavellir wall (v)",
+  "props": {
+   "wall": "1366",
+   "destroyed": "1368",
+   "ruins": "1369",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "nidavellir post",
+  "props": {
+   "wall": "1367",
+   "destroyed": "1368",
+   "ruins": "1371",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "nidavellir mythril wall (h)",
+  "props": {
+   "wall": "1380",
+   "destroyed": "1368",
+   "ruins": "1371",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Structural",
+  "name": "nidavellir mythril wall (v)",
+  "props": {
+   "wall": "1381",
+   "destroyed": "1368",
+   "ruins": "1371",
+   "indestructible": "true"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Customizable",
+  "name": "palace flagstone floor",
+  "props": {
+   "ground": "1125",
+   "movementCost": "1"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Customizable",
+  "name": "palace flagstone floor grout (alt color)",
+  "props": {
+   "ground": "1133",
+   "movementCost": "0"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace pillar right wall (H)",
+  "props": {
+   "wall": "1116",
+   "destroyed": "1161",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace pillar right wall grout (H) (alt color)",
+  "props": {
+   "wall": "1147",
+   "destroyed": "1161",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace pillar right wall highlights (H) (alt color)",
+  "props": {
+   "wall": "1156",
+   "destroyed": "1161",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace wall (H)",
+  "props": {
+   "wall": "1117",
+   "destroyed": "1166",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace wall grout (H) (alt color)",
+  "props": {
+   "wall": "1135",
+   "destroyed": "1166",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace wall highlights (H) (alt color)",
+  "props": {
+   "wall": "1152",
+   "destroyed": "1166",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace pillar left wall (H)",
+  "props": {
+   "wall": "1118",
+   "destroyed": "1163",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace pillar left wall grout (H) (alt color)",
+  "props": {
+   "wall": "1149",
+   "destroyed": "1163",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace pillar left wall highlights (H) (alt color)",
+  "props": {
+   "wall": "1154",
+   "destroyed": "1163",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace pillar left wall (v)",
+  "props": {
+   "wall": "1119",
+   "destroyed": "1164",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace pillar left wall grout (v) (alt color)",
+  "props": {
+   "wall": "1148",
+   "destroyed": "1164",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace pillar left wall highlights (v) (alt color)",
+  "props": {
+   "wall": "1153",
+   "destroyed": "1164",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace wall (v)",
+  "props": {
+   "wall": "1120",
+   "destroyed": "1165",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace wall grout(v) (Alt color)",
+  "props": {
+   "wall": "1134",
+   "destroyed": "1165",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace wall highlights (v) (Alt color)",
+  "props": {
+   "wall": "1151",
+   "destroyed": "1165",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace pillar right wall (v)",
+  "props": {
+   "wall": "1121",
+   "destroyed": "1162",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace pillar right wall grout (v) (alt color)",
+  "props": {
+   "wall": "1150",
+   "destroyed": "1162",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "palace pillar right wall highlights (v) (alt color)",
+  "props": {
+   "wall": "1155",
+   "destroyed": "1162",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "art niche wall (v)",
+  "props": {
+   "wall": "1122",
+   "destroyed": "1167",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "art niche wall grout (v) (alt color)",
+  "props": {
+   "wall": "1145",
+   "destroyed": "1167",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "art niche wall highlights (v) (alt color)",
+  "props": {
+   "wall": "1157",
+   "destroyed": "1167",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "arch (v)",
+  "props": {
+   "wall": "1123",
+   "destroyed": "1186",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "column",
+  "props": {
+   "wall": "1124",
+   "destroyed": "1169",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "art niche wall (h)",
+  "props": {
+   "wall": "1126",
+   "destroyed": "1168",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "art niche wall grout (h) (alt color)",
+  "props": {
+   "wall": "1146",
+   "destroyed": "1168",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "art niche wall highlights (h) (alt color)",
+  "props": {
+   "wall": "1158",
+   "destroyed": "1168",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Customizable",
+  "name": "arch (h)",
+  "props": {
+   "wall": "1127",
+   "destroyed": "1185",
+   "ruins": "1170",
+   "indestructible": "false"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dungeon",
+  "props": {
+   "ruins": "44"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Town",
+  "props": {
+   "ruins": "45"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Temple",
+  "props": {
+   "ruins": "46"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Heavy Logs Rubble",
+  "props": {
+   "ruins": "717"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Cave",
+  "props": {
+   "ruins": "170"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Red Shoji",
+  "props": {
+   "ruins": "380"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Mines",
+  "props": {
+   "ruins": "398"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dragon",
+  "props": {
+   "ruins": "432"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Highmountain",
+  "props": {
+   "ruins": "465"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Sandstone Rubble",
+  "props": {
+   "ruins": "1020"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Blue Marble Rubble",
+  "props": {
+   "ruins": "1021"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Egyptian Rubble",
+  "props": {
+   "ruins": "1022"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Rubble",
+  "props": {
+   "ruins": "1023"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Thicket Rubbish",
+  "props": {
+   "ruins": "1024"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Ice Wall Rubble",
+  "props": {
+   "ruins": "995"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Lava Tube Rubble",
+  "props": {
+   "ruins": "1012"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": " Broken Portal Pillar",
+  "props": {
+   "ruins": "642"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": " Broken Portal Pillar (Clean)",
+  "props": {
+   "ruins": "640"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Broken Stalagmite",
+  "props": {
+   "ruins": "643"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Broken Stalagmite (Clean)",
+  "props": {
+   "ruins": "641"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Town Wall Ruins (H)",
+  "props": {
+   "ruins": "40"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Town Wall Ruins (V)",
+  "props": {
+   "ruins": "41"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Town Wall Ruins (C)",
+  "props": {
+   "ruins": "784"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Temple Wall Ruins (H)",
+  "props": {
+   "ruins": "42"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Temple Wall Ruins (V)",
+  "props": {
+   "ruins": "43"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Temple Wall Ruins (C)",
+  "props": {
+   "ruins": "144"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dungeon Wall Ruins (H)",
+  "props": {
+   "ruins": "38"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dungeon Wall Ruins (V)",
+  "props": {
+   "ruins": "39"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dungeon Wall Ruins (C)",
+  "props": {
+   "ruins": "783"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Sandstone Wall Ruins (H)",
+  "props": {
+   "ruins": "338"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Sandstone Wall Ruins (V)",
+  "props": {
+   "ruins": "339"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Sandstone Wall Ruins (C)",
+  "props": {
+   "ruins": "360"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dirt Wall Ruins (H)",
+  "props": {
+   "ruins": "342"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dirt Wall Ruins (V)",
+  "props": {
+   "ruins": "343"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dirt Wall Ruins (C)",
+  "props": {
+   "ruins": "356"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dirty Marble Ruins (H)",
+  "props": {
+   "ruins": "141"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dirty Marble Ruins (V)",
+  "props": {
+   "ruins": "142"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dirty Marble Ruins (C)",
+  "props": {
+   "ruins": "144"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dragon Ruins (H)",
+  "props": {
+   "ruins": "153"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dragon Ruins (V)",
+  "props": {
+   "ruins": "154"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dragon Ruins (C)",
+  "props": {
+   "ruins": "156"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dragon Ruins Blue (H)",
+  "props": {
+   "ruins": "441"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dragon Ruins Blue (V)",
+  "props": {
+   "ruins": "442"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Dragon Ruins Blue (C)",
+  "props": {
+   "ruins": "444"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "High Mountain Ruins (H)",
+  "props": {
+   "ruins": "461"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "High Mountain Ruins (V)",
+  "props": {
+   "ruins": "462"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "High Mountain Ruins (C)",
+  "props": {
+   "ruins": "464"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Red Shoji Ruins (H)",
+  "props": {
+   "ruins": "364"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Red Shoji Ruins (V)",
+  "props": {
+   "ruins": "365"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Red Shoji Ruins (C)",
+  "props": {
+   "ruins": "367"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Shoji Ruins (H)",
+  "props": {
+   "ruins": "472"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Shoji Ruins (V)",
+  "props": {
+   "ruins": "473"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Shoji Ruins (C)",
+  "props": {
+   "ruins": "481"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Framed Ruins (H)",
+  "props": {
+   "ruins": "476"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Framed Ruins (V)",
+  "props": {
+   "ruins": "477"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Framed Ruins (C)",
+  "props": {
+   "ruins": "481"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Framed Ruins (H)",
+  "props": {
+   "ruins": "484"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Framed Ruins (V)",
+  "props": {
+   "ruins": "485"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Framed Ruins (C)",
+  "props": {
+   "ruins": "481"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Ruins (H)",
+  "props": {
+   "ruins": "488"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Ruins (V)",
+  "props": {
+   "ruins": "489"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Pagoda Ruins (C)",
+  "props": {
+   "ruins": "481"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Blue Marble Ruins (H)",
+  "props": {
+   "ruins": "396"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Blue Marble Ruins (V)",
+  "props": {
+   "ruins": "397"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Blue Marble Ruins (C)",
+  "props": {
+   "ruins": "410"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Egyptian Ruins (H)",
+  "props": {
+   "ruins": "260"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Egyptian Ruins (V)",
+  "props": {
+   "ruins": "261"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Egyptian Ruins (C)",
+  "props": {
+   "ruins": "263"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Heavy Log Ruins (H)",
+  "props": {
+   "ruins": "147"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Heavy Log Ruins (V)",
+  "props": {
+   "ruins": "148"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Heavy Log Ruins (C)",
+  "props": {
+   "ruins": "150"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Thicket Ruins (H)",
+  "props": {
+   "ruins": "226"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Thicket Ruins (V)",
+  "props": {
+   "ruins": "227"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Thicket Ruins (C)",
+  "props": {
+   "ruins": "228"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": " Sewer Wall Ruins (H) ",
+  "props": {
+   "ruins": "638"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": " Sewer Wall Ruins (V) ",
+  "props": {
+   "ruins": "639"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": " Panel Wall Ruins (H) ",
+  "props": {
+   "ruins": "710"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": " Panel wall ruins (V) ",
+  "props": {
+   "ruins": "712"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": " Lodge Wall Ruins (H) ",
+  "props": {
+   "ruins": "716"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": " Lodge wall ruins (V) ",
+  "props": {
+   "ruins": "718"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Ice Labyrinth Wall ruins(H)",
+  "props": {
+   "ruins": "994"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Ice Labyrinth Wall ruins (V)",
+  "props": {
+   "ruins": "996"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Ice Labyrinth Corner pillar ruins",
+  "props": {
+   "ruins": "998"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Lava Tube Wall ruins (H)",
+  "props": {
+   "ruins": "1011"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Lava Tube Wall ruins (V)",
+  "props": {
+   "ruins": "1013"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Lava Tube Corner pillar ruins",
+  "props": {
+   "ruins": "1015"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Lodge Wall Ruins (h)",
+  "props": {
+   "ruins": "716"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Lodge Wall Ruins (v)",
+  "props": {
+   "ruins": "718"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "swamp cave rubble",
+  "props": {
+   "ruins": "1094"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "swamp cave wall ruin (h)",
+  "props": {
+   "ruins": "1093"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "swamp cave wall ruin (v)",
+  "props": {
+   "ruins": "1095"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "swamp cave column ruin",
+  "props": {
+   "ruins": "1097"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "palace right pillar ruins (h)",
+  "props": {
+   "ruins": "1161"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "palace right pillar ruins (v)",
+  "props": {
+   "ruins": "1162"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "palace left pillar ruins (h)",
+  "props": {
+   "ruins": "1163"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "palace left pillar ruins (v)",
+  "props": {
+   "ruins": "1164"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "palace wall ruins (v)",
+  "props": {
+   "ruins": "1165"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "palace wall ruins (h)",
+  "props": {
+   "ruins": "1166"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "art niche wall ruin (v)",
+  "props": {
+   "ruins": "1167"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "art niche wall ruin (h)",
+  "props": {
+   "ruins": "1168"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "palace column ruin",
+  "props": {
+   "ruins": "1169"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "palace arch ruins (h)",
+  "props": {
+   "ruins": "1185"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "palace arch ruins (v)",
+  "props": {
+   "ruins": "1186"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "mine rubble",
+  "props": {
+   "ruins": "1217"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "irr wall ruin (h)",
+  "props": {
+   "ruins": "1228"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "irr wall rubble",
+  "props": {
+   "ruins": "1229"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "irr wall ruin (v)",
+  "props": {
+   "ruins": "1230"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "irr post ruin",
+  "props": {
+   "ruins": "1232"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "light stone wall ruin (H)",
+  "props": {
+   "ruins": "676"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "light stone wall ruin (V)",
+  "props": {
+   "ruins": "675"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "light stone column ruin",
+  "props": {
+   "ruins": "677"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "light stone rubble",
+  "props": {
+   "ruins": "674"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "rock wall ruin (H)",
+  "props": {
+   "ruins": "685"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "rock wall ruin (V)",
+  "props": {
+   "ruins": "684"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "rock wall column ruin",
+  "props": {
+   "ruins": "686"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "rock rubble",
+  "props": {
+   "ruins": "683"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "cave wall ruin (H)",
+  "props": {
+   "ruins": "694"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "cave wall ruin (V)",
+  "props": {
+   "ruins": "693"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "cave wall column ruin",
+  "props": {
+   "ruins": "695"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "cave rubble",
+  "props": {
+   "ruins": "692"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Big City wood and stone rubble",
+  "props": {
+   "ruins": "703"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Big City wood and stone V",
+  "props": {
+   "ruins": "704"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Big City wood and stone H",
+  "props": {
+   "ruins": "705"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Big City wood and stone column ruin",
+  "props": {
+   "ruins": "706"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Big City stone wall ruin H",
+  "props": {
+   "ruins": "938"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Big City stone wall ruin V",
+  "props": {
+   "ruins": "947"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Big City wood sided wall ruin H",
+  "props": {
+   "ruins": "965"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Big City wood sided wall rubble",
+  "props": {
+   "ruins": "1239"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Big City log wall ruin",
+  "props": {
+   "ruins": "1236"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "Big City log column ruin",
+  "props": {
+   "ruins": "1238"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "dungeon dreary purple wall rubble",
+  "props": {
+   "ruins": "1262"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "dungeon dreary purple wall ruin V",
+  "props": {
+   "ruins": "1263"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "dungeon dreary purple wall ruin H",
+  "props": {
+   "ruins": "1264"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "dungeon dreary purple column ruin",
+  "props": {
+   "ruins": "1265"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "dungeon dreary desaturated blue rubble",
+  "props": {
+   "ruins": "1286"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "dungeon dreary desaturated blue wall V",
+  "props": {
+   "ruins": "1287"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "dungeon dreary desaturated blue wall H",
+  "props": {
+   "ruins": "1288"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "dungeon dreary desaturated blue column",
+  "props": {
+   "ruins": "1289"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "dungeon dreary 2x desaturated green rubble",
+  "props": {
+   "ruins": "1310"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "dungeon dreary 2x desaturated green wall V",
+  "props": {
+   "ruins": "1311"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "dungeon dreary 2x desaturated green wall H",
+  "props": {
+   "ruins": "1312"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "dungeon dreary 2x desaturated green column",
+  "props": {
+   "ruins": "1313"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "red brick rubble",
+  "props": {
+   "ruins": "1344"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "red brick wall ruin (h)",
+  "props": {
+   "ruins": "1346"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "red brick wall ruin (v)",
+  "props": {
+   "ruins": "1345"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "red brick post ruin",
+  "props": {
+   "ruins": "1343"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "icy cave rubble",
+  "props": {
+   "ruins": "1352"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "icy cave wall ruin (h)",
+  "props": {
+   "ruins": "1354"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "icy cave wall ruin (v)",
+  "props": {
+   "ruins": "1353"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "icy cave post ruin",
+  "props": {
+   "ruins": "1355"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "glacier rubble",
+  "props": {
+   "ruins": "1360"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "glacier wall ruin (h)",
+  "props": {
+   "ruins": "1359"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "glacier wall ruin (v)",
+  "props": {
+   "ruins": "1361"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "glacier post ruin",
+  "props": {
+   "ruins": "1363"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "nidavellir rubble",
+  "props": {
+   "ruins": "1368"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "nidavellir wall ruin (h)",
+  "props": {
+   "ruins": "1370"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "nidavellir wall ruin (v)",
+  "props": {
+   "ruins": "1369"
+  }
+ },
+ {
+  "type": "RuinsComponent",
+  "category": "Ruins",
+  "name": "nidavellir post ruin",
+  "props": {
+   "ruins": "1371"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Town (V)",
+  "props": {
+   "openId": "77",
+   "closedId": "65",
+   "secretId": "28",
+   "destroyedId": "83",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Town (H)",
+  "props": {
+   "openId": "76",
+   "closedId": "64",
+   "secretId": "27",
+   "destroyedId": "82",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "TrapCellar Door",
+  "props": {
+   "openId": "973",
+   "closedId": "972",
+   "secretId": "15",
+   "destroyedId": "8",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Temple (V)",
+  "props": {
+   "openId": "79",
+   "closedId": "67",
+   "secretId": "152",
+   "destroyedId": "85",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Temple (H)",
+  "props": {
+   "openId": "78",
+   "closedId": "66",
+   "secretId": "151",
+   "destroyedId": "84",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Marble (V)",
+  "props": {
+   "openId": "48",
+   "closedId": "36",
+   "secretId": "140",
+   "destroyedId": "49",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Marble (H)",
+  "props": {
+   "openId": "47",
+   "closedId": "35",
+   "secretId": "139",
+   "destroyedId": "37",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Dungeon (V)",
+  "props": {
+   "openId": "75",
+   "closedId": "63",
+   "secretId": "26",
+   "destroyedId": "81",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Dungeon (H)",
+  "props": {
+   "openId": "74",
+   "closedId": "62",
+   "secretId": "25",
+   "destroyedId": "80",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Runic (V)",
+  "props": {
+   "openId": "232",
+   "closedId": "230",
+   "secretId": "28",
+   "destroyedId": "234",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Runic (H)",
+  "props": {
+   "openId": "231",
+   "closedId": "229",
+   "secretId": "27",
+   "destroyedId": "233",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Egyptian (V)",
+  "props": {
+   "openId": "308",
+   "closedId": "312",
+   "secretId": "300",
+   "destroyedId": "310",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Egyptian (H)",
+  "props": {
+   "openId": "307",
+   "closedId": "311",
+   "secretId": "299",
+   "destroyedId": "309",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Red Shoji (V)",
+  "props": {
+   "openId": "392",
+   "closedId": "379",
+   "secretId": "363",
+   "destroyedId": "405",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Red Shoji (H)",
+  "props": {
+   "openId": "391",
+   "closedId": "378",
+   "secretId": "362",
+   "destroyedId": "404",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Jail (V)",
+  "props": {
+   "openId": "434",
+   "closedId": "421",
+   "secretId": "450",
+   "destroyedId": "436",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Jail (H)",
+  "props": {
+   "openId": "433",
+   "closedId": "420",
+   "secretId": "449",
+   "destroyedId": "435",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Steel (V)",
+  "props": {
+   "openId": "456",
+   "closedId": "454",
+   "secretId": "429",
+   "destroyedId": "458",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Steel (H)",
+  "props": {
+   "openId": "455",
+   "closedId": "453",
+   "secretId": "428",
+   "destroyedId": "457",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Dirty Marble (V)",
+  "props": {
+   "openId": "497",
+   "closedId": "495",
+   "secretId": "140",
+   "destroyedId": "499",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Dirty Marble (H)",
+  "props": {
+   "openId": "496",
+   "closedId": "494",
+   "secretId": "139",
+   "destroyedId": "498",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Dragon (H)",
+  "props": {
+   "openId": "506",
+   "closedId": "504",
+   "secretId": "151",
+   "destroyedId": "508",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Dragon (V)",
+  "props": {
+   "openId": "507",
+   "closedId": "505",
+   "secretId": "152",
+   "destroyedId": "509",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "4 panel door (H)",
+  "props": {
+   "openId": "1041",
+   "closedId": "1040",
+   "secretId": "152",
+   "destroyedId": "1042",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "4 panel door (v)",
+  "props": {
+   "openId": "1044",
+   "closedId": "1043",
+   "secretId": "152",
+   "destroyedId": "1045",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "blue steel door (h)",
+  "props": {
+   "openId": "1047",
+   "closedId": "1046",
+   "secretId": "152",
+   "destroyedId": "1047",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "blue steel door (v)",
+  "props": {
+   "openId": "1050",
+   "closedId": "1049",
+   "secretId": "152",
+   "destroyedId": "1050",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "peephole door (h)",
+  "props": {
+   "openId": "1053",
+   "closedId": "1052",
+   "secretId": "152",
+   "destroyedId": "1054",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "peephole door (v)",
+  "props": {
+   "openId": "1056",
+   "closedId": "1055",
+   "secretId": "152",
+   "destroyedId": "1057",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "plain door (h)",
+  "props": {
+   "openId": "1059",
+   "closedId": "1058",
+   "secretId": "152",
+   "destroyedId": "1060",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "plain door (v)",
+  "props": {
+   "openId": "1062",
+   "closedId": "1061",
+   "secretId": "152",
+   "destroyedId": "1063",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "steel door (h)",
+  "props": {
+   "openId": "1065",
+   "closedId": "1064",
+   "secretId": "152",
+   "destroyedId": "1065",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "steel door (v)",
+  "props": {
+   "openId": "1068",
+   "closedId": "1067",
+   "secretId": "152",
+   "destroyedId": "1068",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "steel door rusted (h)",
+  "props": {
+   "openId": "1071",
+   "closedId": "1070",
+   "secretId": "152",
+   "destroyedId": "1071",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "steel door rusted (v)",
+  "props": {
+   "openId": "1074",
+   "closedId": "1073",
+   "secretId": "152",
+   "destroyedId": "1074",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "thin slat door (h)",
+  "props": {
+   "openId": "1077",
+   "closedId": "1076",
+   "secretId": "152",
+   "destroyedId": "1078",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "thin slat door (v)",
+  "props": {
+   "openId": "1080",
+   "closedId": "1079",
+   "secretId": "152",
+   "destroyedId": "1081",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "wide slat door (h)",
+  "props": {
+   "openId": "1083",
+   "closedId": "1082",
+   "secretId": "152",
+   "destroyedId": "1084",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "wide slat door (v)",
+  "props": {
+   "openId": "1086",
+   "closedId": "1085",
+   "secretId": "152",
+   "destroyedId": "1087",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Big City Window H",
+  "props": {
+   "openId": "859",
+   "closedId": "858",
+   "secretId": "152",
+   "destroyedId": "703",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Big City Window V",
+  "props": {
+   "openId": "861",
+   "closedId": "860",
+   "secretId": "152",
+   "destroyedId": "703",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Big City wood-sided window H",
+  "props": {
+   "openId": "942",
+   "closedId": "941",
+   "secretId": "152",
+   "destroyedId": "1239",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Big City wood-sided window V",
+  "props": {
+   "openId": "944",
+   "closedId": "943",
+   "secretId": "152",
+   "destroyedId": "1239",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Big City L cemetary gate H",
+  "props": {
+   "openId": "949",
+   "closedId": "948",
+   "secretId": "152",
+   "destroyedId": "949",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Big City R cemetary gate H",
+  "props": {
+   "openId": "951",
+   "closedId": "950",
+   "secretId": "152",
+   "destroyedId": "951",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Big City log cabin window H",
+  "props": {
+   "openId": "961",
+   "closedId": "962",
+   "secretId": "152",
+   "destroyedId": "1236",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "Big City log cabin window V",
+  "props": {
+   "openId": "963",
+   "closedId": "964",
+   "secretId": "152",
+   "destroyedId": "1236",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "thin chamber door (h)",
+  "props": {
+   "openId": "1383",
+   "closedId": "1382",
+   "secretId": "152",
+   "destroyedId": "1384",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "DoorComponent",
+  "category": "Doors",
+  "name": "thin chamber door (v)",
+  "props": {
+   "openId": "1386",
+   "closedId": "1385",
+   "secretId": "152",
+   "destroyedId": "1387",
+   "isSecret": "false",
+   "isOpen": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Down (NS)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "123",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Down (WE)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "124",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Down (EW)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "125",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Down (SN)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "126",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Up (NS)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "127",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Up (WE)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "128",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Up (EW)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "129",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Up (SN)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "130",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Down (Spiral)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "254",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Up (Spiral)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "253",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Blank Down (Spiral)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1026",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "ShaftComponent",
+  "category": "Stairs",
+  "name": "Pit",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "8",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "ShaftComponent",
+  "category": "Stairs",
+  "name": "Pit (Caved)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "181",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "BW Marble Stairs Down South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "785",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "BW Marble Stairs Down East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "786",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "BW Marble Stairs Down West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "787",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "BW Marble Stairs Down North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "788",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "BW Marble Stairs Up North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "789",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "BW Marble Stairs Up West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "790",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "BW Marble Stairs Up East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "791",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "BW Marble Stairs Up South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "792",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Blue Marble Stairs Down South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "793",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Blue Marble Stairs Down East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "794",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Blue Marble Stairs Down West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "795",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Blue Marble Stairs Down North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "796",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Blue Marble Stairs Up North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "797",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Blue Marble Stairs Up West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "798",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Blue Marble Stairs Up East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "799",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Blue Marble Stairs Up South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "800",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rough Wood Stairs Down South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "801",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rough Wood Stairs Down East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "802",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rough Wood Stairs Down West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "803",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rough Wood Stairs Down South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "804",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rough Wood Stairs Up North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "805",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rough Wood Stairs Up West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "806",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rough Wood Stairs Up East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "807",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rough Wood Stairs Up South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "808",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Fine Wood Stairs Down South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "809",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Fine Wood Stairs Down East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "810",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Fine Wood Stairs Down West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "811",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Fine Wood Stairs Down North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "812",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Fine Wood Stairs Up North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "813",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Fine Wood Stairs Up West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "814",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Fine Wood Stairs Up East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "815",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Fine Wood Stairs Up South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "816",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rickety Wood Stairs Down South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "825",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rickety Wood Stairs Down East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "826",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rickety Wood Stairs Down West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "827",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rickety Wood Stairs Down North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "828",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rickety Wood Stairs Up North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "829",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rickety Wood Stairs Up West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "830",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rickety Wood Stairs Up East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "831",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Rickety Wood Stairs Up South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "832",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Decrepit Wood Stairs Down South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "833",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Decrepit Wood Stairs Down East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "834",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Decrepit Wood Stairs Down West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "835",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Decrepit Wood Stairs Down North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "836",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Decrepit Wood Stairs Up North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "837",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Decrepit Wood Stairs Up West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "838",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Decrepit Wood Stairs Up East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "839",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Decrepit Wood Stairs Up South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "840",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Dry Well",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "968",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "ShaftComponent",
+  "category": "Stairs",
+  "name": "Tunnel Entrance",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "971",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "ShaftComponent",
+  "category": "Stairs",
+  "name": "Dirt Hole",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "969",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "ShaftComponent",
+  "category": "Stairs",
+  "name": "Grassy Hole",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "970",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "ShaftComponent",
+  "category": "Stairs",
+  "name": "TrapCellar Door Down",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "973",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "ShaftComponent",
+  "category": "Stairs",
+  "name": "Sand Hole",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "974",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Ladder Down South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "983",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Ladder Down East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "984",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Ladder Down West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "985",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Ladder Down North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "986",
+   "descends": "true"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Ladder Up North",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "987",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Ladder Up West",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "988",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Ladder Up East",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "989",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "StaircaseComponent",
+  "category": "Stairs",
+  "name": "Ladder Up South",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "990",
+   "descends": "false"
+  }
+ },
+ {
+  "type": "SkyComponent",
+  "category": "Teleport",
+  "name": "Air",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "9"
+  }
+ },
+ {
+  "type": "SkyComponent",
+  "category": "Teleport",
+  "name": "Dark Air",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1016"
+  }
+ },
+ {
+  "type": "SkyComponent",
+  "category": "Teleport",
+  "name": "Dark Air Animated",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1017"
+  }
+ },
+ {
+  "type": "EgressComponent",
+  "category": "Teleport",
+  "name": "Leng",
+  "props": {
+   "egress": "315",
+   "destinationSegment": "2"
+  }
+ },
+ {
+  "type": "EgressComponent",
+  "category": "Teleport",
+  "name": "Kesmai",
+  "props": {
+   "egress": "316",
+   "destinationSegment": "1"
+  }
+ },
+ {
+  "type": "EgressComponent",
+  "category": "Teleport",
+  "name": "Oakvael",
+  "props": {
+   "egress": "328",
+   "destinationSegment": "4"
+  }
+ },
+ {
+  "type": "EgressComponent",
+  "category": "Teleport",
+  "name": "Axe Glacier",
+  "props": {
+   "egress": "329",
+   "destinationSegment": "3"
+  }
+ },
+ {
+  "type": "EgressComponent",
+  "category": "Teleport",
+  "name": "Underkingdom",
+  "props": {
+   "egress": "330",
+   "destinationSegment": "5"
+  }
+ },
+ {
+  "type": "EgressComponent",
+  "category": "Teleport",
+  "name": "Torii",
+  "props": {
+   "egress": "332"
+  }
+ },
+ {
+  "type": "EgressComponent",
+  "category": "Teleport",
+  "name": "Rift Glacier",
+  "props": {
+   "egress": "319"
+  }
+ },
+ {
+  "type": "EgressComponent",
+  "category": "Teleport",
+  "name": "Shukumei",
+  "props": {
+   "egress": "331"
+  }
+ },
+ {
+  "type": "EgressComponent",
+  "category": "Teleport",
+  "name": "Annwn",
+  "props": {
+   "egress": "318"
+  }
+ },
+ {
+  "type": "EgressComponent",
+  "category": "Teleport",
+  "name": "Generic",
+  "props": {
+   "egress": "318"
+  }
+ },
+ {
+  "type": "EgressComponent",
+  "category": "Teleport",
+  "name": "Moongate",
+  "props": {
+   "egress": "189"
+  }
+ },
+ {
+  "type": "EgressComponent",
+  "category": "Teleport",
+  "name": "Moongate",
+  "props": {
+   "egress": "190"
+  }
+ },
+ {
+  "type": "HiddenTeleporterComponent",
+  "category": "Teleport",
+  "name": "Hidden",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0"
+  }
+ },
+ {
+  "type": "SkyComponent",
+  "category": "Teleport",
+  "name": "Animated Portal",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1330"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Climb Up (X South)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "237",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Climb Up (X East)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "238",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Climb Down (X West)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "241",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Climb Up (X West)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "255",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Down (South)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "256",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Up (South)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "257",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Climb Down (X West)",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "512",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Rope",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "513",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Rope",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "514",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Rope North and Up",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1388",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Rope West and Up",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1389",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Rope East and Up",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1390",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Rope West and Down",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1391",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Rope North and Down",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1392",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Rope South and Up",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1393",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Rope East/South and Down",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1394",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Root North and Up",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1395",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Root West and Up",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1396",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Root East and Up",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1397",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Root West and Down",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1398",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Root South and Up",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1399",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Root North and Down",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1400",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Root East/South and Down",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1401",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Vine North and Up",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1402",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Vine West and Up",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1403",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Vine East and Up",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1404",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Vine West and Down",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1405",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Vine North and Down",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1406",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Vine South and Up",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1407",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "RopeComponent",
+  "category": "Ropes",
+  "name": "Vine East/South and Down",
+  "props": {
+   "destinationX": "0",
+   "destinationY": "0",
+   "destinationRegion": "0",
+   "teleporterId": "1408",
+   "isSecret": "false"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Jungle Foliage",
+  "props": {
+   "static": "92"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Jungle Foliage",
+  "props": {
+   "static": "93"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Jungle Foliage",
+  "props": {
+   "static": "94"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Jungle Foliage",
+  "props": {
+   "static": "95"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Large Tree",
+  "props": {
+   "tree": "98",
+   "canGrow": "true"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Medium Tree",
+  "props": {
+   "tree": "99",
+   "canGrow": "true"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Small Tree",
+  "props": {
+   "tree": "100",
+   "canGrow": "true"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Tall Grass",
+  "props": {
+   "static": "105"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Tall Reeds",
+  "props": {
+   "static": "106"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Tall Grass",
+  "props": {
+   "static": "107"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Wheat",
+  "props": {
+   "static": "875"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Burnt Wheat",
+  "props": {
+   "static": "876"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Corn",
+  "props": {
+   "static": "873"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Burnt Corn",
+  "props": {
+   "static": "874"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Grapevines",
+  "props": {
+   "static": "877"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Burnt Grapevines",
+  "props": {
+   "static": "878"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Tall Reeds",
+  "props": {
+   "static": "108"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Tall Bamboo",
+  "props": {
+   "static": "109"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Tall Bamboo",
+  "props": {
+   "static": "110"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Heavy Snow",
+  "props": {
+   "static": "121"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Heavy Snow",
+  "props": {
+   "static": "122"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Large Pine Tree",
+  "props": {
+   "tree": "199",
+   "canGrow": "true"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Medium Pine Tree",
+  "props": {
+   "tree": "200",
+   "canGrow": "true"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Small Pine Tree",
+  "props": {
+   "tree": "201",
+   "canGrow": "true"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Large Pine Tree (Snow)",
+  "props": {
+   "tree": "202",
+   "canGrow": "true"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Medium Pine Tree (Snow)",
+  "props": {
+   "tree": "203",
+   "canGrow": "true"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Small Pine Tree (Snow)",
+  "props": {
+   "tree": "204",
+   "canGrow": "true"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Creosote Bush",
+  "props": {
+   "static": "205"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Red Flowers",
+  "props": {
+   "static": "206"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Yellow Flowers",
+  "props": {
+   "static": "207"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Large Oak Trunk",
+  "props": {
+   "static": "208"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Small Jungle Tree",
+  "props": {
+   "tree": "247",
+   "canGrow": "true"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Fig Tree",
+  "props": {
+   "static": "326"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Wierd Tree",
+  "props": {
+   "tree": "370",
+   "canGrow": "true"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Bamboo",
+  "props": {
+   "tree": "403",
+   "canGrow": "true"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Burnt Tree (L)",
+  "props": {
+   "static": "101"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Burnt Tree (M)",
+  "props": {
+   "static": "102"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Burnt Tree (S)",
+  "props": {
+   "static": "103"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Burnt Wierd Tree",
+  "props": {
+   "static": "372"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Burnt Fruit Tree",
+  "props": {
+   "static": "897"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Dead Shrubs",
+  "props": {
+   "static": "1002"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Dead Tree",
+  "props": {
+   "static": "1005"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Palm Tree [Tenser]",
+  "props": {
+   "tree": "624",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Large Palm Tree (1) [Tenser]",
+  "props": {
+   "tree": "625",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Large Palm Tree (2) [Tenser]",
+  "props": {
+   "tree": "626",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Banana Tree [Tenser]",
+  "props": {
+   "tree": "627",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Pear Tree",
+  "props": {
+   "tree": "893",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Peach Tree",
+  "props": {
+   "tree": "894",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Apple Tree",
+  "props": {
+   "tree": "895",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Orange Tree",
+  "props": {
+   "tree": "896",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Cherry Tree",
+  "props": {
+   "tree": "905",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Cherry Tree (Blossoms)",
+  "props": {
+   "tree": "906",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Autumn Brown Tree",
+  "props": {
+   "tree": "898",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Autumn Orange Tree",
+  "props": {
+   "tree": "899",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Autumn Light Red Tree",
+  "props": {
+   "tree": "901",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Autumn Dark Red Tree",
+  "props": {
+   "tree": "900",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Autumn Yellow Tree",
+  "props": {
+   "tree": "902",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Dormant Deciduous Tree",
+  "props": {
+   "tree": "903",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "TreeComponent",
+  "category": "Vegetation",
+  "name": "Frozen Deciduous Tree",
+  "props": {
+   "tree": "904",
+   "canGrow": "false"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "lilly pads",
+  "props": {
+   "static": "1100"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "swamp assorted",
+  "props": {
+   "static": "1101"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "reeds and cattails",
+  "props": {
+   "static": "1102"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "swamp flower purple",
+  "props": {
+   "static": "1103"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "swamp flower white",
+  "props": {
+   "static": "1104"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "lilly pad cluster",
+  "props": {
+   "static": "1105"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "cattail cluster",
+  "props": {
+   "static": "1106"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "tall reeds",
+  "props": {
+   "static": "1107"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Swamp Cypress",
+  "props": {
+   "static": "1112"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "Swamp Cypress dead",
+  "props": {
+   "static": "1113"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "short hedge V",
+  "props": {
+   "static": "1233"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "short hedge H",
+  "props": {
+   "static": "1234"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "round topiari",
+  "props": {
+   "static": "1243"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "fir topiari",
+  "props": {
+   "static": "1245"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "med blooming mushroom",
+  "props": {
+   "static": "1373"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "large and med mushroom",
+  "props": {
+   "static": "1374"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "2 med mushrooms",
+  "props": {
+   "static": "1375"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "large mushroom",
+  "props": {
+   "static": "1376"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "med mushroom",
+  "props": {
+   "static": "1377"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "small mushroom cluster (right)",
+  "props": {
+   "static": "1378"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Vegetation",
+  "name": "small mushroom cluster (left)",
+  "props": {
+   "static": "1379"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Reef",
+  "props": {
+   "obstruction": "19",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Reef [Zrikz]",
+  "props": {
+   "obstruction": "605",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Iron Porticullus (H)",
+  "props": {
+   "obstruction": "165",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Iron Porticullus (V)",
+  "props": {
+   "obstruction": "166",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Jail (H)",
+  "props": {
+   "obstruction": "449",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Jail (V)",
+  "props": {
+   "obstruction": "450",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Massive Anvil",
+  "props": {
+   "obstruction": "164",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Cart (H)",
+  "props": {
+   "obstruction": "892",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Cart (V)",
+  "props": {
+   "obstruction": "887",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Crate (L)",
+  "props": {
+   "obstruction": "879",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Crate of Grains",
+  "props": {
+   "obstruction": "882",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Mace Display Crate",
+  "props": {
+   "obstruction": "883",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Greataxe Display Crate",
+  "props": {
+   "obstruction": "884",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Sword Display Crate",
+  "props": {
+   "obstruction": "885",
+   "blockVision": "false"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Heavy Oak",
+  "props": {
+   "obstruction": "266",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Dirty Marble Pillar",
+  "props": {
+   "obstruction": "168",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Sandstone Pillar",
+  "props": {
+   "obstruction": "313",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Large dragonscale pillar",
+  "props": {
+   "obstruction": "857",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "small dragonscale pillar",
+  "props": {
+   "obstruction": "866",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Big City cemetary fence post",
+  "props": {
+   "obstruction": "954",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Big City gargoyle Gate post",
+  "props": {
+   "obstruction": "955",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "Big City knight memorial",
+  "props": {
+   "obstruction": "1246",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "dungeon dreary plain king statue",
+  "props": {
+   "obstruction": "1280",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "dungeon dreary blue king statue",
+  "props": {
+   "obstruction": "1304",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "dungeon dreary green king statue",
+  "props": {
+   "obstruction": "1328",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "dungeon dreary plain dragon statue",
+  "props": {
+   "obstruction": "1281",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "dungeon dreary blue dragon statue",
+  "props": {
+   "obstruction": "1305",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "dungeon dreary green dragon statue",
+  "props": {
+   "obstruction": "1329",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "dungeon dreary purple column",
+  "props": {
+   "obstruction": "1271",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "dungeon dreary blue column",
+  "props": {
+   "obstruction": "1295",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "ObstructionComponent",
+  "category": "Obstructions",
+  "name": "dungeon dreary green column",
+  "props": {
+   "obstruction": "1319",
+   "blockVision": "true"
+  }
+ },
+ {
+  "type": "CounterComponent",
+  "category": "Counters and Altars",
+  "name": "Wood (H)",
+  "props": {
+   "counter": "86"
+  }
+ },
+ {
+  "type": "CounterComponent",
+  "category": "Counters and Altars",
+  "name": "Wood (V)",
+  "props": {
+   "counter": "87"
+  }
+ },
+ {
+  "type": "CounterComponent",
+  "category": "Counters and Altars",
+  "name": "Slate (H)",
+  "props": {
+   "counter": "96"
+  }
+ },
+ {
+  "type": "CounterComponent",
+  "category": "Counters and Altars",
+  "name": "Slate (V)",
+  "props": {
+   "counter": "97"
+  }
+ },
+ {
+  "type": "CounterComponent",
+  "category": "Counters and Altars",
+  "name": "Gilded (H)",
+  "props": {
+   "counter": "248"
+  }
+ },
+ {
+  "type": "CounterComponent",
+  "category": "Counters and Altars",
+  "name": "Gilded (V)",
+  "props": {
+   "counter": "249"
+  }
+ },
+ {
+  "type": "CounterComponent",
+  "category": "Counters and Altars",
+  "name": "Table (H)",
+  "props": {
+   "counter": "267"
+  }
+ },
+ {
+  "type": "CounterComponent",
+  "category": "Counters and Altars",
+  "name": "Table (V)",
+  "props": {
+   "counter": "268"
+  }
+ },
+ {
+  "type": "CounterComponent",
+  "category": "Counters and Altars",
+  "name": "Alchemy Table (H)",
+  "props": {
+   "counter": "269"
+  }
+ },
+ {
+  "type": "CounterComponent",
+  "category": "Counters and Altars",
+  "name": "Alchemy Table (V)",
+  "props": {
+   "counter": "270"
+  }
+ },
+ {
+  "type": "CounterComponent",
+  "category": "Counters and Altars",
+  "name": "Stone Table (H)",
+  "props": {
+   "counter": "399"
+  }
+ },
+ {
+  "type": "CounterComponent",
+  "category": "Counters and Altars",
+  "name": "Stone Table (V)",
+  "props": {
+   "counter": "400"
+  }
+ },
+ {
+  "type": "AltarComponent",
+  "category": "Counters and Altars",
+  "name": "Temple Altar",
+  "props": {
+   "altar": "113"
+  }
+ },
+ {
+  "type": "AltarComponent",
+  "category": "Counters and Altars",
+  "name": "Granite Altar (1)",
+  "props": {
+   "altar": "138"
+  }
+ },
+ {
+  "type": "AltarComponent",
+  "category": "Counters and Altars",
+  "name": "Granite Altar (2)",
+  "props": {
+   "altar": "163"
+  }
+ },
+ {
+  "type": "AltarComponent",
+  "category": "Counters and Altars",
+  "name": "Skull Altar",
+  "props": {
+   "altar": "169"
+  }
+ },
+ {
+  "type": "AltarComponent",
+  "category": "Counters and Altars",
+  "name": "Carved Wood Altar",
+  "props": {
+   "altar": "174"
+  }
+ },
+ {
+  "type": "AltarComponent",
+  "category": "Counters and Altars",
+  "name": "Egyptian Altar (1)",
+  "props": {
+   "altar": "278"
+  }
+ },
+ {
+  "type": "AltarComponent",
+  "category": "Counters and Altars",
+  "name": "Egyptian Altar (2)",
+  "props": {
+   "altar": "290"
+  }
+ },
+ {
+  "type": "AltarComponent",
+  "category": "Counters and Altars",
+  "name": "Egyptian Altar (3)",
+  "props": {
+   "altar": "302"
+  }
+ },
+ {
+  "type": "AltarComponent",
+  "category": "Counters and Altars",
+  "name": "Egyptian Altar (4)",
+  "props": {
+   "altar": "314"
+  }
+ },
+ {
+  "type": "AltarComponent",
+  "category": "Counters and Altars",
+  "name": "Egyptian Altar (5)",
+  "props": {
+   "altar": "324"
+  }
+ },
+ {
+  "type": "AltarComponent",
+  "category": "Counters and Altars",
+  "name": "Egyptian Altar (6)",
+  "props": {
+   "altar": "327"
+  }
+ },
+ {
+  "type": "AltarComponent",
+  "category": "Counters and Altars",
+  "name": "Blue Marble (6)",
+  "props": {
+   "altar": "368"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Boxing Ring",
+  "props": {
+   "static": "114"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Small Spring",
+  "props": {
+   "static": "242"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Fountain Pool",
+  "props": {
+   "static": "209"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Fountain Center",
+  "props": {
+   "static": "210"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Blood over Altar",
+  "props": {
+   "static": "236"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Blood Stains",
+  "props": {
+   "static": "167"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Gravestone (1)",
+  "props": {
+   "static": "213"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Gravestone (2)",
+  "props": {
+   "static": "214"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Gravestone (3)",
+  "props": {
+   "static": "215"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Grave (1)",
+  "props": {
+   "static": "216"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Grave (2)",
+  "props": {
+   "static": "217"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mirror (H)",
+  "props": {
+   "static": "117"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mirror (V)",
+  "props": {
+   "static": "118"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Torn Tapestry (H)",
+  "props": {
+   "static": "171"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Torn Tapestry (V)",
+  "props": {
+   "static": "172"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Oriental Tapestry (H)",
+  "props": {
+   "static": "197"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Oriental Tapestry (V)",
+  "props": {
+   "static": "198"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Red Carpet",
+  "props": {
+   "static": "317"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Crushed Bones",
+  "props": {
+   "static": "173"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Sordid Remains (H)",
+  "props": {
+   "static": "211"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Sordid Remains (V)",
+  "props": {
+   "static": "212"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Hanging Skeleton (H)",
+  "props": {
+   "static": "220"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Hanging Skeleton (V)",
+  "props": {
+   "static": "221"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Bookshelf (H)",
+  "props": {
+   "static": "243"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Bookshelf (V)",
+  "props": {
+   "static": "244"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "librarybookshelf (H)",
+  "props": {
+   "static": "764"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "librarybookshelf2 (V)",
+  "props": {
+   "static": "765"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Storage Shelf (H)",
+  "props": {
+   "static": "439"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Storage Shelf (V)",
+  "props": {
+   "static": "440"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Wizard Emblems (H)",
+  "props": {
+   "static": "245"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Wizard Emblems (V)",
+  "props": {
+   "static": "246"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Tailor Scraps",
+  "props": {
+   "static": "250"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Iron Throne",
+  "props": {
+   "static": "219"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Dragon Throne",
+  "props": {
+   "static": "222"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Oak Throne",
+  "props": {
+   "static": "251"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Treasure",
+  "props": {
+   "static": "349"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Campfire",
+  "props": {
+   "static": "373"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Crated Fruits",
+  "props": {
+   "static": "880"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Crated Veggies and Grains",
+  "props": {
+   "static": "881"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Sealed Crate (L)",
+  "props": {
+   "static": "879"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Open Crate (L)",
+  "props": {
+   "static": "888"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Destroyed Crate (L)",
+  "props": {
+   "static": "889"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Sealed Crate (S)",
+  "props": {
+   "static": "886"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Open Crate (S)",
+  "props": {
+   "static": "890"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Destroyed Crate (S)",
+  "props": {
+   "static": "891"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Price List (H)",
+  "props": {
+   "static": "348"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Price List (V)",
+  "props": {
+   "static": "361"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Dagger (H)",
+  "props": {
+   "static": "385"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Dagger (V)",
+  "props": {
+   "static": "386"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mace (H)",
+  "props": {
+   "static": "305"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mace (V)",
+  "props": {
+   "static": "306"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Jail Cot (H)",
+  "props": {
+   "static": "411"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Jail Cot (V)",
+  "props": {
+   "static": "412"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Crane (H)",
+  "props": {
+   "static": "478"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Crane (V)",
+  "props": {
+   "static": "479"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Fuji (H)",
+  "props": {
+   "static": "490"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Fuji (V)",
+  "props": {
+   "static": "491"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Wine Cask (V)",
+  "props": {
+   "static": "401"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Shimmering Wall (H)",
+  "props": {
+   "static": "194"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Shimmering Wall (V)",
+  "props": {
+   "static": "195"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Waterfall (H)",
+  "props": {
+   "static": "191"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Waterfall (V)",
+  "props": {
+   "static": "192"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Waterfall Animated (H)",
+  "props": {
+   "static": "1006"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Waterfall Animated (V)",
+  "props": {
+   "static": "1007"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "snowdrift (H)",
+  "props": {
+   "static": "762"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "snowdrift edge (H)",
+  "props": {
+   "static": "660"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "snowdrift2 (V)",
+  "props": {
+   "static": "763"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "snowdrift edge (V)",
+  "props": {
+   "static": "659"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "webbed soul (H)",
+  "props": {
+   "static": "661"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "webbed soul (V)",
+  "props": {
+   "static": "662"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "web(H)",
+  "props": {
+   "static": "663"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "web(V)",
+  "props": {
+   "static": "664"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "crushed skeleton",
+  "props": {
+   "static": "665"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "skeleton 1",
+  "props": {
+   "static": "668"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "skeleton 2",
+  "props": {
+   "static": "669"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "skeleton 3",
+  "props": {
+   "static": "678"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "skeleton 4",
+  "props": {
+   "static": "687"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "armored skeleton",
+  "props": {
+   "static": "696"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Closed Sarcophagus (H)",
+  "props": {
+   "static": "424"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Closed Sarcophagus (V)",
+  "props": {
+   "static": "425"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Open Sarcophagus (H)",
+  "props": {
+   "static": "437"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Open Sarcophagus (V)",
+  "props": {
+   "static": "438"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Torii (H)",
+  "props": {
+   "static": "422"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Torii (V)",
+  "props": {
+   "static": "423"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Congealed Lava",
+  "props": {
+   "static": "137"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Fog",
+  "props": {
+   "static": "193"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Barrel Water",
+  "props": {
+   "static": "235"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mossy Pillar",
+  "props": {
+   "static": "1001"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Open Stones",
+  "props": {
+   "static": "218"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Sewer Wall Drain (1)",
+  "props": {
+   "static": "632"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Sewer Wall Drain (2)",
+  "props": {
+   "static": "633"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Sewer Wall Drain (3)",
+  "props": {
+   "static": "634"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Sewer Wall Drain (4)",
+  "props": {
+   "static": "635"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Sewer Wall (V)",
+  "props": {
+   "static": "630"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Sewer Wall (H)",
+  "props": {
+   "static": "631"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Sewer Wall Full (V)",
+  "props": {
+   "static": "636"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Sewer Wall Full (H)",
+  "props": {
+   "static": "637"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Collapsed Portal Pillar",
+  "props": {
+   "static": "642"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Shattered Stalagmite",
+  "props": {
+   "static": "643"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Vase (Base)",
+  "props": {
+   "static": "649"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Vase (Single Ring)",
+  "props": {
+   "static": "650"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Vase (Double Ring)",
+  "props": {
+   "static": "651"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Vase (Pattern 1)",
+  "props": {
+   "static": "652"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Vase (Pattern 2)",
+  "props": {
+   "static": "653"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Vase (Pattern 3)",
+  "props": {
+   "static": "654"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Vase (Shadow)",
+  "props": {
+   "static": "655"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Vase (Broken)",
+  "props": {
+   "static": "656"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Vases",
+  "props": {
+   "static": "657"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " Plaster-set Back-board (H) ",
+  "props": {
+   "static": "726"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " Plaster-set Back-board (V)",
+  "props": {
+   "static": "729"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " inside-back rope (H) ",
+  "props": {
+   "static": "738"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " left-inside rope (V) ",
+  "props": {
+   "static": "739"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " right flap-1 (V) ",
+  "props": {
+   "static": "740"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " red rug ",
+  "props": {
+   "static": "741"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " gray rug ",
+  "props": {
+   "static": "742"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " front flap-2 (H) ",
+  "props": {
+   "static": "743"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " inside back rope accent (H) ",
+  "props": {
+   "static": "744"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " inside-left rope accent (V) ",
+  "props": {
+   "static": "745"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " right flap-2 (V) ",
+  "props": {
+   "static": "746"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " square fur rug ",
+  "props": {
+   "static": "747"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " bear rug (V) ",
+  "props": {
+   "static": "748"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " front flap-1 accent (H) ",
+  "props": {
+   "static": "749"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " inside-back shade-screen (H) ",
+  "props": {
+   "static": "750"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " inside left shade screen (V) ",
+  "props": {
+   "static": "751"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " right flap-1 accent (V) ",
+  "props": {
+   "static": "752"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " bear rug (H) ",
+  "props": {
+   "static": "753"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " front flap-2 accent (H) ",
+  "props": {
+   "static": "754"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " inside back stripe accent (H) ",
+  "props": {
+   "static": "755"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " inside left stripe accent (V) ",
+  "props": {
+   "static": "756"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": " right flap-2 accent (V) ",
+  "props": {
+   "static": "757"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Stair Rug Down South",
+  "props": {
+   "static": "817"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Stair Rug Down East",
+  "props": {
+   "static": "818"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Stair Rug Down West",
+  "props": {
+   "static": "819"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Stair Rug Down North",
+  "props": {
+   "static": "820"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Stair Rug Up North",
+  "props": {
+   "static": "821"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Stair Rug Up West",
+  "props": {
+   "static": "822"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Stair Rug Up East",
+  "props": {
+   "static": "823"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Stair Rug Up South",
+  "props": {
+   "static": "824"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Snow and Icey Stair Down South",
+  "props": {
+   "static": "841"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Snow and Icey Stair Down East",
+  "props": {
+   "static": "842"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Snow and Icey Stair Down West",
+  "props": {
+   "static": "843"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Snow and Icey Stair Down North",
+  "props": {
+   "static": "844"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Snow and Icey Stair Up North",
+  "props": {
+   "static": "845"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Snow and Icey Stair Up West",
+  "props": {
+   "static": "846"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Snow and Icey Stair Up East",
+  "props": {
+   "static": "847"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Snow and Icey Stair Up South",
+  "props": {
+   "static": "848"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Bloodied Stair Down South",
+  "props": {
+   "static": "849"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Bloodied Stair Down East",
+  "props": {
+   "static": "850"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Bloodied Stair Down West",
+  "props": {
+   "static": "851"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Bloodied Stair Down North",
+  "props": {
+   "static": "852"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Bloodied Stair Up North",
+  "props": {
+   "static": "853"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Bloodied Stair Up West",
+  "props": {
+   "static": "854"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Bloodied Stair Up East",
+  "props": {
+   "static": "855"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Bloodied Stair Up South",
+  "props": {
+   "static": "856"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mossy Stairs Down South",
+  "props": {
+   "static": "907"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mossy Stairs Down East",
+  "props": {
+   "static": "908"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mossy Stairs Down West",
+  "props": {
+   "static": "909"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mossy Stairs Down North",
+  "props": {
+   "static": "910"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mossy Stairs Up North",
+  "props": {
+   "static": "911"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mossy Stairs Up West",
+  "props": {
+   "static": "912"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mossy Stairs Up East",
+  "props": {
+   "static": "913"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Mossy Stairs Up South",
+  "props": {
+   "static": "914"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Grassy Stairs Down South",
+  "props": {
+   "static": "915"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Grassy Stairs Down East",
+  "props": {
+   "static": "916"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Grassy Stairs Down West",
+  "props": {
+   "static": "917"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Grassy Stairs Down North",
+  "props": {
+   "static": "918"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Grassy Stairs Up North",
+  "props": {
+   "static": "919"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Grassy Stairs Up West",
+  "props": {
+   "static": "920"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Grassy Stairs Up East",
+  "props": {
+   "static": "921"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Grassy Stairs Up South",
+  "props": {
+   "static": "922"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Floral Stair Accent Down South",
+  "props": {
+   "static": "923"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Floral Stair Accent Down East",
+  "props": {
+   "static": "924"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Floral Stair Accent Down West",
+  "props": {
+   "static": "925"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Floral Stair Accent Down North",
+  "props": {
+   "static": "926"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Floral Stair Accent Up North",
+  "props": {
+   "static": "927"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Floral Stair Accent Up West",
+  "props": {
+   "static": "928"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Floral Stair Accent Up East",
+  "props": {
+   "static": "929"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Floral Stair Accent Up South",
+  "props": {
+   "static": "930"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "swamp vines for tree column",
+  "props": {
+   "static": "1109"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "swamp vines wrap for tree column",
+  "props": {
+   "static": "1110"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "swamp vines floral for tree column",
+  "props": {
+   "static": "1111"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Magic circle 3",
+  "props": {
+   "static": "1188"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Magic circle 2",
+  "props": {
+   "static": "1189"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "Magic circle 1",
+  "props": {
+   "static": "1190"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "lectern (h)",
+  "props": {
+   "static": "1191"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "lectern (v)",
+  "props": {
+   "static": "1192"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "desk (h)",
+  "props": {
+   "static": "1193"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "desk (v)",
+  "props": {
+   "static": "1194"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "single bed (v)",
+  "props": {
+   "static": "1195"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "single bed (h)",
+  "props": {
+   "static": "1205"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "double bed (v)",
+  "props": {
+   "static": "1196"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "double bed (h)",
+  "props": {
+   "static": "1206"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "rightfacing chair (h)",
+  "props": {
+   "static": "1197"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "southfacing chair (v)",
+  "props": {
+   "static": "1198"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "leftfacing chair (h)",
+  "props": {
+   "static": "1199"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "northfacing chair (v)",
+  "props": {
+   "static": "1200"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "wardrobe (v)",
+  "props": {
+   "static": "1201"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "wardrobe (h)",
+  "props": {
+   "static": "1202"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "nightstand (h)",
+  "props": {
+   "static": "1203"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "nightstand (v)",
+  "props": {
+   "static": "1204"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "bunk (v)",
+  "props": {
+   "static": "1207"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "bunk (h)",
+  "props": {
+   "static": "1208"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "big chest (h)",
+  "props": {
+   "static": "1209"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "big chest (v)",
+  "props": {
+   "static": "1210"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "nightstand (h) chamber pot,wash basin, candle",
+  "props": {
+   "static": "1211"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "nightstand (v) candle",
+  "props": {
+   "static": "1212"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "cauldron",
+  "props": {
+   "static": "1242"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "headstone 1",
+  "props": {
+   "static": "1244"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "small headstone 1",
+  "props": {
+   "static": "1247"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "cross headstone 1",
+  "props": {
+   "static": "1248"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "sleeping woman sarcophagus V",
+  "props": {
+   "static": "1249"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "blank sarcophagus V",
+  "props": {
+   "static": "1250"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "rejuvinated sarcophagus V",
+  "props": {
+   "static": "1251"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "headstone 1 V",
+  "props": {
+   "static": "1252"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "small headstone 1 V",
+  "props": {
+   "static": "1253"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "cross headstone 1 V",
+  "props": {
+   "static": "1254"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "rejuvinated sarcophagus H",
+  "props": {
+   "static": "1255"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "sleeping woman sarophagus H",
+  "props": {
+   "static": "1256"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "blank sarcophagus H",
+  "props": {
+   "static": "1257"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "purple cultist statue",
+  "props": {
+   "static": "1274"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "blue cultist statue",
+  "props": {
+   "static": "1298"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "green cultist statue",
+  "props": {
+   "static": "1322"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "purple maiden statue",
+  "props": {
+   "static": "1275"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "blue maiden statue",
+  "props": {
+   "static": "1299"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Decorations",
+  "name": "green maiden statue",
+  "props": {
+   "static": "1323"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Torchlight (H)",
+  "props": {
+   "static": "931"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Torchlight (V)",
+  "props": {
+   "static": "932"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Wall Brazier (H)",
+  "props": {
+   "static": "976"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Wall Brazier (V)",
+  "props": {
+   "static": "977"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Wall Brazier Greenfire(H)",
+  "props": {
+   "static": "978"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Wall Brazier Greenfire(V)",
+  "props": {
+   "static": "979"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Wall Brazier Bluefire(H)",
+  "props": {
+   "static": "980"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Wall Brazier Bluefire(V)",
+  "props": {
+   "static": "981"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Wall Darkened (H)",
+  "props": {
+   "static": "933"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Wall Darkened (V)",
+  "props": {
+   "static": "934"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Floor Darkened",
+  "props": {
+   "static": "935"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Floor Brazier",
+  "props": {
+   "static": "975"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Sidewall Darkened (V)",
+  "props": {
+   "static": "1038"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Sidewall Darkened (H)",
+  "props": {
+   "static": "1039"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Candelabra",
+  "props": {
+   "static": "982"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "Candelabra without Shade",
+  "props": {
+   "static": "1025"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "torches (H) no shade",
+  "props": {
+   "static": "1029"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "torches (v) no shade",
+  "props": {
+   "static": "1030"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "floor brazier without shade",
+  "props": {
+   "static": "1037"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "wall brazier without shade (H)",
+  "props": {
+   "static": "1035"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "wall brazier without shade (V)",
+  "props": {
+   "static": "1036"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "blue wall brazier without shade (H)",
+  "props": {
+   "static": "1031"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "blue wall brazier without shade (V)",
+  "props": {
+   "static": "1032"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "green wall brazier without shade (H)",
+  "props": {
+   "static": "1033"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "lighting and shade",
+  "name": "green wall brazier without shade (V)",
+  "props": {
+   "static": "1034"
+  }
+ },
+ {
+  "type": "LockersComponent",
+  "category": "Misc.",
+  "name": "Lockers (H)",
+  "props": {
+   "static": "119"
+  }
+ },
+ {
+  "type": "LockersComponent",
+  "category": "Misc.",
+  "name": "Lockers (V)",
+  "props": {
+   "static": "120"
+  }
+ },
+ {
+  "type": "TrashComponent",
+  "category": "Misc.",
+  "name": "Trash Barrel",
+  "props": {
+   "static": "88"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Misc.",
+  "name": "Animated campfire",
+  "props": {
+   "static": "766"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Grove",
+  "name": null,
+  "props": {
+   "color": "",
+   "ground": "23"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Grove",
+  "name": null,
+  "props": {
+   "color": "",
+   "ground": "23"
+  }
+ },
+ {
+  "type": "FloorComponent",
+  "category": "Grove",
+  "name": null,
+  "props": {
+   "color": "",
+   "ground": "23"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Grove",
+  "name": null,
+  "props": {
+   "color": "",
+   "wall": "157",
+   "destroyed": "160",
+   "ruins": "170"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Grove",
+  "name": null,
+  "props": {
+   "color": "",
+   "static": "226"
+  }
+ },
+ {
+  "type": "WallComponent",
+  "category": "Grove",
+  "name": null,
+  "props": {
+   "color": "",
+   "wall": "158",
+   "destroyed": "161",
+   "ruins": "170"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Grove",
+  "name": null,
+  "props": {
+   "color": "",
+   "static": "227"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Shield Ornamental (for the shadow) (H)",
+  "props": {
+   "static": "767"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Crossed swords (H)",
+  "props": {
+   "static": "768"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Shiny Shield Ornamental (H)",
+  "props": {
+   "static": "769"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Shield Ornamental Trim 1 (H)",
+  "props": {
+   "static": "770"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Shield Ornamental Trim 2 (H)",
+  "props": {
+   "static": "771"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Shield Ornamental Matte Shield (H)",
+  "props": {
+   "static": "772"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Shield Ornamental Chevron (H)",
+  "props": {
+   "static": "773"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Shield Ornamental inverted Chevron (H)",
+  "props": {
+   "static": "774"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Banner Low Contrast (H)",
+  "props": {
+   "static": "775"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Banner trim 1 (H)",
+  "props": {
+   "static": "776"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Banner Yasnaki symbol (H)",
+  "props": {
+   "static": "777"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Banner High contrast (H)",
+  "props": {
+   "static": "778"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Banner Mu Symbol (H)",
+  "props": {
+   "static": "779"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Banner pole (H)",
+  "props": {
+   "static": "780"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Banner trim 2 (H)",
+  "props": {
+   "static": "781"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "Banner Kesmai Dragon symbol (H)",
+  "props": {
+   "static": "782"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "dragon head mount (v)",
+  "props": {
+   "static": "1136"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "dragon head mount (h)",
+  "props": {
+   "static": "1137"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "vampire portrait (v)",
+  "props": {
+   "static": "1138"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "vampire portrait (h)",
+  "props": {
+   "static": "1139"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "dragon head arch topper (h)",
+  "props": {
+   "static": "1141"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "dragon head arch topper (v)",
+  "props": {
+   "static": "1142"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "bull head arch topper (h)",
+  "props": {
+   "static": "1143"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "bull head arch topper (v)",
+  "props": {
+   "static": "1144"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "lion head arch topper (v)",
+  "props": {
+   "static": "1159"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "lion head arch topper (h)",
+  "props": {
+   "static": "1160"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "stained glass - dragon (v)",
+  "props": {
+   "static": "1171"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "stained glass - dragon (h)",
+  "props": {
+   "static": "1172"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "red dragon banner (v)",
+  "props": {
+   "static": "1173"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "red dragon banner (h)",
+  "props": {
+   "static": "1174"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "dragon mural (v)",
+  "props": {
+   "static": "1175"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "dragon mural (h)",
+  "props": {
+   "static": "1176"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "stained glass - priest (v)",
+  "props": {
+   "static": "1177"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "stained glass - priest (h)",
+  "props": {
+   "static": "1178"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "stained glass - court (v)",
+  "props": {
+   "static": "1179"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "stained glass - court (h)",
+  "props": {
+   "static": "1180"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "purple Mu banner (v)",
+  "props": {
+   "static": "1181"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "purple Mu banner (h)",
+  "props": {
+   "static": "1182"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "green banner (v)",
+  "props": {
+   "static": "1183"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "green banner (h)",
+  "props": {
+   "static": "1184"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "black banner (h)",
+  "props": {
+   "static": "1187"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "purple bat ornament (h)",
+  "props": {
+   "static": "1276"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "purple bat ornament (v)",
+  "props": {
+   "static": "1277"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "blue bat ornament (h)",
+  "props": {
+   "static": "1300"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "blue bat ornament (v)",
+  "props": {
+   "static": "1301"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "green bat ornament (h)",
+  "props": {
+   "static": "1324"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "green bat ornament (v)",
+  "props": {
+   "static": "1325"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "purple wall carving (h)",
+  "props": {
+   "static": "1278"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "purple wall carving (v)",
+  "props": {
+   "static": "1279"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "blue wall carving (h)",
+  "props": {
+   "static": "1302"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "blue wall carving (v)",
+  "props": {
+   "static": "1303"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "green wall carving (h)",
+  "props": {
+   "static": "1326"
+  }
+ },
+ {
+  "type": "StaticComponent",
+  "category": "Wall Doodads (H)",
+  "name": "green wall carving (v)",
+  "props": {
+   "static": "1327"
+  }
+ },
+ {
+  "type": "WhirlwindTrap",
+  "category": "Traps",
+  "name": "Whirlwind",
+  "props": {
+   "direction": "5",
+   "skill": "3"
+  }
+ },
+ {
+  "type": "PoisonCloudTrap",
+  "category": "Traps",
+  "name": "Poison Cloud",
+  "props": {
+   "direction": "5",
+   "skill": "3"
+  }
+ },
+ {
+  "type": "BonfireTrap",
+  "category": "Traps",
+  "name": "Bonfire",
+  "props": {
+   "skill": "3"
+  }
+ },
+ {
+  "type": "FirestormTrap",
+  "category": "Traps",
+  "name": "Firestorm",
+  "props": {
+   "skill": "3"
+  }
+ },
+ {
+  "type": "ConcussionTrap",
+  "category": "Traps",
+  "name": "Concussion",
+  "props": {
+   "skill": "3"
+  }
+ },
+ {
+  "type": "LightningBoltTrap",
+  "category": "Traps",
+  "name": "Lightning Bolt",
+  "props": {
+   "skill": "3"
+  }
+ },
+ {
+  "type": "BlindTrap",
+  "category": "Traps",
+  "name": "Blind",
+  "props": {
+   "skill": "3"
+  }
+ },
+ {
+  "type": "FearTrap",
+  "category": "Traps",
+  "name": "Fear",
+  "props": {
+   "skill": "3"
+  }
+ },
+ {
+  "type": "StunTrap",
+  "category": "Traps",
+  "name": "Stun",
+  "props": {
+   "skill": "3"
+  }
+ },
+ {
+  "type": "DamageTrap",
+  "category": "Traps",
+  "name": "Damage",
+  "props": {
+   "damage": "3"
+  }
+ },
+ {
+  "type": "ActionTrap",
+  "category": "Traps",
+  "name": "Action",
+  "props": {}
+ }
+]
