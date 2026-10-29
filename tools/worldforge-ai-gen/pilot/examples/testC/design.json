@@ -1,0 +1,13 @@
+{"name":"test C carved from mass",
+ "style":{"wall_H":29,"wall_V":30,"wall_C":34,"door_H":66,"door_V":67,"mass":447,"mass_style":"faces","room":5,"hall":1},
+ "map":[
+ "MMMMMMMMMMMM",
+ "MMMMMMMMMMMM",
+ "MM........MM",
+ "MM........MM",
+ "MM....#####M",
+ "MM....D...MM",
+ "MM....#...MM",
+ "MMMMM,,MMMMM"],
+ "decor":[],
+ "route_to":[8,5]}

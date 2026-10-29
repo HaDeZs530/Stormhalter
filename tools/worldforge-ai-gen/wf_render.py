@@ -4,7 +4,7 @@ tinted by component color, layers stable-sorted by sprite order."""
 import sys, xml.etree.ElementTree as ET
 from PIL import Image
 
-ART='/home/claude/art'   # decoded sprite root (WorldForge AI Gen\art)
+ART='/home/claude/art'
 TERR=['/home/claude/client-bins/Data/Data/Terrain.xml','/home/claude/client-bins/Data/Data/Terrain-External.xml']
 UNIT=55
 
@@ -17,8 +17,10 @@ class Sprites:
             for t in ET.parse(f).getroot().iter('terrain'):
                 layers=[]
                 for sp in t.iter('sprite'):
+                    fr=sp.find('frames')
+                    src=vec(fr.find('frame').text) if fr is not None and fr.find('frame') is not None else vec(sp.findtext('source'))
                     layers.append(dict(tex=sp.findtext('texture').replace('\\','/'),
-                        src=vec(sp.findtext('source')), res=int(sp.get('resolution',1)),
+                        src=src, res=int(sp.get('resolution',1)),
                         order=int(sp.get('order',0)),
                         off=vec(sp.findtext('offset')) if sp.find('offset') is not None else [0,0]))
                 s.terrain[int(t.get('id'))]=layers   # external overrides core

@@ -1,0 +1,22 @@
+{"name":"test D two wall types",
+ "style":{"wall_H":29,"wall_V":30,"wall_C":34,"door_H":62,"door_V":63,"mass":447,"mass_style":"faces","room":176,"hall":12},
+ "styles":{"B":{"wall_H":258,"wall_V":259,"wall_C":262,"door_H":311,"door_V":312,"room":265}},
+ "map":[
+ "#################",
+ "#.......#.......#",
+ "#.......#.......#",
+ "#.......D.......#",
+ "#.......#.......#",
+ "#.......#.......#",
+ "#####D###########",
+ "     ,           "],
+ "zones":[
+ "         BBBBBBBB",
+ "         BBBBBBBB",
+ "         BBBBBBBB",
+ "         BBBBBBBB",
+ "         BBBBBBBB",
+ "         BBBBBBBB",
+ "         BBBBBBBB",
+ "                 "],
+ "decor":[], "route_to":[12,3]}

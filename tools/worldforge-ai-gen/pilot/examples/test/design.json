@@ -1,0 +1,16 @@
+{"name":"test shrine",
+ "style":{"wall_H":29,"wall_V":30,"wall_C":34,"door_H":66,"door_V":67,"mass":447,"mass_style":"faces","room":5,"hall":1},
+ "map":[
+ "MMMMMMMMMMMM",
+ "M##########M",
+ "M#........#M",
+ "M#........#M",
+ "M#........#M",
+ "M#........#M",
+ "M#####D####M",
+ "MMMMM,,MMMMM"],
+ "groups":[{"id":"g1","purpose":"altar"}],
+ "decor":[{"p":"p01","id":113,"type":"AltarComponent","x":6,"y":3,"group":"g1","why":"focal"},
+          {"p":"p02","id":1025,"type":"StaticComponent","x":4,"y":3,"group":"g1","why":"candle"},
+          {"p":"p03","id":220,"type":"StaticComponent","x":5,"y":1,"group":"g1","why":"hanging skeleton on north wall"}],
+ "route_to":[6,3]}
