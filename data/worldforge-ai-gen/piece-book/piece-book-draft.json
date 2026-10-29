@@ -33183,7 +33183,7 @@
 "look": "Brown wooden crate cube with plank sides.",
 "kind": "large wooden crate",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 "id 882"
 ],
@@ -33222,7 +33222,7 @@
 "look": "Open-topped wooden crate filled with pale tan grain.",
 "kind": "crate of grain",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 "id 879"
 ],
@@ -33261,7 +33261,7 @@
 "look": "Small brown wooden crate, isometric, with a mace and a round shield leaning on it; sits in the lower-right of the tile.",
 "kind": "weapon display crate, mace",
 "size": "small",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 884,
 885
@@ -33301,7 +33301,7 @@
 "look": "Small brown wooden crate with a greataxe and round shield leaning against it, lower-right of tile.",
 "kind": "weapon display crate, greataxe",
 "size": "small",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 883,
 885
@@ -33341,7 +33341,7 @@
 "look": "Small brown wooden crate with two long swords crossed over it and a curved blade, lower-right of tile.",
 "kind": "weapon display crate, swords",
 "size": "small",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 883,
 884
@@ -34116,7 +34116,7 @@
 "look": "Low orange-red wood-grain box running left-right along the lower half of the tile.",
 "kind": "wooden counter, horizontal run",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 87
 ],
@@ -34154,7 +34154,7 @@
 "look": "Low orange-red wood-grain box standing up-down on the right side of the tile.",
 "kind": "wooden counter, vertical run",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 86
 ],
@@ -34192,7 +34192,7 @@
 "look": "Low counter with a mottled grey slate top and orange-red wood sides, running left-right.",
 "kind": "slate-topped counter, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 97
 ],
@@ -34232,7 +34232,7 @@
 "look": "Low counter with a mottled grey slate top and orange wood sides, standing up-down on the right.",
 "kind": "slate-topped counter, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 96
 ],
@@ -34272,7 +34272,7 @@
 "look": "Bright yellow box with a gridded gold-brick pattern, running left-right along the lower half.",
 "kind": "gilded counter, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 249
 ],
@@ -34316,7 +34316,7 @@
 "look": "Bright yellow gridded gold-brick box standing up-down on the right side of the tile.",
 "kind": "gilded counter, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 248
 ],
@@ -34436,7 +34436,7 @@
 "look": "Brown table running left-right, top cluttered with small bottles, flasks and papers in white, red and purple.",
 "kind": "alchemy table, horizontal",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 270
 ],
@@ -34475,7 +34475,7 @@
 "look": "Brown table standing up-down on the right, top cluttered with small flasks, bottles and papers.",
 "kind": "alchemy table, vertical",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 269
 ],
@@ -35584,7 +35584,7 @@
 "look": "Flat pale cyan diamond with a yellow frame, lying along the south-east edge like a wall panel.",
 "kind": "wall mirror, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 118
 ],
@@ -35627,7 +35627,7 @@
 "look": "Flat pale cyan diamond with a yellow frame standing along the east edge, tall and narrow.",
 "kind": "wall mirror, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 117
 ],
@@ -35670,7 +35670,7 @@
 "look": "Red and yellow patterned cloth with ragged edges, laid as a parallelogram along the south edge.",
 "kind": "torn tapestry, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 172
 ],
@@ -35712,7 +35712,7 @@
 "look": "Red and yellow patterned ragged cloth standing as a tall parallelogram along the east edge.",
 "kind": "torn tapestry, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 171
 ],
@@ -35754,7 +35754,7 @@
 "look": "Red cloth with blue diagonal stripes and small motifs, flat parallelogram along the south edge.",
 "kind": "oriental tapestry, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 198
 ],
@@ -35796,7 +35796,7 @@
 "look": "Red cloth with blue diagonal stripes standing as a tall parallelogram along the east edge.",
 "kind": "oriental tapestry, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 197
 ],
@@ -35924,7 +35924,7 @@
 "look": "Dark grey slab lying along the south edge with a white skeleton laid out on it.",
 "kind": "skeleton on slab, horizontal",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 212
 ],
@@ -35967,7 +35967,7 @@
 "look": "Dark grey tall slab along the east edge with a white skeleton laid lengthwise on it.",
 "kind": "skeleton on slab, vertical",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 211
 ],
@@ -36010,7 +36010,7 @@
 "look": "White skeleton slumped on the floor, lower-left, arms up as if chained, no visible wall or chain.",
 "kind": "hanging skeleton, horizontal wall",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 221
 ],
@@ -36052,7 +36052,7 @@
 "look": "White skeleton standing upright with arms raised, top-centre of tile, as if hung on a wall.",
 "kind": "hanging skeleton, vertical wall",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 220
 ],
@@ -36094,7 +36094,7 @@
 "look": "Low brown wooden shelf unit with a few red and white items, flat parallelogram along the south edge.",
 "kind": "bookshelf, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 244
 ],
@@ -36132,7 +36132,7 @@
 "look": "Tall narrow brown wooden shelf with a few red and white items standing along the east edge.",
 "kind": "bookshelf, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 243
 ],
@@ -36170,7 +36170,7 @@
 "look": "Brown shelf packed with rows of multicoloured book spines (red, blue, green, yellow), flat along the south edge.",
 "kind": "full library bookshelf, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 765
 ],
@@ -36208,7 +36208,7 @@
 "look": "Tall brown shelf packed with multicoloured book spines standing along the east edge.",
 "kind": "full library bookshelf, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 764
 ],
@@ -36246,7 +36246,7 @@
 "look": "Brown shelf with rows of small jars, sacks and goods in muted colours, flat along the south edge.",
 "kind": "storage shelf, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 440
 ],
@@ -36284,7 +36284,7 @@
 "look": "Tall brown shelf with jars and goods standing along the east edge.",
 "kind": "storage shelf, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 439
 ],
@@ -36322,7 +36322,7 @@
 "look": "Scatter of small magenta and white glyphs with a red pentagram, loose on the floor, lower-left.",
 "kind": "wizard sigils on wall",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 246
 ],
@@ -36363,7 +36363,7 @@
 "look": "Small cluster of magenta and white glyphs stacked vertically, top-centre of tile.",
 "kind": "wizard sigils on wall, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 245
 ],
@@ -36442,7 +36442,7 @@
 "look": "Dark grey iron high-backed throne, boxy, with an arched back, isometric facing down-left, black shadow.",
 "kind": "iron throne",
 "size": "large",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 222,
 251
@@ -36487,7 +36487,7 @@
 "look": "White-and-black line-drawn dragon-shaped throne with a wide winged back, nearly fills the card.",
 "kind": "dragon throne",
 "size": "large",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 219,
 251
@@ -36532,7 +36532,7 @@
 "look": "Tall throne with a red studded seat and a gold and red patterned high back, facing down-left.",
 "kind": "oak throne, red and gold",
 "size": "large",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 219,
 222
@@ -36739,7 +36739,7 @@
 "look": "Single large brown wooden crate with cross-braced sides, isometric, lower-right of tile.",
 "kind": "large sealed crate",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 888,
 889,
@@ -36779,7 +36779,7 @@
 "look": "Large brown wooden crate with its lid off and the top open, showing a dark interior.",
 "kind": "large open crate",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 879,
 889
@@ -36859,7 +36859,7 @@
 "look": "Small brown cross-braced wooden crate, lower-right of tile.",
 "kind": "small sealed crate",
 "size": "small",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 890,
 891,
@@ -36899,7 +36899,7 @@
 "look": "Small brown wooden crate with the top open, lower-right of tile.",
 "kind": "small open crate",
 "size": "small",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 886,
 891
@@ -36977,7 +36977,7 @@
 "look": "Small cream parchment sheet with faint writing, standing upright, centre of tile.",
 "kind": "price list notice, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 361
 ],
@@ -37017,7 +37017,7 @@
 "look": "Small cream parchment sheet with faint writing lying flat as a parallelogram, centre of tile.",
 "kind": "price list notice, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 348
 ],
@@ -37291,7 +37291,7 @@
 "look": "Flat framed picture of a dark blue crane bird on a cream ground, parallelogram along the south edge.",
 "kind": "framed crane painting, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 479,
 490
@@ -37333,7 +37333,7 @@
 "look": "Framed crane painting on cream ground standing tall along the east edge.",
 "kind": "framed crane painting, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 478
 ],
@@ -37373,7 +37373,7 @@
 "look": "Flat framed picture of a pale blue mountain with white sky, parallelogram along the south edge.",
 "kind": "framed mountain painting, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 491,
 478
@@ -37417,7 +37417,7 @@
 "look": "Framed blue mountain painting standing tall along the east edge.",
 "kind": "framed mountain painting, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 490
 ],
@@ -37460,7 +37460,7 @@
 "look": "Brown banded wooden barrel lying on its side on a cradle, red tap at the end, black shadow; centre of tile.",
 "kind": "wine cask on cradle",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [],
 "notes": "Only a (V) listed; no (H) mate on these sheets.",
 "usage": "L4:1@0.0",
@@ -37586,7 +37586,7 @@
 "look": "Diagonal band of white frothy water texture from upper-left to lower-right, full tile height.",
 "kind": "waterfall sheet, horizontal",
 "size": "tall",
-"placement": "wall-H",
+"placement": "edge",
 "pairs_with": [
 192,
 1006
@@ -37631,7 +37631,7 @@
 "look": "Tall band of white frothy water texture running up the right side of the tile.",
 "kind": "waterfall sheet, vertical",
 "size": "tall",
-"placement": "wall-V",
+"placement": "edge",
 "pairs_with": [
 191,
 1007
@@ -37676,7 +37676,7 @@
 "look": "Diagonal band of white frothy water texture, upper-left to lower-right, same as 191.",
 "kind": "animated waterfall, horizontal",
 "size": "tall",
-"placement": "wall-H",
+"placement": "edge",
 "pairs_with": [
 1007,
 191
@@ -37721,7 +37721,7 @@
 "look": "Tall band of white frothy water texture up the right side, same as 192.",
 "kind": "animated waterfall, vertical",
 "size": "tall",
-"placement": "wall-V",
+"placement": "edge",
 "pairs_with": [
 1006,
 192
@@ -37766,7 +37766,7 @@
 "look": "Thin white horizontal bar in the upper half and a wedge of white snow along the bottom-right edge.",
 "kind": "snowdrift against wall, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "edge",
 "pairs_with": [
 763,
 660
@@ -37849,7 +37849,7 @@
 "look": "Thin vertical white bar at the top and a jagged wedge of white snow along the right edge.",
 "kind": "snowdrift against wall, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "edge",
 "pairs_with": [
 762,
 659
@@ -37932,7 +37932,7 @@
 "look": "Small pale cyan-white spiky web clump with a body caught in it, lower-left of tile.",
 "kind": "cocooned body in web, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 662,
 663
@@ -37976,7 +37976,7 @@
 "look": "Small pale cyan-white spiky web clump with a body, upper-centre of tile.",
 "kind": "cocooned body in web, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 661,
 664
@@ -38020,7 +38020,7 @@
 "look": "Pale cyan spider web drawn as a flat parallelogram along the south edge.",
 "kind": "spider web, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 664,
 661
@@ -38061,7 +38061,7 @@
 "look": "Pale cyan spider web standing tall along the east edge.",
 "kind": "spider web, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 663,
 662
@@ -38363,7 +38363,7 @@
 "look": "Grey stone coffin with a carved sword and cross on its lid, lying left-right along the south edge, dark shadow.",
 "kind": "closed sarcophagus, horizontal",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 425,
 437
@@ -38407,7 +38407,7 @@
 "look": "Grey stone coffin with carved lid standing up-down along the east edge, dark shadow.",
 "kind": "closed sarcophagus, vertical",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 424,
 438
@@ -38451,7 +38451,7 @@
 "look": "Grey stone coffin lying left-right with the carved lid slid off diagonally, dark open interior showing.",
 "kind": "open sarcophagus, horizontal",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 424,
 438
@@ -38495,7 +38495,7 @@
 "look": "Grey stone coffin standing up-down with the lid slid off, dark interior showing.",
 "kind": "open sarcophagus, vertical",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 425,
 437
@@ -38914,7 +38914,7 @@
 "look": "Small dark oval drain grate, lower-right of tile.",
 "kind": "sewer wall drain, low right",
 "size": "small",
-"placement": "wall-H",
+"placement": "edge",
 "pairs_with": [
 632,
 633,
@@ -38956,7 +38956,7 @@
 "look": "Small dark oval drain grate near the bottom-right corner.",
 "kind": "sewer wall drain, corner",
 "size": "small",
-"placement": "wall-H",
+"placement": "edge",
 "pairs_with": [
 632,
 633,
@@ -39615,7 +39615,7 @@
 "look": "Flat parallelogram of dark brown vertical planking lying along the south edge.",
 "kind": "tent back-board, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 729,
 738,
@@ -39658,7 +39658,7 @@
 "look": "Tall parallelogram of dark brown vertical planking standing along the east edge.",
 "kind": "tent back-board, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 726,
 739,
@@ -39700,7 +39700,7 @@
 "look": "Thin white curved rope line sagging across the lower-centre of the tile.",
 "kind": "tent rope, inside back",
 "size": "small",
-"placement": "overlay",
+"placement": "against-wall",
 "pairs_with": [
 726,
 744,
@@ -39740,7 +39740,7 @@
 "look": "Thin white curved rope line arcing up the right side of the tile.",
 "kind": "tent rope, inside left",
 "size": "small",
-"placement": "overlay",
+"placement": "against-wall",
 "pairs_with": [
 729,
 745,
@@ -39780,7 +39780,7 @@
 "look": "Two small white triangular canvas flaps stacked along the east edge, upper-right.",
 "kind": "tent flap, right 1",
 "size": "small",
-"placement": "wall-V",
+"placement": "edge",
 "pairs_with": [
 746,
 752,
@@ -39819,7 +39819,7 @@
 "look": "Square dark red patterned rug with an ornate cream border and central medallion, flat, centre of tile.",
 "kind": "red ornate rug",
 "size": "medium",
-"placement": "floor-fill",
+"placement": "overlay",
 "pairs_with": [
 742,
 747
@@ -39863,7 +39863,7 @@
 "look": "Square pale grey patterned rug with a medallion and border, flat, centre of tile.",
 "kind": "grey ornate rug",
 "size": "medium",
-"placement": "floor-fill",
+"placement": "overlay",
 "pairs_with": [
 741,
 747
@@ -39905,7 +39905,7 @@
 "look": "Large white triangular canvas flap, point to the left, along the lower-right of the tile.",
 "kind": "tent flap, front 2",
 "size": "medium",
-"placement": "wall-H",
+"placement": "edge",
 "pairs_with": [
 749,
 754,
@@ -40018,7 +40018,7 @@
 "look": "Single white triangular canvas flap pointing down, upper-right of tile.",
 "kind": "tent flap, right 2",
 "size": "small",
-"placement": "wall-V",
+"placement": "edge",
 "pairs_with": [
 740,
 757
@@ -40056,7 +40056,7 @@
 "look": "Square white-grey mottled fur rug, flat, centre of tile.",
 "kind": "square fur rug",
 "size": "medium",
-"placement": "floor-fill",
+"placement": "overlay",
 "pairs_with": [
 741,
 742,
@@ -40805,7 +40805,7 @@
 "look": "Four ragged white horizontal snow streaks stepping down to the right, upper-centre of tile.",
 "kind": "snow stair overlay, down south",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 842,
 843,
@@ -40852,7 +40852,7 @@
 "look": "Four ragged white vertical snow streaks stepping down to the right, centre-right.",
 "kind": "snow stair overlay, down east",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 841,
 818
@@ -40893,7 +40893,7 @@
 "look": "Four ragged white vertical snow streaks rising to the right, lower-right.",
 "kind": "snow stair overlay, down west",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 841,
 819
@@ -40934,7 +40934,7 @@
 "look": "Four ragged white horizontal snow streaks stepping up to the right, lower-right.",
 "kind": "snow stair overlay, down north",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 841,
 820
@@ -40975,7 +40975,7 @@
 "look": "Column of ragged white snow streaks descending from top-centre to lower-right.",
 "kind": "snow stair overlay, up north",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 841,
 821
@@ -41016,7 +41016,7 @@
 "look": "Row of ragged white vertical snow streaks stepping down left to right across the middle.",
 "kind": "snow stair overlay, up west",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 841,
 822
@@ -41057,7 +41057,7 @@
 "look": "Four ragged white vertical snow streaks rising to the upper-right, centre.",
 "kind": "snow stair overlay, up east",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 841,
 823
@@ -41098,7 +41098,7 @@
 "look": "Four thin ragged white horizontal snow streaks stepping up to the right, centre.",
 "kind": "snow stair overlay, up south",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 841,
 824
@@ -41139,7 +41139,7 @@
 "look": "Thin dark red splatter trailing diagonally down-right, upper-right of tile.",
 "kind": "blood stair overlay, down south",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 850,
 851,
@@ -41186,7 +41186,7 @@
 "look": "Small cluster of dark red splatter dots, centre-right of tile.",
 "kind": "blood stair overlay, down east",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 849,
 818
@@ -41227,7 +41227,7 @@
 "look": "Dark red splatter streaks arranged as rising vertical bars toward the right, lower-right of tile.",
 "kind": "blood stair overlay, down west",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 849,
 819
@@ -41268,7 +41268,7 @@
 "look": "Small dark red splatter streaks stepping up to the right, lower-right of tile.",
 "kind": "blood stair overlay, down north",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 849,
 820
@@ -41309,7 +41309,7 @@
 "look": "Large dark red splatter at top-centre dripping down in a column to lower-right.",
 "kind": "blood stair overlay, up north",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 849,
 821
@@ -41350,7 +41350,7 @@
 "look": "Dark red splatter burst in the upper-left with drips trailing right across the middle.",
 "kind": "blood stair overlay, up west",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 849,
 822
@@ -41391,7 +41391,7 @@
 "look": "Small cluster of dark red drops in the centre of the tile.",
 "kind": "blood stair overlay, up east",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 849,
 823
@@ -41432,7 +41432,7 @@
 "look": "Dark red smear streaks stepping up to the right across the centre.",
 "kind": "blood stair overlay, up south",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 849,
 824
@@ -41473,7 +41473,7 @@
 "look": "Four dark green moss-covered steps descending to the lower-right, upper-right of tile, drawn as horizontal bars.",
 "kind": "mossy stairs, down south",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 908,
 909,
@@ -41524,7 +41524,7 @@
 "look": "Four dark green mossy vertical bars stepping down to the right, upper-right.",
 "kind": "mossy stairs, down east",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 907,
 818
@@ -41569,7 +41569,7 @@
 "look": "Four dark green mossy vertical bars rising to the right, lower-right.",
 "kind": "mossy stairs, down west",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 907,
 819
@@ -41614,7 +41614,7 @@
 "look": "Four dark green mossy horizontal bars stepping up to the right, lower-right.",
 "kind": "mossy stairs, down north",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 907,
 820
@@ -41659,7 +41659,7 @@
 "look": "Column of five dark green mossy steps descending from top-centre to lower-right.",
 "kind": "mossy stairs, up north",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 907,
 821
@@ -41704,7 +41704,7 @@
 "look": "Row of five dark green mossy vertical slabs stepping down from left to right.",
 "kind": "mossy stairs, up west",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 907,
 822
@@ -41749,7 +41749,7 @@
 "look": "Four dark green mossy vertical slabs rising to the upper-right, centre.",
 "kind": "mossy stairs, up east",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 907,
 823
@@ -41794,7 +41794,7 @@
 "look": "Four dark green mossy horizontal slabs stepping up to the right, centre.",
 "kind": "mossy stairs, up south",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 907,
 824
@@ -41839,7 +41839,7 @@
 "look": "Four bright green grass-topped steps descending to the lower-right, upper-right of tile.",
 "kind": "grassy stairs, down south",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 916,
 917,
@@ -41889,7 +41889,7 @@
 "look": "Four bright green grassy vertical bars stepping down to the right, upper-right.",
 "kind": "grassy stairs, down east",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 915,
 818
@@ -41933,7 +41933,7 @@
 "look": "Four bright green grassy vertical bars rising to the right, lower-right.",
 "kind": "grassy stairs, down west",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 915,
 819
@@ -41977,7 +41977,7 @@
 "look": "Four bright green grassy horizontal bars stepping up to the right, lower-right.",
 "kind": "grassy stairs, down north",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 915,
 820
@@ -42021,7 +42021,7 @@
 "look": "Column of five bright green grassy steps descending from top-centre to lower-right.",
 "kind": "grassy stairs, up north",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 915,
 821
@@ -42065,7 +42065,7 @@
 "look": "Row of five bright green grassy vertical slabs stepping down from left to right.",
 "kind": "grassy stairs, up west",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 915,
 822
@@ -42109,7 +42109,7 @@
 "look": "Four bright green grassy vertical slabs rising to the upper-right, centre.",
 "kind": "grassy stairs, up east",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 915,
 823
@@ -42153,7 +42153,7 @@
 "look": "Four bright green grassy horizontal slabs stepping up to the right, centre.",
 "kind": "grassy stairs, up south",
 "size": "medium",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 915,
 824
@@ -42197,7 +42197,7 @@
 "look": "Sparse scatter of tiny red, yellow and white dots, centre-right of tile.",
 "kind": "flower dots stair overlay, down south",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 924,
 925,
@@ -42246,7 +42246,7 @@
 "look": "Sparse scatter of tiny coloured dots, upper-right of tile.",
 "kind": "flower dots stair overlay, down east",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 923,
 916
@@ -42289,7 +42289,7 @@
 "look": "Sparse scatter of tiny coloured dots, lower-right of tile.",
 "kind": "flower dots stair overlay, down west",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 923,
 917
@@ -42332,7 +42332,7 @@
 "look": "Sparse scatter of tiny coloured dots, lower-right of tile.",
 "kind": "flower dots stair overlay, down north",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 923,
 918
@@ -42375,7 +42375,7 @@
 "look": "Scatter of tiny coloured dots running from top-centre down to the lower-right.",
 "kind": "flower dots stair overlay, up north",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 923,
 919
@@ -42418,7 +42418,7 @@
 "look": "Scatter of tiny coloured dots across the middle of the tile.",
 "kind": "flower dots stair overlay, up west",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 923,
 920
@@ -42461,7 +42461,7 @@
 "look": "Scatter of tiny coloured dots in a diagonal band, centre of tile.",
 "kind": "flower dots stair overlay, up east",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 923,
 921
@@ -42504,7 +42504,7 @@
 "look": "Scatter of tiny coloured dots in a flat band across the centre.",
 "kind": "flower dots stair overlay, up south",
 "size": "small",
-"placement": "stairs",
+"placement": "overlay",
 "pairs_with": [
 923,
 922
@@ -42681,7 +42681,7 @@
 "look": "Large white pentagram inside a double ring with small coloured symbols and runes, fills the card.",
 "kind": "magic circle, pentagram",
 "size": "large",
-"placement": "floor-fill",
+"placement": "overlay",
 "pairs_with": [
 1189,
 1190
@@ -42725,7 +42725,7 @@
 "look": "Large white and blue eight-pointed star inside a ring with runes and small coloured symbols, fills the card.",
 "kind": "magic circle, eight-point star",
 "size": "large",
-"placement": "floor-fill",
+"placement": "overlay",
 "pairs_with": [
 1188,
 1190
@@ -42769,7 +42769,7 @@
 "look": "Large white ring with a blue triangle and inner circle and small gold symbols, fills the card.",
 "kind": "magic circle, triangle",
 "size": "large",
-"placement": "floor-fill",
+"placement": "overlay",
 "pairs_with": [
 1188,
 1189
@@ -42813,7 +42813,7 @@
 "look": "Small brown wooden lectern with an open book on its slanted top, lower-right of tile, angled down-left.",
 "kind": "lectern, horizontal",
 "size": "small",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 1192
 ],
@@ -42853,7 +42853,7 @@
 "look": "Small brown wooden lectern with an open book, centre-right of tile, angled down-right.",
 "kind": "lectern, vertical",
 "size": "small",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 1191
 ],
@@ -42893,7 +42893,7 @@
 "look": "Brown wooden desk with gold trim, papers and a candle on top, chair tucked in front, running left-right.",
 "kind": "writing desk, horizontal",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 1194
 ],
@@ -42934,7 +42934,7 @@
 "look": "Brown wooden desk with gold trim, papers and a smoking candle, standing up-down with a chair beside it.",
 "kind": "writing desk, vertical",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 1193
 ],
@@ -43288,7 +43288,7 @@
 "look": "Tall dark brown wooden wardrobe with two doors, standing up-down along the right side of the tile.",
 "kind": "wardrobe, vertical",
 "size": "tall",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1202
 ],
@@ -43327,7 +43327,7 @@
 "look": "Dark brown wooden wardrobe lying left-right along the top of the tile, doors facing down.",
 "kind": "wardrobe, horizontal",
 "size": "tall",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1201
 ],
@@ -43524,7 +43524,7 @@
 "look": "Small brown barrel-lidded chest with white straps, upper-right of tile, seen from the front-right.",
 "kind": "large chest, horizontal",
 "size": "small",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 1210
 ],
@@ -43564,7 +43564,7 @@
 "look": "Small brown barrel-lidded chest with white straps, centre-right of tile, turned to face down-left.",
 "kind": "large chest, vertical",
 "size": "small",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 1209
 ],
@@ -43858,7 +43858,7 @@
 "look": "Pale grey sarcophagus standing up-down with a carved sleeping woman figure on the lid, dark shadow.",
 "kind": "effigy sarcophagus, vertical",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 1256,
 1250,
@@ -43903,7 +43903,7 @@
 "look": "Plain pale grey sarcophagus with a flat blank lid standing up-down, dark shadow.",
 "kind": "plain sarcophagus, vertical",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 1257,
 1249
@@ -43945,7 +43945,7 @@
 "look": "Pale grey sarcophagus standing up-down with a carved cross and figure on the lid, dark shadow.",
 "kind": "carved cross sarcophagus, vertical",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 1255,
 1249
@@ -44112,7 +44112,7 @@
 "look": "Pale grey sarcophagus lying left-right with a carved cross and figure relief on the lid, dark shadow.",
 "kind": "carved cross sarcophagus, horizontal",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 1251
 ],
@@ -44155,7 +44155,7 @@
 "look": "Pale grey sarcophagus lying left-right with a carved sleeping woman on the lid, dark shadow.",
 "kind": "effigy sarcophagus, horizontal",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 1249
 ],
@@ -44198,7 +44198,7 @@
 "look": "Plain pale grey sarcophagus with a flat blank lid lying left-right, dark shadow.",
 "kind": "plain sarcophagus, horizontal",
 "size": "medium",
-"placement": "against-wall",
+"placement": "free-standing",
 "pairs_with": [
 1250
 ],
@@ -44497,7 +44497,7 @@
 "look": "Black parallelogram shade along the south edge with a small orange torch flame glowing in its centre.",
 "kind": "wall torch with light shade, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 932,
 1029
@@ -44541,7 +44541,7 @@
 "look": "Black parallelogram shade along the south-east with a small orange torch flame in its centre.",
 "kind": "wall torch with light shade, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 931,
 1030
@@ -44585,7 +44585,7 @@
 "look": "Black parallelogram shade with a larger orange brazier fire glowing at its lower-right.",
 "kind": "wall brazier with shade, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 977,
 1035
@@ -44629,7 +44629,7 @@
 "look": "Black parallelogram shade with an orange brazier fire glowing at its centre-left.",
 "kind": "wall brazier with shade, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 976,
 1036
@@ -44673,7 +44673,7 @@
 "look": "Black parallelogram shade with a small green flame glowing in its centre.",
 "kind": "green-fire wall brazier with shade, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 979,
 1033
@@ -44717,7 +44717,7 @@
 "look": "Black parallelogram shade with a small green flame glowing in its centre.",
 "kind": "green-fire wall brazier with shade, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 978,
 1034
@@ -44761,7 +44761,7 @@
 "look": "Black parallelogram shade with a small cyan-blue flame glowing in its centre.",
 "kind": "blue-fire wall brazier with shade, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 981,
 1031
@@ -44805,7 +44805,7 @@
 "look": "Black parallelogram shade with a small cyan-blue flame glowing in its centre.",
 "kind": "blue-fire wall brazier with shade, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 980,
 1032
@@ -45188,7 +45188,7 @@
 "look": "Tiny wall torch with an orange flame, centre of tile, no shade.",
 "kind": "wall torch, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1030,
 931
@@ -45232,7 +45232,7 @@
 "look": "Tiny wall torch with an orange flame, centre of tile, no shade.",
 "kind": "wall torch, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1029,
 932
@@ -45319,7 +45319,7 @@
 "look": "Small black wall brazier bowl with an orange flame, lower-centre of tile, no shade.",
 "kind": "wall brazier, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1036,
 976
@@ -45363,7 +45363,7 @@
 "look": "Small black wall brazier bowl with an orange flame, lower-centre of tile, no shade.",
 "kind": "wall brazier, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1035,
 977
@@ -45407,7 +45407,7 @@
 "look": "Small black wall brazier bowl with a cyan-blue flame, lower-centre, no shade.",
 "kind": "blue-fire wall brazier, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1032,
 980
@@ -45451,7 +45451,7 @@
 "look": "Small black wall brazier bowl with a cyan-blue flame, lower-centre, no shade.",
 "kind": "blue-fire wall brazier, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1031,
 981
@@ -45495,7 +45495,7 @@
 "look": "Small black wall brazier bowl with a green flame, lower-centre, no shade.",
 "kind": "green-fire wall brazier, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1034,
 978
@@ -45539,7 +45539,7 @@
 "look": "Small black wall brazier bowl with a green flame, lower-centre, no shade.",
 "kind": "green-fire wall brazier, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1033,
 979
@@ -45583,7 +45583,7 @@
 "look": "Flat parallelogram of dark green locker doors with a 3x3 grid of yellow handles, along the south edge.",
 "kind": "locker bank, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 120
 ],
@@ -45623,7 +45623,7 @@
 "look": "Tall parallelogram of dark green locker doors with a grid of yellow handles standing along the east edge.",
 "kind": "locker bank, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 119
 ],
@@ -45919,7 +45919,7 @@
 "look": "Low strip of green leafy bushes with red berries lying along the south edge.",
 "kind": "hedge strip, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "edge",
 "pairs_with": [
 157,
 227
@@ -46009,7 +46009,7 @@
 "look": "Tall strip of green leafy bushes with red berries standing along the east edge.",
 "kind": "hedge strip, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "edge",
 "pairs_with": [
 158,
 226
@@ -46052,7 +46052,7 @@
 "look": "Small round grey shield with two crossed yellow-hilted swords behind it, centre of tile.",
 "kind": "shield and crossed swords mount",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 768,
 769,
@@ -46101,7 +46101,7 @@
 "look": "Two crossed swords with yellow hilts and grey blades, no shield, centre of tile.",
 "kind": "crossed swords mount",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 767
 ],
@@ -46143,7 +46143,7 @@
 "look": "Small plain pale grey shield shape, centre of tile.",
 "kind": "shield blank, shiny",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 767,
 772
@@ -46270,7 +46270,7 @@
 "look": "Small flat mid-grey shield shape, centre of tile.",
 "kind": "shield blank, matte",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 767,
 769
@@ -46394,7 +46394,7 @@
 "look": "Small white hanging banner with a soft grey fold, draping down-left, centre of tile.",
 "kind": "hanging banner, low contrast",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 776,
 777,
@@ -46520,7 +46520,7 @@
 "look": "Small white hanging banner with dark grey folds and a dark rod, draping down-left.",
 "kind": "hanging banner, high contrast",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 775
 ],
@@ -46604,7 +46604,7 @@
 "look": "Thin grey horizontal rod with small end caps, upper-centre of tile.",
 "kind": "banner pole",
 "size": "small",
-"placement": "overlay",
+"placement": "against-wall",
 "pairs_with": [
 775
 ],
@@ -46725,7 +46725,7 @@
 "look": "Red dragon head with yellow eyes mounted on a small plaque, upper-right of tile, angled down-left.",
 "kind": "dragon head wall mount, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1137
 ],
@@ -46767,7 +46767,7 @@
 "look": "Red dragon head with yellow eyes mounted on a plaque, centre of tile, angled down-right.",
 "kind": "dragon head wall mount, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1136
 ],
@@ -46809,7 +46809,7 @@
 "look": "Small gold-framed dark portrait of a pale face standing along the east edge, upper-right.",
 "kind": "vampire portrait, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1139
 ],
@@ -46851,7 +46851,7 @@
 "look": "Small gold-framed dark portrait lying as a flat parallelogram, centre of tile.",
 "kind": "vampire portrait, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1138
 ],
@@ -46893,7 +46893,7 @@
 "look": "Small grey carved dragon head with wings, centre of tile, facing left.",
 "kind": "dragon head arch keystone, horizontal",
 "size": "small",
-"placement": "overlay",
+"placement": "against-wall",
 "pairs_with": [
 1142,
 1143,
@@ -46935,7 +46935,7 @@
 "look": "Small grey carved dragon head, upper-right of tile, facing up-left.",
 "kind": "dragon head arch keystone, vertical",
 "size": "small",
-"placement": "overlay",
+"placement": "against-wall",
 "pairs_with": [
 1141
 ],
@@ -46975,7 +46975,7 @@
 "look": "Tiny grey carved bull head, centre of tile.",
 "kind": "bull head arch keystone, horizontal",
 "size": "small",
-"placement": "overlay",
+"placement": "against-wall",
 "pairs_with": [
 1144,
 1141
@@ -47016,7 +47016,7 @@
 "look": "Tiny grey carved bull head, upper-right of tile.",
 "kind": "bull head arch keystone, vertical",
 "size": "small",
-"placement": "overlay",
+"placement": "against-wall",
 "pairs_with": [
 1143
 ],
@@ -47056,7 +47056,7 @@
 "look": "Tiny round grey carved lion face, upper-centre of tile.",
 "kind": "lion head arch keystone, vertical",
 "size": "small",
-"placement": "overlay",
+"placement": "against-wall",
 "pairs_with": [
 1160,
 1141
@@ -47099,7 +47099,7 @@
 "look": "Tiny round grey carved lion face, centre of tile.",
 "kind": "lion head arch keystone, horizontal",
 "size": "small",
-"placement": "overlay",
+"placement": "against-wall",
 "pairs_with": [
 1159
 ],
@@ -47141,7 +47141,7 @@
 "look": "Tall pointed-arch stained glass window in yellow, red and blue with a dragon motif, standing along the east edge.",
 "kind": "stained glass window, dragon, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1172,
 1177,
@@ -47186,7 +47186,7 @@
 "look": "Pointed-arch stained glass window in yellow, red and blue lying as a flat parallelogram along the south edge.",
 "kind": "stained glass window, dragon, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1171
 ],
@@ -47229,7 +47229,7 @@
 "look": "Long red swallow-tailed banner with a gold border and small gold dragon emblem hanging along the east edge.",
 "kind": "red dragon banner, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1174,
 1181,
@@ -47273,7 +47273,7 @@
 "look": "Long red swallow-tailed banner with gold border and dragon emblem lying diagonally along the south edge.",
 "kind": "red dragon banner, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1173
 ],
@@ -47315,7 +47315,7 @@
 "look": "Tall oval mural in blue, yellow and red with a dragon figure standing along the east edge.",
 "kind": "dragon mural, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1176,
 1171
@@ -47359,7 +47359,7 @@
 "look": "Oval mural in blue, yellow and red with a dragon figure lying as a flat parallelogram along the south edge.",
 "kind": "dragon mural, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1175
 ],
@@ -47402,7 +47402,7 @@
 "look": "Tall pointed-arch stained glass window in red, blue and white with a robed figure, standing along the east edge.",
 "kind": "stained glass window, priest, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1178,
 1171,
@@ -47447,7 +47447,7 @@
 "look": "Pointed-arch stained glass window in red, blue and white lying flat along the south edge.",
 "kind": "stained glass window, priest, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1177
 ],
@@ -47490,7 +47490,7 @@
 "look": "Tall pointed-arch stained glass window in red, blue and white with several small figures, standing along the east edge.",
 "kind": "stained glass window, court, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1180,
 1177
@@ -47534,7 +47534,7 @@
 "look": "Pointed-arch stained glass window in red, blue and white lying flat along the south edge.",
 "kind": "stained glass window, court, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1179
 ],
@@ -47577,7 +47577,7 @@
 "look": "Long purple swallow-tailed banner with a gold border and a white emblem hanging along the east edge.",
 "kind": "purple banner, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1182,
 1173,
@@ -47621,7 +47621,7 @@
 "look": "Long purple swallow-tailed banner with gold border and white emblem lying diagonally along the south edge.",
 "kind": "purple banner, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1181
 ],
@@ -47663,7 +47663,7 @@
 "look": "Long plain dark green swallow-tailed banner with a gold border hanging along the east edge.",
 "kind": "green banner, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1184,
 1173,
@@ -47706,7 +47706,7 @@
 "look": "Long plain dark green swallow-tailed banner with gold border lying diagonally along the south edge.",
 "kind": "green banner, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1183
 ],
@@ -47747,7 +47747,7 @@
 "look": "Long plain black swallow-tailed banner with a gold border lying diagonally along the south edge.",
 "kind": "black banner, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1184,
 1182
@@ -47791,7 +47791,7 @@
 "look": "Small dark purple winged bat shape spread flat, centre of tile.",
 "kind": "bat wall ornament, purple, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1277,
 1300,
@@ -47835,7 +47835,7 @@
 "look": "Small dark purple bat shape standing tall along the east edge, upper-right.",
 "kind": "bat wall ornament, purple, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1276
 ],
@@ -47877,7 +47877,7 @@
 "look": "Small pale blue-white winged bat shape spread flat, centre of tile.",
 "kind": "bat wall ornament, blue, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1301,
 1276
@@ -47921,7 +47921,7 @@
 "look": "Small pale blue-grey bat shape standing tall along the east edge, upper-right.",
 "kind": "bat wall ornament, blue, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1300
 ],
@@ -47964,7 +47964,7 @@
 "look": "Small pale green-grey winged bat shape spread flat, centre of tile.",
 "kind": "bat wall ornament, green, horizontal",
 "size": "small",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1325,
 1276
@@ -48008,7 +48008,7 @@
 "look": "Small pale green-grey bat shape standing tall along the east edge, upper-right.",
 "kind": "bat wall ornament, green, vertical",
 "size": "small",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1324
 ],
@@ -48051,7 +48051,7 @@
 "look": "Flat purple triangular wall relief with a swirling carved pattern lying along the south edge, lower-left.",
 "kind": "carved wall relief, purple, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1279,
 1302,
@@ -48096,7 +48096,7 @@
 "look": "Tall purple triangular wall relief with a swirling carved pattern standing along the east edge.",
 "kind": "carved wall relief, purple, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1278
 ],
@@ -48139,7 +48139,7 @@
 "look": "Flat dark blue-grey triangular wall relief with a swirling carved pattern along the south edge.",
 "kind": "carved wall relief, blue, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1303,
 1278
@@ -48183,7 +48183,7 @@
 "look": "Tall dark blue-grey triangular wall relief with a swirling pattern standing along the east edge.",
 "kind": "carved wall relief, blue, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1302
 ],
@@ -48226,7 +48226,7 @@
 "look": "Flat dark green-grey triangular wall relief with a swirling carved pattern along the south edge.",
 "kind": "carved wall relief, green, horizontal",
 "size": "medium",
-"placement": "wall-H",
+"placement": "against-wall",
 "pairs_with": [
 1327,
 1278
@@ -48270,7 +48270,7 @@
 "look": "Tall dark green-grey triangular wall relief with a swirling pattern standing along the east edge.",
 "kind": "carved wall relief, green, vertical",
 "size": "medium",
-"placement": "wall-V",
+"placement": "against-wall",
 "pairs_with": [
 1326
 ],
@@ -50095,7 +50095,7 @@
 "look": "Pale cyan spider web, octagonal, drawn flat and centred, no backing.",
 "kind": "spider web",
 "size": "medium",
-"placement": "overlay",
+"placement": "against-wall",
 "pairs_with": [
 "1331"
 ],
