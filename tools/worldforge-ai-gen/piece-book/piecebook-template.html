@@ -1,0 +1,135 @@
+<title>Stormhalter Piece Book</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: sticky filter bar, then a card grid; every text field on a card is editable and tracked. */
+:root{
+  --bg:#1b1a17; --panel:#24231f; --card:#2a2924; --line:#3d3b34; --fg:#e8e2d2; --muted:#9a9384; --accent:#e0a84a; --edit:#7fb069; --red:#d9463c;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace; --sans:"IBM Plex Sans",system-ui,sans-serif; color-scheme:dark;
+}
+@media (prefers-color-scheme: light){ :root:not([data-theme="dark"]){ --bg:#efeadf; --panel:#f7f3ea; --card:#fbf9f3; --line:#d4cdbd; --fg:#201e1a; --muted:#6b655a; --accent:#a9701c; --edit:#4e7f3a; --red:#b8322a; color-scheme:light } }
+:root[data-theme="light"]{ --bg:#efeadf; --panel:#f7f3ea; --card:#fbf9f3; --line:#d4cdbd; --fg:#201e1a; --muted:#6b655a; --accent:#a9701c; --edit:#4e7f3a; --red:#b8322a; color-scheme:light }
+body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.4 var(--sans);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 40px}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--panel)}
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--panel);border-bottom:1px solid var(--line);margin:0 -16px;padding:10px 16px;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+h1{font:500 16px var(--sans);margin:0 8px 0 0}
+h1 span{color:var(--muted);font-weight:400}
+input,select,button,textarea{font:13px var(--sans);background:var(--bg);color:var(--fg);border:1px solid var(--line);border-radius:4px;padding:5px 8px}
+button{cursor:pointer} button.on{border-color:var(--accent);color:var(--accent)}
+button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,[contenteditable]:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+#count{color:var(--muted);font-size:12px;margin-left:auto}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;padding-top:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:10px;display:grid;grid-template-columns:100px 1fr;gap:8px 12px;min-width:0}
+.card.edited{border-color:var(--edit)}
+.card.flag{border-color:var(--red)}
+.sprite{width:100px;height:100px;background:#55555f;border-radius:4px;image-rendering:pixelated}
+.hd{min-width:0}
+.hd .nm{font-weight:600;word-break:break-word}
+.hd .meta{font:11px var(--mono);color:var(--muted);margin-top:2px;word-break:break-word}
+.fields{grid-column:1/-1;display:grid;gap:5px;min-width:0}
+.f{display:grid;grid-template-columns:76px 1fr;gap:6px;align-items:start;font-size:12px}
+.f label{color:var(--muted);text-transform:uppercase;letter-spacing:.06em;font-size:10px;padding-top:4px}
+.f [contenteditable]{border:1px solid transparent;border-radius:3px;padding:3px 5px;min-height:18px;word-break:break-word}
+.f [contenteditable]:hover{border-color:var(--line)}
+.f [contenteditable].changed{border-color:var(--edit);background:color-mix(in srgb,var(--edit) 10%,transparent)}
+.f select{width:100%}
+.tags{font:12px var(--mono)}
+.tools{grid-column:1/-1;display:flex;gap:6px;justify-content:flex-end}
+.tools button{font-size:11px;padding:3px 7px}
+#exportbox{position:fixed;inset:auto 0 0 0;background:var(--panel);border-top:1px solid var(--line);padding:10px max(16px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px));display:none;gap:8px;align-items:center;flex-wrap:wrap;z-index:6}
+#exportbox.show{display:flex}
+#exportbox textarea{flex:1 1 300px;height:70px;font:11px var(--mono)}
+.help{color:var(--muted);font-size:12px;margin:10px 0 0}
+</style>
+
+<header>
+  <h1>Stormhalter Piece Book <span id="total"></span></h1>
+  <input id="q" placeholder="search name, id, look, kind…" size="28">
+  <select id="cat"><option value="">all categories</option></select>
+  <select id="pl"><option value="">any placement</option></select>
+  <button id="onlyEdited">edited only</button>
+  <button id="onlyFlag">flagged only</button>
+  <span id="count"></span>
+  <button id="exportBtn">Copy corrections</button>
+</header>
+<p class="help">Click any text to edit it. Edited cards turn green; "flag" marks a piece for discussion. Copy corrections puts only the changed cards on the clipboard as JSON; paste that back to Claude or save it as a file in Dropbox <code>in/</code>. Edits also stay in this browser until cleared.</p>
+<div class="grid" id="grid"></div>
+<div id="exportbox"><textarea id="exportta" readonly></textarea><button id="copy2">Copy</button><button id="closeExp">Close</button><span id="expmsg" class="help" style="margin:0"></span></div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const PIECES=JSON.parse(document.getElementById('data').textContent);
+const ATLAS="__ATLAS__"; const IDX=__INDEX__;
+const PLACEMENTS=["floor-fill","wall-H","wall-V","wall-corner","wall-mass","door-H","door-V","against-wall","corner","free-standing","scatter","cluster","path","edge","overlay","stairs","portal","trap","unknown"];
+const FIELDS=[["look","Look"],["kind","Kind"],["mood","Mood"],["size","Size"],["placement","Place"],["pairs_with","Pairs"],["notes","Notes"]];
+let edits={}; try{ edits=JSON.parse(localStorage.getItem('piecebook-edits')||'{}'); }catch(e){ edits={}; }
+function saveEdits(){ try{ localStorage.setItem('piecebook-edits',JSON.stringify(edits)); }catch(e){} }
+const atlas=new Image(); atlas.src=ATLAS;
+function spriteCanvas(id){
+  const c=document.createElement('canvas'); c.width=100;c.height=100;c.className='sprite';
+  const draw=()=>{ const g=c.getContext('2d'); const L=(IDX.sprites[id]||[]).slice().sort((a,b)=>a.o-b.o);
+    for(const s of L) g.drawImage(atlas,s.ax,s.ay,s.w,s.h,Math.max(0,s.off[0]),Math.max(0,s.off[1]),s.w,s.h); };
+  if(atlas.complete) draw(); else atlas.addEventListener('load',draw); return c;
+}
+function val(p,k){ const e=edits[p.n]||{}; if(k in e) return e[k]; const v=p[k]; return Array.isArray(v)?v.join(', '):(v??''); }
+function orig(p,k){ const v=p[k]; return Array.isArray(v)?v.join(', '):(v??''); }
+function setEdit(p,k,v){ if(!edits[p.n]) edits[p.n]={}; if(v===orig(p,k)) delete edits[p.n][k]; else edits[p.n][k]=v; if(!Object.keys(edits[p.n]).length) delete edits[p.n]; saveEdits(); }
+function card(p){
+  const d=document.createElement('div'); d.className='card'; d.dataset.n=p.n;
+  d.appendChild(spriteCanvas(p.id));
+  const hd=document.createElement('div'); hd.className='hd';
+  hd.innerHTML=`<div class="nm">${esc(p.name||'(no palette name)')}</div><div class="meta">id ${p.id} · #${p.n}<br>${esc(p.type.replace('Component',''))} · ${esc(p.category)}${p.props&&Object.keys(p.props).length?'<br>'+esc(Object.entries(p.props).filter(([k])=>!['name'].includes(k)).map(([k,v])=>k+' '+v).join(' · ')):''}</div>`;
+  d.appendChild(hd);
+  const fs=document.createElement('div'); fs.className='fields';
+  for(const [k,label] of FIELDS){
+    const row=document.createElement('div'); row.className='f';
+    const l=document.createElement('label'); l.textContent=label; row.appendChild(l);
+    if(k==='placement'){
+      const s=document.createElement('select'); for(const o of PLACEMENTS){ const op=document.createElement('option'); op.value=o; op.textContent=o; s.appendChild(op); }
+      s.value=PLACEMENTS.includes(val(p,k))?val(p,k):'unknown'; s.id='pl_'+p.n;
+      s.onchange=()=>{ setEdit(p,k,s.value); refresh(d,p); }; row.appendChild(s);
+    } else {
+      const e=document.createElement('div'); e.contentEditable='plaintext-only'; e.textContent=val(p,k); e.id='f_'+k+'_'+p.n;
+      if(k==='mood'||k==='pairs_with') e.className='tags';
+      e.addEventListener('blur',()=>{ setEdit(p,k,e.textContent.trim()); refresh(d,p); }); row.appendChild(e);
+    }
+    fs.appendChild(row);
+  }
+  d.appendChild(fs);
+  const t=document.createElement('div'); t.className='tools';
+  const fb=document.createElement('button'); fb.textContent='flag'; fb.onclick=()=>{ setEdit(p,'flag', val(p,'flag')===true?'':true); refresh(d,p); };
+  const rb=document.createElement('button'); rb.textContent='reset'; rb.onclick=()=>{ delete edits[p.n]; saveEdits(); const n=card(p); d.replaceWith(n); };
+  t.appendChild(fb); t.appendChild(rb); d.appendChild(t);
+  refresh(d,p); return d;
+}
+function refresh(d,p){ const e=edits[p.n]||{}; d.classList.toggle('edited',Object.keys(e).some(k=>k!=='flag')); d.classList.toggle('flag',e.flag===true);
+  for(const [k] of FIELDS){ const el=document.getElementById('f_'+k+'_'+p.n); if(el) el.classList.toggle('changed',k in e); } }
+function esc(s){ return String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
+const grid=document.getElementById('grid'); let state={q:'',cat:'',pl:'',edited:false,flag:false};
+function render(){
+  grid.innerHTML=''; let n=0; const q=state.q.toLowerCase();
+  for(const p of PIECES){
+    if(state.cat&&p.category!==state.cat) continue;
+    if(state.pl&&val(p,'placement')!==state.pl) continue;
+    if(state.edited&&!(edits[p.n]&&Object.keys(edits[p.n]).some(k=>k!=='flag'))) continue;
+    if(state.flag&&!(edits[p.n]&&edits[p.n].flag===true)) continue;
+    if(q){ const hay=[p.name,p.id,p.n,p.category,val(p,'look'),val(p,'kind'),val(p,'mood'),val(p,'notes')].join(' ').toLowerCase(); if(!hay.includes(q)) continue; }
+    grid.appendChild(card(p)); n++; if(n>=400) break;
+  }
+  document.getElementById('count').textContent=n+(n>=400?'+ shown (narrow the filter)':' shown');
+}
+document.getElementById('total').textContent=PIECES.length+' pieces';
+const cats=[...new Set(PIECES.map(p=>p.category))]; for(const c of cats){ const o=document.createElement('option'); o.value=c;o.textContent=c; document.getElementById('cat').appendChild(o); }
+for(const o of PLACEMENTS){ const op=document.createElement('option'); op.value=o;op.textContent=o; document.getElementById('pl').appendChild(op); }
+document.getElementById('q').oninput=e=>{state.q=e.target.value;render();};
+document.getElementById('cat').onchange=e=>{state.cat=e.target.value;render();};
+document.getElementById('pl').onchange=e=>{state.pl=e.target.value;render();};
+document.getElementById('onlyEdited').onclick=e=>{state.edited=!state.edited;e.target.classList.toggle('on',state.edited);render();};
+document.getElementById('onlyFlag').onclick=e=>{state.flag=!state.flag;e.target.classList.toggle('on',state.flag);render();};
+function exportText(){ const out=[]; for(const p of PIECES){ const e=edits[p.n]; if(e&&Object.keys(e).length) out.push(Object.assign({n:p.n,id:p.id,name:p.name},e)); } return JSON.stringify(out,null,1); }
+document.getElementById('exportBtn').onclick=async()=>{ const t=exportText(); const ta=document.getElementById('exportta'); ta.value=t; document.getElementById('exportbox').classList.add('show');
+  try{ await navigator.clipboard.writeText(t); document.getElementById('expmsg').textContent='Copied '+(JSON.parse(t).length)+' corrected cards.'; }catch(e){ ta.select(); document.getElementById('expmsg').textContent='Select the text and copy it.'; } };
+document.getElementById('copy2').onclick=async()=>{ const ta=document.getElementById('exportta'); try{ await navigator.clipboard.writeText(ta.value); document.getElementById('expmsg').textContent='Copied.'; }catch(e){ ta.select(); } };
+document.getElementById('closeExp').onclick=()=>document.getElementById('exportbox').classList.remove('show');
+render();
+</script>
